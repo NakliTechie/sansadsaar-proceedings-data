@@ -4,21 +4,21 @@
   "r2_origin": null,
   "schema": 2,
   "totals": {
-    "records_with_text": 121642,
-    "shards": 1576,
+    "records_with_text": 122036,
+    "shards": 1578,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 1490046,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 121642,
-    "txt_files_removed": 0
+    "txt_files_removed": 394
   },
   "shard_stride": 250,
   "shards": [
     {
       "file": "texts-ls-LS16-S10-0000.json",
-      "count": 244,
-      "bytes": 1070115
+      "count": 246,
+      "bytes": 1075664
     },
     {
       "file": "texts-ls-LS16-S10-0001.json",
@@ -761,9 +761,19 @@
       "bytes": 334147
     },
     {
+      "file": "texts-ls-LS16-S9-0007.json",
+      "count": 61,
+      "bytes": 258662
+    },
+    {
+      "file": "texts-ls-LS16-S9-0008.json",
+      "count": 228,
+      "bytes": 859868
+    },
+    {
       "file": "texts-ls-LS16-S9-0009.json",
-      "count": 146,
-      "bytes": 566138
+      "count": 249,
+      "bytes": 982997
     },
     {
       "file": "texts-ls-LS16-S9-0010.json",
