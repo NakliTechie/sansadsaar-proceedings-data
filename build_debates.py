@@ -43,7 +43,7 @@ sys.path.insert(0, str(ROOT))
 
 from parliamentwatch_text_shards import (  # noqa: E402
     write_text_shards, consolidate_markers, load_markers, write_json_idempotent,
-    shard_group, SEARCH_SHARD_STRIDE, bucket_for,
+    shard_group, SEARCH_SHARD_STRIDE, bucket_for, load_bundled_ids,
 )
 
 from debates.common import RateLimited
@@ -628,7 +628,7 @@ def extract_missing_bodies(reports: dict[str, list[dict]], *, deadline: float) -
         try:
             with open(texts_meta_path, "r", encoding="utf-8") as f:
                 texts_meta = json.load(f)
-            bundled_ids = set((texts_meta.get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError) as e:
             print(f"  ! couldn't read texts-meta.json — proceeding without shard skip ({e})")
 
@@ -825,8 +825,7 @@ def compute_audit(reports: dict[str, list[dict]]) -> dict:
     texts_meta_path = DOCS / "texts-meta.json"
     if texts_meta_path.exists():
         try:
-            with open(texts_meta_path, "r", encoding="utf-8") as f:
-                bundled_ids = set((json.load(f).get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError):
             pass
     markers = load_markers(DOCS)
@@ -1149,7 +1148,7 @@ def extract_missing_rs_pdfs(reports: dict[str, list[dict]], *, deadline: float) 
         try:
             with open(texts_meta_path, "r", encoding="utf-8") as f:
                 texts_meta = json.load(f)
-            bundled_ids = set((texts_meta.get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError) as e:
             print(f"  ! couldn't read texts-meta.json — proceeding without shard skip ({e})")
 

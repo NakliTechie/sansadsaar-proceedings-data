@@ -48,7 +48,7 @@ sys.path.insert(0, str(ROOT))
 
 from parliamentwatch_text_shards import (  # noqa: E402
     write_text_shards, consolidate_markers, load_markers, write_json_idempotent,
-    shard_group, SEARCH_SHARD_STRIDE, bucket_for,
+    shard_group, SEARCH_SHARD_STRIDE, bucket_for, load_bundled_ids,
 )
 
 from questions.common import RateLimited
@@ -619,7 +619,7 @@ def extract_missing_bodies(reports: dict[str, list[dict]], *, deadline: float) -
                 "budget_hit": False, "skipped_due_to_cooldown": True,
                 "candidates_total": 0}
 
-    # Bundled-records skip: texts-meta.json's record_to_shard map is the
+    # Bundled-records skip: the text shards are the
     # source of truth post-bundling. LS composite key matches the build
     # adapter: `ls|<file_id>`.
     bundled_ids: set = set()
@@ -628,7 +628,7 @@ def extract_missing_bodies(reports: dict[str, list[dict]], *, deadline: float) -
         try:
             with open(texts_meta_path, "r", encoding="utf-8") as f:
                 texts_meta = json.load(f)
-            bundled_ids = set((texts_meta.get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError) as e:
             print(f"  ! couldn't read texts-meta.json — proceeding without shard skip ({e})")
 
@@ -768,7 +768,7 @@ def extract_missing_rs_bodies(reports: dict[str, list[dict]], *, deadline: float
         try:
             with open(texts_meta_path, "r", encoding="utf-8") as f:
                 texts_meta = json.load(f)
-            bundled_ids = set((texts_meta.get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError):
             pass
 
@@ -947,7 +947,7 @@ def compute_audit(reports: dict[str, list[dict]]) -> dict:
         try:
             with open(texts_meta_path, "r", encoding="utf-8") as f:
                 texts_meta = json.load(f)
-            bundled_ids = set((texts_meta.get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError):
             pass
     markers = load_markers(DOCS)
@@ -1486,7 +1486,7 @@ def phase_derive() -> int:
     # Consolidate per-record marker sidecars into markers.json. Questions
     # nested layout: text/ls/<fid>.<suffix>, text/rs/<fid>.<suffix>.
     # Composite id == "<house>|<fid>".
-    bundled_ids = set((text_meta.get("record_to_shard") or {}).keys())
+    bundled_ids = load_bundled_ids(DOCS)
     marker_stats = consolidate_markers(
         DOCS, TEXT_DIR,
         composite_id_from_path=lambda p: f"{p.parent.name}|{p.stem}",

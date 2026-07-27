@@ -161,6 +161,59 @@ def shard_filename(key: str, stride: int = DEFAULT_SHARD_STRIDE) -> str:
     return f"texts-{shard_group(key, stride)}.json"
 
 
+_BUNDLED_IDS_CACHE: dict = {}
+
+
+def load_bundled_ids(corpus_docs_dir: Path) -> set:
+    """Composite ids currently held in the text shards.
+
+    Schema 2 has no `record_to_shard` map — it was 3.5 MB, rewritten every
+    run and downloaded by every app session, so it was removed on
+    2026-07-27. Membership therefore comes from the shards themselves.
+
+    That removal silently broke nine call sites across the two builders that
+    did `set(meta["record_to_shard"].keys())` and got an empty set on a
+    schema-2 manifest. The audit read it (every record became
+    "never_attempted"), and — far worse — so did the extract phase's
+    "already bundled, skip it" check, which would have re-downloaded PDFs
+    for 127,319 records that already had text. Caught before a scheduled run
+    fired; the failure mode was silent because an absent key just yields {}.
+
+    Memoized per (dir, mtime of texts-meta) so a run pays the read once.
+    Schema-1 manifests still take the cheap map path.
+    """
+    corpus_docs_dir = Path(corpus_docs_dir)
+    meta_path = corpus_docs_dir / _meta_filename()
+    if not meta_path.exists():
+        return set()
+    try:
+        cache_key = (str(corpus_docs_dir), meta_path.stat().st_mtime_ns)
+    except OSError:
+        return set()
+    if cache_key in _BUNDLED_IDS_CACHE:
+        return _BUNDLED_IDS_CACHE[cache_key]
+    ids: set = set()
+    try:
+        meta = json.loads(meta_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return set()
+    legacy = meta.get("record_to_shard")
+    if legacy:
+        ids = set(legacy.keys())
+    else:
+        for entry in meta.get("shards", []):
+            sp = corpus_docs_dir / entry.get("file", "")
+            if not sp.exists():
+                continue
+            try:
+                with open(sp, "r", encoding="utf-8") as f:
+                    ids.update((json.load(f).get("records") or {}).keys())
+            except (OSError, json.JSONDecodeError):
+                continue
+    _BUNDLED_IDS_CACHE[cache_key] = ids
+    return ids
+
+
 def write_text_shards(
     corpus_docs_dir: Path,
     items: Iterable[tuple[str, Path]],
