@@ -4,14 +4,14 @@
   "r2_origin": null,
   "schema": 2,
   "totals": {
-    "records_with_text": 122449,
-    "shards": 1580,
+    "records_with_text": 122971,
+    "shards": 1594,
     "r2_fallback": 0,
-    "total_text_bytes": 2248005,
+    "total_text_bytes": 5094087,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 122036,
-    "txt_files_removed": 413
+    "from_existing_shards": 122449,
+    "txt_files_removed": 522
   },
   "shard_stride": 250,
   "shards": [
@@ -2559,6 +2559,21 @@
       "file": "texts-ls-LS18-S7-0025.json",
       "count": 191,
       "bytes": 1118909
+    },
+    {
+      "file": "texts-ls-LS18-S8-0000.json",
+      "count": 120,
+      "bytes": 1316571
+    },
+    {
+      "file": "texts-ls-LS18-S8-0004.json",
+      "count": 249,
+      "bytes": 1520969
+    },
+    {
+      "file": "texts-ls-LS18-S8-0005.json",
+      "count": 131,
+      "bytes": 844846
     },
     {
       "file": "texts-rs-RS212-2007-12-05-0000.json",
@@ -7914,6 +7929,61 @@
       "file": "texts-rs-RS270-2026-04-02-0000.json",
       "count": 2,
       "bytes": 137284
+    },
+    {
+      "file": "texts-rs-RS271-2026-07-20-0000.json",
+      "count": 2,
+      "bytes": 140466
+    },
+    {
+      "file": "texts-rs-RS271-2026-07-21-0000.json",
+      "count": 2,
+      "bytes": 139414
+    },
+    {
+      "file": "texts-rs-RS271-2026-07-22-0000.json",
+      "count": 2,
+      "bytes": 135882
+    },
+    {
+      "file": "texts-rs-RS271-2026-07-23-0000.json",
+      "count": 2,
+      "bytes": 135708
+    },
+    {
+      "file": "texts-rs-RS271-2026-07-24-0000.json",
+      "count": 2,
+      "bytes": 149052
+    },
+    {
+      "file": "texts-rs-RS271-2026-07-27-0000.json",
+      "count": 2,
+      "bytes": 143463
+    },
+    {
+      "file": "texts-rs-RS271-2026-07-28-0000.json",
+      "count": 2,
+      "bytes": 143318
+    },
+    {
+      "file": "texts-rs-RS271-2026-07-29-0000.json",
+      "count": 2,
+      "bytes": 140616
+    },
+    {
+      "file": "texts-rs-RS271-2026-07-30-0000.json",
+      "count": 2,
+      "bytes": 140341
+    },
+    {
+      "file": "texts-rs-RS271-2026-07-31-0000.json",
+      "count": 2,
+      "bytes": 141840
+    },
+    {
+      "file": "texts-rs-RS271-2026-08-03-0000.json",
+      "count": 2,
+      "bytes": 142789
     }
   ]
 }
