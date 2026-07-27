@@ -48,7 +48,7 @@ sys.path.insert(0, str(ROOT))
 
 from parliamentwatch_text_shards import (  # noqa: E402
     write_text_shards, consolidate_markers, load_markers, write_json_idempotent,
-    shard_group, SEARCH_SHARD_STRIDE, bucket_for,
+    shard_group, SEARCH_SHARD_STRIDE, bucket_for, load_bundled_ids,
 )
 
 from questions.common import RateLimited
@@ -619,7 +619,7 @@ def extract_missing_bodies(reports: dict[str, list[dict]], *, deadline: float) -
                 "budget_hit": False, "skipped_due_to_cooldown": True,
                 "candidates_total": 0}
 
-    # Bundled-records skip: texts-meta.json's record_to_shard map is the
+    # Bundled-records skip: the text shards are the
     # source of truth post-bundling. LS composite key matches the build
     # adapter: `ls|<file_id>`.
     bundled_ids: set = set()
@@ -628,7 +628,7 @@ def extract_missing_bodies(reports: dict[str, list[dict]], *, deadline: float) -
         try:
             with open(texts_meta_path, "r", encoding="utf-8") as f:
                 texts_meta = json.load(f)
-            bundled_ids = set((texts_meta.get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError) as e:
             print(f"  ! couldn't read texts-meta.json — proceeding without shard skip ({e})")
 
@@ -768,7 +768,7 @@ def extract_missing_rs_bodies(reports: dict[str, list[dict]], *, deadline: float
         try:
             with open(texts_meta_path, "r", encoding="utf-8") as f:
                 texts_meta = json.load(f)
-            bundled_ids = set((texts_meta.get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError):
             pass
 
@@ -947,7 +947,7 @@ def compute_audit(reports: dict[str, list[dict]]) -> dict:
         try:
             with open(texts_meta_path, "r", encoding="utf-8") as f:
                 texts_meta = json.load(f)
-            bundled_ids = set((texts_meta.get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError):
             pass
     markers = load_markers(DOCS)
@@ -1411,6 +1411,41 @@ def phase_extract() -> int:
     return 0 if not rate_limited else 1
 
 
+def _derive_would_be_destructive() -> bool:
+    """True when a derive right now would rebuild manifest/audit from nothing.
+
+    phase_derive scans docs/<corpus>/text/*.txt. That directory is gitignored
+    and write_text_shards deletes it after bundling, so a derive with an empty
+    scan produces empty manifest/audit and overwrites committed data with
+    zeros. Observed 2026-07-27: questions manifest 40,443 -> 47 bytes, debates
+    audit with_text 52,251 -> 0.
+
+    This must SKIP, not abort. An extract run that finds nothing to do also
+    leaves text/ empty, and that is a completely normal steady state - debates
+    LS is already 91% extracted and RS 99.9%. Aborting would turn "nothing new
+    today" into a red build on every cycle once backfill completes.
+
+    Set ALLOW_EMPTY_DERIVE=1 to force the rebuild anyway.
+    """
+    if os.environ.get("ALLOW_EMPTY_DERIVE") == "1":
+        return False
+    if TEXT_DIR.exists() and any(TEXT_DIR.rglob("*.txt")):
+        return False
+    meta_path = DOCS / "texts-meta.json"
+    if not meta_path.exists():
+        return False
+    try:
+        bundled = json.loads(meta_path.read_text()).get("totals", {}).get("records_with_text", 0)
+    except (OSError, json.JSONDecodeError):
+        return False
+    if bundled > 0:
+        print(f"  [derive] text/ is empty but texts-meta.json reports {bundled} bundled "
+              f"records — preserving committed manifest/audit instead of rebuilding "
+              f"them from an empty scan.")
+        return True
+    return False
+
+
 def phase_derive() -> int:
     """Derived files: manifest, audit, search bundle, search index, +
     re-emit the bundled text shards via parliamentwatch_text_shards.
@@ -1421,9 +1456,12 @@ def phase_derive() -> int:
     reports = load_existing_reports()
     print(f"  reports loaded: " + ", ".join(f"{h}={len(reports.get(h, []))}" for h in HOUSES))
 
-    manifest = build_manifest()
-    if not write_json_idempotent(MANIFEST_JSON, manifest):
-        print("  [skip] manifest.json unchanged")
+    if _derive_would_be_destructive():
+        print("  [skip] manifest.json preserved (empty text/ scan on a bundled corpus)")
+    else:
+        manifest = build_manifest()
+        if not write_json_idempotent(MANIFEST_JSON, manifest):
+            print("  [skip] manifest.json unchanged")
 
     audit = compute_audit(reports)
     if not write_json_idempotent(AUDIT_JSON, audit):
@@ -1448,7 +1486,7 @@ def phase_derive() -> int:
     # Consolidate per-record marker sidecars into markers.json. Questions
     # nested layout: text/ls/<fid>.<suffix>, text/rs/<fid>.<suffix>.
     # Composite id == "<house>|<fid>".
-    bundled_ids = set((text_meta.get("record_to_shard") or {}).keys())
+    bundled_ids = load_bundled_ids(DOCS)
     marker_stats = consolidate_markers(
         DOCS, TEXT_DIR,
         composite_id_from_path=lambda p: f"{p.parent.name}|{p.stem}",

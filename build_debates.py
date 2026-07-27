@@ -43,7 +43,7 @@ sys.path.insert(0, str(ROOT))
 
 from parliamentwatch_text_shards import (  # noqa: E402
     write_text_shards, consolidate_markers, load_markers, write_json_idempotent,
-    shard_group, SEARCH_SHARD_STRIDE, bucket_for,
+    shard_group, SEARCH_SHARD_STRIDE, bucket_for, load_bundled_ids,
 )
 
 from debates.common import RateLimited
@@ -101,6 +101,14 @@ HOUSES = ["ls", "rs"]
 # ~100-500 ms each).
 MAX_EXTRACTIONS_PER_RUN = int(os.environ.get("MAX_EXTRACTIONS_PER_RUN", "50"))
 MAX_RUN_SECONDS         = int(os.environ.get("MAX_RUN_SECONDS", "900"))    # 15 min
+# Walk budget, separate from the extract budget above. The walk phase had NO
+# deadline at all: with RS_SESSIONS=all it enumerated ~82 sessions until the
+# job's timeout-minutes killed the runner, so the "Commit and push walked
+# records" step never ran and every record the walk discovered was thrown
+# away. 40 of 40 debates-walk runs to 2026-07-27 ended cancelled or failed;
+# not one committed. Default leaves ~20 min of the 60-minute job for the
+# commit + push that actually persists the work.
+WALK_MAX_SECONDS        = int(os.environ.get("WALK_MAX_SECONDS", "2400"))  # 40 min
 EXTRACT_WORKERS         = int(os.environ.get("EXTRACT_WORKERS", "4"))
 
 # RS extraction budget (PDF downloads — heavier; ~2-5 sec each). Default
@@ -398,7 +406,7 @@ def _rs_key_tuple(r: dict) -> tuple[int, str]:
     return (int(r["session"]), str(r["date_iso"]))
 
 
-def walk_rs_and_merge(existing: dict[str, list[dict]]) -> tuple[dict[str, list[dict]], dict, set[int]]:
+def walk_rs_and_merge(existing: dict[str, list[dict]], *, deadline: float | None = None) -> tuple[dict[str, list[dict]], dict, set[int]]:
     """Walk RS sessions, merge into existing reports.json. Returns
     (merged_reports, walk_stats, walked_sessions_set).
     """
@@ -406,8 +414,16 @@ def walk_rs_and_merge(existing: dict[str, list[dict]]) -> tuple[dict[str, list[d
     t0 = time.time()
     fresh_rs: dict[tuple[int, str], dict] = {}
     walked_sessions: set[int] = set()
+    truncated = False
     try:
         for rec in walk_rajyasabha(sessions=RS_SESSIONS, max_sessions=_RS_MAX):
+            # Stop on budget rather than on the job timeout. Partial results
+            # that get committed beat complete results that get killed.
+            if deadline is not None and time.monotonic() > deadline:
+                truncated = True
+                print(f"  [budget] walk deadline reached after {len(walked_sessions)} "
+                      f"sessions — stopping so the commit step can run")
+                break
             walked_sessions.add(rec.session_number)
             key = (rec.session_number, rec.date_iso)
             if key in fresh_rs: continue
@@ -612,7 +628,7 @@ def extract_missing_bodies(reports: dict[str, list[dict]], *, deadline: float) -
         try:
             with open(texts_meta_path, "r", encoding="utf-8") as f:
                 texts_meta = json.load(f)
-            bundled_ids = set((texts_meta.get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError) as e:
             print(f"  ! couldn't read texts-meta.json — proceeding without shard skip ({e})")
 
@@ -809,8 +825,7 @@ def compute_audit(reports: dict[str, list[dict]]) -> dict:
     texts_meta_path = DOCS / "texts-meta.json"
     if texts_meta_path.exists():
         try:
-            with open(texts_meta_path, "r", encoding="utf-8") as f:
-                bundled_ids = set((json.load(f).get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError):
             pass
     markers = load_markers(DOCS)
@@ -1133,7 +1148,7 @@ def extract_missing_rs_pdfs(reports: dict[str, list[dict]], *, deadline: float) 
         try:
             with open(texts_meta_path, "r", encoding="utf-8") as f:
                 texts_meta = json.load(f)
-            bundled_ids = set((texts_meta.get("record_to_shard") or {}).keys())
+            bundled_ids = load_bundled_ids(DOCS)
         except (OSError, json.JSONDecodeError) as e:
             print(f"  ! couldn't read texts-meta.json — proceeding without shard skip ({e})")
 
@@ -1272,6 +1287,8 @@ def phase_walk() -> None:
     """
     existing = load_existing_reports()
     print(f"  existing on disk: {sum(len(existing.get(h, [])) for h in HOUSES)} records")
+    deadline = time.monotonic() + WALK_MAX_SECONDS
+    print(f"  walk budget: {WALK_MAX_SECONDS}s")
 
     print(f"\n[Walk 1/2] Walking LS {LOK_SABHAS}...")
     try:
@@ -1281,9 +1298,12 @@ def phase_walk() -> None:
         return
     save_reports(merged)
 
+    if time.monotonic() > deadline:
+        print("\n[Walk 2/2] SKIPPED — LS walk consumed the budget. RS runs next cycle.")
+        return
     print(f"\n[Walk 2/2] Walking RS sessions...")
     try:
-        merged, rs_walk_stats, _ = walk_rs_and_merge(merged)
+        merged, rs_walk_stats, _ = walk_rs_and_merge(merged, deadline=deadline)
     except RateLimited as rl:
         print(f"  [RATE-LIMITED during RS walk] {rl}")
         return
@@ -1322,13 +1342,57 @@ def phase_extract() -> None:
           f"remaining_after={max(0, rs_stats.get('candidates_total', 0) - len(rs_stats.get('extracted', [])) - len(rs_stats.get('failed', [])))}")
 
 
+def _derive_would_be_destructive() -> bool:
+    """True when a derive right now would rebuild manifest/audit from nothing.
+
+    phase_derive scans docs/<corpus>/text/*.txt. That directory is gitignored
+    and write_text_shards deletes it after bundling, so a derive with an empty
+    scan produces empty manifest/audit and overwrites committed data with
+    zeros. Observed 2026-07-27: questions manifest 40,443 -> 47 bytes, debates
+    audit with_text 52,251 -> 0.
+
+    This must SKIP, not abort. An extract run that finds nothing to do also
+    leaves text/ empty, and that is a completely normal steady state - debates
+    LS is already 91% extracted and RS 99.9%. Aborting would turn "nothing new
+    today" into a red build on every cycle once backfill completes.
+
+    Set ALLOW_EMPTY_DERIVE=1 to force the rebuild anyway.
+    """
+    if os.environ.get("ALLOW_EMPTY_DERIVE") == "1":
+        return False
+    if TEXT_DIR.exists() and any(TEXT_DIR.rglob("*.txt")):
+        return False
+    meta_path = DOCS / "texts-meta.json"
+    if not meta_path.exists():
+        return False
+    try:
+        bundled = json.loads(meta_path.read_text()).get("totals", {}).get("records_with_text", 0)
+    except (OSError, json.JSONDecodeError):
+        return False
+    if bundled > 0:
+        print(f"  [derive] text/ is empty but texts-meta.json reports {bundled} bundled "
+              f"records — preserving committed manifest/audit instead of rebuilding "
+              f"them from an empty scan.")
+        return True
+    return False
+
+
 def phase_derive() -> None:
     reports = load_existing_reports()
     total = sum(len(reports.get(h, [])) for h in HOUSES)
 
     print("\n[Derive 1/4] Building manifest.json...")
-    manifest = build_manifest()
-    if not write_json_idempotent(MANIFEST_JSON, manifest):
+    _preserve = _derive_would_be_destructive()
+    if _preserve:
+        try:
+            manifest = json.loads(MANIFEST_JSON.read_text())
+            print("  [skip] manifest.json preserved (empty text/ scan on a bundled corpus)")
+        except (OSError, json.JSONDecodeError):
+            _preserve = False
+            manifest = build_manifest()
+    else:
+        manifest = build_manifest()
+    if not _preserve and not write_json_idempotent(MANIFEST_JSON, manifest):
         print("  [skip] manifest.json unchanged")
     n_with_text = sum(len(v) for v in manifest["texts"].values())
     print(f"  manifest: {n_with_text} records with extracted text")
