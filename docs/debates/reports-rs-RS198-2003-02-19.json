@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 198,
+      "date": "19/02/2003",
+      "date_iso": "2003-02-19",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/198/F19.02.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 198 · 19/02/2003"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS198-2003-02-19"
+}

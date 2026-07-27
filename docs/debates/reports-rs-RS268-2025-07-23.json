@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 268,
+      "date": "23/07/2025",
+      "date_iso": "2025-07-23",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/268/2372025/23072025.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/268/2372025/20250723.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 268 · 23/07/2025"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS268-2025-07-23"
+}

@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 227,
+      "date_iso": "2012-11-23",
+      "date": "23/11/2012",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/227/20121123_23.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 227 · 23/11/2012 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 227,
+      "date_iso": "2012-11-23",
+      "date": "23/11/2012",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/227/20121123_23.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 227 · 23/11/2012 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS227-2012-11-23"
+}

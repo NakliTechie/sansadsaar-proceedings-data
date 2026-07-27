@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 193,
+      "date": "09/08/2001",
+      "date_iso": "2001-08-09",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/193/F09.08.2001.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 193 · 09/08/2001"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS193-2001-08-09"
+}

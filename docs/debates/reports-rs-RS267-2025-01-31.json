@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 267,
+      "date": "31/01/2025",
+      "date_iso": "2025-01-31",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/267/3112025/31012025.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 267 · 31/01/2025"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS267-2025-01-31"
+}

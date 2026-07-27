@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 242,
+      "date": "03/02/2017",
+      "date_iso": "2017-02-03",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/242/F03.02.2017.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 242 · 03/02/2017"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS242-2017-02-03"
+}

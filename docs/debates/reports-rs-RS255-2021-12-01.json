@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "01/12/2021",
+      "date_iso": "2021-12-01",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/21122021/211221.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/21122021/F21122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/21122021/20211221.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 01/12/2021"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS255-2021-12-01"
+}

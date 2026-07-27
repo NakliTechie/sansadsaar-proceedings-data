@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 266,
+      "date": "17/12/2024",
+      "date_iso": "2024-12-17",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/266/17122024/17122024 Debate.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/266/17122024/20241217.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 266 · 17/12/2024"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS266-2024-12-17"
+}

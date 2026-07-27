@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 205,
+      "date": "28/07/2005",
+      "date_iso": "2005-07-28",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/205/F28.07.2005.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 205 · 28/07/2005"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS205-2005-07-28"
+}

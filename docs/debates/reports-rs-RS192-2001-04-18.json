@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 192,
+      "date": "18/04/2001",
+      "date_iso": "2001-04-18",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/192/F18.04.2001.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 192 · 18/04/2001"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS192-2001-04-18"
+}

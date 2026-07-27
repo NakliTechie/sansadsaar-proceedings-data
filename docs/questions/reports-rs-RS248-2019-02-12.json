@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 248,
+      "date_iso": "2019-02-12",
+      "date": "12/02/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/248/2019212_ES 12.2.19.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 248 · 12/02/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 248,
+      "date_iso": "2019-02-12",
+      "date": "12/02/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/248/2019212_EU 12.2.19.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 248 · 12/02/2019 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS248-2019-02-12"
+}

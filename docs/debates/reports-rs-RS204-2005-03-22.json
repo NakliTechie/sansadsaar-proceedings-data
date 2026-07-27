@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 204,
+      "date": "22/03/2005",
+      "date_iso": "2005-03-22",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/204/F22.03.2005.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 204 · 22/03/2005"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS204-2005-03-22"
+}

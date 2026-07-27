@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 246,
+      "date_iso": "2018-08-08",
+      "date": "08/08/2018",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/246/201888_English S 8.8.18.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 246 · 08/08/2018 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 246,
+      "date_iso": "2018-08-08",
+      "date": "08/08/2018",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/246/201888_English U 8.8.18.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 246 · 08/08/2018 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS246-2018-08-08"
+}

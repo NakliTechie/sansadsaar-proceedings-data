@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 260,
+      "date_iso": "2023-07-28",
+      "date": "28/07/2023",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/260/English_2023728_SQcrc28072023.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 260 · 28/07/2023 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 260,
+      "date_iso": "2023-07-28",
+      "date": "28/07/2023",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/260/English_2023726_UQcrc28072023.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 260 · 28/07/2023 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS260-2023-07-28"
+}

@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 233,
+      "date_iso": "2014-11-27",
+      "date": "27/11/2014",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/233/20141127_27.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 233 · 27/11/2014 · Starred"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS233-2014-11-27"
+}

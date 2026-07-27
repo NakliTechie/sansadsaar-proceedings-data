@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 225,
+      "date": "17/05/2012",
+      "date_iso": "2012-05-17",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/225/F17.05.2012.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 225 · 17/05/2012"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS225-2012-05-17"
+}

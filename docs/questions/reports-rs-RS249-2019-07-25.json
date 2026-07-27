@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 249,
+      "date_iso": "2019-07-25",
+      "date": "25/07/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/249/2019725_UE25072019.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 249 · 25/07/2019 · Unstarred"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS249-2019-07-25"
+}

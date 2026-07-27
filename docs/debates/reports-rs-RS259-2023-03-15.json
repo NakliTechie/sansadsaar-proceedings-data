@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 259,
+      "date": "15/03/2023",
+      "date_iso": "2023-03-15",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/259/1532023/EV15032023.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/259/1532023/15032023.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/259/1532023/20230315.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 259 · 15/03/2023"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS259-2023-03-15"
+}

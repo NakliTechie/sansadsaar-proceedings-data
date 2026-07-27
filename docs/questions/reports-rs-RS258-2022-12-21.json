@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 258,
+      "date_iso": "2022-12-21",
+      "date": "21/12/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/258/English_20221221_SQ21122022English.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 258 · 21/12/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 258,
+      "date_iso": "2022-12-21",
+      "date": "21/12/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/258/English_20221221_English_20221221_UQ21122022English.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 258 · 21/12/2022 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS258-2022-12-21"
+}

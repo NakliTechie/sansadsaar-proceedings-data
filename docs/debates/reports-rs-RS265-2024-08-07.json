@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 265,
+      "date": "07/08/2024",
+      "date_iso": "2024-08-07",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/265/782024/20240807.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/265/782024/20240807.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 265 · 07/08/2024"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS265-2024-08-07"
+}

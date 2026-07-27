@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 195,
+      "date": "26/04/2002",
+      "date_iso": "2002-04-26",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/195/E26.04.2002.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/195/F26.04.2002.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 195 · 26/04/2002"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS195-2002-04-26"
+}

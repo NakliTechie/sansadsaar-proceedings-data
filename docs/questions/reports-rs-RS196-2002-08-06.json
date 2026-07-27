@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 196,
+      "date_iso": "2002-08-06",
+      "date": "06/08/2002",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/196/200286_6.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 196 · 06/08/2002 · Unstarred"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS196-2002-08-06"
+}

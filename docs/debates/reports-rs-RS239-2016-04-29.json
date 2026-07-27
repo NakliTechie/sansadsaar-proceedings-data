@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 239,
+      "date": "29/04/2016",
+      "date_iso": "2016-04-29",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/239/F29.04.2016.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 239 · 29/04/2016"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS239-2016-04-29"
+}

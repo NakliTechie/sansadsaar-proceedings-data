@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 242,
+      "date_iso": "2017-02-07",
+      "date": "07/02/2017",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/242/201727_07.02.2017 SE.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 242 · 07/02/2017 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 242,
+      "date_iso": "2017-02-07",
+      "date": "07/02/2017",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/242/201727_07.02.2017  UE.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 242 · 07/02/2017 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS242-2017-02-07"
+}

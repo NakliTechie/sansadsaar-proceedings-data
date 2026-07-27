@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 194,
+      "date": "03/12/2001",
+      "date_iso": "2001-12-03",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/194/F03.12.2001.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 194 · 03/12/2001"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS194-2001-12-03"
+}

@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 240,
+      "date_iso": "2016-08-01",
+      "date": "01/08/2016",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/240/201681_01.08.2016SE.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 240 · 01/08/2016 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 240,
+      "date_iso": "2016-08-01",
+      "date": "01/08/2016",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/240/201681_01.08.2016UE.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 240 · 01/08/2016 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS240-2016-08-01"
+}

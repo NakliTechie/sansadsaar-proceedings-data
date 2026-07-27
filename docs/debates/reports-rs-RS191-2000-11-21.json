@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 191,
+      "date": "21/11/2000",
+      "date_iso": "2000-11-21",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/191/F21.11.2000.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 191 · 21/11/2000"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS191-2000-11-21"
+}

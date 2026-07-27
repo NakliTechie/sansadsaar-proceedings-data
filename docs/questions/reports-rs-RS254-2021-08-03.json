@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 254,
+      "date_iso": "2021-08-03",
+      "date": "03/08/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/254/English_202183_English_CRCSQ 03082021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 254 · 03/08/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 254,
+      "date_iso": "2021-08-03",
+      "date": "03/08/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/254/English_202183_English_CRCUQ 03082021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 254 · 03/08/2021 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS254-2021-08-03"
+}

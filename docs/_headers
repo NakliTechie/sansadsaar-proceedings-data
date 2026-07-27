@@ -1,0 +1,22 @@
+# CF Workers + Static Assets cache + CORS rules for the proceedings mirror
+# (debates + questions). Mirrors parliamentwatch-data/docs/_headers shape.
+#
+# IMPORTANT: only ONE block sets Access-Control-Allow-Origin. CF Workers
+# + Static Assets merges matching header rules across blocks — if both
+# `/*.json` and `/*` set CORS, the response gets two `Access-Control-
+# Allow-Origin: *` values, which browsers reject as malformed CORS.
+
+# Public CORS for everything served from this mirror.
+/*
+  Access-Control-Allow-Origin: *
+
+# JSON metadata changes on every fetch run. Short edge cache + revalidation
+# means users see fresh data within ~5 minutes of a mirror push.
+/*.json
+  Cache-Control: public, max-age=300, must-revalidate
+
+# Extracted text is immutable once published — long-cache + immutable hint.
+/debates/text/*
+  Cache-Control: public, max-age=31536000, immutable
+/questions/text/*
+  Cache-Control: public, max-age=31536000, immutable

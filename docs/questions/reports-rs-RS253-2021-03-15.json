@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-15",
+      "date": "15/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021315_SQCRCEng150321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 15/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-15",
+      "date": "15/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021315_UQCRCEng150321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 15/03/2021 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS253-2021-03-15"
+}

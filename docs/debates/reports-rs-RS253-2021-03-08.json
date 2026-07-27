@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 253,
+      "date": "08/03/2021",
+      "date_iso": "2021-03-08",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/253/832021/ED08032021.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/253/832021/F08032021(1).pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/253/832021/F108032021.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 253 · 08/03/2021"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS253-2021-03-08"
+}

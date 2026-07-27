@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 230,
+      "date_iso": "2013-12-09",
+      "date": "09/12/2013",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/230/2013129_9.12.13rse.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 230 · 09/12/2013 · Starred"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS230-2013-12-09"
+}

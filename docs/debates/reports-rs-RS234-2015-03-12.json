@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 234,
+      "date": "12/03/2015",
+      "date_iso": "2015-03-12",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/234/F12.03.2015.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 234 · 12/03/2015"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS234-2015-03-12"
+}

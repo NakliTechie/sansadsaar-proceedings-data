@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 263,
+      "date": "06/02/2024",
+      "date_iso": "2024-02-06",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/263/622024/EV06022024(1).pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/263/622024/06022024.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/263/622024/20240206.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 263 · 06/02/2024"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS263-2024-02-06"
+}

@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 214,
+      "date": "19/12/2008",
+      "date_iso": "2008-12-19",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/214/F19.12.2008.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 214 · 19/12/2008"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS214-2008-12-19"
+}

@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 264,
+      "date": "03/07/2024",
+      "date_iso": "2024-07-03",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/264/372024/EV03072024.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/264/372024/03072024.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 264 · 03/07/2024"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS264-2024-07-03"
+}

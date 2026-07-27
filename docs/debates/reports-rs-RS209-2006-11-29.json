@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 209,
+      "date": "29/11/2006",
+      "date_iso": "2006-11-29",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/209/F29.11.2006.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 209 · 29/11/2006"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS209-2006-11-29"
+}

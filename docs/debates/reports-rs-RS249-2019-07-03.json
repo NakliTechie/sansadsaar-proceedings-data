@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 249,
+      "date": "03/07/2019",
+      "date_iso": "2019-07-03",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/249/E03.07.2019.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/249/F03.07.2019.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1WrittenAnswerstoStarredandUnstarredQuestions/249/372019/20190703.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 249 · 03/07/2019"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS249-2019-07-03"
+}

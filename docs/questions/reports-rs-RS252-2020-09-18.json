@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 252,
+      "date_iso": "2020-09-18",
+      "date": "18/09/2020",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/252/2020918_CRCEng18092020.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 252 · 18/09/2020 · Unstarred"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS252-2020-09-18"
+}

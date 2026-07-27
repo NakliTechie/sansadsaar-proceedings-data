@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 213,
+      "date_iso": "2008-02-27",
+      "date": "27/02/2008",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/213/2008227_27.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 213 · 27/02/2008 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 213,
+      "date_iso": "2008-02-27",
+      "date": "27/02/2008",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/213/2008227_27.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 213 · 27/02/2008 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS213-2008-02-27"
+}

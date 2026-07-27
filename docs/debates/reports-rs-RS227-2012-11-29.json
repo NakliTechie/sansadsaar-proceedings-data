@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 227,
+      "date": "29/11/2012",
+      "date_iso": "2012-11-29",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/227/F29.11.2012.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 227 · 29/11/2012"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS227-2012-11-29"
+}

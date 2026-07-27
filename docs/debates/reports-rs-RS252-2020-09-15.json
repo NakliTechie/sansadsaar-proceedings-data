@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 252,
+      "date": "15/09/2020",
+      "date_iso": "2020-09-15",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/252/1592020/ED-15-09-2020.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/252/F15.09.2020.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1WrittenAnswerstoStarredandUnstarredQuestions/252/1592020/20200915.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 252 · 15/09/2020"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS252-2020-09-15"
+}

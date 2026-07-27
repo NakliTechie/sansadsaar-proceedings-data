@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 202,
+      "date": "19/08/2004",
+      "date_iso": "2004-08-19",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/202/F19.08.2004.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 202 · 19/08/2004"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS202-2004-08-19"
+}

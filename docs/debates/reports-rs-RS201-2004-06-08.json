@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 201,
+      "date": "08/06/2004",
+      "date_iso": "2004-06-08",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/201/F08.06.2004.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 201 · 08/06/2004"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS201-2004-06-08"
+}

@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 251,
+      "date": "31/01/2020",
+      "date_iso": "2020-01-31",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/251/3112020/ED-31-01-2020.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/251/F31.01.2020.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1WrittenAnswerstoStarredandUnstarredQuestions/251/3112020/20200131.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 251 · 31/01/2020"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS251-2020-01-31"
+}

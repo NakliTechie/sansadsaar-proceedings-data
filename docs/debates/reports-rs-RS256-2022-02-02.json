@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 256,
+      "date": "02/02/2022",
+      "date_iso": "2022-02-02",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/256/222022/EV 02022022.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/256/222022/F02022022(1).pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/256/222022/20220202.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 256 · 02/02/2022"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS256-2022-02-02"
+}

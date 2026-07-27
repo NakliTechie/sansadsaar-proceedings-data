@@ -1,0 +1,90 @@
+name: Debates walk and publish
+
+# Every-6h walk of LS debate-search (LS-14..18) PLUS RS daily-proceedings
+# session/date enumeration.
+#
+# Split off from the 2-hourly extract+derive workflow so that workflow can
+# devote its entire 900s budget to body extraction. Walks are bounded by
+# walk-early-stop (most buckets terminate after page 1) — total cost is
+# ~5-10 min per run. At 4×/day, this stays well within the politeness
+# budget and discovers any new records within 6 hours.
+#
+# Fires at :41 every 6 hours (00:41, 06:41, 12:41, 18:41 UTC) — offset
+# from extract (:23 every 2h), questions walk (:17 every 6h), and the
+# parliamentwatch corpora (LC :01 / FC :01) to avoid runner contention.
+
+on:
+  schedule:
+    - cron: '41 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      lok_sabhas:
+        description: 'LS terms to walk (CSV, default = LS-14..18 to match DRSC depth)'
+        default: '14,15,16,17,18'
+      rs_sessions:
+        description: 'RS sessions to walk (CSV, "all" for full backfill, default = 2 most recent)'
+        default: ''
+      max_run_seconds:
+        description: 'Hard wall-clock cap (seconds)'
+        default: '1500'
+
+permissions:
+  contents: write
+
+concurrency:
+  # Share the debates concurrency group with debates.yml — a walk and
+  # an extract must not race on the same checkout.
+  group: debates
+  cancel-in-progress: false
+
+jobs:
+  walk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Configure git identity for in-flight checkpoint commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Walk + merge primary records
+        env:
+          BUILD_PHASE:    'walk'
+          LOK_SABHAS:     ${{ inputs.lok_sabhas   || '14,15,16,17,18' }}
+          # TEMP backfill mode: default 'all' walks every RS session each
+          # walk run to clear the RS backlog. Revert to '' for steady-state
+          # (recent-2 only) once docs/debates/audit.json reports rs_records
+          # plateaued.
+          RS_SESSIONS:    ${{ inputs.rs_sessions  || 'all' }}
+          MAX_RUN_SECONDS: ${{ inputs.max_run_seconds || '1500' }}
+          JITTER_MIN_MS:  '250'
+          JITTER_MAX_MS:  '500'
+        run: python build_debates.py
+
+      - name: Commit and push walked records
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/debates/
+          git diff --cached --quiet && echo "no walk changes" && exit 0
+          git commit -m "Auto-walk debates primary data [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "attempt $attempt failed; retrying"
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          echo "exceeded 5 push attempts; giving up — next walk run will catch up"
+          exit 1

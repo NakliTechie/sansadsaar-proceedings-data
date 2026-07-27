@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 217,
+      "date_iso": "2009-08-03",
+      "date": "03/08/2009",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/217/200983_3.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 217 · 03/08/2009 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 217,
+      "date_iso": "2009-08-03",
+      "date": "03/08/2009",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/217/200983_3.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 217 · 03/08/2009 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS217-2009-08-03"
+}

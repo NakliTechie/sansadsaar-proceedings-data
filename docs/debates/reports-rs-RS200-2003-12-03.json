@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "03/12/2003",
+      "date_iso": "2003-12-03",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F03.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 03/12/2003"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS200-2003-12-03"
+}

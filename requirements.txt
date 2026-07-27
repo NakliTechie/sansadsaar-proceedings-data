@@ -1,0 +1,11 @@
+requests>=2.31.0
+pypdf>=4.0.0
+# OCR slow-lane (cag-ocr.yml) — tesseract is the system dep, installed via
+# apt in the workflow; pytesseract is its Python wrapper, pdf2image renders
+# PDF pages to images via poppler (also apt-installed in the workflow).
+# Local dev needs `brew install tesseract poppler` on macOS.
+pytesseract>=0.3.10
+pdf2image>=1.17.0
+# build_netas.py uses RapidFuzz for the free-text member-name resolver
+# (matching debate/question speaker strings against the sansad.in roster).
+rapidfuzz>=3.0.0

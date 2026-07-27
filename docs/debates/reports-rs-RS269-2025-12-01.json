@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 269,
+      "date": "01/12/2025",
+      "date_iso": "2025-12-01",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/269/1122025/01122025.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/269/1122025/20251201.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 269 · 01/12/2025"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS269-2025-12-01"
+}

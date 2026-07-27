@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 233,
+      "date": "05/12/2014",
+      "date_iso": "2014-12-05",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/233/F05.12.2014.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 233 · 05/12/2014"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS233-2014-12-05"
+}

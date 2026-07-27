@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 257,
+      "date": "27/07/2022",
+      "date_iso": "2022-07-27",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/257/2772022/EV27072022.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/257/2772022/F27072022.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/257/2772022/20220727.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 257 · 27/07/2022"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS257-2022-07-27"
+}

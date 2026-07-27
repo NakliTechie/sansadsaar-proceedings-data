@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 258,
+      "date": "07/12/2022",
+      "date_iso": "2022-12-07",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/258/7122022/EV7122022.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/258/7122022/F07122022.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/258/7122022/20221207.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 258 · 07/12/2022"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS258-2022-12-07"
+}

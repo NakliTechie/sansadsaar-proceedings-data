@@ -1,0 +1,117 @@
+name: Debates extract and derive
+
+# Every-2h extract-then-derive in a SINGLE job. The extract phase pulls
+# LS debate-details bodies (HTML) and RS daily-proceedings PDFs, producing
+# transient text/<house>/<fid>.txt files (gitignored). The derive phase,
+# running in the same job before the runner is destroyed, bundles those
+# into committed texts-NN.json shards — otherwise the .txt files vanish
+# between workflows and no new bodies ever land. Walks are owned by
+# debates-walk.yml (every 6h) so this 2h-cadence run can devote its full
+# 900s budget to extract.
+#
+# Cadence: 200 records per burst × 12×/day = 2,400/day for LS bodies
+# during backfill. RS: 25 PDFs/run × 12/day = 300/day for RS sitting-day
+# bundles. Within Politeness policy: per-burst ≤50 in steady state
+# (currently raised for backfill — see TEMP comments below), ≥1-hour gaps.
+#
+# Off-cluster from LC (02/06/10/14/18/22) and FC (01/05/09/13/17/21).
+# Debates fires at :23 every 2 hours starting at 00:23 UTC.
+
+on:
+  schedule:
+    - cron: '23 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      lok_sabhas:
+        description: 'LS terms (CSV, default = LS-14..18). Affects walk only — extract uses already-walked records.'
+        default: '14,15,16,17,18'
+      max_extractions:
+        description: 'Max LS records to extract this run. Keep ≤50 per Politeness policy in steady state.'
+        default: '200'
+      max_rs_extractions:
+        description: 'Max RS PDFs to extract this run. Keep ≤25 per Politeness policy (PDFs are heavier than LS HTML).'
+        default: '25'
+      max_run_seconds:
+        description: 'Hard wall-clock cap (seconds)'
+        default: '900'
+
+permissions:
+  contents: write
+
+concurrency:
+  # Don't let two debates runs overlap. Coordinated with debates-walk via
+  # the same group so walk and extract don't race on the same checkout.
+  group: debates
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Configure git identity for in-flight checkpoint commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Extract bodies from existing records
+        # phase_extract uses the report shards committed by debates-walk.yml.
+        # Produces transient text/<house>/<fid>.txt files used by the derive
+        # step below before the runner is destroyed.
+        env:
+          BUILD_PHASE:                'extract'
+          LOK_SABHAS:                 ${{ inputs.lok_sabhas         || '14,15,16,17,18' }}
+          # TEMP backfill mode: cap raised 50→200 to clear the LS bodies
+          # backlog (~57K). ~20 MB/burst, ~2 min wall time, well under the
+          # 900s budget. Revert to '50' once ls_with_text in
+          # docs/debates/audit.json approaches ls_records.
+          MAX_EXTRACTIONS_PER_RUN:    ${{ inputs.max_extractions    || '200' }}
+          MAX_RS_EXTRACTIONS_PER_RUN: ${{ inputs.max_rs_extractions || '25' }}
+          MAX_RUN_SECONDS:            ${{ inputs.max_run_seconds    || '900' }}
+          EXTRACT_WORKERS:            '4'
+          JITTER_MIN_MS:              '250'
+          JITTER_MAX_MS:              '500'
+        run: python build_debates.py
+
+      - name: Derive (bundle text shards + manifest + audit + search)
+        # Must run in the SAME job as extract — text/ is gitignored, so the
+        # .txt files extract just produced live only on this runner. This is
+        # the only derive path: the standalone debates-derive.yml backstop was
+        # retired 2026-05-28 (it ran without text/ files, so it could only
+        # rebuild empty/partial derived artifacts — and left manifest.json
+        # unstaged, breaking its own push-rebase loop). meta/audit stay current
+        # because this extract+derive runs every 2h vs the 6h walk cadence.
+        env:
+          BUILD_PHASE: 'derive'
+        run: python build_debates.py
+
+      - name: Commit and push (primary + derived)
+        # `docs/debates/` covers reports shards, manifest, markers, meta,
+        # audit, texts-NN.json, search-bundle, search-index. Gitignored
+        # `pdfs/` and `text/` won't be picked up by `git add`.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/debates/
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "Auto-extract+derive debates [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "attempt $attempt failed; retrying"
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          echo "exceeded 5 push attempts; giving up — next run will catch up"
+          exit 1

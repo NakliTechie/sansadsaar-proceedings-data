@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 195,
+      "date_iso": "2002-03-01",
+      "date": "01/03/2002",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/195/200231_1.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 195 · 01/03/2002 · Unstarred"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS195-2002-03-01"
+}

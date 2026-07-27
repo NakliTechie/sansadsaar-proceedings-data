@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 263,
+      "date": "10/02/2024",
+      "date_iso": "2024-02-10",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/263/1022024/EV10022024.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/263/1022024/10022024.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 263 · 10/02/2024"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS263-2024-02-10"
+}

@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 250,
+      "date": "19/11/2019",
+      "date_iso": "2019-11-19",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/250/19112019/EV19112019.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/250/19112019/F19112019.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1WrittenAnswerstoStarredandUnstarredQuestions/250/19112019/19112019.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 250 · 19/11/2019"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS250-2019-11-19"
+}

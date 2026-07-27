@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 260,
+      "date": "31/07/2023",
+      "date_iso": "2023-07-31",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/260/3172023/EV31072023.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/260/3172023/31072023.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/260/3172023/20230731.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 260 · 31/07/2023"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS260-2023-07-31"
+}

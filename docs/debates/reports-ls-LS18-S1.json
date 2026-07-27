@@ -1,0 +1,3263 @@
+{
+  "records": [
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 471,
+      "title": "Regarding issues concerning Southern States particularly Kerala",
+      "debate_date": "31/07/2024",
+      "debate_type": 52,
+      "debate_type_desc": "SUBMISSIONS BY MEMBERS",
+      "members": [
+        {
+          "mp_name": "Shri Tejasvi Surya",
+          "mp_code": 5182,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri K C Venugopal",
+          "mp_code": 4567,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Dilip Saikia",
+          "mp_code": 5107,
+          "mp_part_code": 4
+        }
+      ],
+      "keywords": [
+        "Disasters",
+        "Kerala",
+        "Landslides",
+        "Natural calamity"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 99,
+      "title": "Papers laid on the Table of the House by Ministers/Members",
+      "debate_date": "02/07/2024",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Prataprao Ganpatrao Jadhav",
+          "mp_code": 4373,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Jitin Prasada",
+          "mp_code": 4065,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Ramdas Athawale",
+          "mp_code": 2248,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Ram Nath Thakur",
+          "mp_code": 2268,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Prof. S  P Singh Baghel",
+          "mp_code": 31,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Km. Shobha Karandlaje",
+          "mp_code": 4616,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri B.L. Verma",
+          "mp_code": 2491,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Ajay Tamta",
+          "mp_code": 4651,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Kamlesh Paswan",
+          "mp_code": 4303,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Ravneet Singh",
+          "mp_code": 2639,
+          "mp_part_code": 12
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 98,
+      "title": "Papers Laid on the Table of the House by Ministers/Members-contd.",
+      "debate_date": "02/07/2024",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Pankaj Choudhary",
+          "mp_code": 3479,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 97,
+      "title": "Motion of Thanks on the President`s Address (Adopted)-Contd.. Concluded.",
+      "debate_date": "02/07/2024",
+      "debate_type": 26,
+      "debate_type_desc": "MOTION OF THANKS ON THE PRESIDENT'S ADDRESS",
+      "members": [
+        {
+          "mp_name": "Shri Akhilesh Yadav",
+          "mp_code": 564,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Santosh Pandey",
+          "mp_code": 5015,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Kalyan Banerjee",
+          "mp_code": 4498,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Bhupender Yadav",
+          "mp_code": 5541,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Saumitra Khan",
+          "mp_code": 4875,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Tatkare Sunil Dattatrey",
+          "mp_code": 5199,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri K C Venugopal",
+          "mp_code": 4567,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Shri Anurag Singh Thakur",
+          "mp_code": 4249,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Dilip Saikia",
+          "mp_code": 5107,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Smt. Harsimrat Kaur Badal",
+          "mp_code": 4433,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri Ajay Bhatt",
+          "mp_code": 5003,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Shri Chavda Vinod Lakhamshi",
+          "mp_code": 4741,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Dr. Alok Kumar Suman",
+          "mp_code": 5211,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Shri Ummeda Ram Beniwal",
+          "mp_code": 5762,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Smt. Geniben Nagaji Thakor",
+          "mp_code": 5744,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Shri Virendra Singh",
+          "mp_code": 5651,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Shri Naresh Ganpat Mhaske",
+          "mp_code": 5693,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Shri Dileshwar Kamait",
+          "mp_code": 5222,
+          "mp_part_code": 24
+        },
+        {
+          "mp_name": "Smt. Manju Sharma",
+          "mp_code": 5619,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Shri Saptagiri Sankar Ulaka",
+          "mp_code": 4996,
+          "mp_part_code": 26
+        },
+        {
+          "mp_name": "Dr. Dharamvira Gandhi",
+          "mp_code": 4676,
+          "mp_part_code": 27
+        },
+        {
+          "mp_name": "Smt. Smita Uday Wagh",
+          "mp_code": 5723,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Dr. Mohammad Jawed",
+          "mp_code": 5216,
+          "mp_part_code": 29
+        },
+        {
+          "mp_name": "Shri Miteshbhai Rameshbhai Patel",
+          "mp_code": 5018,
+          "mp_part_code": 30
+        },
+        {
+          "mp_name": "Shri Jaswantsinh Sumanbhai Bhabhor",
+          "mp_code": 4857,
+          "mp_part_code": 31
+        },
+        {
+          "mp_name": "Dr. Lata Wankhede",
+          "mp_code": 5692,
+          "mp_part_code": 32
+        },
+        {
+          "mp_name": "Adv Dean Kuriakose",
+          "mp_code": 5126,
+          "mp_part_code": 33
+        },
+        {
+          "mp_name": "Shri Kaushalendra Kumar",
+          "mp_code": 4467,
+          "mp_part_code": 34
+        },
+        {
+          "mp_name": "Shri V K Sreekandan",
+          "mp_code": 5128,
+          "mp_part_code": 35
+        },
+        {
+          "mp_name": "Dr. Rabindra Narayan Behera",
+          "mp_code": 5595,
+          "mp_part_code": 36
+        },
+        {
+          "mp_name": "Smt. Anita Subhadarshini",
+          "mp_code": 5597,
+          "mp_part_code": 37
+        },
+        {
+          "mp_name": "Dr. Pradeep Kumar Panigrahy",
+          "mp_code": 5708,
+          "mp_part_code": 38
+        },
+        {
+          "mp_name": "Smt. Sangeeta Kumari Singh Deo",
+          "mp_code": 426,
+          "mp_part_code": 39
+        },
+        {
+          "mp_name": "Shri Sukanta Kumar Panigrahi",
+          "mp_code": 5615,
+          "mp_part_code": 40
+        },
+        {
+          "mp_name": "Smt. Anita Nagarsingh Chouhan",
+          "mp_code": 5663,
+          "mp_part_code": 41
+        },
+        {
+          "mp_name": "Shri Harendra Singh Malik",
+          "mp_code": 5631,
+          "mp_part_code": 42
+        },
+        {
+          "mp_name": "Shri Sanatan Pandey",
+          "mp_code": 5580,
+          "mp_part_code": 43
+        },
+        {
+          "mp_name": "Smt. Supriya Sule",
+          "mp_code": 4392,
+          "mp_part_code": 44
+        },
+        {
+          "mp_name": "Dr. T Sumathy Alias Thamizhachi Thangapandian",
+          "mp_code": 4961,
+          "mp_part_code": 45
+        },
+        {
+          "mp_name": "Shri Lalji Verma",
+          "mp_code": 5794,
+          "mp_part_code": 46
+        },
+        {
+          "mp_name": "Shri P P Chaudhary",
+          "mp_code": 4597,
+          "mp_part_code": 47
+        },
+        {
+          "mp_name": "Shri Asaduddin Owaisi",
+          "mp_code": 4091,
+          "mp_part_code": 48
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 49
+        },
+        {
+          "mp_name": "Dr. Indra Hang Subba",
+          "mp_code": 5111,
+          "mp_part_code": 52
+        },
+        {
+          "mp_name": "Smt. Lovely Anand",
+          "mp_code": 3464,
+          "mp_part_code": 53
+        },
+        {
+          "mp_name": "Adv. Chandra Shekhar",
+          "mp_code": 5647,
+          "mp_part_code": 54
+        },
+        {
+          "mp_name": "Smt. Aparajita Sarangi",
+          "mp_code": 4988,
+          "mp_part_code": 55
+        },
+        {
+          "mp_name": "Shri Anand Bhadauria",
+          "mp_code": 5815,
+          "mp_part_code": 56
+        },
+        {
+          "mp_name": "Shri Subbarayan K",
+          "mp_code": 4086,
+          "mp_part_code": 57
+        },
+        {
+          "mp_name": "Dr. Thirumaavalavan Tholkappiyan",
+          "mp_code": 4549,
+          "mp_part_code": 58
+        },
+        {
+          "mp_name": "Smt. Nirmala Sitharaman",
+          "mp_code": 2288,
+          "mp_part_code": 59
+        },
+        {
+          "mp_name": "Dr. Byreddy Shabari",
+          "mp_code": 5687,
+          "mp_part_code": 60
+        },
+        {
+          "mp_name": "Shri Awadhesh Prasad",
+          "mp_code": 5780,
+          "mp_part_code": 61
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 62
+        },
+        {
+          "mp_name": "Dr. Prabha Mallikarjun",
+          "mp_code": 5753,
+          "mp_part_code": 63
+        },
+        {
+          "mp_name": "Shri Hasmukhbhai Somabhai Patel",
+          "mp_code": 5017,
+          "mp_part_code": 64
+        },
+        {
+          "mp_name": "Smt. Malvika Devi",
+          "mp_code": 5624,
+          "mp_part_code": 65
+        },
+        {
+          "mp_name": "Shri Arun Kumar Sagar",
+          "mp_code": 5163,
+          "mp_part_code": 66
+        },
+        {
+          "mp_name": "Smt. Poonamben Hematbhai Maadam",
+          "mp_code": 4751,
+          "mp_part_code": 67
+        },
+        {
+          "mp_name": "Shri Vijay Kumar Hansdak",
+          "mp_code": 4866,
+          "mp_part_code": 68
+        },
+        {
+          "mp_name": "Dr. C N Manjunath",
+          "mp_code": 5590,
+          "mp_part_code": 69
+        },
+        {
+          "mp_name": "Shri Kota Srinivasa Poojary",
+          "mp_code": 5711,
+          "mp_part_code": 70
+        },
+        {
+          "mp_name": "Shri Ramashankar  Vidharthi Rajbhar",
+          "mp_code": 4305,
+          "mp_part_code": 71
+        },
+        {
+          "mp_name": "Shri Ashok Kumar Rawat",
+          "mp_code": 4096,
+          "mp_part_code": 72
+        },
+        {
+          "mp_name": "Shri K Sudhakaran",
+          "mp_code": 4558,
+          "mp_part_code": 73
+        },
+        {
+          "mp_name": "Shri Navaskani K",
+          "mp_code": 4962,
+          "mp_part_code": 74
+        },
+        {
+          "mp_name": "Shri C N Annadurai",
+          "mp_code": 4969,
+          "mp_part_code": 75
+        },
+        {
+          "mp_name": "Shri Vijayakumar Alias Vijay Vasanth",
+          "mp_code": 5533,
+          "mp_part_code": 76
+        },
+        {
+          "mp_name": "Shri Rahul Kaswan",
+          "mp_code": 4654,
+          "mp_part_code": 77
+        },
+        {
+          "mp_name": "Shri Raju Bista",
+          "mp_code": 5042,
+          "mp_part_code": 78
+        },
+        {
+          "mp_name": "Shri Captain Brijesh Chowta",
+          "mp_code": 5627,
+          "mp_part_code": 79
+        },
+        {
+          "mp_name": "Shri Kuldeep Indora",
+          "mp_code": 5730,
+          "mp_part_code": 80
+        },
+        {
+          "mp_name": "Shri Ravindra Shukla Alias Ravi Kishan",
+          "mp_code": 5144,
+          "mp_part_code": 81
+        },
+        {
+          "mp_name": "Shri Tejasvi Surya",
+          "mp_code": 5182,
+          "mp_part_code": 82
+        },
+        {
+          "mp_name": "Dr. Mallu Ravi",
+          "mp_code": 3534,
+          "mp_part_code": 83
+        },
+        {
+          "mp_name": "Shri Joyanta Basumatary",
+          "mp_code": 5548,
+          "mp_part_code": 84
+        },
+        {
+          "mp_name": "Shri K Radhakrishnan",
+          "mp_code": 5812,
+          "mp_part_code": 85
+        },
+        {
+          "mp_name": "Adv K. Francis George",
+          "mp_code": 138,
+          "mp_part_code": 86
+        },
+        {
+          "mp_name": "Shri Durai Vaiko",
+          "mp_code": 5828,
+          "mp_part_code": 87
+        },
+        {
+          "mp_name": "Shri Manish Tewari",
+          "mp_code": 4430,
+          "mp_part_code": 88
+        },
+        {
+          "mp_name": "Shri Utkarsh Verma Madhur",
+          "mp_code": 5809,
+          "mp_part_code": 89
+        },
+        {
+          "mp_name": "Shri Vishnu Dayal Ram",
+          "mp_code": 4731,
+          "mp_part_code": 90
+        },
+        {
+          "mp_name": "Shri Devendra Singh Alias Bhole Singh",
+          "mp_code": 4664,
+          "mp_part_code": 91
+        },
+        {
+          "mp_name": "Shri Laxmikant Pappu Nishad",
+          "mp_code": 5813,
+          "mp_part_code": 92
+        },
+        {
+          "mp_name": "Shri Alok Sharma",
+          "mp_code": 5674,
+          "mp_part_code": 93
+        },
+        {
+          "mp_name": "Shri Khagen Murmu",
+          "mp_code": 5050,
+          "mp_part_code": 94
+        },
+        {
+          "mp_name": "Shri Brijmohan Agrawal",
+          "mp_code": 5677,
+          "mp_part_code": 95
+        },
+        {
+          "mp_name": "Shri Bidyut Baran Mahato",
+          "mp_code": 4705,
+          "mp_part_code": 96
+        },
+        {
+          "mp_name": "Shri Vishaldada Prakashbapu Patil",
+          "mp_code": 5756,
+          "mp_part_code": 97
+        },
+        {
+          "mp_name": "Shri Sanjay Uttamrao Deshmukh",
+          "mp_code": 5725,
+          "mp_part_code": 98
+        },
+        {
+          "mp_name": "Shri Narendra Modi",
+          "mp_code": 4589,
+          "mp_part_code": 99
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 100
+        }
+      ],
+      "keywords": [
+        "Agricultural Market",
+        "Arms Supply",
+        "Bullet-proof Jackets",
+        "Fishermen",
+        "Hinduism",
+        "Industrial Promotion",
+        "Manipur",
+        "President Address",
+        "Unemployment",
+        "Infrastructure Facilities",
+        "Scams",
+        "Unemployed Youth",
+        "Farmers' Welfare",
+        "Indian Economy",
+        "National Eligibility cum Entrance Test (NEET)",
+        "Electoral Funding",
+        "Ayushmaan Bharat",
+        "Smart City",
+        "Jal Jeevan Mission",
+        "Digital Public Infrastructure"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 96,
+      "title": "Re : Notice under Direction 115",
+      "debate_date": "02/07/2024",
+      "debate_type": 30,
+      "debate_type_desc": "NOTICES UNDER DIRECTION-115",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Ms. Bansuri Swaraj",
+          "mp_code": 5588,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 95,
+      "title": "Laid the statement regarding status of implementation of the recommendations contained in the 145th and 153rd reports of the Standing Committee on Health and Family Welfare on Demands for Grants (2023-24) (Demand No. 4) pertaining to the Ministry of AYUSH",
+      "debate_date": "02/07/2024",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Prataprao Ganpatrao Jadhav",
+          "mp_code": 4373,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 94,
+      "title": "Laid the statement regarding status of implementation of the recommendations/observations contained in the 144th and 152nd reports of the Standing Committee on Health and Family Welfare on Demands for Grants (2023-24) (Demand No. 47) pertaining to the Department of Health Research, Ministry of Health and Family Welfare",
+      "debate_date": "02/07/2024",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Prataprao Ganpatrao Jadhav",
+          "mp_code": 4373,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 93,
+      "title": "Laid the statement regarding status of implementation of the recommendations/observations contained in the 143rd and 154th reports of the Standing Committee on Health and Family Welfare on Demands for Grants (2023-24) (Demand No. 46) pertaining to the Department of Health and Family Welfare, Ministry of Health and Family Welfare",
+      "debate_date": "02/07/2024",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Prataprao Ganpatrao Jadhav",
+          "mp_code": 4373,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 92,
+      "title": "Addition of New Clause (3) to Direction 1 of Directions by Speaker under the Rules of Procedure and Conduct of Business in Lok Sabha-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 12,
+      "debate_type_desc": "DECISION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 91,
+      "title": "Valedictory Reference on the conclusion of the First Session of the Eighteenth Lok Sabha",
+      "debate_date": "02/07/2024",
+      "debate_type": 53,
+      "debate_type_desc": "VALEDICTORY REFERENCE",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Parliamentary Business"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 90,
+      "title": "Resolution regarding Conduct and Behaviour of the Members of opposition parties-adopted",
+      "debate_date": "02/07/2024",
+      "debate_type": 16,
+      "debate_type_desc": "GOVERNMENT RESOLUTIONS",
+      "members": [
+        {
+          "mp_name": "Shri Rajnath Singh",
+          "mp_code": 4268,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Code of Conduct",
+        "Parliamentary Procedure",
+        "Parliamentary Etiquette"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 89,
+      "title": "Re :Need to enhance the compensation for land acquired for Purnea Airport-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Rajesh Ranjan",
+          "mp_code": 554,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Compensation",
+        "Land Acquisition"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 88,
+      "title": "Re : Expeditious completion of construction of Dugarpur Medical College-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Rajkumar Roat",
+          "mp_code": 5764,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Health Facilities",
+        "Medical Institutions"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 87,
+      "title": "Re : Supply of drinking water in Sikar Parliamentary Constituency-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Amra Ram",
+          "mp_code": 5776,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Water Scarcity",
+        "Jal Jeevan Mission"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 86,
+      "title": "Re : Completion of Pune-Nasik Semi High-Speed Rail Corridor Project-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Amol Ramsing Kolhe",
+          "mp_code": 5185,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Connectivity"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 85,
+      "title": "Re : Four lanning of NH-38 from Vellore to Villupuram via Tiruvannamalai-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri C N Annadurai",
+          "mp_code": 4969,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "National Highways",
+        "Road Transport"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 84,
+      "title": "Re : Need to conduct impartial entrance examination for NEET (UG) and UGC (NET)-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Rajeev Rai",
+          "mp_code": 5769,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "National Testing Agency (NTA)"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 83,
+      "title": "Re : Need to construct a metalled diversion road at Shamshuddinpur, Uttar Pradesh-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Lalji Verma",
+          "mp_code": 5794,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Road Construction"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 82,
+      "title": "Re : Operationalisation of Halwara International Airport Project in Ludhiana-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Amar Singh",
+          "mp_code": 5169,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Domestic Flights"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 81,
+      "title": "Re : Need for revival of Lohagarh (Shankargarh) refinery in Allahabad Parliamentary Constituency-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Ujjwal Raman Singh",
+          "mp_code": 5749,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Petroleum Refinery",
+        "Oil Refineries"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 80,
+      "title": "Re : Completion of a road project in Vadakara Parliamentary Constituency-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Shafi Parambil",
+          "mp_code": 5698,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Road Construction",
+        "Road Connectivity"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 79,
+      "title": "Re : Need to grant financial assistance to farmers suffering from crop loss in Idukki-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Adv Dean Kuriakose",
+          "mp_code": 5126,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Crop Failure",
+        "Farmers' Welfare",
+        "Climate Change"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 78,
+      "title": "Re : Operation of new trains and development of railway infrastructure-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Vijayakumar Alias Vijay Vasanth",
+          "mp_code": 5533,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Facilities",
+        "Train Services"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 77,
+      "title": "Re : Need to connect Gopalpur with Sambalpur rail line with Phulbani-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sukanta Kumar Panigrahi",
+          "mp_code": 5615,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Network",
+        "Railway Connectivity"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 76,
+      "title": "Re : Need to remove the ban on export of non-Basmati Rice-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Basmati Rice",
+        "Exports"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 75,
+      "title": "Re : Operation of Train (No. 20503/04) via Gorakhpur-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Ravindra Shukla Alias Ravi Kishan",
+          "mp_code": 5144,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Rajdhani Express",
+        "Train Services"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 74,
+      "title": "Re : Rail connectivity to Darang District, Assam-laid",
+      "debate_date": "02/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Dilip Saikia",
+          "mp_code": 5107,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Line",
+        "Rail Route"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 67,
+      "title": "Reference regarding Proclamation of Emergency in the country on 25 June, 1975",
+      "debate_date": "26/06/2024",
+      "debate_type": 42,
+      "debate_type_desc": "REFERENCES IN THE HOUSE",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Emergency"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 66,
+      "title": "Introduction of Ministers",
+      "debate_date": "26/06/2024",
+      "debate_type": 19,
+      "debate_type_desc": "INTRODUCTION OF MINISTERS",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Narendra Modi",
+          "mp_code": 4589,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 65,
+      "title": "Felicitations to the Speaker",
+      "debate_date": "26/06/2024",
+      "debate_type": 13,
+      "debate_type_desc": "FELICITATIONS",
+      "members": [
+        {
+          "mp_name": "Shri Narendra Modi",
+          "mp_code": 4589,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Rahul Gandhi",
+          "mp_code": 4074,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Akhilesh Yadav",
+          "mp_code": 564,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Sudip Bandyopadhyay",
+          "mp_code": 38,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri T R Baalu",
+          "mp_code": 26,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Lavu Sri Krishna Devarayalu",
+          "mp_code": 5096,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Rajiv Ranjan Singh",
+          "mp_code": 4134,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Arvind Ganpat Sawant",
+          "mp_code": 4713,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Smt. Supriya Sule",
+          "mp_code": 4392,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Shrirang Appa Chandu Barne",
+          "mp_code": 4781,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Shri Chirag Paswan",
+          "mp_code": 4777,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri P V Midhun Reddy",
+          "mp_code": 4688,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Abhay Kumar Sinha",
+          "mp_code": 5646,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Smt. Anupriya Patel",
+          "mp_code": 4662,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri E T Mohammed Basheer",
+          "mp_code": 4561,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Smt. Harsimrat Kaur Badal",
+          "mp_code": 4433,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri Tatkare Sunil Dattatrey",
+          "mp_code": 5199,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Shri Rajesh Ranjan",
+          "mp_code": 554,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Shri Asaduddin Owaisi",
+          "mp_code": 4091,
+          "mp_part_code": 27
+        },
+        {
+          "mp_name": "Shri N K Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Shri Amra Ram",
+          "mp_code": 5776,
+          "mp_part_code": 30
+        },
+        {
+          "mp_name": "Dr. Thirumaavalavan Tholkappiyan",
+          "mp_code": 4549,
+          "mp_part_code": 31
+        },
+        {
+          "mp_name": "Dr. Raj Kumar Chabbewal",
+          "mp_code": 5779,
+          "mp_part_code": 32
+        },
+        {
+          "mp_name": "Dr. Rajkumar Sangwan",
+          "mp_code": 5550,
+          "mp_part_code": 35
+        },
+        {
+          "mp_name": "Adv. Chandra Shekhar",
+          "mp_code": 5647,
+          "mp_part_code": 36
+        },
+        {
+          "mp_name": "Shri Aga Syed Ruhullah Mehdi",
+          "mp_code": 5761,
+          "mp_part_code": 39
+        },
+        {
+          "mp_name": "Adv K. Francis George",
+          "mp_code": 138,
+          "mp_part_code": 43
+        },
+        {
+          "mp_name": "Shri Balashowry Vallabhaneni",
+          "mp_code": 4021,
+          "mp_part_code": 45
+        },
+        {
+          "mp_name": "Shri Rajkumar Roat",
+          "mp_code": 5764,
+          "mp_part_code": 47
+        }
+      ],
+      "keywords": [
+        "Felicitation",
+        "Lok Sabha",
+        "Speaker"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 64,
+      "title": "Compliments to Hon. Speaker Pro Tem",
+      "debate_date": "26/06/2024",
+      "debate_type": 13,
+      "debate_type_desc": "FELICITATIONS",
+      "members": [
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 63,
+      "title": "Motion for election of Speaker",
+      "debate_date": "26/06/2024",
+      "debate_type": 58,
+      "debate_type_desc": "ELECTION OF SPEAKER/DY. SPEAKER",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Narendra Modi",
+          "mp_code": 4589,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Rajnath Singh",
+          "mp_code": 4268,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Rajiv Ranjan Singh",
+          "mp_code": 4134,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Dr. Rajkumar Sangwan",
+          "mp_code": 5550,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Jitan Ram Manjhi",
+          "mp_code": 5558,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Shivraj Singh Chouhan",
+          "mp_code": 96,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Nitin Jairam Gadkari",
+          "mp_code": 4923,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri Prataprao Ganpatrao Jadhav",
+          "mp_code": 4373,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Tatkare Sunil Dattatrey",
+          "mp_code": 5199,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Chirag Paswan",
+          "mp_code": 4777,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Shri Joyanta Basumatary",
+          "mp_code": 5548,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri H D Kumaraswamy",
+          "mp_code": 3711,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Balashowry Vallabhaneni",
+          "mp_code": 4021,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri Kinjarapu Rammohan Naidu",
+          "mp_code": 4771,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri Lavu Sri Krishna Devarayalu",
+          "mp_code": 5096,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Dr. Indra Hang Subba",
+          "mp_code": 5111,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri Phani Bhusan Choudhury",
+          "mp_code": 5569,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Smt. Anupriya Patel",
+          "mp_code": 4662,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Shri Krishan Pal Gurjar",
+          "mp_code": 4629,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Shri Arvind Ganpat Sawant",
+          "mp_code": 4713,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Shri N K Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Shri Anand Bhadauria",
+          "mp_code": 5815,
+          "mp_part_code": 24
+        },
+        {
+          "mp_name": "Shri Tariq Anwar",
+          "mp_code": 2664,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Smt. Supriya Sule",
+          "mp_code": 4392,
+          "mp_part_code": 26
+        },
+        {
+          "mp_name": "Smt. Kanimozhi Karunanidhi",
+          "mp_code": 4960,
+          "mp_part_code": 27
+        },
+        {
+          "mp_name": "Dr. Virendra Kumar",
+          "mp_code": 515,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Shri Jual Oram",
+          "mp_code": 279,
+          "mp_part_code": 29
+        },
+        {
+          "mp_name": "Prof. S  P Singh Baghel",
+          "mp_code": 31,
+          "mp_part_code": 30
+        },
+        {
+          "mp_name": "Shri Pankaj Choudhary",
+          "mp_code": 3479,
+          "mp_part_code": 31
+        },
+        {
+          "mp_name": "Smt. Annpurna Devi",
+          "mp_code": 5116,
+          "mp_part_code": 32
+        },
+        {
+          "mp_name": "Smt. Kamaljeet Sehrawat",
+          "mp_code": 5565,
+          "mp_part_code": 33
+        },
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 36
+        }
+      ],
+      "keywords": [
+        "Elections",
+        "Speaker"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 62,
+      "title": "Observation by the speaker Pro tem: Election of Speaker",
+      "debate_date": "26/06/2024",
+      "debate_type": 33,
+      "debate_type_desc": "OBSERVATION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 61,
+      "title": "MEMBERS SWORN-Contd.",
+      "debate_date": "26/06/2024",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 60,
+      "title": "Discussion on Motion of Thanks on the President`s Address moved by Shri Anurag Singh Thakur and seconded by Kumari Bansuri Swaraj (Discussion not included)",
+      "debate_date": "01/07/2024",
+      "debate_type": 26,
+      "debate_type_desc": "MOTION OF THANKS ON THE PRESIDENT'S ADDRESS",
+      "members": [
+        {
+          "mp_name": "Shri Anurag Singh Thakur",
+          "mp_code": 4249,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Thiru Dayanidhi Maran",
+          "mp_code": 4144,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Manickam Tagore B",
+          "mp_code": 4552,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Ms. Bansuri Swaraj",
+          "mp_code": 5588,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri Rahul Gandhi",
+          "mp_code": 4074,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri Narendra Modi",
+          "mp_code": 4589,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Shri Bhupender Yadav",
+          "mp_code": 5541,
+          "mp_part_code": 30
+        },
+        {
+          "mp_name": "Shri Amit Shah",
+          "mp_code": 5021,
+          "mp_part_code": 31
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 32
+        },
+        {
+          "mp_name": "Shri Rajnath Singh",
+          "mp_code": 4268,
+          "mp_part_code": 42
+        },
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 48
+        },
+        {
+          "mp_name": "Shri Shivraj Singh Chouhan",
+          "mp_code": 96,
+          "mp_part_code": 58
+        },
+        {
+          "mp_name": "Shri Hibi Eden",
+          "mp_code": 5125,
+          "mp_part_code": 63
+        },
+        {
+          "mp_name": "Shri Kalyan Banerjee",
+          "mp_code": 4498,
+          "mp_part_code": 65
+        },
+        {
+          "mp_name": "Prof. Sougata Ray",
+          "mp_code": 2554,
+          "mp_part_code": 67
+        },
+        {
+          "mp_name": "Ms. Mahua Moitra",
+          "mp_code": 5049,
+          "mp_part_code": 73
+        },
+        {
+          "mp_name": "Shri Raja A",
+          "mp_code": 344,
+          "mp_part_code": 74
+        },
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 75
+        },
+        {
+          "mp_name": "Shri Lavu Sri Krishna Devarayalu",
+          "mp_code": 5096,
+          "mp_part_code": 77
+        },
+        {
+          "mp_name": "Shri Rajiv Ranjan Singh",
+          "mp_code": 4134,
+          "mp_part_code": 78
+        },
+        {
+          "mp_name": "Shri Arvind Ganpat Sawant",
+          "mp_code": 4713,
+          "mp_part_code": 79
+        },
+        {
+          "mp_name": "Dr. Amol Ramsing Kolhe",
+          "mp_code": 5185,
+          "mp_part_code": 80
+        },
+        {
+          "mp_name": "Shri Piyush Vedprakash Goyal",
+          "mp_code": 5551,
+          "mp_part_code": 81
+        },
+        {
+          "mp_name": "Shri Dharambir Singh",
+          "mp_code": 4647,
+          "mp_part_code": 85
+        },
+        {
+          "mp_name": "Shri Manish Tewari",
+          "mp_code": 4430,
+          "mp_part_code": 86
+        },
+        {
+          "mp_name": "Dr. Shrikant Eknath Shinde",
+          "mp_code": 4659,
+          "mp_part_code": 87
+        },
+        {
+          "mp_name": "Smt. Shambhavi",
+          "mp_code": 5685,
+          "mp_part_code": 88
+        },
+        {
+          "mp_name": "Shri Abhay Kumar Sinha",
+          "mp_code": 5646,
+          "mp_part_code": 89
+        },
+        {
+          "mp_name": "Dr. Gumma Thanuja Rani",
+          "mp_code": 5679,
+          "mp_part_code": 90
+        },
+        {
+          "mp_name": "Dr. Sambit Patra",
+          "mp_code": 5599,
+          "mp_part_code": 91
+        },
+        {
+          "mp_name": "Shri Amrinder Singh Raja Warring",
+          "mp_code": 5747,
+          "mp_part_code": 92
+        },
+        {
+          "mp_name": "Shri E T Mohammed Basheer",
+          "mp_code": 4561,
+          "mp_part_code": 93
+        },
+        {
+          "mp_name": "Smt. Joba Majhi",
+          "mp_code": 5827,
+          "mp_part_code": 94
+        },
+        {
+          "mp_name": "Dr. Hemant Vishnu Savara",
+          "mp_code": 5669,
+          "mp_part_code": 95
+        },
+        {
+          "mp_name": "Shri Mian Altaf Ahmad",
+          "mp_code": 5781,
+          "mp_part_code": 96
+        },
+        {
+          "mp_name": "Shri Deepender Singh Hooda",
+          "mp_code": 4207,
+          "mp_part_code": 97
+        },
+        {
+          "mp_name": "Shri S Venkatesan",
+          "mp_code": 4965,
+          "mp_part_code": 100
+        },
+        {
+          "mp_name": "Shri Ganesh Singh",
+          "mp_code": 3986,
+          "mp_part_code": 101
+        },
+        {
+          "mp_name": "Smt. Pratima Mondal",
+          "mp_code": 4871,
+          "mp_part_code": 102
+        },
+        {
+          "mp_name": "Shri Krishna Prasad Tenneti",
+          "mp_code": 5680,
+          "mp_part_code": 105
+        },
+        {
+          "mp_name": "Prof. Varsha Eknath Gaikwad",
+          "mp_code": 5754,
+          "mp_part_code": 106
+        },
+        {
+          "mp_name": "Shri Konda Vishweshwar Reddy",
+          "mp_code": 4800,
+          "mp_part_code": 107
+        },
+        {
+          "mp_name": "Thiru D M Kathir Anand",
+          "mp_code": 5528,
+          "mp_part_code": 108
+        },
+        {
+          "mp_name": "Shri Balashowry Vallabhaneni",
+          "mp_code": 4021,
+          "mp_part_code": 109
+        },
+        {
+          "mp_name": "Dr. Rajkumar Sangwan",
+          "mp_code": 5550,
+          "mp_part_code": 110
+        },
+        {
+          "mp_name": "Shri Imran Masood",
+          "mp_code": 5589,
+          "mp_part_code": 111
+        },
+        {
+          "mp_name": "Shri Rajesh Ranjan",
+          "mp_code": 554,
+          "mp_part_code": 113
+        },
+        {
+          "mp_name": "Shri N K Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 114
+        },
+        {
+          "mp_name": "Shri Hanuman Beniwal",
+          "mp_code": 5205,
+          "mp_part_code": 115
+        },
+        {
+          "mp_name": "Shri Sudama Prasad",
+          "mp_code": 5641,
+          "mp_part_code": 116
+        },
+        {
+          "mp_name": "Dr. Ricky Andrew J Syngkon",
+          "mp_code": 5811,
+          "mp_part_code": 117
+        },
+        {
+          "mp_name": "Shri Sudheer Gupta",
+          "mp_code": 4615,
+          "mp_part_code": 119
+        },
+        {
+          "mp_name": "Prof. Angomcha Bimol Akoijam",
+          "mp_code": 5788,
+          "mp_part_code": 120
+        }
+      ],
+      "keywords": [
+        "Farmers",
+        "Labour Laws",
+        "Medical Colleges",
+        "National Highways",
+        "Ordnance Factories",
+        "Poverty Alleviation Programme",
+        "Sanitation",
+        "Tourism",
+        "Vaccination",
+        "Foreign Exchange Reserves",
+        "President's Rule",
+        "Martyrs",
+        "National Eligibility cum Entrance Test (NEET)",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Digital Transactions",
+        "BHIM (Bharat Interface For Money)",
+        "Ayushmaan Bharat",
+        "Sabka Sath Sabka Vikas",
+        "Novel Coronavirus (COVID -19)",
+        "Atmanirbhar Bharat",
+        "Operation Ganga",
+        "Agniveer",
+        "Bharat Jodo Yatra",
+        "sengol"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 59,
+      "title": "Announcement regarding Amendments to Motion of Thanks on the President`s Address-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 58,
+      "title": "Text of Amendments",
+      "debate_date": "01/07/2024",
+      "debate_type": 26,
+      "debate_type_desc": "MOTION OF THANKS ON THE PRESIDENT'S ADDRESS",
+      "members": [
+        {
+          "mp_name": "Shri N K Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Prof. Sougata Ray",
+          "mp_code": 2554,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Lalji Verma",
+          "mp_code": 5794,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Adv. Chandra Shekhar",
+          "mp_code": 5647,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Rajesh Ranjan",
+          "mp_code": 554,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Naresh Chandra Uttam Patel",
+          "mp_code": 5801,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Benny Behanan",
+          "mp_code": 5124,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Sukhdeo Bhagat",
+          "mp_code": 5742,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri K C Venugopal",
+          "mp_code": 4567,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Manish Tewari",
+          "mp_code": 4430,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Shafi Parambil",
+          "mp_code": 5698,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Shri Varun Chaudhry",
+          "mp_code": 5545,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri Abhay Kumar Sinha",
+          "mp_code": 5646,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Anand Bhadauria",
+          "mp_code": 5815,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri Hibi Eden",
+          "mp_code": 5125,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri Kodikunnil Suresh",
+          "mp_code": 477,
+          "mp_part_code": 17
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 57,
+      "title": "Business of House",
+      "debate_date": "01/07/2024",
+      "debate_type": 7,
+      "debate_type_desc": "BUSINESS OF HOUSE",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Rahul Gandhi",
+          "mp_code": 4074,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Manish Tewari",
+          "mp_code": 4430,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri K C Venugopal",
+          "mp_code": 4567,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri Rajnath Singh",
+          "mp_code": 4268,
+          "mp_part_code": 10
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 56,
+      "title": "Re: Construction of barrages across river Mahanadi-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Water Reservoirs",
+        "Water Shortage",
+        "Mahanadi River"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 55,
+      "title": "Re: Need to review the Agnipath Scheme-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Hanuman Beniwal",
+          "mp_code": 5205,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Army",
+        "Recruitment"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 54,
+      "title": "Re: Need to appoint an independent commission to re-write school textbooks-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri E T Mohammed Basheer",
+          "mp_code": 4561,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Human Resources",
+        "School Curriculum"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 53,
+      "title": "Re: Regular services of train numbers 05305 and 05306-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Alok Kumar Suman",
+          "mp_code": 5211,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Train Services"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 52,
+      "title": "Re: Completion of projects on NH-16 in Ongole Parliamentary Constituency-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Magunta Sreenivasulu Reddy",
+          "mp_code": 3907,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Landing Facilities",
+        "National Highways"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 51,
+      "title": "Re: Stoppage of trains at Malta halt Station on Sealdah Canning line-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Pratima Mondal",
+          "mp_code": 4871,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Train Stoppage"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 50,
+      "title": "Re: Suburban Railway System in Kolkata-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Prof. Sougata Ray",
+          "mp_code": 2554,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Fund Allocation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 49,
+      "title": "Re: Need to provide financial assistance to the families affected by stray animals in Dhaurahra Parliamentary Constituency-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Anand Bhadauria",
+          "mp_code": 5815,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Compensation",
+        "Crop Damages"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 48,
+      "title": "Re: Installation of mobile towers in Robertsganj Parliamentary Constituency-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri  Chhotelal",
+          "mp_code": 4859,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Telecommunication Services",
+        "Mobile Network"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 47,
+      "title": "Re: Establishment of Railway Division in Kalaburagi, Karnataka-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri  Radhakrishna",
+          "mp_code": 5757,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railways",
+        "Railway Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 46,
+      "title": "Re: Need to include the `Sarna Dharma` code in the census column-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sukhdeo Bhagat",
+          "mp_code": 5742,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Scheduled Tribes"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 45,
+      "title": "Re: Need to increase the number of seats for admission in KV Schools-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Ve Vaithilingam",
+          "mp_code": 5120,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Kendriya Vidyalayas",
+        "School Admission"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 44,
+      "title": "Re: Need to take steps to check coastal erosion in Kerala-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Shashi Tharoor",
+          "mp_code": 4569,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Erosion",
+        "Fishing"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 43,
+      "title": "Re: Handover of administrative control of Cannanore cantonment to Kannur Municipal Corporation-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri K Sudhakaran",
+          "mp_code": 4558,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Administrative Setup",
+        "Municipal Corporations"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 42,
+      "title": "Re: Need to declare floods caused by river Teesta as a national disaster-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Raju Bista",
+          "mp_code": 5042,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Floods",
+        "Natural Disasters"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 41,
+      "title": "Re: Establishment of Flower Board in Chikkaballapur-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. K Sudhakar",
+          "mp_code": 5602,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Floriculture"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 40,
+      "title": "Re: Issue of distress migration in Odisha-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Pradeep Kumar Panigrahy",
+          "mp_code": 5708,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Migrations",
+        "Monitoring Mechanism"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 39,
+      "title": "Re: Need to modify the design of under pass being constructed on Ganga Expressway-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Kanwar Singh Tanwar",
+          "mp_code": 4607,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Expressways",
+        "Underpass"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 38,
+      "title": "Re: Need to review the Forest Act, 1980-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Vishnu Dayal Ram",
+          "mp_code": 4731,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Forest Land"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 37,
+      "title": "Re: Setting up of a Paika Regiment in Indian Army-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Malvika Devi",
+          "mp_code": 5624,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Regiments"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 36,
+      "title": "Re: Setting up of a new textile mill in Bolangir, Odisha-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Sangeeta Kumari Singh Deo",
+          "mp_code": 426,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Employment",
+        "Textile Industry"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 35,
+      "title": "Re: Inclusion of Khetauri, Ghatwar and others as Scheduled Tribes-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Recognition",
+        "Scheduled Tribes (STs)"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 34,
+      "title": "Re: Inclusion of Tapi Lower Project in Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) -laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Smita Uday Wagh",
+          "mp_code": 5723,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Drought",
+        "Irrigation Projects",
+        "Water Crisis"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 33,
+      "title": "Re: Rejuvenation of Satna and Tamas Rivers-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Ganesh Singh",
+          "mp_code": 3986,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Rivers",
+        "River Conservation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 32,
+      "title": "Re:Reopening of HCL-ICC Moubhandar Smelter Plant-laid",
+      "debate_date": "01/07/2024",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Bidyut Baran Mahato",
+          "mp_code": 4705,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Casual Workers",
+        "Unemployment"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 31,
+      "title": "Motion for election of 20 Members of Lok Sabha and 10 Members of Rajya Sabha to the Committee on Welfare of Other Backward Classes",
+      "debate_date": "01/07/2024",
+      "debate_type": 59,
+      "debate_type_desc": "ELECTION TO COMMITTEES/BOARDS",
+      "members": [
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 30,
+      "title": "Motion for election of 20 Members of Lok Sabha and 10 Members of Rajya Sabha to the Committee on Welfare of Scheduled Castes and Scheduled Tribes",
+      "debate_date": "01/07/2024",
+      "debate_type": 59,
+      "debate_type_desc": "ELECTION TO COMMITTEES/BOARDS",
+      "members": [
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 29,
+      "title": "Motion for Election of 15 Members of Lok Sabha and 07 Members of Rajya Sabha to the Committee on Public Undertakings",
+      "debate_date": "01/07/2024",
+      "debate_type": 59,
+      "debate_type_desc": "ELECTION TO COMMITTEES/BOARDS",
+      "members": [
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 28,
+      "title": "Motion for Election of 07 Members of Rajya Sabha to the Committee on Public Accounts",
+      "debate_date": "01/07/2024",
+      "debate_type": 59,
+      "debate_type_desc": "ELECTION TO COMMITTEES/BOARDS",
+      "members": [
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 27,
+      "title": "Observation regarding Controlling of Mike System",
+      "debate_date": "01/07/2024",
+      "debate_type": 33,
+      "debate_type_desc": "OBSERVATION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 26,
+      "title": "Paper laid on the Table of the House by Ministers/Members",
+      "debate_date": "01/07/2024",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Pankaj Choudhary",
+          "mp_code": 3479,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Dr. Chandra Sekhar Pemmasani",
+          "mp_code": 5636,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Dr. Sukanta Majumdar",
+          "mp_code": 5035,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Dr. Raj Bhushan Choudhary",
+          "mp_code": 5568,
+          "mp_part_code": 6
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 25,
+      "title": "Ruling regarding Notices of Adjournment Motion",
+      "debate_date": "01/07/2024",
+      "debate_type": 63,
+      "debate_type_desc": "RULING BY THE SPEAKER",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 24,
+      "title": "Under Rule 9 of the Rules of Procedures and Conduct of Business in Lok Sabha, Speaker announced the nomination of the Members of the Panel of Chairpersons",
+      "debate_date": "01/07/2024",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 23,
+      "title": "The Speaker appealed to the Members to abide by the provisions of the Article 99 and Third Schedule to the Constitution of India regarding Oath of Affirmation by the Members of the House of the People",
+      "debate_date": "01/07/2024",
+      "debate_type": 33,
+      "debate_type_desc": "OBSERVATION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 22,
+      "title": "The Speaker on behalf of the House congratulated the Captain and the Indian Cricket Team on their historic win in the Men`s T20 Cricket World Cup",
+      "debate_date": "01/07/2024",
+      "debate_type": 13,
+      "debate_type_desc": "FELICITATIONS",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 21,
+      "title": "Obituary References",
+      "debate_date": "01/07/2024",
+      "debate_type": 32,
+      "debate_type_desc": "OBITUARY REFERENCE",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 20,
+      "title": "Addition of a new Direction 116A to Directions by the Speaker-laid",
+      "debate_date": "28/06/2024",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 19,
+      "title": "Election to Committees : (i) Estimates Committee (ii) Public Accounts Committee",
+      "debate_date": "28/06/2024",
+      "debate_type": 59,
+      "debate_type_desc": "ELECTION TO COMMITTEES/BOARDS",
+      "members": [
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 18,
+      "title": "Members Sworn-Contd.",
+      "debate_date": "28/06/2024",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Sudip Bandyopadhyay",
+          "mp_code": 38,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 17,
+      "title": "Papers Laid on the Table of the House by Ministers/Members",
+      "debate_date": "28/06/2024",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 16,
+      "title": "Obituary References",
+      "debate_date": "28/06/2024",
+      "debate_type": 32,
+      "debate_type_desc": "OBITUARY REFERENCE",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 15,
+      "title": "Assent to Bills",
+      "debate_date": "27/06/2024",
+      "debate_type": 3,
+      "debate_type_desc": "ASSENT TO BILLS",
+      "members": [
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 14,
+      "title": "Announcement regarding Notices of Amendments on Motion of Thanks on President's Address",
+      "debate_date": "27/06/2024",
+      "debate_type": 55,
+      "debate_type_desc": "PRESIDENT ADDRESS",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 13,
+      "title": "President`s Address-laid",
+      "debate_date": "27/06/2024",
+      "debate_type": 55,
+      "debate_type_desc": "PRESIDENT ADDRESS",
+      "members": [
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 12,
+      "title": "Member Sworn-contd.",
+      "debate_date": "27/06/2024",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Deepender Singh Hooda",
+          "mp_code": 4207,
+          "mp_part_code": 4
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 11,
+      "title": "Announcement regarding recognition of Leader of the Opposition",
+      "debate_date": "27/06/2024",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 10,
+      "title": "Comment regarding relaxation in Rule 384",
+      "debate_date": "27/06/2024",
+      "debate_type": 33,
+      "debate_type_desc": "OBSERVATION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 9,
+      "title": "Members Sworn  - Contd.",
+      "debate_date": "25/06/2024",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Piyush Vedprakash Goyal",
+          "mp_code": 5551,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Hibi Eden",
+          "mp_code": 5125,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri N K Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri K C Venugopal",
+          "mp_code": 4567,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Radha Mohan Singh",
+          "mp_code": 451,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Smt. Anupriya Patel",
+          "mp_code": 4662,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Prof. Sougata Ray",
+          "mp_code": 2554,
+          "mp_part_code": 19
+        }
+      ],
+      "keywords": [
+        "Oath"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 8,
+      "title": "Announcement Re: Making and Subscribing an Oath or Affirmation",
+      "debate_date": "25/06/2024",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Oath"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 7,
+      "title": "Members Sworn",
+      "debate_date": "24/06/2024",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Narendra Modi",
+          "mp_code": 4589,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 6,
+      "title": "Announcement Re: Making and subscribing an Oath or affirmation",
+      "debate_date": "24/06/2024",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "MP(s) Resignation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 5,
+      "title": "Resignation by Member",
+      "debate_date": "24/06/2024",
+      "debate_type": 44,
+      "debate_type_desc": "RESIGNATION AND VACATION OF SEAT BY  MEMBERS",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 4,
+      "title": "Nominations to Panel of Chairpersons",
+      "debate_date": "24/06/2024",
+      "debate_type": 61,
+      "debate_type_desc": "PANEL OF CHAIRMEN",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Nomination"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 3,
+      "title": "List of Members Elected to Lok Sabha - laid",
+      "debate_date": "24/06/2024",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 2,
+      "title": "Welcome to Members of Eighteenth Lok Sabha",
+      "debate_date": "24/06/2024",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 1,
+      "db_slno": 1,
+      "title": "Observance of Silence",
+      "debate_date": "24/06/2024",
+      "debate_type": 65,
+      "debate_type_desc": "OBSERVENCE OF SILENCE",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    }
+  ],
+  "count": 94,
+  "house": "ls",
+  "bucket": "ls-LS18-S1"
+}

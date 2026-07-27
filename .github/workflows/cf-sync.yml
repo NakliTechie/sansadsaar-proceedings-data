@@ -1,0 +1,90 @@
+name: CF deploy (wrangler, 4h cadence)
+
+# Every 4 hours, deploy the latest main HEAD to Cloudflare Workers
+# Static Assets via wrangler. Single-branch model — we never push to
+# any other branch; only main + a `last-cf-deploy` tag are maintained
+# in this repo.
+#
+# Why wrangler instead of GitHub-integrated deploys: per-push builds
+# burn the monthly free CF build quota on no-op timestamp-only
+# changes. By batching deploys to every 4 h AND skipping when main
+# hasn't advanced since the last deploy, the worst-case build cost
+# falls from ~2,400/month to ~360/month across all three data repos.
+#
+# Skip-if-unchanged: the last successfully-deployed SHA is recorded
+# in the `last-cf-deploy` git tag. If main HEAD matches the tag, we
+# skip the wrangler call entirely. With write_json_idempotent
+# upstream (no-op derive runs produce no commits at all), this is
+# the common case.
+#
+# Manual workflow_dispatch trigger is the escape hatch for urgent
+# deploys.
+#
+# Required repo secrets:
+#   - CLOUDFLARE_API_TOKEN   (Workers Scripts: Edit)
+#   - CLOUDFLARE_ACCOUNT_ID
+#
+# Required CF dashboard state: the project's GitHub integration must
+# be disconnected (or the production branch pointed at a parked branch
+# that nobody pushes to), so this workflow is the only source of
+# deploys.
+
+on:
+  schedule:
+    - cron: '5 0,4,8,12,16,20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write   # write needed to push the last-cf-deploy tag
+
+concurrency:
+  group: cf-deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Check if main has advanced since last deploy
+        id: check
+        run: |
+          git fetch origin --tags --quiet || true
+          DEPLOYED="$(git rev-parse refs/tags/last-cf-deploy 2>/dev/null || echo none)"
+          MAIN="$(git rev-parse HEAD)"
+          echo "main HEAD:           $MAIN"
+          echo "last-cf-deploy tag:  $DEPLOYED"
+          if [ "$DEPLOYED" = "$MAIN" ]; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "No new commits since last deploy — skipping wrangler call."
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "Will deploy."
+          fi
+
+      - name: Deploy to Cloudflare Workers (wrangler)
+        if: steps.check.outputs.skip != 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          # Pin wrangler 4 so [assets] supports `run_worker_first` and
+          # `binding`. wrangler 3 silently drops these as unknown fields
+          # and the Worker never gets to intercept asset requests —
+          # which broke CORS on 2026-05-16. See src/index.js + wrangler.toml.
+          wranglerVersion: '4'
+          command: deploy
+
+      - name: Record the deployed SHA as last-cf-deploy tag
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag -f last-cf-deploy HEAD
+          git push -f origin refs/tags/last-cf-deploy
+          echo "Tagged $(git rev-parse HEAD) as last-cf-deploy."

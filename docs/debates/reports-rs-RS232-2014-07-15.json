@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 232,
+      "date": "15/07/2014",
+      "date_iso": "2014-07-15",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/232/F15.07.2014.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 232 · 15/07/2014"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS232-2014-07-15"
+}

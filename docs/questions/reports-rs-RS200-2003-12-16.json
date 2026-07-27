@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 200,
+      "date_iso": "2003-12-16",
+      "date": "16/12/2003",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/200/20031216_sq16122003.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 200 · 16/12/2003 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date_iso": "2003-12-16",
+      "date": "16/12/2003",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/200/20031216_16.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 200 · 16/12/2003 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS200-2003-12-16"
+}

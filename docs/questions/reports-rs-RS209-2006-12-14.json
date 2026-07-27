@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 209,
+      "date_iso": "2006-12-14",
+      "date": "14/12/2006",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/209/20061214_sq14122006.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 209 · 14/12/2006 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 209,
+      "date_iso": "2006-12-14",
+      "date": "14/12/2006",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/209/20061214_14.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 209 · 14/12/2006 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS209-2006-12-14"
+}

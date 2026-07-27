@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 194,
+      "date_iso": "2001-12-05",
+      "date": "05/12/2001",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/194/2001125_uq05122001.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 194 · 05/12/2001 · Unstarred"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS194-2001-12-05"
+}

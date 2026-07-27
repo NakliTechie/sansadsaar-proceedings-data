@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 203,
+      "date": "21/12/2004",
+      "date_iso": "2004-12-21",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/203/F21.12.2004.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 203 · 21/12/2004"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS203-2004-12-21"
+}

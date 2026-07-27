@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 240,
+      "date": "01/08/2016",
+      "date_iso": "2016-08-01",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/240/F01.08.2016.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 240 · 01/08/2016"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS240-2016-08-01"
+}

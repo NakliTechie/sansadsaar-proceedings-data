@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 221,
+      "date": "23/11/2010",
+      "date_iso": "2010-11-23",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/221/F23.11.2010.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 221 · 23/11/2010"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS221-2010-11-23"
+}

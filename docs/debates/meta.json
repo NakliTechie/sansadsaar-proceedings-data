@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "corpus": "debates",
+  "generated_at": "2026-06-27T23:38:29Z",
+  "total_records": 58958,
+  "total_with_text": 200,
+  "houses": [
+    "ls",
+    "rs"
+  ],
+  "lok_sabhas": [
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "search_bundle": null,
+  "search_index": null
+}

@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 196,
+      "date": "24/07/2002",
+      "date_iso": "2002-07-24",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/196/F24.07.2002.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 196 · 24/07/2002"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS196-2002-07-24"
+}

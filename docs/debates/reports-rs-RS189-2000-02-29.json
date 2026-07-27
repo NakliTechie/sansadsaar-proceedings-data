@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 189,
+      "date": "29/02/2000",
+      "date_iso": "2000-02-29",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/189/F29.02.2000.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 189 · 29/02/2000"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS189-2000-02-29"
+}

@@ -1,0 +1,91 @@
+name: Netas derive (per-MP tarball)
+
+# Joins this repo's debates + questions corpora with NakliTechie/
+# parliamentwatch-data's bills corpus and the sansad.in member roster
+# (committed under scripts/recon-netas-out/) + TCPD electoral history
+# (tcpd/derived/history/), and emits docs/netas-data.tar.gz — a single
+# ~15-20 MB compressed archive of the per-mpsno aggregates. CF serves
+# the tarball at sansadsaar-proceedings.naklitechie.com/netas-data.tar.gz;
+# indiavotes/netas's deploy workflow curls + extracts it.
+#
+# Single-tarball publish (vs ~16k per-MP files) keeps this repo's CF
+# Workers Static Assets deploy well under the 20k-file cap — which is
+# why debates + questions got split out of parliamentwatch-data in the
+# first place.
+#
+# Cadence: daily at 03:30 UTC, after the debates / questions / debates-
+# derive crons have had time to land their latest shards. Manual fire
+# via workflow_dispatch for one-off rebuilds.
+
+on:
+  schedule:
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: netas-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch bills index shards from parliamentwatch-data CDN
+        # build_netas.py only reads the index-*.json shards under
+        # docs/bills/ — never the PDFs or extracted text — so we pull
+        # just those ~10 MB of metadata, not the full 133 MB tree.
+        run: |
+          mkdir -p /tmp/netas-bills
+          BASE=https://naklitechie.github.io/parliamentwatch-data/bills
+          curl -sSL --fail "$BASE/index-meta.json" -o /tmp/netas-bills/index-meta.json
+          for shard in $(jq -r '.shards[].file' /tmp/netas-bills/index-meta.json); do
+            curl -sSL --fail "$BASE/$shard" -o "/tmp/netas-bills/$shard"
+          done
+          echo "Fetched $(ls /tmp/netas-bills/index-*.json | wc -l) bill shards from parliamentwatch CDN"
+
+      - name: Build per-MP aggregates
+        env:
+          NETAS_BILLS_DIR: /tmp/netas-bills
+        run: python build_netas.py
+
+      - name: Flatten electoral + rebuild careers (TCPD-first shape)
+        # build_netas.py writes electoral/<mpsno>.json as the raw
+        # TCPD-nested object {ge_pid, ae_pid, ge_history, ae_history}
+        # and careers.json with legacy ge_* fields. The netas Astro app
+        # expects the flat IV shape {contests, summary} + ls_*/ae_*
+        # career fields. This transformation pass converts both. Runs
+        # after build_netas.py and before tarballing.
+        run: python build_electoral_flat.py
+
+      - name: Package as tarball
+        run: |
+          # Tarball contents extract into data/netas/<file> on the consumer
+          # side. Strip the docs/netas/ prefix by chdir-ing into it.
+          tar -czf docs/netas-data.tar.gz -C docs/netas .
+          ls -lh docs/netas-data.tar.gz
+          # Drop the unpacked tree so we don't commit ~16k per-MP files.
+          # (docs/netas/ is gitignored too — belt and braces.)
+          rm -rf docs/netas/
+
+      - name: Commit + push the tarball
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/netas-data.tar.gz
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "Auto-update netas tarball [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          git pull --rebase origin main
+          git push

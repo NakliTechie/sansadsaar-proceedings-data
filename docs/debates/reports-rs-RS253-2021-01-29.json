@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 253,
+      "date": "29/01/2021",
+      "date_iso": "2021-01-29",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/253/2912021/EV29012021.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/253/2912021/F29012021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/253/2912021/F129012021.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 253 · 29/01/2021"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS253-2021-01-29"
+}

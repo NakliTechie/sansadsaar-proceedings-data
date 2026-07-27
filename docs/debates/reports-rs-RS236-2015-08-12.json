@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 236,
+      "date": "12/08/2015",
+      "date_iso": "2015-08-12",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/236/F12.08.2015.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 236 · 12/08/2015"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS236-2015-08-12"
+}

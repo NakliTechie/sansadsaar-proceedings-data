@@ -1,0 +1,2126 @@
+{
+  "records": [
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 99,
+      "title": "Motion, moved by Shri A. B. Vajpayee and seconded\r\nby Shri L.K. Advani to elect Shri Charanjit Singh Atwal as the Deputy Speaker\r\nof Fourteenth Lok Sabha. (Motion adopted)",
+      "debate_date": "09/06/2004",
+      "debate_type": 58,
+      "debate_type_desc": "ELECTION OF SPEAKER/DY. SPEAKER",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 98,
+      "title": "Valedictory reference made by the Speaker\r\non the occasion of the conclusion of the First Session of Fourteenth Lok\r\nSabha on 10th June, 2004.",
+      "debate_date": "10/06/2004",
+      "debate_type": 53,
+      "debate_type_desc": "VALEDICTORY REFERENCE",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 97,
+      "title": "Further discussion on the Motion of Thanks\r\non the President’s Address moved by Shri Pawan Kumar Bansal on 8th June,\r\n2004. (Motion adopted) (continued – concluded).",
+      "debate_date": "10/06/2004",
+      "debate_type": 26,
+      "debate_type_desc": "MOTION OF THANKS ON THE PRESIDENT'S ADDRESS",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. Manmohan Singh",
+          "mp_code": 10001,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Amendments"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 96,
+      "title": "Need to expedite setting up of a gas-based\r\nPetro-Chemicals Complex in Assam. –Laid.",
+      "debate_date": "10/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sarbananda Sonowal",
+          "mp_code": 4163,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Land Acquisition",
+        "Natural Gas",
+        "Project Implementation",
+        "Memorandum of Understanding (MoU)"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 95,
+      "title": "Need to withdraw the move to close Swadeshi Cotton\r\nMill in Pondicherry. – Laid.",
+      "debate_date": "10/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Prof. M. Ramadass",
+          "mp_code": 4125,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Industrial Closure",
+        "Textile Industry"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 94,
+      "title": "Need to give special financial assistance\r\nto the Government of Andhra Pradesh to enable the State Government to write\r\noff the loans and interests of farmers with small and medium land holdings.-\r\nLaid.",
+      "debate_date": "10/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Suravaram Sudhakar Reddy",
+          "mp_code": 3908,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Agricultural Credit",
+        "Debt Burden",
+        "Debt Relief",
+        "Drought",
+        "Famine",
+        "Natural Calamities",
+        "Suicide",
+        "Remunerative Prices",
+        "Loan Waiving"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 93,
+      "title": "Need to provide financial assistance for revival\r\nof Bharat Ophthalmic Glass Limited, Durgapur, West Bengal.- Laid",
+      "debate_date": "10/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sunil Khan",
+          "mp_code": 193,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Arrears",
+        "Electricity",
+        "Industrial Sickness",
+        "Wages",
+        "Central Government Grants"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 92,
+      "title": "Need to withdraw recent decision of the\r\nGovernment on dilution of the compulsory jute packaging norms in the interest\r\nof jute growers and jute industry.- Laid.",
+      "debate_date": "10/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Minati Sen",
+          "mp_code": 408,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Government Policy",
+        "Packaging"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 91,
+      "title": "Members of Lok Sabha (Declaration of\r\nAssets and Liabilities) Rules, 2004. (Hindi and English versions)",
+      "debate_date": "10/06/2004",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Secretary-General",
+          "mp_code": 1100,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 90,
+      "title": "Papers laid on the table by the members/ministers.",
+      "debate_date": "10/06/2004",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Bijoy Krishna Handique",
+          "mp_code": 149,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri P. Chidambaram",
+          "mp_code": 3000,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri K. Venkatapathy",
+          "mp_code": 4145,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Sontosh Mohan Dev",
+          "mp_code": 109,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Bijoy Krishna Handique",
+          "mp_code": 149,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Kantilal Bhuria",
+          "mp_code": 58,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Smt. Kanti Singh",
+          "mp_code": 461,
+          "mp_part_code": 7
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 89,
+      "title": "Reference made to the passing away of Shri Fazlur\r\nRahman, member of 6<sup>th</sup> Lok Sabha on 16<sup>th</sup> March,\r\n2004.",
+      "debate_date": "10/06/2004",
+      "debate_type": 32,
+      "debate_type_desc": "OBITUARY REFERENCE",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 88,
+      "title": "Texts of Amendments moved on the Motion of Thanks on the President’s\r\n Address, moved by Shri Pawan Kumar Bansal and seconded by Shri Jyotiraditya\r\nM. Scindia on 8<sup>th</sup> June, 2004 . (Not concluded).",
+      "debate_date": "09/06/2004",
+      "debate_type": 26,
+      "debate_type_desc": "MOTION OF THANKS ON THE PRESIDENT'S ADDRESS",
+      "members": [],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 87,
+      "title": "Need to enhance the drug research activities\r\nin Jammu and Kashmir.-Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Abdul Rashid Shaheen",
+          "mp_code": 414,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Government Policy",
+        "Laboratories",
+        "Medicinal Plants",
+        "Research and Development",
+        "Employment Generation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 86,
+      "title": "Need to clear all pending flood and erosion control\r\nproposals of the Government of Assam.-Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Arun Kumar Sarma",
+          "mp_code": 3779,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Central Government Clearance",
+        "Soil Erosion",
+        "Dams",
+        "Damages"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 85,
+      "title": "Need to clear Durgadurai mini tidal power project\r\nin West Bengal.-Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sanat Kumar Mandal",
+          "mp_code": 235,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Central Government Clearance",
+        "Hydroelectric Power Plants",
+        "Project Implementation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 84,
+      "title": "Need to take suitable measures to safeguard the\r\ninterests of farmers in Andhra Pradesh.- Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. M. Jagannath",
+          "mp_code": 156,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Compensation",
+        "Debt Burden",
+        "Government Policy",
+        "Suicide",
+        "Crop Patterns"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 83,
+      "title": "Need to provide adequate compensation and employment\r\nto the children of people whose lands were acquired by the Neyveli Lignite\r\nCorporation in Chidambaram Parliamentary Constituency, Tamil Nadu. – Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri E. Ponnuswamy",
+          "mp_code": 330,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Displacement",
+        "Employment Opportunities",
+        "Land Acquisition",
+        "Rehabilitation",
+        "Water Supply"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 82,
+      "title": "Need to formulate a new policy to help the co-operative\r\nsugar industry in Maharashtra.- Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sadashivrao Dadoba Mandlik",
+          "mp_code": 236,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Excise Duty",
+        "Government Policy",
+        "Tax Exemption",
+        "Sugar Mills"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 81,
+      "title": "Need for speedy implementation of Indo-Nepal\r\njoint river valley projects. - Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Hari Kewal Prasad",
+          "mp_code": 3367,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Flood Control",
+        "Hydroelectric Power",
+        "Project Implementation",
+        "Dams"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 80,
+      "title": "Need to take steps for desilting of Barna river\r\nin Phulpur Parliamentary Constituency, U.P.- Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri  Atique Ahamad",
+          "mp_code": 4171,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Dredging",
+        "Water Logging"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 79,
+      "title": "Need to protect the interests of Jute growers\r\nand Jute industry. – Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Anil Basu",
+          "mp_code": 47,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Acts",
+        "Legal Aspects",
+        "Packaging",
+        "Supreme Court",
+        "Court Judgements"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 78,
+      "title": "Need to include the Marati community of Kasaragod,\r\nKerala in the list of Scheduled Tribes. - Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri P. Karunakaran",
+          "mp_code": 4178,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Government Policy",
+        "Reservation Policy"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 77,
+      "title": "Need to provide mobile telephone facility of\r\nB.S.N.L. in all tehsils of Jalgaon Parliamentary Constituency, Maharashtra. -\r\nLaid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Y.G. Mahajan",
+          "mp_code": 219,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Telecommunications"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 76,
+      "title": "Need to expedite completion of broad gauge rail\r\nlink on Ajmer-Pushkar section in Rajasthan. – Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Prof. Rasa Singh Rawat",
+          "mp_code": 368,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Pilgrim Centres",
+        "Project Implementation",
+        "Railway Projects",
+        "Tourism"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 75,
+      "title": "Need to construct Railway overbridges at Fatehganj\r\nwest and Mirganj in Bareilly, U.P.- Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Santosh Kumar Gangwar",
+          "mp_code": 131,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Road Transport"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 74,
+      "title": "Need to provide adequate compensation to the\r\nfarmers of Hanumangarh district in Sriganganagar Parliamentary Constituency\r\nof Rajasthan whose lands were acquired by the Air Force in 1995.- Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Nihal Chand Chauhan",
+          "mp_code": 95,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Land Acquisition"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 72,
+      "title": "Need to set up Sixth Pay Commission for Central\r\nGovernment employees and also look into their other grievances. – Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Ajay Maken",
+          "mp_code": 4075,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Income Tax",
+        "Wages"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 71,
+      "title": "Statement regarding news item \"Air-strike delay\r\ncost lives: Kargil Report\"- Laid.",
+      "debate_date": "09/06/2004",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Pranab Mukherjee",
+          "mp_code": 4195,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Air Force",
+        "Army",
+        "Death",
+        "Defence Personnel",
+        "Deployment",
+        "Pakistan",
+        "Review Committee",
+        "War"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 70,
+      "title": "Shri Charanjit Singh Atwal was felicitated by\r\nthe Members on his assuming the Chair of the Deputy Speaker of Fourteenth\r\nLok Sabha.",
+      "debate_date": "09/06/2004",
+      "debate_type": 13,
+      "debate_type_desc": "FELICITATIONS",
+      "members": [
+        {
+          "mp_name": "Dr. Manmohan Singh",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Pranab Mukherjee",
+          "mp_code": 4195,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Lal Krishna Advani",
+          "mp_code": 9,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Smt. Sonia Gandhi",
+          "mp_code": 130,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Atal Bihari Vajpayee",
+          "mp_code": 499,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Basudeb Acharia",
+          "mp_code": 4,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri A. Krishnaswamy",
+          "mp_code": 206,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri Ram Vilas Paswan",
+          "mp_code": 296,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Shri Devendra Prasad Yadav",
+          "mp_code": 525,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Dr. M. Jagannath",
+          "mp_code": 156,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Chandrakant Bhaurao Khaire",
+          "mp_code": 189,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Braja Kishore Tripathy",
+          "mp_code": 494,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Prof. Ram Gopal Yadav",
+          "mp_code": 4201,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri  Nitish Kumar",
+          "mp_code": 277,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Sukhdev Singh Dhindsa",
+          "mp_code": 4130,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri Rajesh Verma",
+          "mp_code": 510,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Shri P.K. Vasudevan Nair",
+          "mp_code": 1278,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Prof. M. Ramadass",
+          "mp_code": 4125,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri K. Chandra Shekhar Rao",
+          "mp_code": 4083,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Shri Joachim Baxla",
+          "mp_code": 49,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Kumari Mamata Banerjee",
+          "mp_code": 39,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Shri Asaduddin Owaisi",
+          "mp_code": 4091,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Dr. Arun Kumar Sarma",
+          "mp_code": 3779,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Shri Shibu Soren",
+          "mp_code": 2917,
+          "mp_part_code": 24
+        },
+        {
+          "mp_name": "Shri Ramdas Athawale",
+          "mp_code": 24,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Shri P.C. Thomas",
+          "mp_code": 486,
+          "mp_part_code": 26
+        },
+        {
+          "mp_name": "Shri Purno Agitok Sangma",
+          "mp_code": 394,
+          "mp_part_code": 27
+        },
+        {
+          "mp_name": "Shri  Vanlalzawma",
+          "mp_code": 535,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 29
+        },
+        {
+          "mp_name": "Shri Charnjit Singh Atwal",
+          "mp_code": 4127,
+          "mp_part_code": 30
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 69,
+      "title": "Announcemnet regarding amendments to motion of\r\nthanks on the President’s Address.",
+      "debate_date": "09/06/2004",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 68,
+      "title": "Papers laid on the table by the members/ministers.",
+      "debate_date": "09/06/2004",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri H.R. Bhardwaj",
+          "mp_code": 10005,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri P.M. Sayeed",
+          "mp_code": 10004,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri A. Raja",
+          "mp_code": 344,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Dr. Shakeel Ahmad",
+          "mp_code": 4032,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri K.H. Muniyappa",
+          "mp_code": 261,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Shriprakash Jaiswal",
+          "mp_code": 164,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Dr. Akhilesh Prasad Singh",
+          "mp_code": 4152,
+          "mp_part_code": 7
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 67,
+      "title": "The Prime Minister introduced the members of\r\nthe Council of Ministers to the House.",
+      "debate_date": "09/06/2004",
+      "debate_type": 19,
+      "debate_type_desc": "INTRODUCTION OF MINISTERS",
+      "members": [
+        {
+          "mp_name": "Dr. Manmohan Singh",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 66,
+      "title": "Members of newly elected Fourteenth Lok Sabha\r\ntook the oath.",
+      "debate_date": "09/06/2004",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 65,
+      "title": "Regarding resignation by Shri Lalu Prasad Yadav from his\r\nseat in Lok Sabha from Madhepura constituency, Bihar with effect from 9<sup>th</sup>\r\nJune, 2004.",
+      "debate_date": "09/06/2004",
+      "debate_type": 44,
+      "debate_type_desc": "RESIGNATION AND VACATION OF SEAT BY  MEMBERS",
+      "members": [],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 64,
+      "title": "Discussion on the Motion of Thanks on the President’s\r\nAddress moved by Shri Pawan Kumar Bansal and seconded by Shri Jyotiraditya\r\nM. Scindia (Not concluded).",
+      "debate_date": "08/06/2004",
+      "debate_type": 26,
+      "debate_type_desc": "MOTION OF THANKS ON THE PRESIDENT'S ADDRESS",
+      "members": [
+        {
+          "mp_name": "Shri Pawan Kumar Bansal",
+          "mp_code": 42,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Jyotiraditya Madhavrao Scindia",
+          "mp_code": 3958,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": [
+        "Agriculture",
+        "Education",
+        "Exports",
+        "Gross Domestic Product",
+        "Growth Rate",
+        "Industrial Development",
+        "Investments",
+        "Irrigation",
+        "Political Opposition",
+        "Project Implementation",
+        "Public Undertakings",
+        "Rural Development",
+        "Secularism",
+        "Panchayati Raj",
+        "Economic Reforms"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 63,
+      "title": "Need to construct railway line between Jhargram\r\nand Pururlia in West Bengal. – Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Bir Sing Mahato",
+          "mp_code": 224,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Projects"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 62,
+      "title": "Need to declare a moratorium on all outstanding\r\ndebts of farmers, particularly in Kerala. – Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri C.K. Chandrappan",
+          "mp_code": 2052,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Agricultural Credit",
+        "Debt Burden",
+        "Farmers",
+        "Loan Waiving"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 61,
+      "title": "Need to clear the proposal of the Government\r\nof Maharashtra regarding Hazira Gas Pipeline Project of Marathwada Development\r\nCorporation. – Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Adv. Tukaram Ganpatrao Renge Patil",
+          "mp_code": 4141,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Central Government Clearance",
+        "Economic Development",
+        "Fund Allocation",
+        "Industrial Development",
+        "Natural Gas",
+        "Supply",
+        "Employment Generation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 60,
+      "title": "Need for construction of an over-bridge in the\r\ncoastal village of Palaverkatu in Tiruvallur district, Tamil Nadu. – Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri A. Krishnaswamy",
+          "mp_code": 206,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Bridges",
+        "Construction",
+        "Dredging",
+        "Fishing"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 59,
+      "title": "Need to expedite construction of a rail over-bridge\r\nat Faizabad, U.P.- Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Mitrasen Yadav",
+          "mp_code": 3455,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Accidents",
+        "Project Implementation",
+        "Road Traffic",
+        "Railway Over Bridge"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 58,
+      "title": "Need for construction of an over-bridge at railway\r\ncrossing in Bihta area of Patna Parliamentary Constituency, Bihar. – Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Ram Kripal Yadav",
+          "mp_code": 3832,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Over Bridge"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 57,
+      "title": "Need to rehabilitate people belonging\r\nto minority community affected by devastating fire in Chail Parliamentary\r\nConstituency, U.P.- Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Shailendra Kumar",
+          "mp_code": 3870,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Rehabilitation",
+        "Slum Dwellers"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 56,
+      "title": "Need to re-introduce Airbus A-320 between Agartala\r\nand Kolkata. – Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Khagen Das",
+          "mp_code": 3957,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Civil Aviation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 55,
+      "title": "Need to provide Central assistance to the Government\r\nof Maharashtra to meet the drought situation in the State. – Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Raosaheb Patil Danve",
+          "mp_code": 316,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Drought Relief",
+        "Natural Calamities",
+        "Central Government Grants"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 54,
+      "title": "Need to expedite gauge conversion work between\r\nBalaghat and Gondia in Madhya Pradesh and also construct a broad gauge\r\nrail line between Katangi and Tirohi after survey. –Laid",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Gauri Shankar Chaturbhuj Bisen",
+          "mp_code": 3847,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Project Implementation",
+        "Railway Projects",
+        "Delay"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 53,
+      "title": "Need to release funds for providing relief to\r\nthe people affected by cyclone in Araria, Bihar.- Laid",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sukdeo Paswan",
+          "mp_code": 298,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Death",
+        "Landless",
+        "Natural Calamities",
+        "Financial Assistance"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 52,
+      "title": "Need to extend the period of exemption\r\nof excise duty on cement and steel being used for reconstruction of damaged\r\nhouses due to earthquake in Gujarat. – Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Pushpdan Shambhudan Gadhavi",
+          "mp_code": 124,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Construction",
+        "Government Policy",
+        "Housing",
+        "Natural Calamities",
+        "Raw Materials",
+        "Taxation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 51,
+      "title": "Need to look into the problems of the refugees\r\nin Jammu and Kashmir. – Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Madan Lal Sharma",
+          "mp_code": 4047,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Land Settlement",
+        "Landless",
+        "Rehabilitation",
+        "Relief"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 50,
+      "title": "Need to revive Prime Minister’s Grant\r\nProject and release adequate funds to the ‘Mumbai Repair and Reconstruction\r\nBoard’.- Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Milind Murli Deora",
+          "mp_code": 4052,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Buildings",
+        "Fund Allocation",
+        "Housing",
+        "Damages"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 49,
+      "title": "Need to make all the railway reservation counters\r\nat Hyderabad functional and open additional railway reservation counters\r\nat Sanat Nagar, Ashif Nagar and Himayat Nagar in Andhra Pradesh. – Laid.",
+      "debate_date": "08/06/2004",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri M. Anjan Kumar Yadav",
+          "mp_code": 4026,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Passenger Amenities",
+        "Railway Bookings"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 48,
+      "title": "Need to ensure the remunerative price for onion\r\nproduced in Rajasthan.",
+      "debate_date": "08/06/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Dr. Karan Singh Yadav",
+          "mp_code": 4059,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Government Policy",
+        "States",
+        "Support Prices",
+        "Crops"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 47,
+      "title": "Regarding sudden cut in power and coal\r\nsupply in Madhya Pradesh by central agencies.",
+      "debate_date": "08/06/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Thawar Chand Gehlot",
+          "mp_code": 137,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Centre-State Relations",
+        "Fuels",
+        "Power Shortage"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 46,
+      "title": "Regarding devastating fire in IOC Terminal at\r\nRajbandh, Durgapur in West Bengal.",
+      "debate_date": "08/06/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Sunil Khan",
+          "mp_code": 193,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Accidents",
+        "Safety Measures"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 45,
+      "title": "Regarding take-over of Bharat Pumps and Compressors\r\nLimited by some multinational companies.",
+      "debate_date": "08/06/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Kunwar Rewati Raman Singh",
+          "mp_code": 4172,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Privatisation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 44,
+      "title": "Regarding reported death of jawans of Indian\r\nArmy caused due to the delay in air-strike against Pakistani infiltrators\r\nduring Kargil war.",
+      "debate_date": "08/06/2004",
+      "debate_type": 46,
+      "debate_type_desc": "SPECIAL MENTION",
+      "members": [
+        {
+          "mp_name": "Shri Devendra Prasad Yadav",
+          "mp_code": 525,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Basudeb Acharia",
+          "mp_code": 4,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Mohan Singh",
+          "mp_code": 3604,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Ajay Chakraborty",
+          "mp_code": 67,
+          "mp_part_code": 4
+        }
+      ],
+      "keywords": [
+        "Defence Personnel",
+        "Investigation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 42,
+      "title": "Papers laid on the table by members/ministers.",
+      "debate_date": "08/06/2004",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Shivraj V. Patil",
+          "mp_code": 10002,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Shanker Sinh Vaghela",
+          "mp_code": 497,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Dr. Raghuvansh Prasad Singh",
+          "mp_code": 430,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri Sontosh Mohan Dev",
+          "mp_code": 109,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri K. Rehman Khan",
+          "mp_code": 10003,
+          "mp_part_code": 5
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 41,
+      "title": "Members of newly elected Fourteenth Lok Sabha took the Oath \r\nor subscribed the Affirmation.",
+      "debate_date": "08/06/2004",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 40,
+      "title": "Bills passed by the Houses of Parliament during\r\nthe Fourteenth Session of Thirteenth Lok Sabha and assented to by the President.(Laid on the Table).",
+      "debate_date": "07/06/2004",
+      "debate_type": 3,
+      "debate_type_desc": "ASSENT TO BILLS",
+      "members": [
+        {
+          "mp_name": "Secretary-General",
+          "mp_code": 1100,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 39,
+      "title": "References made to the passing away of Shri Abhaysinh\r\nS. Bhonsle, Member of 12<sup>th</sup> Lok Sabha on 4<sup>th</sup> February,\r\n2004; Shri Bhagirath Bhanwar, Member of 5<sup>th</sup> and 6<sup>th</sup>\r\nLok Sabha on 10<sup>th</sup> February, 2004; Shri Sikander Bakht Member\r\nof 6<sup>th</sup> Lok Sabha and Member of Rajya Sabha , 1990-2002 on 23<sup>rd</sup>\r\nFebruary, 2004; Shri S.B. Chavan, Member of 7<sup>th</sup> and 8<sup>th</sup>\r\nLok Sabh and Member of Rajya Sabha 1988-2002 on 26<sup>th</sup> February,\r\n2004; Shri Gurcharan Singh Tohra, Member of 6<sup>th</sup> Lok Sabha and\r\nMember of Rajya Sabha, 1969-78 and 1980-88 on 1<sup>st</sup> April, 2004; \r\nShri Abdul Shafee, Member of 5<sup>th</sup> Lok Sabha on 26<sup>th</sup>\r\nApril, 2004; Shri A.M. Thomas, Member of 1<sup>st</sup>, 2<sup>nd</sup>\r\nand 3<sup>rd</sup> Lok Sabha on 27<sup>th</sup> April, 2004; Shri N. Gouzagian,\r\nMember of 7<sup>th</sup> Lok Sabha on 11<sup>th</sup> May, 2004 and Shri\r\nE.K. Nayanar, Member of 7<sup>th</sup> Lok Sabha and Chief Minister of\r\nKerela, 1980-81, 1987-91 and 1996-2001 on 19<sup>th</sup> May, 2004.",
+      "debate_date": "07/06/2004",
+      "debate_type": 32,
+      "debate_type_desc": "OBITUARY REFERENCE",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 38,
+      "title": "Announcement regarding tabling of amendments to the Motion \r\nof Thanks on the President’s Address.",
+      "debate_date": "07/06/2004",
+      "debate_type": 2,
+      "debate_type_desc": "ANNOUNCEMENT BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 37,
+      "title": "President’s Address to both the House of Parliament assembled\r\ntogether on 7<sup>th</sup> June, 2004- laid.",
+      "debate_date": "07/06/2004",
+      "debate_type": 55,
+      "debate_type_desc": "PRESIDENT ADDRESS",
+      "members": [
+        {
+          "mp_name": "Secretary-General",
+          "mp_code": 1100,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Act Repealment",
+        "Administrative Reforms",
+        "Afghanistan",
+        "Agricultural Credit",
+        "Agricultural Workers",
+        "Agro-industry",
+        "AIDS",
+        "Army",
+        "Autonomy",
+        "Backward Areas",
+        "Backward Classes",
+        "Bangladesh",
+        "Bhutan",
+        "Black Market",
+        "Myanmar",
+        "Cauvery River",
+        "Centre-State Relations",
+        "Children",
+        "China",
+        "Commission",
+        "Communalism",
+        "Conservation Of Cultural Heritage",
+        "Disease Control",
+        "Drinking Water",
+        "Drought Prone Area Programme",
+        "Dry Land Farming",
+        "Economic Development",
+        "Educational Institutions",
+        "Electoral Reforms",
+        "Employment Opportunities",
+        "Energy Conservation",
+        "Essential Commodities",
+        "Exports",
+        "Family Welfare",
+        "Farmers",
+        "Film Industry",
+        "Flood Control",
+        "Foreign Policy",
+        "Forest Dwellers",
+        "Forest Products",
+        "Gross Domestic Product",
+        "Health",
+        "Higher Education",
+        "Housing",
+        "Immunization",
+        "Indian Council For Social Science Resear",
+        "Industrial Growth",
+        "Integrated Child Development Services",
+        "Inter-State Disputes",
+        "Investments",
+        "Iran",
+        "Iraq",
+        "Irrigation Projects",
+        "Israel",
+        "Jammu & Kashmir",
+        "Japan",
+        "Judgements",
+        "Judiciary",
+        "Labour Laws",
+        "Labour Welfare",
+        "Land Ceiling",
+        "Land Distribution",
+        "Landless",
+        "Legislation",
+        "Maldives",
+        "Malnutrition",
+        "Manufacturing Industries",
+        "Minority Groups",
+        "Natural Gas",
+        "NCERT",
+        "Nepal",
+        "Non-alignment",
+        "Official Languages",
+        "Olympic Games",
+        "Pakistan",
+        "Petroleum",
+        "Sportsman",
+        "Poor",
+        "Private Sector",
+        "Public Sector",
+        "Quota System",
+        "Regional Imbalances",
+        "Religious Places",
+        "Reservation Policy",
+        "Right to Information",
+        "River Linkages",
+        "Rural Development",
+        "SAARC",
+        "Saudi Arabia",
+        "Scheduled Castes",
+        "Scheduled Tribes",
+        "Scholarships",
+        "Science and Technology",
+        "Secularism",
+        "Sri Lanka",
+        "Starvation",
+        "Tamil Language",
+        "Tax Reforms",
+        "Terrorism",
+        "Textile Industry",
+        "Tourism Development",
+        "Trade",
+        "UGC",
+        "Unorganized Labour",
+        "Urdu Language",
+        "USA",
+        "Value Added Tax",
+        "Vocational Education",
+        "Wages",
+        "Wasteland",
+        "Women",
+        "Russia",
+        "Ram Janma-bhumi Babri Masjid",
+        "Political Dialogue",
+        "Panchayati Raj",
+        "Remunerative Prices",
+        "Disabled",
+        "Indian Council of Historical Research (ICHR)",
+        "Mid-Day-Meal Scheme",
+        "Small Scale Industries (SSI)",
+        "Price Rise",
+        "Non-Resident Indians (NRIs)",
+        "Negotiations",
+        "Poverty Alleviation",
+        "Privatisation",
+        "Delay",
+        "Infrastructure Development",
+        "Cess",
+        "Preservation of Cultural Heritage",
+        "Curriculum",
+        "Water Harvesting",
+        "State Reorganisation",
+        "Courts",
+        "Palestine",
+        "Employment Generation",
+        "Neighbouring Countries",
+        "Railway Safety",
+        "Economic Reforms",
+        "Girl Child",
+        "Gender Discrimination",
+        "Biodiversity",
+        "European Union (EU)",
+        "POTA",
+        "Senior Citizens",
+        "Common Minimum Programme"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 36,
+      "title": "Members of newly elected Fourteenth Lok Sabha took the Oath\r\nor subscribed the Affirmation.",
+      "debate_date": "07/06/2004",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 35,
+      "title": "Members of the newly formed Council of Ministers\r\nwere introduced to the House by the Prime Minister.",
+      "debate_date": "04/06/2004",
+      "debate_type": 19,
+      "debate_type_desc": "INTRODUCTION OF MINISTERS",
+      "members": [
+        {
+          "mp_name": "Dr. Manmohan Singh",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 34,
+      "title": "Mr. Speaker introduced the Prime Minister, the\r\nLeader of the House and the Leader of the Opposition to the House of Fourteenth\r\nLok Sabha.",
+      "debate_date": "04/06/2004",
+      "debate_type": 60,
+      "debate_type_desc": "WHO`S WHO",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Lal Krishna Advani",
+          "mp_code": 9,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 33,
+      "title": "Felicitations to Shri Somnath Chatterjee on his\r\nelection as the Speaker of Fourteenth Lok Sabha.",
+      "debate_date": "04/06/2004",
+      "debate_type": 13,
+      "debate_type_desc": "FELICITATIONS",
+      "members": [
+        {
+          "mp_name": "Dr. Manmohan Singh",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Pranab Mukherjee",
+          "mp_code": 4195,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Lal Krishna Advani",
+          "mp_code": 9,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Smt. Sonia Gandhi",
+          "mp_code": 130,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Atal Bihari Vajpayee",
+          "mp_code": 499,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Basudeb Acharia",
+          "mp_code": 4,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Prof. Ram Gopal Yadav",
+          "mp_code": 4201,
+          "mp_part_code": 7
+        },
+        {
+          "mp_name": "Shri  Lalu Prasad",
+          "mp_code": 2439,
+          "mp_part_code": 8
+        },
+        {
+          "mp_name": "Kumari  Mayawati",
+          "mp_code": 245,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Shri C. Kuppusami",
+          "mp_code": 212,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Chandrakant Bhaurao Khaire",
+          "mp_code": 189,
+          "mp_part_code": 11
+        },
+        {
+          "mp_name": "Shri Braja Kishore Tripathy",
+          "mp_code": 494,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Shri P.K. Vasudevan Nair",
+          "mp_code": 1278,
+          "mp_part_code": 13
+        },
+        {
+          "mp_name": "Shri Sharad Chandra Govindrao Pawar",
+          "mp_code": 327,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri  Nitish Kumar",
+          "mp_code": 277,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri Sukhdev Singh Dhindsa",
+          "mp_code": 4130,
+          "mp_part_code": 16
+        },
+        {
+          "mp_name": "Prof. M. Ramadass",
+          "mp_code": 4125,
+          "mp_part_code": 17
+        },
+        {
+          "mp_name": "Shri K. Chandra Shekhar Rao",
+          "mp_code": 4083,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Dr. M. Jagannath",
+          "mp_code": 156,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Shri Ram Vilas Paswan",
+          "mp_code": 296,
+          "mp_part_code": 20
+        },
+        {
+          "mp_name": "Shri Purno Agitok Sangma",
+          "mp_code": 394,
+          "mp_part_code": 21
+        },
+        {
+          "mp_name": "Shri Bir Sing Mahato",
+          "mp_code": 224,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Shri Joachim Baxla",
+          "mp_code": 49,
+          "mp_part_code": 23
+        },
+        {
+          "mp_name": "Dr. Arun Kumar Sarma",
+          "mp_code": 3779,
+          "mp_part_code": 24
+        },
+        {
+          "mp_name": "Ms. Mehbooba Mufti",
+          "mp_code": 4111,
+          "mp_part_code": 25
+        },
+        {
+          "mp_name": "Shri Ramdas Athawale",
+          "mp_code": 24,
+          "mp_part_code": 26
+        },
+        {
+          "mp_name": "Shri  Chandra Shekhar",
+          "mp_code": 72,
+          "mp_part_code": 27
+        },
+        {
+          "mp_name": "Shri H.D. Devegowda",
+          "mp_code": 3960,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Shri Shibu Soren",
+          "mp_code": 2917,
+          "mp_part_code": 29
+        },
+        {
+          "mp_name": "Shri Asaduddin Owaisi",
+          "mp_code": 4091,
+          "mp_part_code": 30
+        },
+        {
+          "mp_name": "Shri P.C. Thomas",
+          "mp_code": 486,
+          "mp_part_code": 31
+        },
+        {
+          "mp_name": "Shri K. Francis George",
+          "mp_code": 138,
+          "mp_part_code": 32
+        },
+        {
+          "mp_name": "Shri Sansuma Khunggur Bwiswmuthiary",
+          "mp_code": 66,
+          "mp_part_code": 33
+        },
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 34
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 32,
+      "title": "Motion for election\r\nof speaker moved by Smt. Sonia Gandhi and seconded by Shri Pranab Mukherjee. Motion adopted. Shri Somnath Chatterjee  chosen as the Speaker.",
+      "debate_date": "04/06/2004",
+      "debate_type": 58,
+      "debate_type_desc": "ELECTION OF SPEAKER/DY. SPEAKER",
+      "members": [
+        {
+          "mp_name": "Shri Balasaheb Vikhe Patil",
+          "mp_code": 313,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 31,
+      "title": "Members of newly elected Fourteenth Lok Sabha\r\ntook the oath or made the affirmation.",
+      "debate_date": "04/06/2004",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri Balasaheb Vikhe Patil",
+          "mp_code": 313,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 30,
+      "title": "Newly elected members of 14<sup>th</sup> Lok Sabha took\r\nthe oath or made the affirmation (Contd.)",
+      "debate_date": "03/06/2004",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Mr.  Speaker Protem (Shri Somnath Chatterjee)",
+          "mp_code": 1101,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 29,
+      "title": "List of Officers of Lok Sabha.",
+      "debate_date": "03/06/2004",
+      "debate_type": 60,
+      "debate_type_desc": "WHO`S WHO",
+      "members": [],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 13,
+      "title": "Newly elected members of 14th Lok Sabha took the oath or subscribed the\r\n\r\n affirmation.",
+      "debate_date": "02/06/2004",
+      "debate_type": 31,
+      "debate_type_desc": "OATH OR AFFIRMATION",
+      "members": [
+        {
+          "mp_name": "Shri Somnath Chatterjee",
+          "mp_code": 73,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 12,
+      "title": "Regarding resignation of Shri\r\n\r\n Mulayam Singh Yadav from Mainpuri parliamentary constituency, Uttar Pradesh \r\n\r\nwith effect from 25th May,\r\n\r\n2004.",
+      "debate_date": "02/06/2004",
+      "debate_type": 44,
+      "debate_type_desc": "RESIGNATION AND VACATION OF SEAT BY  MEMBERS",
+      "members": [
+        {
+          "mp_name": "Mr.  Speaker Protem (Shri Somnath Chatterjee)",
+          "mp_code": 1101,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 11,
+      "title": "Regarding nomination of the members as members of the Panel of Chairmen.",
+      "debate_date": "02/06/2004",
+      "debate_type": 61,
+      "debate_type_desc": "PANEL OF CHAIRMEN",
+      "members": [
+        {
+          "mp_name": "Mr.  Speaker Protem (Shri Somnath Chatterjee)",
+          "mp_code": 1101,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 10,
+      "title": "A list of Members elected to 14<sup>th</sup>\r\n\r\nLok Sabha was laid on the Table of the House.",
+      "debate_date": "02/06/2004",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Secretary-General",
+          "mp_code": 1100,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 9,
+      "title": "Mr. Speaker welcomed the members elected to the Fourteenth Lok\r\n\r\nSabha.",
+      "debate_date": "02/06/2004",
+      "debate_type": 13,
+      "debate_type_desc": "FELICITATIONS",
+      "members": [
+        {
+          "mp_name": "Mr.  Speaker Protem (Shri Somnath Chatterjee)",
+          "mp_code": 1101,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 8,
+      "title": "Newly-elected Members of 14<sup>th</sup>\r\n\r\nLok Sabha stood in silence for a short while before the proceedings began.",
+      "debate_date": "02/06/2004",
+      "debate_type": 60,
+      "debate_type_desc": "WHO`S WHO",
+      "members": [
+        {
+          "mp_name": "Mr.  Speaker Protem (Shri Somnath Chatterjee)",
+          "mp_code": 1101,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 14,
+      "session": 1,
+      "db_slno": 7,
+      "title": "Alphabetical List of\r\n\r\n Officers of Lok Sabha and Council of Ministers of Fourteenth Lok Sabha. (Laid on the Table)",
+      "debate_date": "02/06/2004",
+      "debate_type": 60,
+      "debate_type_desc": "WHO`S WHO",
+      "members": [],
+      "keywords": []
+    }
+  ],
+  "count": 76,
+  "house": "ls",
+  "bucket": "ls-LS14-S1"
+}

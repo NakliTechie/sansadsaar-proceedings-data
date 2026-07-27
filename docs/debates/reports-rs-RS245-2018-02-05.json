@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 245,
+      "date": "05/02/2018",
+      "date_iso": "2018-02-05",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/245/F05.02.2018.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 245 · 05/02/2018"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS245-2018-02-05"
+}

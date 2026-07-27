@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.DS_Store
+docs/debates/pdfs/
+docs/debates/text/
+docs/questions/pdfs/
+docs/questions/text/
+# build_netas.py output. We commit docs/netas-data.tar.gz (the consumer
+# fetches that), not the ~16k unpacked per-MP files — those would push
+# us past CF Workers Static Assets' 20k-file cap.
+docs/netas/
+
+# Local venv for running the builders by hand (see plan/ for the migration).
+.venv/

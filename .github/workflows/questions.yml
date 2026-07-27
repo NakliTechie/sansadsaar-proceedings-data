@@ -1,0 +1,120 @@
+name: Questions extract and derive
+
+# Hourly extract-then-derive in a SINGLE job. The extract phase pulls
+# per-question PDFs and produces transient text/ls/<fid>.txt files
+# (gitignored). The derive phase, running in the same job before the
+# runner is destroyed, bundles those into committed texts-NN.json
+# shards — otherwise the .txt files vanish between workflows and no
+# new bodies ever land. Walks are owned by questions-walk.yml (every
+# 6h) so this hourly run can devote its full 900s budget to extract.
+#
+# Politeness budget (plan/questions-recon-001.md §"Politeness budget"):
+# per-burst ≤50, ≥1-hour gaps (this is hourly). LS bumped to 500/burst
+# for the active backfill — see TEMP comment below. Per-PDF cost is
+# ~250-500 ms (download + pypdf extract on 2-page typeset PDFs); 500
+# takes ~4 min sustained across 4 workers.
+#
+# Off-cluster from LC (02/06/10/14/18/22 at :01), FC (01/05/09/13/17/21
+# at :01), and debates (every 2h at :23). Questions fires at :47 every
+# hour starting at 00:47 UTC.
+
+on:
+  schedule:
+    - cron: '47 * * * *'
+  workflow_dispatch:
+    inputs:
+      lok_sabhas:
+        description: 'LS terms (CSV, default = LS-15..18). Affects walk only — extract uses already-walked records.'
+        default: '15,16,17,18'
+      max_extractions:
+        description: 'Max LS records to extract this run. Keep ≤50 per Politeness policy in steady state.'
+        default: '500'
+      max_rs_extractions:
+        description: 'Max RS bundle PDFs to extract this run. Keep ≤25 per Politeness policy (bundles are heavier than LS per-Q PDFs).'
+        default: '25'
+      max_run_seconds:
+        description: 'Hard wall-clock cap (seconds)'
+        default: '900'
+
+permissions:
+  contents: write
+
+concurrency:
+  # Don't let two questions runs overlap. Independent of other corpora's
+  # groups so all corpora can run concurrently. Also coordinated with
+  # questions-walk via the same group so a walk and an extract don't
+  # race on the same checkout.
+  group: questions
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Configure git identity for in-flight checkpoint commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Extract bodies from existing records
+        # phase_extract uses the report shards committed by questions-walk.yml.
+        # Produces transient text/ls/<fid>.txt files used by the derive step
+        # below before the runner is destroyed.
+        env:
+          BUILD_PHASE:                'extract'
+          LOK_SABHAS:                 ${{ inputs.lok_sabhas         || '15,16,17,18' }}
+          # TEMP backfill mode: cap raised 50→500 to clear the LS bodies
+          # backlog (~243K). ~50 MB/burst, ~4 min wall time, still well
+          # under the 900s budget. Revert to '50' once ls_with_text in
+          # docs/questions/audit.json approaches ls_records.
+          MAX_EXTRACTIONS_PER_RUN:    ${{ inputs.max_extractions    || '500' }}
+          MAX_RS_EXTRACTIONS_PER_RUN: ${{ inputs.max_rs_extractions || '25' }}
+          MAX_RUN_SECONDS:            ${{ inputs.max_run_seconds    || '900' }}
+          EXTRACT_WORKERS:            '4'
+          JITTER_MIN_MS:              '250'
+          JITTER_MAX_MS:              '500'
+        run: python build_questions.py
+
+      - name: Derive (bundle text shards + manifest + audit + search)
+        # Must run in the SAME job as extract — text/ls/ is gitignored, so
+        # the .txt files extract just produced live only on this runner. This
+        # is the only derive path: the standalone questions-derive.yml backstop
+        # was retired 2026-05-28 (it ran without text/ files, so it could only
+        # rebuild empty/partial derived artifacts — and left manifest.json
+        # unstaged, breaking its own push-rebase loop). meta/audit stay current
+        # because this extract+derive runs hourly vs the 6h walk cadence.
+        env:
+          BUILD_PHASE: 'derive'
+        run: python build_questions.py
+
+      - name: Commit and push (primary + derived)
+        # `docs/questions/` covers reports shards, manifest, markers,
+        # meta, audit, texts-NN.json, search-bundle, search-index.
+        # Gitignored `pdfs/` and `text/` won't be picked up by `git add`.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/questions/
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "Auto-extract+derive questions [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "attempt $attempt failed; retrying"
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          echo "exceeded 5 push attempts; giving up — next run will catch up"
+          exit 1

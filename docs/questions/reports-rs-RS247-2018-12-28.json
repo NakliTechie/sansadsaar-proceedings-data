@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 247,
+      "date_iso": "2018-12-28",
+      "date": "28/12/2018",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/247/20181228_28.12.18 ES.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 247 · 28/12/2018 · Starred"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS247-2018-12-28"
+}

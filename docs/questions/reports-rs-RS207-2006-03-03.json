@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 207,
+      "date_iso": "2006-03-03",
+      "date": "03/03/2006",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/207/200633_sq03032006.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 207 · 03/03/2006 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 207,
+      "date_iso": "2006-03-03",
+      "date": "03/03/2006",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/207/200633_3.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 207 · 03/03/2006 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS207-2006-03-03"
+}

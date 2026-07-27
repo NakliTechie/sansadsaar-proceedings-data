@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 205,
+      "date_iso": "2005-08-17",
+      "date": "17/08/2005",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/205/2005817_sq17082005.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 205 · 17/08/2005 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 205,
+      "date_iso": "2005-08-17",
+      "date": "17/08/2005",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/205/2005817_17.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 205 · 17/08/2005 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS205-2005-08-17"
+}

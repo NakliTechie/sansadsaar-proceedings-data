@@ -1,0 +1,7899 @@
+{
+  "shard_size_target_bytes": 4500000,
+  "fallback_threshold_bytes": 10000000,
+  "r2_origin": null,
+  "schema": 2,
+  "totals": {
+    "records_with_text": 121642,
+    "shards": 1576,
+    "r2_fallback": 0,
+    "total_text_bytes": 0,
+    "missing_files": 0,
+    "skipped_oversize_no_r2": 0,
+    "from_existing_shards": 121642,
+    "txt_files_removed": 0
+  },
+  "shard_stride": 250,
+  "shards": [
+    {
+      "file": "texts-ls-LS16-S10-0000.json",
+      "count": 244,
+      "bytes": 1070115
+    },
+    {
+      "file": "texts-ls-LS16-S10-0001.json",
+      "count": 242,
+      "bytes": 1134238
+    },
+    {
+      "file": "texts-ls-LS16-S10-0002.json",
+      "count": 228,
+      "bytes": 853759
+    },
+    {
+      "file": "texts-ls-LS16-S10-0003.json",
+      "count": 249,
+      "bytes": 1201879
+    },
+    {
+      "file": "texts-ls-LS16-S10-0004.json",
+      "count": 245,
+      "bytes": 1100222
+    },
+    {
+      "file": "texts-ls-LS16-S10-0005.json",
+      "count": 239,
+      "bytes": 787745
+    },
+    {
+      "file": "texts-ls-LS16-S10-0006.json",
+      "count": 228,
+      "bytes": 783875
+    },
+    {
+      "file": "texts-ls-LS16-S10-0007.json",
+      "count": 238,
+      "bytes": 994200
+    },
+    {
+      "file": "texts-ls-LS16-S10-0008.json",
+      "count": 244,
+      "bytes": 1139005
+    },
+    {
+      "file": "texts-ls-LS16-S10-0009.json",
+      "count": 246,
+      "bytes": 845620
+    },
+    {
+      "file": "texts-ls-LS16-S10-0010.json",
+      "count": 225,
+      "bytes": 873895
+    },
+    {
+      "file": "texts-ls-LS16-S10-0011.json",
+      "count": 216,
+      "bytes": 711024
+    },
+    {
+      "file": "texts-ls-LS16-S10-0012.json",
+      "count": 249,
+      "bytes": 909962
+    },
+    {
+      "file": "texts-ls-LS16-S10-0013.json",
+      "count": 242,
+      "bytes": 1079124
+    },
+    {
+      "file": "texts-ls-LS16-S10-0014.json",
+      "count": 246,
+      "bytes": 821992
+    },
+    {
+      "file": "texts-ls-LS16-S10-0015.json",
+      "count": 233,
+      "bytes": 831291
+    },
+    {
+      "file": "texts-ls-LS16-S10-0016.json",
+      "count": 238,
+      "bytes": 611169
+    },
+    {
+      "file": "texts-ls-LS16-S10-0017.json",
+      "count": 248,
+      "bytes": 1139164
+    },
+    {
+      "file": "texts-ls-LS16-S10-0018.json",
+      "count": 230,
+      "bytes": 739126
+    },
+    {
+      "file": "texts-ls-LS16-S10-0019.json",
+      "count": 224,
+      "bytes": 789582
+    },
+    {
+      "file": "texts-ls-LS16-S10-0020.json",
+      "count": 59,
+      "bytes": 127840
+    },
+    {
+      "file": "texts-ls-LS16-S11-0000.json",
+      "count": 244,
+      "bytes": 1250883
+    },
+    {
+      "file": "texts-ls-LS16-S11-0001.json",
+      "count": 245,
+      "bytes": 1032801
+    },
+    {
+      "file": "texts-ls-LS16-S11-0002.json",
+      "count": 249,
+      "bytes": 1126401
+    },
+    {
+      "file": "texts-ls-LS16-S11-0003.json",
+      "count": 245,
+      "bytes": 925401
+    },
+    {
+      "file": "texts-ls-LS16-S11-0004.json",
+      "count": 241,
+      "bytes": 1492540
+    },
+    {
+      "file": "texts-ls-LS16-S11-0005.json",
+      "count": 222,
+      "bytes": 878511
+    },
+    {
+      "file": "texts-ls-LS16-S11-0006.json",
+      "count": 222,
+      "bytes": 743085
+    },
+    {
+      "file": "texts-ls-LS16-S11-0007.json",
+      "count": 233,
+      "bytes": 882921
+    },
+    {
+      "file": "texts-ls-LS16-S11-0008.json",
+      "count": 242,
+      "bytes": 1070539
+    },
+    {
+      "file": "texts-ls-LS16-S11-0009.json",
+      "count": 225,
+      "bytes": 935752
+    },
+    {
+      "file": "texts-ls-LS16-S11-0010.json",
+      "count": 223,
+      "bytes": 751909
+    },
+    {
+      "file": "texts-ls-LS16-S11-0011.json",
+      "count": 249,
+      "bytes": 932790
+    },
+    {
+      "file": "texts-ls-LS16-S11-0012.json",
+      "count": 245,
+      "bytes": 1128183
+    },
+    {
+      "file": "texts-ls-LS16-S11-0013.json",
+      "count": 245,
+      "bytes": 996773
+    },
+    {
+      "file": "texts-ls-LS16-S11-0014.json",
+      "count": 237,
+      "bytes": 857422
+    },
+    {
+      "file": "texts-ls-LS16-S11-0015.json",
+      "count": 236,
+      "bytes": 841571
+    },
+    {
+      "file": "texts-ls-LS16-S11-0016.json",
+      "count": 248,
+      "bytes": 981778
+    },
+    {
+      "file": "texts-ls-LS16-S11-0017.json",
+      "count": 244,
+      "bytes": 975601
+    },
+    {
+      "file": "texts-ls-LS16-S11-0018.json",
+      "count": 236,
+      "bytes": 869294
+    },
+    {
+      "file": "texts-ls-LS16-S11-0019.json",
+      "count": 217,
+      "bytes": 760808
+    },
+    {
+      "file": "texts-ls-LS16-S11-0020.json",
+      "count": 244,
+      "bytes": 974213
+    },
+    {
+      "file": "texts-ls-LS16-S11-0021.json",
+      "count": 233,
+      "bytes": 774317
+    },
+    {
+      "file": "texts-ls-LS16-S11-0022.json",
+      "count": 225,
+      "bytes": 638149
+    },
+    {
+      "file": "texts-ls-LS16-S11-0023.json",
+      "count": 250,
+      "bytes": 850577
+    },
+    {
+      "file": "texts-ls-LS16-S11-0024.json",
+      "count": 243,
+      "bytes": 936132
+    },
+    {
+      "file": "texts-ls-LS16-S11-0025.json",
+      "count": 190,
+      "bytes": 722142
+    },
+    {
+      "file": "texts-ls-LS16-S12-0000.json",
+      "count": 248,
+      "bytes": 1074173
+    },
+    {
+      "file": "texts-ls-LS16-S12-0001.json",
+      "count": 243,
+      "bytes": 1194520
+    },
+    {
+      "file": "texts-ls-LS16-S12-0002.json",
+      "count": 245,
+      "bytes": 1313729
+    },
+    {
+      "file": "texts-ls-LS16-S12-0003.json",
+      "count": 213,
+      "bytes": 875922
+    },
+    {
+      "file": "texts-ls-LS16-S12-0004.json",
+      "count": 232,
+      "bytes": 869291
+    },
+    {
+      "file": "texts-ls-LS16-S12-0005.json",
+      "count": 246,
+      "bytes": 1541589
+    },
+    {
+      "file": "texts-ls-LS16-S12-0006.json",
+      "count": 244,
+      "bytes": 874393
+    },
+    {
+      "file": "texts-ls-LS16-S12-0007.json",
+      "count": 232,
+      "bytes": 800354
+    },
+    {
+      "file": "texts-ls-LS16-S12-0008.json",
+      "count": 224,
+      "bytes": 787336
+    },
+    {
+      "file": "texts-ls-LS16-S12-0009.json",
+      "count": 244,
+      "bytes": 821224
+    },
+    {
+      "file": "texts-ls-LS16-S12-0010.json",
+      "count": 245,
+      "bytes": 953760
+    },
+    {
+      "file": "texts-ls-LS16-S12-0011.json",
+      "count": 249,
+      "bytes": 1017004
+    },
+    {
+      "file": "texts-ls-LS16-S12-0012.json",
+      "count": 213,
+      "bytes": 843570
+    },
+    {
+      "file": "texts-ls-LS16-S12-0013.json",
+      "count": 223,
+      "bytes": 712489
+    },
+    {
+      "file": "texts-ls-LS16-S12-0014.json",
+      "count": 248,
+      "bytes": 891060
+    },
+    {
+      "file": "texts-ls-LS16-S12-0015.json",
+      "count": 242,
+      "bytes": 753988
+    },
+    {
+      "file": "texts-ls-LS16-S12-0016.json",
+      "count": 222,
+      "bytes": 719977
+    },
+    {
+      "file": "texts-ls-LS16-S12-0017.json",
+      "count": 114,
+      "bytes": 366946
+    },
+    {
+      "file": "texts-ls-LS16-S13-0000.json",
+      "count": 249,
+      "bytes": 1125415
+    },
+    {
+      "file": "texts-ls-LS16-S13-0001.json",
+      "count": 245,
+      "bytes": 1088653
+    },
+    {
+      "file": "texts-ls-LS16-S13-0002.json",
+      "count": 245,
+      "bytes": 1011187
+    },
+    {
+      "file": "texts-ls-LS16-S13-0003.json",
+      "count": 239,
+      "bytes": 790387
+    },
+    {
+      "file": "texts-ls-LS16-S13-0004.json",
+      "count": 212,
+      "bytes": 784128
+    },
+    {
+      "file": "texts-ls-LS16-S13-0005.json",
+      "count": 239,
+      "bytes": 829508
+    },
+    {
+      "file": "texts-ls-LS16-S13-0006.json",
+      "count": 237,
+      "bytes": 860465
+    },
+    {
+      "file": "texts-ls-LS16-S13-0007.json",
+      "count": 221,
+      "bytes": 937293
+    },
+    {
+      "file": "texts-ls-LS16-S13-0008.json",
+      "count": 244,
+      "bytes": 953009
+    },
+    {
+      "file": "texts-ls-LS16-S13-0009.json",
+      "count": 245,
+      "bytes": 1120239
+    },
+    {
+      "file": "texts-ls-LS16-S13-0010.json",
+      "count": 250,
+      "bytes": 948339
+    },
+    {
+      "file": "texts-ls-LS16-S13-0011.json",
+      "count": 223,
+      "bytes": 753175
+    },
+    {
+      "file": "texts-ls-LS16-S13-0012.json",
+      "count": 207,
+      "bytes": 688071
+    },
+    {
+      "file": "texts-ls-LS16-S14-0000.json",
+      "count": 247,
+      "bytes": 1144660
+    },
+    {
+      "file": "texts-ls-LS16-S14-0001.json",
+      "count": 249,
+      "bytes": 1020459
+    },
+    {
+      "file": "texts-ls-LS16-S14-0002.json",
+      "count": 244,
+      "bytes": 929109
+    },
+    {
+      "file": "texts-ls-LS16-S14-0003.json",
+      "count": 239,
+      "bytes": 753937
+    },
+    {
+      "file": "texts-ls-LS16-S14-0004.json",
+      "count": 230,
+      "bytes": 853771
+    },
+    {
+      "file": "texts-ls-LS16-S14-0005.json",
+      "count": 242,
+      "bytes": 970555
+    },
+    {
+      "file": "texts-ls-LS16-S14-0006.json",
+      "count": 235,
+      "bytes": 914559
+    },
+    {
+      "file": "texts-ls-LS16-S14-0007.json",
+      "count": 243,
+      "bytes": 983756
+    },
+    {
+      "file": "texts-ls-LS16-S14-0008.json",
+      "count": 235,
+      "bytes": 903434
+    },
+    {
+      "file": "texts-ls-LS16-S14-0009.json",
+      "count": 235,
+      "bytes": 881627
+    },
+    {
+      "file": "texts-ls-LS16-S14-0010.json",
+      "count": 249,
+      "bytes": 1123533
+    },
+    {
+      "file": "texts-ls-LS16-S14-0011.json",
+      "count": 234,
+      "bytes": 1232887
+    },
+    {
+      "file": "texts-ls-LS16-S14-0012.json",
+      "count": 249,
+      "bytes": 873163
+    },
+    {
+      "file": "texts-ls-LS16-S14-0013.json",
+      "count": 220,
+      "bytes": 852016
+    },
+    {
+      "file": "texts-ls-LS16-S14-0014.json",
+      "count": 238,
+      "bytes": 943681
+    },
+    {
+      "file": "texts-ls-LS16-S14-0015.json",
+      "count": 244,
+      "bytes": 1359611
+    },
+    {
+      "file": "texts-ls-LS16-S14-0016.json",
+      "count": 243,
+      "bytes": 1129490
+    },
+    {
+      "file": "texts-ls-LS16-S14-0017.json",
+      "count": 236,
+      "bytes": 911344
+    },
+    {
+      "file": "texts-ls-LS16-S14-0018.json",
+      "count": 226,
+      "bytes": 717208
+    },
+    {
+      "file": "texts-ls-LS16-S14-0019.json",
+      "count": 248,
+      "bytes": 1058189
+    },
+    {
+      "file": "texts-ls-LS16-S14-0020.json",
+      "count": 233,
+      "bytes": 913846
+    },
+    {
+      "file": "texts-ls-LS16-S14-0021.json",
+      "count": 247,
+      "bytes": 813631
+    },
+    {
+      "file": "texts-ls-LS16-S14-0022.json",
+      "count": 250,
+      "bytes": 897337
+    },
+    {
+      "file": "texts-ls-LS16-S14-0023.json",
+      "count": 224,
+      "bytes": 834099
+    },
+    {
+      "file": "texts-ls-LS16-S14-0024.json",
+      "count": 243,
+      "bytes": 980306
+    },
+    {
+      "file": "texts-ls-LS16-S14-0025.json",
+      "count": 231,
+      "bytes": 860717
+    },
+    {
+      "file": "texts-ls-LS16-S14-0026.json",
+      "count": 160,
+      "bytes": 697634
+    },
+    {
+      "file": "texts-ls-LS16-S15-0000.json",
+      "count": 246,
+      "bytes": 1317654
+    },
+    {
+      "file": "texts-ls-LS16-S15-0001.json",
+      "count": 229,
+      "bytes": 991519
+    },
+    {
+      "file": "texts-ls-LS16-S15-0002.json",
+      "count": 241,
+      "bytes": 1116922
+    },
+    {
+      "file": "texts-ls-LS16-S15-0003.json",
+      "count": 241,
+      "bytes": 1026111
+    },
+    {
+      "file": "texts-ls-LS16-S15-0004.json",
+      "count": 232,
+      "bytes": 1180182
+    },
+    {
+      "file": "texts-ls-LS16-S15-0005.json",
+      "count": 237,
+      "bytes": 787548
+    },
+    {
+      "file": "texts-ls-LS16-S15-0006.json",
+      "count": 231,
+      "bytes": 821048
+    },
+    {
+      "file": "texts-ls-LS16-S15-0007.json",
+      "count": 244,
+      "bytes": 971982
+    },
+    {
+      "file": "texts-ls-LS16-S15-0008.json",
+      "count": 230,
+      "bytes": 982827
+    },
+    {
+      "file": "texts-ls-LS16-S15-0009.json",
+      "count": 243,
+      "bytes": 785965
+    },
+    {
+      "file": "texts-ls-LS16-S15-0010.json",
+      "count": 220,
+      "bytes": 871423
+    },
+    {
+      "file": "texts-ls-LS16-S15-0011.json",
+      "count": 229,
+      "bytes": 842996
+    },
+    {
+      "file": "texts-ls-LS16-S15-0012.json",
+      "count": 246,
+      "bytes": 1002169
+    },
+    {
+      "file": "texts-ls-LS16-S15-0013.json",
+      "count": 225,
+      "bytes": 884664
+    },
+    {
+      "file": "texts-ls-LS16-S15-0014.json",
+      "count": 246,
+      "bytes": 831197
+    },
+    {
+      "file": "texts-ls-LS16-S15-0015.json",
+      "count": 225,
+      "bytes": 721444
+    },
+    {
+      "file": "texts-ls-LS16-S15-0016.json",
+      "count": 129,
+      "bytes": 466994
+    },
+    {
+      "file": "texts-ls-LS16-S16-0000.json",
+      "count": 243,
+      "bytes": 1260624
+    },
+    {
+      "file": "texts-ls-LS16-S16-0001.json",
+      "count": 238,
+      "bytes": 1051009
+    },
+    {
+      "file": "texts-ls-LS16-S16-0002.json",
+      "count": 209,
+      "bytes": 1480232
+    },
+    {
+      "file": "texts-ls-LS16-S16-0003.json",
+      "count": 237,
+      "bytes": 1032880
+    },
+    {
+      "file": "texts-ls-LS16-S16-0004.json",
+      "count": 241,
+      "bytes": 1178632
+    },
+    {
+      "file": "texts-ls-LS16-S16-0005.json",
+      "count": 237,
+      "bytes": 1050284
+    },
+    {
+      "file": "texts-ls-LS16-S16-0006.json",
+      "count": 231,
+      "bytes": 938769
+    },
+    {
+      "file": "texts-ls-LS16-S16-0007.json",
+      "count": 215,
+      "bytes": 802495
+    },
+    {
+      "file": "texts-ls-LS16-S16-0008.json",
+      "count": 246,
+      "bytes": 1036189
+    },
+    {
+      "file": "texts-ls-LS16-S16-0009.json",
+      "count": 249,
+      "bytes": 816740
+    },
+    {
+      "file": "texts-ls-LS16-S16-0010.json",
+      "count": 223,
+      "bytes": 860040
+    },
+    {
+      "file": "texts-ls-LS16-S16-0011.json",
+      "count": 231,
+      "bytes": 935240
+    },
+    {
+      "file": "texts-ls-LS16-S16-0012.json",
+      "count": 246,
+      "bytes": 1095797
+    },
+    {
+      "file": "texts-ls-LS16-S16-0013.json",
+      "count": 227,
+      "bytes": 811122
+    },
+    {
+      "file": "texts-ls-LS16-S16-0014.json",
+      "count": 237,
+      "bytes": 921292
+    },
+    {
+      "file": "texts-ls-LS16-S16-0015.json",
+      "count": 204,
+      "bytes": 746961
+    },
+    {
+      "file": "texts-ls-LS16-S16-0016.json",
+      "count": 213,
+      "bytes": 908307
+    },
+    {
+      "file": "texts-ls-LS16-S16-0017.json",
+      "count": 206,
+      "bytes": 884464
+    },
+    {
+      "file": "texts-ls-LS16-S16-0018.json",
+      "count": 67,
+      "bytes": 367703
+    },
+    {
+      "file": "texts-ls-LS16-S17-0000.json",
+      "count": 244,
+      "bytes": 1056050
+    },
+    {
+      "file": "texts-ls-LS16-S17-0001.json",
+      "count": 217,
+      "bytes": 1024832
+    },
+    {
+      "file": "texts-ls-LS16-S17-0002.json",
+      "count": 240,
+      "bytes": 865406
+    },
+    {
+      "file": "texts-ls-LS16-S17-0003.json",
+      "count": 216,
+      "bytes": 850409
+    },
+    {
+      "file": "texts-ls-LS16-S17-0004.json",
+      "count": 237,
+      "bytes": 1138250
+    },
+    {
+      "file": "texts-ls-LS16-S17-0005.json",
+      "count": 230,
+      "bytes": 1024030
+    },
+    {
+      "file": "texts-ls-LS16-S17-0006.json",
+      "count": 238,
+      "bytes": 1137821
+    },
+    {
+      "file": "texts-ls-LS16-S17-0007.json",
+      "count": 87,
+      "bytes": 334147
+    },
+    {
+      "file": "texts-ls-LS16-S9-0009.json",
+      "count": 146,
+      "bytes": 566138
+    },
+    {
+      "file": "texts-ls-LS16-S9-0010.json",
+      "count": 231,
+      "bytes": 1007693
+    },
+    {
+      "file": "texts-ls-LS16-S9-0011.json",
+      "count": 244,
+      "bytes": 924331
+    },
+    {
+      "file": "texts-ls-LS16-S9-0012.json",
+      "count": 219,
+      "bytes": 749163
+    },
+    {
+      "file": "texts-ls-LS16-S9-0013.json",
+      "count": 246,
+      "bytes": 740503
+    },
+    {
+      "file": "texts-ls-LS16-S9-0014.json",
+      "count": 246,
+      "bytes": 826061
+    },
+    {
+      "file": "texts-ls-LS16-S9-0015.json",
+      "count": 236,
+      "bytes": 1161044
+    },
+    {
+      "file": "texts-ls-LS16-S9-0016.json",
+      "count": 235,
+      "bytes": 807712
+    },
+    {
+      "file": "texts-ls-LS16-S9-0017.json",
+      "count": 231,
+      "bytes": 870141
+    },
+    {
+      "file": "texts-ls-LS16-S9-0018.json",
+      "count": 98,
+      "bytes": 257298
+    },
+    {
+      "file": "texts-ls-LS17-S1-0000.json",
+      "count": 249,
+      "bytes": 1143809
+    },
+    {
+      "file": "texts-ls-LS17-S1-0001.json",
+      "count": 248,
+      "bytes": 1245560
+    },
+    {
+      "file": "texts-ls-LS17-S1-0002.json",
+      "count": 235,
+      "bytes": 943574
+    },
+    {
+      "file": "texts-ls-LS17-S1-0003.json",
+      "count": 228,
+      "bytes": 880344
+    },
+    {
+      "file": "texts-ls-LS17-S1-0004.json",
+      "count": 231,
+      "bytes": 1046102
+    },
+    {
+      "file": "texts-ls-LS17-S1-0005.json",
+      "count": 247,
+      "bytes": 1087963
+    },
+    {
+      "file": "texts-ls-LS17-S1-0006.json",
+      "count": 227,
+      "bytes": 1115327
+    },
+    {
+      "file": "texts-ls-LS17-S1-0007.json",
+      "count": 242,
+      "bytes": 907343
+    },
+    {
+      "file": "texts-ls-LS17-S1-0008.json",
+      "count": 214,
+      "bytes": 763160
+    },
+    {
+      "file": "texts-ls-LS17-S1-0009.json",
+      "count": 246,
+      "bytes": 1093801
+    },
+    {
+      "file": "texts-ls-LS17-S1-0010.json",
+      "count": 227,
+      "bytes": 1022658
+    },
+    {
+      "file": "texts-ls-LS17-S1-0011.json",
+      "count": 243,
+      "bytes": 980832
+    },
+    {
+      "file": "texts-ls-LS17-S1-0012.json",
+      "count": 221,
+      "bytes": 975832
+    },
+    {
+      "file": "texts-ls-LS17-S1-0013.json",
+      "count": 247,
+      "bytes": 941735
+    },
+    {
+      "file": "texts-ls-LS17-S1-0014.json",
+      "count": 241,
+      "bytes": 1108116
+    },
+    {
+      "file": "texts-ls-LS17-S1-0015.json",
+      "count": 236,
+      "bytes": 773630
+    },
+    {
+      "file": "texts-ls-LS17-S1-0016.json",
+      "count": 232,
+      "bytes": 809397
+    },
+    {
+      "file": "texts-ls-LS17-S1-0017.json",
+      "count": 231,
+      "bytes": 1150357
+    },
+    {
+      "file": "texts-ls-LS17-S1-0018.json",
+      "count": 245,
+      "bytes": 1010841
+    },
+    {
+      "file": "texts-ls-LS17-S1-0019.json",
+      "count": 229,
+      "bytes": 1029282
+    },
+    {
+      "file": "texts-ls-LS17-S1-0020.json",
+      "count": 246,
+      "bytes": 834172
+    },
+    {
+      "file": "texts-ls-LS17-S1-0021.json",
+      "count": 223,
+      "bytes": 920834
+    },
+    {
+      "file": "texts-ls-LS17-S1-0022.json",
+      "count": 211,
+      "bytes": 895530
+    },
+    {
+      "file": "texts-ls-LS17-S10-0000.json",
+      "count": 247,
+      "bytes": 1822198
+    },
+    {
+      "file": "texts-ls-LS17-S10-0001.json",
+      "count": 248,
+      "bytes": 1249668
+    },
+    {
+      "file": "texts-ls-LS17-S10-0002.json",
+      "count": 241,
+      "bytes": 1268484
+    },
+    {
+      "file": "texts-ls-LS17-S10-0003.json",
+      "count": 240,
+      "bytes": 1023010
+    },
+    {
+      "file": "texts-ls-LS17-S10-0004.json",
+      "count": 232,
+      "bytes": 1146060
+    },
+    {
+      "file": "texts-ls-LS17-S10-0005.json",
+      "count": 230,
+      "bytes": 971989
+    },
+    {
+      "file": "texts-ls-LS17-S10-0006.json",
+      "count": 239,
+      "bytes": 1122711
+    },
+    {
+      "file": "texts-ls-LS17-S10-0007.json",
+      "count": 240,
+      "bytes": 1198632
+    },
+    {
+      "file": "texts-ls-LS17-S10-0008.json",
+      "count": 240,
+      "bytes": 1195106
+    },
+    {
+      "file": "texts-ls-LS17-S10-0009.json",
+      "count": 229,
+      "bytes": 1042829
+    },
+    {
+      "file": "texts-ls-LS17-S10-0010.json",
+      "count": 249,
+      "bytes": 990028
+    },
+    {
+      "file": "texts-ls-LS17-S10-0011.json",
+      "count": 11,
+      "bytes": 97675
+    },
+    {
+      "file": "texts-ls-LS17-S11-0000.json",
+      "count": 249,
+      "bytes": 1392425
+    },
+    {
+      "file": "texts-ls-LS17-S11-0001.json",
+      "count": 250,
+      "bytes": 1356059
+    },
+    {
+      "file": "texts-ls-LS17-S11-0002.json",
+      "count": 243,
+      "bytes": 1317531
+    },
+    {
+      "file": "texts-ls-LS17-S11-0003.json",
+      "count": 233,
+      "bytes": 1062242
+    },
+    {
+      "file": "texts-ls-LS17-S11-0004.json",
+      "count": 239,
+      "bytes": 1163763
+    },
+    {
+      "file": "texts-ls-LS17-S11-0005.json",
+      "count": 249,
+      "bytes": 1105961
+    },
+    {
+      "file": "texts-ls-LS17-S11-0006.json",
+      "count": 248,
+      "bytes": 1190512
+    },
+    {
+      "file": "texts-ls-LS17-S11-0007.json",
+      "count": 248,
+      "bytes": 1274867
+    },
+    {
+      "file": "texts-ls-LS17-S11-0008.json",
+      "count": 235,
+      "bytes": 1237281
+    },
+    {
+      "file": "texts-ls-LS17-S11-0009.json",
+      "count": 226,
+      "bytes": 1026822
+    },
+    {
+      "file": "texts-ls-LS17-S11-0010.json",
+      "count": 249,
+      "bytes": 1096544
+    },
+    {
+      "file": "texts-ls-LS17-S11-0011.json",
+      "count": 239,
+      "bytes": 1048586
+    },
+    {
+      "file": "texts-ls-LS17-S11-0012.json",
+      "count": 247,
+      "bytes": 1219321
+    },
+    {
+      "file": "texts-ls-LS17-S11-0013.json",
+      "count": 230,
+      "bytes": 1042738
+    },
+    {
+      "file": "texts-ls-LS17-S11-0014.json",
+      "count": 236,
+      "bytes": 1084704
+    },
+    {
+      "file": "texts-ls-LS17-S11-0015.json",
+      "count": 250,
+      "bytes": 1167077
+    },
+    {
+      "file": "texts-ls-LS17-S11-0016.json",
+      "count": 249,
+      "bytes": 1333196
+    },
+    {
+      "file": "texts-ls-LS17-S11-0017.json",
+      "count": 237,
+      "bytes": 1310249
+    },
+    {
+      "file": "texts-ls-LS17-S11-0018.json",
+      "count": 231,
+      "bytes": 960670
+    },
+    {
+      "file": "texts-ls-LS17-S11-0019.json",
+      "count": 239,
+      "bytes": 929610
+    },
+    {
+      "file": "texts-ls-LS17-S11-0020.json",
+      "count": 249,
+      "bytes": 1303433
+    },
+    {
+      "file": "texts-ls-LS17-S11-0021.json",
+      "count": 234,
+      "bytes": 980190
+    },
+    {
+      "file": "texts-ls-LS17-S11-0022.json",
+      "count": 18,
+      "bytes": 73235
+    },
+    {
+      "file": "texts-ls-LS17-S12-0000.json",
+      "count": 249,
+      "bytes": 1358016
+    },
+    {
+      "file": "texts-ls-LS17-S12-0001.json",
+      "count": 249,
+      "bytes": 1261125
+    },
+    {
+      "file": "texts-ls-LS17-S12-0002.json",
+      "count": 239,
+      "bytes": 1274819
+    },
+    {
+      "file": "texts-ls-LS17-S12-0003.json",
+      "count": 238,
+      "bytes": 1165710
+    },
+    {
+      "file": "texts-ls-LS17-S12-0004.json",
+      "count": 250,
+      "bytes": 1061645
+    },
+    {
+      "file": "texts-ls-LS17-S12-0005.json",
+      "count": 250,
+      "bytes": 1101410
+    },
+    {
+      "file": "texts-ls-LS17-S12-0006.json",
+      "count": 250,
+      "bytes": 1342797
+    },
+    {
+      "file": "texts-ls-LS17-S12-0007.json",
+      "count": 241,
+      "bytes": 1357452
+    },
+    {
+      "file": "texts-ls-LS17-S12-0008.json",
+      "count": 247,
+      "bytes": 1141475
+    },
+    {
+      "file": "texts-ls-LS17-S12-0009.json",
+      "count": 250,
+      "bytes": 1135495
+    },
+    {
+      "file": "texts-ls-LS17-S12-0010.json",
+      "count": 250,
+      "bytes": 1231107
+    },
+    {
+      "file": "texts-ls-LS17-S12-0011.json",
+      "count": 247,
+      "bytes": 1205108
+    },
+    {
+      "file": "texts-ls-LS17-S12-0012.json",
+      "count": 235,
+      "bytes": 1150380
+    },
+    {
+      "file": "texts-ls-LS17-S12-0013.json",
+      "count": 249,
+      "bytes": 1149591
+    },
+    {
+      "file": "texts-ls-LS17-S12-0014.json",
+      "count": 250,
+      "bytes": 1145677
+    },
+    {
+      "file": "texts-ls-LS17-S12-0015.json",
+      "count": 161,
+      "bytes": 774244
+    },
+    {
+      "file": "texts-ls-LS17-S14-0000.json",
+      "count": 248,
+      "bytes": 1612590
+    },
+    {
+      "file": "texts-ls-LS17-S14-0001.json",
+      "count": 242,
+      "bytes": 1242589
+    },
+    {
+      "file": "texts-ls-LS17-S14-0002.json",
+      "count": 250,
+      "bytes": 1111306
+    },
+    {
+      "file": "texts-ls-LS17-S14-0003.json",
+      "count": 245,
+      "bytes": 1203666
+    },
+    {
+      "file": "texts-ls-LS17-S14-0004.json",
+      "count": 247,
+      "bytes": 1288609
+    },
+    {
+      "file": "texts-ls-LS17-S14-0005.json",
+      "count": 237,
+      "bytes": 1374479
+    },
+    {
+      "file": "texts-ls-LS17-S14-0006.json",
+      "count": 241,
+      "bytes": 1107939
+    },
+    {
+      "file": "texts-ls-LS17-S14-0007.json",
+      "count": 250,
+      "bytes": 1292291
+    },
+    {
+      "file": "texts-ls-LS17-S14-0008.json",
+      "count": 245,
+      "bytes": 1199816
+    },
+    {
+      "file": "texts-ls-LS17-S14-0009.json",
+      "count": 237,
+      "bytes": 1326521
+    },
+    {
+      "file": "texts-ls-LS17-S14-0010.json",
+      "count": 210,
+      "bytes": 1147794
+    },
+    {
+      "file": "texts-ls-LS17-S14-0011.json",
+      "count": 201,
+      "bytes": 836094
+    },
+    {
+      "file": "texts-ls-LS17-S14-0012.json",
+      "count": 173,
+      "bytes": 847774
+    },
+    {
+      "file": "texts-ls-LS17-S15-0000.json",
+      "count": 246,
+      "bytes": 1790300
+    },
+    {
+      "file": "texts-ls-LS17-S15-0001.json",
+      "count": 234,
+      "bytes": 1269929
+    },
+    {
+      "file": "texts-ls-LS17-S15-0002.json",
+      "count": 233,
+      "bytes": 1350738
+    },
+    {
+      "file": "texts-ls-LS17-S15-0003.json",
+      "count": 250,
+      "bytes": 1117028
+    },
+    {
+      "file": "texts-ls-LS17-S15-0004.json",
+      "count": 250,
+      "bytes": 1173741
+    },
+    {
+      "file": "texts-ls-LS17-S15-0005.json",
+      "count": 131,
+      "bytes": 837536
+    },
+    {
+      "file": "texts-ls-LS17-S2-0000.json",
+      "count": 249,
+      "bytes": 1183619
+    },
+    {
+      "file": "texts-ls-LS17-S2-0001.json",
+      "count": 240,
+      "bytes": 1168602
+    },
+    {
+      "file": "texts-ls-LS17-S2-0002.json",
+      "count": 234,
+      "bytes": 853172
+    },
+    {
+      "file": "texts-ls-LS17-S2-0003.json",
+      "count": 227,
+      "bytes": 1001236
+    },
+    {
+      "file": "texts-ls-LS17-S2-0004.json",
+      "count": 245,
+      "bytes": 956475
+    },
+    {
+      "file": "texts-ls-LS17-S2-0005.json",
+      "count": 246,
+      "bytes": 859185
+    },
+    {
+      "file": "texts-ls-LS17-S2-0006.json",
+      "count": 236,
+      "bytes": 794382
+    },
+    {
+      "file": "texts-ls-LS17-S2-0007.json",
+      "count": 239,
+      "bytes": 1046972
+    },
+    {
+      "file": "texts-ls-LS17-S2-0008.json",
+      "count": 241,
+      "bytes": 853208
+    },
+    {
+      "file": "texts-ls-LS17-S2-0009.json",
+      "count": 226,
+      "bytes": 982327
+    },
+    {
+      "file": "texts-ls-LS17-S2-0010.json",
+      "count": 246,
+      "bytes": 1130866
+    },
+    {
+      "file": "texts-ls-LS17-S2-0011.json",
+      "count": 225,
+      "bytes": 856665
+    },
+    {
+      "file": "texts-ls-LS17-S2-0012.json",
+      "count": 250,
+      "bytes": 1042958
+    },
+    {
+      "file": "texts-ls-LS17-S2-0013.json",
+      "count": 234,
+      "bytes": 973108
+    },
+    {
+      "file": "texts-ls-LS17-S2-0014.json",
+      "count": 229,
+      "bytes": 1019127
+    },
+    {
+      "file": "texts-ls-LS17-S2-0015.json",
+      "count": 238,
+      "bytes": 854500
+    },
+    {
+      "file": "texts-ls-LS17-S2-0016.json",
+      "count": 232,
+      "bytes": 918774
+    },
+    {
+      "file": "texts-ls-LS17-S2-0017.json",
+      "count": 121,
+      "bytes": 554899
+    },
+    {
+      "file": "texts-ls-LS17-S3-0000.json",
+      "count": 249,
+      "bytes": 1169873
+    },
+    {
+      "file": "texts-ls-LS17-S3-0001.json",
+      "count": 243,
+      "bytes": 1182258
+    },
+    {
+      "file": "texts-ls-LS17-S3-0002.json",
+      "count": 241,
+      "bytes": 886161
+    },
+    {
+      "file": "texts-ls-LS17-S3-0003.json",
+      "count": 219,
+      "bytes": 875308
+    },
+    {
+      "file": "texts-ls-LS17-S3-0004.json",
+      "count": 246,
+      "bytes": 1015639
+    },
+    {
+      "file": "texts-ls-LS17-S3-0005.json",
+      "count": 239,
+      "bytes": 957730
+    },
+    {
+      "file": "texts-ls-LS17-S3-0006.json",
+      "count": 232,
+      "bytes": 967383
+    },
+    {
+      "file": "texts-ls-LS17-S3-0007.json",
+      "count": 228,
+      "bytes": 999885
+    },
+    {
+      "file": "texts-ls-LS17-S3-0008.json",
+      "count": 240,
+      "bytes": 1239680
+    },
+    {
+      "file": "texts-ls-LS17-S3-0009.json",
+      "count": 228,
+      "bytes": 785108
+    },
+    {
+      "file": "texts-ls-LS17-S3-0010.json",
+      "count": 232,
+      "bytes": 1076495
+    },
+    {
+      "file": "texts-ls-LS17-S3-0011.json",
+      "count": 245,
+      "bytes": 794777
+    },
+    {
+      "file": "texts-ls-LS17-S3-0012.json",
+      "count": 217,
+      "bytes": 847155
+    },
+    {
+      "file": "texts-ls-LS17-S3-0013.json",
+      "count": 237,
+      "bytes": 971932
+    },
+    {
+      "file": "texts-ls-LS17-S3-0014.json",
+      "count": 239,
+      "bytes": 844140
+    },
+    {
+      "file": "texts-ls-LS17-S3-0015.json",
+      "count": 235,
+      "bytes": 1011471
+    },
+    {
+      "file": "texts-ls-LS17-S3-0016.json",
+      "count": 237,
+      "bytes": 963367
+    },
+    {
+      "file": "texts-ls-LS17-S3-0017.json",
+      "count": 240,
+      "bytes": 1055859
+    },
+    {
+      "file": "texts-ls-LS17-S3-0018.json",
+      "count": 245,
+      "bytes": 946054
+    },
+    {
+      "file": "texts-ls-LS17-S3-0019.json",
+      "count": 80,
+      "bytes": 262020
+    },
+    {
+      "file": "texts-ls-LS17-S4-0000.json",
+      "count": 234,
+      "bytes": 1091198
+    },
+    {
+      "file": "texts-ls-LS17-S4-0001.json",
+      "count": 235,
+      "bytes": 1139281
+    },
+    {
+      "file": "texts-ls-LS17-S4-0002.json",
+      "count": 239,
+      "bytes": 925044
+    },
+    {
+      "file": "texts-ls-LS17-S4-0003.json",
+      "count": 219,
+      "bytes": 880569
+    },
+    {
+      "file": "texts-ls-LS17-S4-0004.json",
+      "count": 240,
+      "bytes": 1008391
+    },
+    {
+      "file": "texts-ls-LS17-S4-0005.json",
+      "count": 226,
+      "bytes": 1182249
+    },
+    {
+      "file": "texts-ls-LS17-S4-0006.json",
+      "count": 243,
+      "bytes": 1075259
+    },
+    {
+      "file": "texts-ls-LS17-S4-0007.json",
+      "count": 229,
+      "bytes": 1038762
+    },
+    {
+      "file": "texts-ls-LS17-S4-0008.json",
+      "count": 240,
+      "bytes": 1011852
+    },
+    {
+      "file": "texts-ls-LS17-S4-0009.json",
+      "count": 51,
+      "bytes": 223696
+    },
+    {
+      "file": "texts-ls-LS17-S5-0000.json",
+      "count": 246,
+      "bytes": 1434507
+    },
+    {
+      "file": "texts-ls-LS17-S5-0001.json",
+      "count": 244,
+      "bytes": 1110103
+    },
+    {
+      "file": "texts-ls-LS17-S5-0002.json",
+      "count": 221,
+      "bytes": 1109821
+    },
+    {
+      "file": "texts-ls-LS17-S5-0003.json",
+      "count": 245,
+      "bytes": 1261190
+    },
+    {
+      "file": "texts-ls-LS17-S5-0004.json",
+      "count": 219,
+      "bytes": 936332
+    },
+    {
+      "file": "texts-ls-LS17-S5-0005.json",
+      "count": 237,
+      "bytes": 1093432
+    },
+    {
+      "file": "texts-ls-LS17-S5-0006.json",
+      "count": 235,
+      "bytes": 1027610
+    },
+    {
+      "file": "texts-ls-LS17-S5-0007.json",
+      "count": 239,
+      "bytes": 1026394
+    },
+    {
+      "file": "texts-ls-LS17-S5-0008.json",
+      "count": 242,
+      "bytes": 952499
+    },
+    {
+      "file": "texts-ls-LS17-S5-0009.json",
+      "count": 221,
+      "bytes": 1035532
+    },
+    {
+      "file": "texts-ls-LS17-S5-0010.json",
+      "count": 248,
+      "bytes": 1085535
+    },
+    {
+      "file": "texts-ls-LS17-S5-0011.json",
+      "count": 249,
+      "bytes": 894414
+    },
+    {
+      "file": "texts-ls-LS17-S5-0012.json",
+      "count": 238,
+      "bytes": 888139
+    },
+    {
+      "file": "texts-ls-LS17-S5-0013.json",
+      "count": 221,
+      "bytes": 998990
+    },
+    {
+      "file": "texts-ls-LS17-S5-0014.json",
+      "count": 242,
+      "bytes": 1130012
+    },
+    {
+      "file": "texts-ls-LS17-S5-0015.json",
+      "count": 215,
+      "bytes": 918991
+    },
+    {
+      "file": "texts-ls-LS17-S5-0016.json",
+      "count": 245,
+      "bytes": 930558
+    },
+    {
+      "file": "texts-ls-LS17-S5-0017.json",
+      "count": 228,
+      "bytes": 1072858
+    },
+    {
+      "file": "texts-ls-LS17-S5-0018.json",
+      "count": 229,
+      "bytes": 940835
+    },
+    {
+      "file": "texts-ls-LS17-S5-0019.json",
+      "count": 234,
+      "bytes": 1043427
+    },
+    {
+      "file": "texts-ls-LS17-S5-0020.json",
+      "count": 50,
+      "bytes": 196352
+    },
+    {
+      "file": "texts-ls-LS17-S6-0000.json",
+      "count": 246,
+      "bytes": 1334624
+    },
+    {
+      "file": "texts-ls-LS17-S6-0001.json",
+      "count": 230,
+      "bytes": 1443368
+    },
+    {
+      "file": "texts-ls-LS17-S6-0002.json",
+      "count": 219,
+      "bytes": 1014216
+    },
+    {
+      "file": "texts-ls-LS17-S6-0003.json",
+      "count": 246,
+      "bytes": 1148964
+    },
+    {
+      "file": "texts-ls-LS17-S6-0004.json",
+      "count": 232,
+      "bytes": 1060653
+    },
+    {
+      "file": "texts-ls-LS17-S6-0005.json",
+      "count": 235,
+      "bytes": 1197122
+    },
+    {
+      "file": "texts-ls-LS17-S6-0006.json",
+      "count": 234,
+      "bytes": 1190178
+    },
+    {
+      "file": "texts-ls-LS17-S6-0007.json",
+      "count": 240,
+      "bytes": 1175395
+    },
+    {
+      "file": "texts-ls-LS17-S6-0008.json",
+      "count": 241,
+      "bytes": 1228286
+    },
+    {
+      "file": "texts-ls-LS17-S6-0009.json",
+      "count": 219,
+      "bytes": 861398
+    },
+    {
+      "file": "texts-ls-LS17-S6-0010.json",
+      "count": 247,
+      "bytes": 1416470
+    },
+    {
+      "file": "texts-ls-LS17-S6-0011.json",
+      "count": 213,
+      "bytes": 1111304
+    },
+    {
+      "file": "texts-ls-LS17-S6-0012.json",
+      "count": 248,
+      "bytes": 1718308
+    },
+    {
+      "file": "texts-ls-LS17-S6-0013.json",
+      "count": 232,
+      "bytes": 1025614
+    },
+    {
+      "file": "texts-ls-LS17-S6-0014.json",
+      "count": 160,
+      "bytes": 846912
+    },
+    {
+      "file": "texts-ls-LS17-S7-0000.json",
+      "count": 248,
+      "bytes": 1309861
+    },
+    {
+      "file": "texts-ls-LS17-S7-0001.json",
+      "count": 243,
+      "bytes": 1266576
+    },
+    {
+      "file": "texts-ls-LS17-S7-0002.json",
+      "count": 244,
+      "bytes": 1067659
+    },
+    {
+      "file": "texts-ls-LS17-S7-0003.json",
+      "count": 227,
+      "bytes": 1079996
+    },
+    {
+      "file": "texts-ls-LS17-S7-0004.json",
+      "count": 237,
+      "bytes": 1245548
+    },
+    {
+      "file": "texts-ls-LS17-S7-0005.json",
+      "count": 223,
+      "bytes": 1074954
+    },
+    {
+      "file": "texts-ls-LS17-S7-0006.json",
+      "count": 239,
+      "bytes": 1141811
+    },
+    {
+      "file": "texts-ls-LS17-S7-0007.json",
+      "count": 234,
+      "bytes": 980655
+    },
+    {
+      "file": "texts-ls-LS17-S7-0008.json",
+      "count": 229,
+      "bytes": 1055509
+    },
+    {
+      "file": "texts-ls-LS17-S7-0009.json",
+      "count": 240,
+      "bytes": 1163262
+    },
+    {
+      "file": "texts-ls-LS17-S7-0010.json",
+      "count": 235,
+      "bytes": 1154669
+    },
+    {
+      "file": "texts-ls-LS17-S7-0011.json",
+      "count": 246,
+      "bytes": 1073779
+    },
+    {
+      "file": "texts-ls-LS17-S7-0012.json",
+      "count": 211,
+      "bytes": 1129325
+    },
+    {
+      "file": "texts-ls-LS17-S7-0013.json",
+      "count": 238,
+      "bytes": 1192808
+    },
+    {
+      "file": "texts-ls-LS17-S7-0014.json",
+      "count": 233,
+      "bytes": 1314361
+    },
+    {
+      "file": "texts-ls-LS17-S7-0015.json",
+      "count": 142,
+      "bytes": 659331
+    },
+    {
+      "file": "texts-ls-LS17-S8-0000.json",
+      "count": 249,
+      "bytes": 1458593
+    },
+    {
+      "file": "texts-ls-LS17-S8-0001.json",
+      "count": 247,
+      "bytes": 1578050
+    },
+    {
+      "file": "texts-ls-LS17-S8-0002.json",
+      "count": 242,
+      "bytes": 1189934
+    },
+    {
+      "file": "texts-ls-LS17-S8-0003.json",
+      "count": 239,
+      "bytes": 1040846
+    },
+    {
+      "file": "texts-ls-LS17-S8-0004.json",
+      "count": 239,
+      "bytes": 1196070
+    },
+    {
+      "file": "texts-ls-LS17-S8-0005.json",
+      "count": 237,
+      "bytes": 1059674
+    },
+    {
+      "file": "texts-ls-LS17-S8-0006.json",
+      "count": 236,
+      "bytes": 1111949
+    },
+    {
+      "file": "texts-ls-LS17-S8-0007.json",
+      "count": 241,
+      "bytes": 1091173
+    },
+    {
+      "file": "texts-ls-LS17-S8-0008.json",
+      "count": 237,
+      "bytes": 1155390
+    },
+    {
+      "file": "texts-ls-LS17-S8-0009.json",
+      "count": 244,
+      "bytes": 979537
+    },
+    {
+      "file": "texts-ls-LS17-S8-0010.json",
+      "count": 218,
+      "bytes": 1116634
+    },
+    {
+      "file": "texts-ls-LS17-S8-0011.json",
+      "count": 239,
+      "bytes": 1056053
+    },
+    {
+      "file": "texts-ls-LS17-S8-0012.json",
+      "count": 233,
+      "bytes": 1222571
+    },
+    {
+      "file": "texts-ls-LS17-S8-0013.json",
+      "count": 248,
+      "bytes": 995192
+    },
+    {
+      "file": "texts-ls-LS17-S8-0014.json",
+      "count": 222,
+      "bytes": 1023086
+    },
+    {
+      "file": "texts-ls-LS17-S8-0015.json",
+      "count": 244,
+      "bytes": 1135658
+    },
+    {
+      "file": "texts-ls-LS17-S8-0016.json",
+      "count": 239,
+      "bytes": 1076256
+    },
+    {
+      "file": "texts-ls-LS17-S8-0017.json",
+      "count": 231,
+      "bytes": 887576
+    },
+    {
+      "file": "texts-ls-LS17-S8-0018.json",
+      "count": 239,
+      "bytes": 1093817
+    },
+    {
+      "file": "texts-ls-LS17-S8-0019.json",
+      "count": 244,
+      "bytes": 1182756
+    },
+    {
+      "file": "texts-ls-LS17-S8-0020.json",
+      "count": 242,
+      "bytes": 1231150
+    },
+    {
+      "file": "texts-ls-LS17-S8-0021.json",
+      "count": 230,
+      "bytes": 1058897
+    },
+    {
+      "file": "texts-ls-LS17-S8-0022.json",
+      "count": 228,
+      "bytes": 979833
+    },
+    {
+      "file": "texts-ls-LS17-S8-0023.json",
+      "count": 1,
+      "bytes": 4550
+    },
+    {
+      "file": "texts-ls-LS17-S9-0000.json",
+      "count": 248,
+      "bytes": 1466229
+    },
+    {
+      "file": "texts-ls-LS17-S9-0001.json",
+      "count": 243,
+      "bytes": 1419934
+    },
+    {
+      "file": "texts-ls-LS17-S9-0002.json",
+      "count": 223,
+      "bytes": 1056510
+    },
+    {
+      "file": "texts-ls-LS17-S9-0003.json",
+      "count": 218,
+      "bytes": 1136950
+    },
+    {
+      "file": "texts-ls-LS17-S9-0004.json",
+      "count": 235,
+      "bytes": 1108587
+    },
+    {
+      "file": "texts-ls-LS17-S9-0005.json",
+      "count": 235,
+      "bytes": 1170295
+    },
+    {
+      "file": "texts-ls-LS17-S9-0006.json",
+      "count": 240,
+      "bytes": 976076
+    },
+    {
+      "file": "texts-ls-LS17-S9-0007.json",
+      "count": 246,
+      "bytes": 1417369
+    },
+    {
+      "file": "texts-ls-LS17-S9-0008.json",
+      "count": 238,
+      "bytes": 1101620
+    },
+    {
+      "file": "texts-ls-LS17-S9-0009.json",
+      "count": 242,
+      "bytes": 1274277
+    },
+    {
+      "file": "texts-ls-LS17-S9-0010.json",
+      "count": 242,
+      "bytes": 1010962
+    },
+    {
+      "file": "texts-ls-LS17-S9-0011.json",
+      "count": 240,
+      "bytes": 1088434
+    },
+    {
+      "file": "texts-ls-LS17-S9-0012.json",
+      "count": 219,
+      "bytes": 1159017
+    },
+    {
+      "file": "texts-ls-LS17-S9-0013.json",
+      "count": 233,
+      "bytes": 1113894
+    },
+    {
+      "file": "texts-ls-LS17-S9-0014.json",
+      "count": 178,
+      "bytes": 819710
+    },
+    {
+      "file": "texts-ls-LS18-S2-0000.json",
+      "count": 493,
+      "bytes": 2824998
+    },
+    {
+      "file": "texts-ls-LS18-S2-0001.json",
+      "count": 279,
+      "bytes": 1289759
+    },
+    {
+      "file": "texts-ls-LS18-S2-0002.json",
+      "count": 250,
+      "bytes": 1422110
+    },
+    {
+      "file": "texts-ls-LS18-S2-0003.json",
+      "count": 250,
+      "bytes": 1506472
+    },
+    {
+      "file": "texts-ls-LS18-S2-0004.json",
+      "count": 242,
+      "bytes": 1098861
+    },
+    {
+      "file": "texts-ls-LS18-S2-0005.json",
+      "count": 243,
+      "bytes": 1142987
+    },
+    {
+      "file": "texts-ls-LS18-S2-0006.json",
+      "count": 250,
+      "bytes": 1141232
+    },
+    {
+      "file": "texts-ls-LS18-S2-0007.json",
+      "count": 250,
+      "bytes": 1284313
+    },
+    {
+      "file": "texts-ls-LS18-S2-0008.json",
+      "count": 249,
+      "bytes": 1274126
+    },
+    {
+      "file": "texts-ls-LS18-S2-0009.json",
+      "count": 240,
+      "bytes": 1171436
+    },
+    {
+      "file": "texts-ls-LS18-S2-0010.json",
+      "count": 248,
+      "bytes": 985421
+    },
+    {
+      "file": "texts-ls-LS18-S2-0011.json",
+      "count": 250,
+      "bytes": 1101524
+    },
+    {
+      "file": "texts-ls-LS18-S2-0012.json",
+      "count": 221,
+      "bytes": 1168679
+    },
+    {
+      "file": "texts-ls-LS18-S3-0000.json",
+      "count": 495,
+      "bytes": 3167834
+    },
+    {
+      "file": "texts-ls-LS18-S3-0001.json",
+      "count": 379,
+      "bytes": 2009268
+    },
+    {
+      "file": "texts-ls-LS18-S3-0002.json",
+      "count": 250,
+      "bytes": 1278082
+    },
+    {
+      "file": "texts-ls-LS18-S3-0003.json",
+      "count": 249,
+      "bytes": 1312760
+    },
+    {
+      "file": "texts-ls-LS18-S3-0004.json",
+      "count": 244,
+      "bytes": 1111024
+    },
+    {
+      "file": "texts-ls-LS18-S3-0005.json",
+      "count": 241,
+      "bytes": 1111380
+    },
+    {
+      "file": "texts-ls-LS18-S3-0006.json",
+      "count": 250,
+      "bytes": 1155973
+    },
+    {
+      "file": "texts-ls-LS18-S3-0007.json",
+      "count": 250,
+      "bytes": 1234078
+    },
+    {
+      "file": "texts-ls-LS18-S3-0008.json",
+      "count": 250,
+      "bytes": 1591755
+    },
+    {
+      "file": "texts-ls-LS18-S3-0009.json",
+      "count": 230,
+      "bytes": 1153447
+    },
+    {
+      "file": "texts-ls-LS18-S3-0010.json",
+      "count": 249,
+      "bytes": 1108508
+    },
+    {
+      "file": "texts-ls-LS18-S3-0011.json",
+      "count": 250,
+      "bytes": 1243282
+    },
+    {
+      "file": "texts-ls-LS18-S3-0012.json",
+      "count": 250,
+      "bytes": 1262973
+    },
+    {
+      "file": "texts-ls-LS18-S3-0013.json",
+      "count": 246,
+      "bytes": 1075659
+    },
+    {
+      "file": "texts-ls-LS18-S3-0014.json",
+      "count": 231,
+      "bytes": 1087395
+    },
+    {
+      "file": "texts-ls-LS18-S3-0015.json",
+      "count": 250,
+      "bytes": 1229832
+    },
+    {
+      "file": "texts-ls-LS18-S3-0016.json",
+      "count": 250,
+      "bytes": 1228097
+    },
+    {
+      "file": "texts-ls-LS18-S3-0017.json",
+      "count": 121,
+      "bytes": 528761
+    },
+    {
+      "file": "texts-ls-LS18-S4-0000.json",
+      "count": 494,
+      "bytes": 3309032
+    },
+    {
+      "file": "texts-ls-LS18-S4-0001.json",
+      "count": 480,
+      "bytes": 2826767
+    },
+    {
+      "file": "texts-ls-LS18-S4-0002.json",
+      "count": 251,
+      "bytes": 1592069
+    },
+    {
+      "file": "texts-ls-LS18-S4-0003.json",
+      "count": 250,
+      "bytes": 1370136
+    },
+    {
+      "file": "texts-ls-LS18-S4-0004.json",
+      "count": 240,
+      "bytes": 1322967
+    },
+    {
+      "file": "texts-ls-LS18-S4-0005.json",
+      "count": 246,
+      "bytes": 1475518
+    },
+    {
+      "file": "texts-ls-LS18-S4-0006.json",
+      "count": 250,
+      "bytes": 1405681
+    },
+    {
+      "file": "texts-ls-LS18-S4-0007.json",
+      "count": 235,
+      "bytes": 1092561
+    },
+    {
+      "file": "texts-ls-LS18-S4-0008.json",
+      "count": 242,
+      "bytes": 1074221
+    },
+    {
+      "file": "texts-ls-LS18-S4-0009.json",
+      "count": 250,
+      "bytes": 1479524
+    },
+    {
+      "file": "texts-ls-LS18-S4-0010.json",
+      "count": 250,
+      "bytes": 1193912
+    },
+    {
+      "file": "texts-ls-LS18-S4-0011.json",
+      "count": 239,
+      "bytes": 1329539
+    },
+    {
+      "file": "texts-ls-LS18-S4-0012.json",
+      "count": 249,
+      "bytes": 1298020
+    },
+    {
+      "file": "texts-ls-LS18-S4-0013.json",
+      "count": 250,
+      "bytes": 1471325
+    },
+    {
+      "file": "texts-ls-LS18-S4-0014.json",
+      "count": 250,
+      "bytes": 1302226
+    },
+    {
+      "file": "texts-ls-LS18-S4-0015.json",
+      "count": 244,
+      "bytes": 1203186
+    },
+    {
+      "file": "texts-ls-LS18-S4-0016.json",
+      "count": 247,
+      "bytes": 1171989
+    },
+    {
+      "file": "texts-ls-LS18-S4-0017.json",
+      "count": 250,
+      "bytes": 1232811
+    },
+    {
+      "file": "texts-ls-LS18-S4-0018.json",
+      "count": 250,
+      "bytes": 1433043
+    },
+    {
+      "file": "texts-ls-LS18-S4-0019.json",
+      "count": 240,
+      "bytes": 1260553
+    },
+    {
+      "file": "texts-ls-LS18-S4-0020.json",
+      "count": 248,
+      "bytes": 1187717
+    },
+    {
+      "file": "texts-ls-LS18-S4-0021.json",
+      "count": 250,
+      "bytes": 1412418
+    },
+    {
+      "file": "texts-ls-LS18-S4-0022.json",
+      "count": 250,
+      "bytes": 1289733
+    },
+    {
+      "file": "texts-ls-LS18-S4-0023.json",
+      "count": 1,
+      "bytes": 5809
+    },
+    {
+      "file": "texts-ls-LS18-S5-0000.json",
+      "count": 494,
+      "bytes": 3048686
+    },
+    {
+      "file": "texts-ls-LS18-S5-0001.json",
+      "count": 401,
+      "bytes": 2496790
+    },
+    {
+      "file": "texts-ls-LS18-S5-0002.json",
+      "count": 250,
+      "bytes": 1400987
+    },
+    {
+      "file": "texts-ls-LS18-S5-0003.json",
+      "count": 250,
+      "bytes": 1261944
+    },
+    {
+      "file": "texts-ls-LS18-S5-0004.json",
+      "count": 250,
+      "bytes": 1348510
+    },
+    {
+      "file": "texts-ls-LS18-S5-0005.json",
+      "count": 250,
+      "bytes": 1272311
+    },
+    {
+      "file": "texts-ls-LS18-S5-0006.json",
+      "count": 250,
+      "bytes": 1183904
+    },
+    {
+      "file": "texts-ls-LS18-S5-0007.json",
+      "count": 250,
+      "bytes": 1234196
+    },
+    {
+      "file": "texts-ls-LS18-S5-0008.json",
+      "count": 250,
+      "bytes": 1183533
+    },
+    {
+      "file": "texts-ls-LS18-S5-0009.json",
+      "count": 250,
+      "bytes": 1305741
+    },
+    {
+      "file": "texts-ls-LS18-S5-0010.json",
+      "count": 250,
+      "bytes": 1412112
+    },
+    {
+      "file": "texts-ls-LS18-S5-0011.json",
+      "count": 250,
+      "bytes": 1120685
+    },
+    {
+      "file": "texts-ls-LS18-S5-0012.json",
+      "count": 250,
+      "bytes": 1384549
+    },
+    {
+      "file": "texts-ls-LS18-S5-0013.json",
+      "count": 250,
+      "bytes": 1284549
+    },
+    {
+      "file": "texts-ls-LS18-S5-0014.json",
+      "count": 243,
+      "bytes": 1353065
+    },
+    {
+      "file": "texts-ls-LS18-S5-0015.json",
+      "count": 233,
+      "bytes": 1207846
+    },
+    {
+      "file": "texts-ls-LS18-S5-0016.json",
+      "count": 244,
+      "bytes": 1496182
+    },
+    {
+      "file": "texts-ls-LS18-S5-0017.json",
+      "count": 239,
+      "bytes": 1201645
+    },
+    {
+      "file": "texts-ls-LS18-S5-0018.json",
+      "count": 250,
+      "bytes": 1408063
+    },
+    {
+      "file": "texts-ls-LS18-S5-0019.json",
+      "count": 81,
+      "bytes": 678363
+    },
+    {
+      "file": "texts-ls-LS18-S6-0000.json",
+      "count": 493,
+      "bytes": 3242467
+    },
+    {
+      "file": "texts-ls-LS18-S6-0001.json",
+      "count": 280,
+      "bytes": 1863722
+    },
+    {
+      "file": "texts-ls-LS18-S6-0002.json",
+      "count": 249,
+      "bytes": 1305463
+    },
+    {
+      "file": "texts-ls-LS18-S6-0003.json",
+      "count": 250,
+      "bytes": 1259781
+    },
+    {
+      "file": "texts-ls-LS18-S6-0004.json",
+      "count": 250,
+      "bytes": 1484560
+    },
+    {
+      "file": "texts-ls-LS18-S6-0005.json",
+      "count": 249,
+      "bytes": 1393891
+    },
+    {
+      "file": "texts-ls-LS18-S6-0006.json",
+      "count": 248,
+      "bytes": 1319731
+    },
+    {
+      "file": "texts-ls-LS18-S6-0007.json",
+      "count": 250,
+      "bytes": 1523045
+    },
+    {
+      "file": "texts-ls-LS18-S6-0008.json",
+      "count": 250,
+      "bytes": 1300866
+    },
+    {
+      "file": "texts-ls-LS18-S6-0009.json",
+      "count": 250,
+      "bytes": 1523573
+    },
+    {
+      "file": "texts-ls-LS18-S6-0010.json",
+      "count": 232,
+      "bytes": 1307968
+    },
+    {
+      "file": "texts-ls-LS18-S6-0011.json",
+      "count": 249,
+      "bytes": 1338585
+    },
+    {
+      "file": "texts-ls-LS18-S6-0012.json",
+      "count": 221,
+      "bytes": 1312042
+    },
+    {
+      "file": "texts-ls-LS18-S7-0000.json",
+      "count": 493,
+      "bytes": 3216830
+    },
+    {
+      "file": "texts-ls-LS18-S7-0001.json",
+      "count": 496,
+      "bytes": 3812304
+    },
+    {
+      "file": "texts-ls-LS18-S7-0002.json",
+      "count": 300,
+      "bytes": 1993845
+    },
+    {
+      "file": "texts-ls-LS18-S7-0003.json",
+      "count": 244,
+      "bytes": 1502522
+    },
+    {
+      "file": "texts-ls-LS18-S7-0004.json",
+      "count": 242,
+      "bytes": 1480046
+    },
+    {
+      "file": "texts-ls-LS18-S7-0005.json",
+      "count": 249,
+      "bytes": 1574146
+    },
+    {
+      "file": "texts-ls-LS18-S7-0006.json",
+      "count": 238,
+      "bytes": 1287634
+    },
+    {
+      "file": "texts-ls-LS18-S7-0007.json",
+      "count": 245,
+      "bytes": 1280139
+    },
+    {
+      "file": "texts-ls-LS18-S7-0008.json",
+      "count": 250,
+      "bytes": 1625500
+    },
+    {
+      "file": "texts-ls-LS18-S7-0009.json",
+      "count": 250,
+      "bytes": 1437437
+    },
+    {
+      "file": "texts-ls-LS18-S7-0010.json",
+      "count": 249,
+      "bytes": 1249800
+    },
+    {
+      "file": "texts-ls-LS18-S7-0011.json",
+      "count": 231,
+      "bytes": 1579716
+    },
+    {
+      "file": "texts-ls-LS18-S7-0012.json",
+      "count": 250,
+      "bytes": 1532765
+    },
+    {
+      "file": "texts-ls-LS18-S7-0013.json",
+      "count": 250,
+      "bytes": 1527346
+    },
+    {
+      "file": "texts-ls-LS18-S7-0014.json",
+      "count": 250,
+      "bytes": 1542426
+    },
+    {
+      "file": "texts-ls-LS18-S7-0015.json",
+      "count": 240,
+      "bytes": 1326617
+    },
+    {
+      "file": "texts-ls-LS18-S7-0016.json",
+      "count": 239,
+      "bytes": 1419251
+    },
+    {
+      "file": "texts-ls-LS18-S7-0017.json",
+      "count": 250,
+      "bytes": 1471696
+    },
+    {
+      "file": "texts-ls-LS18-S7-0018.json",
+      "count": 250,
+      "bytes": 1442391
+    },
+    {
+      "file": "texts-ls-LS18-S7-0019.json",
+      "count": 250,
+      "bytes": 2087178
+    },
+    {
+      "file": "texts-ls-LS18-S7-0020.json",
+      "count": 233,
+      "bytes": 1386084
+    },
+    {
+      "file": "texts-ls-LS18-S7-0021.json",
+      "count": 247,
+      "bytes": 1486724
+    },
+    {
+      "file": "texts-ls-LS18-S7-0022.json",
+      "count": 250,
+      "bytes": 1454094
+    },
+    {
+      "file": "texts-ls-LS18-S7-0023.json",
+      "count": 250,
+      "bytes": 1361439
+    },
+    {
+      "file": "texts-ls-LS18-S7-0024.json",
+      "count": 249,
+      "bytes": 1667089
+    },
+    {
+      "file": "texts-ls-LS18-S7-0025.json",
+      "count": 191,
+      "bytes": 1118909
+    },
+    {
+      "file": "texts-rs-RS212-2007-12-05-0000.json",
+      "count": 1,
+      "bytes": 12056
+    },
+    {
+      "file": "texts-rs-RS212-2007-12-06-0000.json",
+      "count": 2,
+      "bytes": 102518
+    },
+    {
+      "file": "texts-rs-RS212-2007-12-07-0000.json",
+      "count": 2,
+      "bytes": 102470
+    },
+    {
+      "file": "texts-rs-RS213-2008-02-26-0000.json",
+      "count": 2,
+      "bytes": 23865
+    },
+    {
+      "file": "texts-rs-RS213-2008-02-27-0000.json",
+      "count": 2,
+      "bytes": 26099
+    },
+    {
+      "file": "texts-rs-RS213-2008-02-28-0000.json",
+      "count": 2,
+      "bytes": 25551
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-03-0000.json",
+      "count": 2,
+      "bytes": 23863
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-04-0000.json",
+      "count": 2,
+      "bytes": 23733
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-05-0000.json",
+      "count": 2,
+      "bytes": 24063
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-06-0000.json",
+      "count": 1,
+      "bytes": 89566
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-07-0000.json",
+      "count": 2,
+      "bytes": 21677
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-10-0000.json",
+      "count": 2,
+      "bytes": 23653
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-11-0000.json",
+      "count": 2,
+      "bytes": 26219
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-12-0000.json",
+      "count": 2,
+      "bytes": 23695
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-13-0000.json",
+      "count": 2,
+      "bytes": 24529
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-14-0000.json",
+      "count": 2,
+      "bytes": 24851
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-17-0000.json",
+      "count": 2,
+      "bytes": 24727
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-18-0000.json",
+      "count": 2,
+      "bytes": 21957
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-19-0000.json",
+      "count": 2,
+      "bytes": 26491
+    },
+    {
+      "file": "texts-rs-RS213-2008-03-20-0000.json",
+      "count": 2,
+      "bytes": 26599
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-15-0000.json",
+      "count": 2,
+      "bytes": 24467
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-16-0000.json",
+      "count": 2,
+      "bytes": 26327
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-17-0000.json",
+      "count": 2,
+      "bytes": 27499
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-21-0000.json",
+      "count": 2,
+      "bytes": 24523
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-22-0000.json",
+      "count": 2,
+      "bytes": 24509
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-23-0000.json",
+      "count": 2,
+      "bytes": 23053
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-24-0000.json",
+      "count": 2,
+      "bytes": 24739
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-25-0000.json",
+      "count": 2,
+      "bytes": 25413
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-28-0000.json",
+      "count": 2,
+      "bytes": 23843
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-29-0000.json",
+      "count": 2,
+      "bytes": 24129
+    },
+    {
+      "file": "texts-rs-RS213-2008-04-30-0000.json",
+      "count": 2,
+      "bytes": 22133
+    },
+    {
+      "file": "texts-rs-RS213-2008-05-05-0000.json",
+      "count": 2,
+      "bytes": 26719
+    },
+    {
+      "file": "texts-rs-RS213-2008-05-06-0000.json",
+      "count": 2,
+      "bytes": 23623
+    },
+    {
+      "file": "texts-rs-RS214-2008-10-17-0000.json",
+      "count": 2,
+      "bytes": 25347
+    },
+    {
+      "file": "texts-rs-RS214-2008-10-20-0000.json",
+      "count": 2,
+      "bytes": 28017
+    },
+    {
+      "file": "texts-rs-RS214-2008-10-21-0000.json",
+      "count": 2,
+      "bytes": 25717
+    },
+    {
+      "file": "texts-rs-RS214-2008-10-22-0000.json",
+      "count": 2,
+      "bytes": 27135
+    },
+    {
+      "file": "texts-rs-RS214-2008-10-23-0000.json",
+      "count": 2,
+      "bytes": 27093
+    },
+    {
+      "file": "texts-rs-RS214-2008-10-24-0000.json",
+      "count": 2,
+      "bytes": 27077
+    },
+    {
+      "file": "texts-rs-RS214-2008-12-10-0000.json",
+      "count": 2,
+      "bytes": 26249
+    },
+    {
+      "file": "texts-rs-RS214-2008-12-11-0000.json",
+      "count": 2,
+      "bytes": 29805
+    },
+    {
+      "file": "texts-rs-RS214-2008-12-12-0000.json",
+      "count": 2,
+      "bytes": 26453
+    },
+    {
+      "file": "texts-rs-RS214-2008-12-15-0000.json",
+      "count": 2,
+      "bytes": 27017
+    },
+    {
+      "file": "texts-rs-RS214-2008-12-16-0000.json",
+      "count": 1,
+      "bytes": 89117
+    },
+    {
+      "file": "texts-rs-RS214-2008-12-17-0000.json",
+      "count": 2,
+      "bytes": 24023
+    },
+    {
+      "file": "texts-rs-RS214-2008-12-18-0000.json",
+      "count": 2,
+      "bytes": 26363
+    },
+    {
+      "file": "texts-rs-RS214-2008-12-19-0000.json",
+      "count": 2,
+      "bytes": 26371
+    },
+    {
+      "file": "texts-rs-RS214-2008-12-22-0000.json",
+      "count": 2,
+      "bytes": 26717
+    },
+    {
+      "file": "texts-rs-RS214-2008-12-23-0000.json",
+      "count": 2,
+      "bytes": 25287
+    },
+    {
+      "file": "texts-rs-RS215-2009-02-13-0000.json",
+      "count": 2,
+      "bytes": 25991
+    },
+    {
+      "file": "texts-rs-RS215-2009-02-17-0000.json",
+      "count": 2,
+      "bytes": 26031
+    },
+    {
+      "file": "texts-rs-RS215-2009-02-18-0000.json",
+      "count": 2,
+      "bytes": 25221
+    },
+    {
+      "file": "texts-rs-RS215-2009-02-20-0000.json",
+      "count": 2,
+      "bytes": 25719
+    },
+    {
+      "file": "texts-rs-RS215-2009-02-24-0000.json",
+      "count": 2,
+      "bytes": 25589
+    },
+    {
+      "file": "texts-rs-RS215-2009-02-25-0000.json",
+      "count": 2,
+      "bytes": 24877
+    },
+    {
+      "file": "texts-rs-RS215-2009-02-26-0000.json",
+      "count": 2,
+      "bytes": 25937
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-02-0000.json",
+      "count": 2,
+      "bytes": 22767
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-03-0000.json",
+      "count": 2,
+      "bytes": 23037
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-07-0000.json",
+      "count": 2,
+      "bytes": 24687
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-08-0000.json",
+      "count": 2,
+      "bytes": 23361
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-09-0000.json",
+      "count": 2,
+      "bytes": 24067
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-10-0000.json",
+      "count": 2,
+      "bytes": 24209
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-13-0000.json",
+      "count": 2,
+      "bytes": 25663
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-14-0000.json",
+      "count": 2,
+      "bytes": 23859
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-15-0000.json",
+      "count": 2,
+      "bytes": 25253
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-16-0000.json",
+      "count": 2,
+      "bytes": 24157
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-17-0000.json",
+      "count": 2,
+      "bytes": 23665
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-20-0000.json",
+      "count": 2,
+      "bytes": 23579
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-21-0000.json",
+      "count": 2,
+      "bytes": 22253
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-22-0000.json",
+      "count": 2,
+      "bytes": 22245
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-23-0000.json",
+      "count": 2,
+      "bytes": 26095
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-24-0000.json",
+      "count": 2,
+      "bytes": 23491
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-27-0000.json",
+      "count": 2,
+      "bytes": 25923
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-28-0000.json",
+      "count": 2,
+      "bytes": 24939
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-29-0000.json",
+      "count": 2,
+      "bytes": 24555
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-30-0000.json",
+      "count": 2,
+      "bytes": 26281
+    },
+    {
+      "file": "texts-rs-RS217-2009-07-31-0000.json",
+      "count": 2,
+      "bytes": 24433
+    },
+    {
+      "file": "texts-rs-RS217-2009-08-03-0000.json",
+      "count": 2,
+      "bytes": 23727
+    },
+    {
+      "file": "texts-rs-RS217-2009-08-04-0000.json",
+      "count": 2,
+      "bytes": 25699
+    },
+    {
+      "file": "texts-rs-RS217-2009-08-06-0000.json",
+      "count": 2,
+      "bytes": 27619
+    },
+    {
+      "file": "texts-rs-RS217-2009-08-07-0000.json",
+      "count": 2,
+      "bytes": 25907
+    },
+    {
+      "file": "texts-rs-RS218-2009-11-19-0000.json",
+      "count": 2,
+      "bytes": 27899
+    },
+    {
+      "file": "texts-rs-RS218-2009-11-20-0000.json",
+      "count": 2,
+      "bytes": 27969
+    },
+    {
+      "file": "texts-rs-RS218-2009-11-23-0000.json",
+      "count": 2,
+      "bytes": 26199
+    },
+    {
+      "file": "texts-rs-RS218-2009-11-24-0000.json",
+      "count": 2,
+      "bytes": 26279
+    },
+    {
+      "file": "texts-rs-RS218-2009-11-25-0000.json",
+      "count": 2,
+      "bytes": 24727
+    },
+    {
+      "file": "texts-rs-RS218-2009-11-26-0000.json",
+      "count": 2,
+      "bytes": 24825
+    },
+    {
+      "file": "texts-rs-RS218-2009-11-27-0000.json",
+      "count": 2,
+      "bytes": 26199
+    },
+    {
+      "file": "texts-rs-RS218-2009-11-30-0000.json",
+      "count": 2,
+      "bytes": 98655
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-01-0000.json",
+      "count": 2,
+      "bytes": 26251
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-02-0000.json",
+      "count": 2,
+      "bytes": 23267
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-03-0000.json",
+      "count": 2,
+      "bytes": 24689
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-04-0000.json",
+      "count": 1,
+      "bytes": 12154
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-07-0000.json",
+      "count": 2,
+      "bytes": 26147
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-08-0000.json",
+      "count": 2,
+      "bytes": 22655
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-09-0000.json",
+      "count": 2,
+      "bytes": 24537
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-10-0000.json",
+      "count": 2,
+      "bytes": 25095
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-11-0000.json",
+      "count": 2,
+      "bytes": 23671
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-14-0000.json",
+      "count": 2,
+      "bytes": 24971
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-15-0000.json",
+      "count": 2,
+      "bytes": 27689
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-16-0000.json",
+      "count": 2,
+      "bytes": 23909
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-17-0000.json",
+      "count": 2,
+      "bytes": 28351
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-18-0000.json",
+      "count": 2,
+      "bytes": 24087
+    },
+    {
+      "file": "texts-rs-RS218-2009-12-21-0000.json",
+      "count": 2,
+      "bytes": 25303
+    },
+    {
+      "file": "texts-rs-RS219-2010-02-23-0000.json",
+      "count": 2,
+      "bytes": 25411
+    },
+    {
+      "file": "texts-rs-RS219-2010-02-24-0000.json",
+      "count": 2,
+      "bytes": 20175
+    },
+    {
+      "file": "texts-rs-RS219-2010-02-25-0000.json",
+      "count": 2,
+      "bytes": 25831
+    },
+    {
+      "file": "texts-rs-RS219-2010-03-02-0000.json",
+      "count": 2,
+      "bytes": 27305
+    },
+    {
+      "file": "texts-rs-RS219-2010-03-03-0000.json",
+      "count": 2,
+      "bytes": 24689
+    },
+    {
+      "file": "texts-rs-RS219-2010-03-04-0000.json",
+      "count": 2,
+      "bytes": 23693
+    },
+    {
+      "file": "texts-rs-RS219-2010-03-05-0000.json",
+      "count": 2,
+      "bytes": 24477
+    },
+    {
+      "file": "texts-rs-RS219-2010-03-08-0000.json",
+      "count": 2,
+      "bytes": 25133
+    },
+    {
+      "file": "texts-rs-RS219-2010-03-09-0000.json",
+      "count": 1,
+      "bytes": 87235
+    },
+    {
+      "file": "texts-rs-RS219-2010-03-10-0000.json",
+      "count": 2,
+      "bytes": 24577
+    },
+    {
+      "file": "texts-rs-RS219-2010-03-11-0000.json",
+      "count": 2,
+      "bytes": 24893
+    },
+    {
+      "file": "texts-rs-RS219-2010-03-12-0000.json",
+      "count": 2,
+      "bytes": 23943
+    },
+    {
+      "file": "texts-rs-RS219-2010-03-16-0000.json",
+      "count": 2,
+      "bytes": 23363
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-15-0000.json",
+      "count": 2,
+      "bytes": 25393
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-16-0000.json",
+      "count": 2,
+      "bytes": 24889
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-19-0000.json",
+      "count": 2,
+      "bytes": 24861
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-20-0000.json",
+      "count": 2,
+      "bytes": 24205
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-21-0000.json",
+      "count": 2,
+      "bytes": 22369
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-22-0000.json",
+      "count": 2,
+      "bytes": 24557
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-23-0000.json",
+      "count": 1,
+      "bytes": 89141
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-26-0000.json",
+      "count": 2,
+      "bytes": 25715
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-27-0000.json",
+      "count": 2,
+      "bytes": 23189
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-28-0000.json",
+      "count": 2,
+      "bytes": 23439
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-29-0000.json",
+      "count": 1,
+      "bytes": 87047
+    },
+    {
+      "file": "texts-rs-RS219-2010-04-30-0000.json",
+      "count": 2,
+      "bytes": 23417
+    },
+    {
+      "file": "texts-rs-RS219-2010-05-03-0000.json",
+      "count": 2,
+      "bytes": 23277
+    },
+    {
+      "file": "texts-rs-RS219-2010-05-04-0000.json",
+      "count": 2,
+      "bytes": 23839
+    },
+    {
+      "file": "texts-rs-RS219-2010-05-05-0000.json",
+      "count": 2,
+      "bytes": 26131
+    },
+    {
+      "file": "texts-rs-RS219-2010-05-06-0000.json",
+      "count": 2,
+      "bytes": 25437
+    },
+    {
+      "file": "texts-rs-RS219-2010-05-07-0000.json",
+      "count": 2,
+      "bytes": 23899
+    },
+    {
+      "file": "texts-rs-RS220-2010-07-26-0000.json",
+      "count": 2,
+      "bytes": 21793
+    },
+    {
+      "file": "texts-rs-RS220-2010-07-27-0000.json",
+      "count": 2,
+      "bytes": 22865
+    },
+    {
+      "file": "texts-rs-RS220-2010-07-28-0000.json",
+      "count": 2,
+      "bytes": 25643
+    },
+    {
+      "file": "texts-rs-RS220-2010-07-29-0000.json",
+      "count": 2,
+      "bytes": 25491
+    },
+    {
+      "file": "texts-rs-RS220-2010-07-30-0000.json",
+      "count": 2,
+      "bytes": 25981
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-02-0000.json",
+      "count": 2,
+      "bytes": 25015
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-03-0000.json",
+      "count": 2,
+      "bytes": 23831
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-04-0000.json",
+      "count": 2,
+      "bytes": 23957
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-05-0000.json",
+      "count": 2,
+      "bytes": 26181
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-06-0000.json",
+      "count": 2,
+      "bytes": 22691
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-09-0000.json",
+      "count": 2,
+      "bytes": 27123
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-10-0000.json",
+      "count": 2,
+      "bytes": 25649
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-11-0000.json",
+      "count": 2,
+      "bytes": 24479
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-12-0000.json",
+      "count": 2,
+      "bytes": 25335
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-13-0000.json",
+      "count": 2,
+      "bytes": 22291
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-16-0000.json",
+      "count": 2,
+      "bytes": 25297
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-17-0000.json",
+      "count": 2,
+      "bytes": 23025
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-18-0000.json",
+      "count": 2,
+      "bytes": 24585
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-19-0000.json",
+      "count": 2,
+      "bytes": 25515
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-20-0000.json",
+      "count": 2,
+      "bytes": 25013
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-25-0000.json",
+      "count": 2,
+      "bytes": 26393
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-26-0000.json",
+      "count": 2,
+      "bytes": 26063
+    },
+    {
+      "file": "texts-rs-RS220-2010-08-27-0000.json",
+      "count": 2,
+      "bytes": 26491
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-09-0000.json",
+      "count": 2,
+      "bytes": 25013
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-10-0000.json",
+      "count": 2,
+      "bytes": 23279
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-11-0000.json",
+      "count": 2,
+      "bytes": 25857
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-12-0000.json",
+      "count": 2,
+      "bytes": 23593
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-15-0000.json",
+      "count": 2,
+      "bytes": 25375
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-16-0000.json",
+      "count": 2,
+      "bytes": 24005
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-18-0000.json",
+      "count": 2,
+      "bytes": 26039
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-19-0000.json",
+      "count": 2,
+      "bytes": 24825
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-22-0000.json",
+      "count": 2,
+      "bytes": 23361
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-23-0000.json",
+      "count": 2,
+      "bytes": 23913
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-24-0000.json",
+      "count": 2,
+      "bytes": 22759
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-25-0000.json",
+      "count": 2,
+      "bytes": 23805
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-26-0000.json",
+      "count": 2,
+      "bytes": 25003
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-29-0000.json",
+      "count": 2,
+      "bytes": 26357
+    },
+    {
+      "file": "texts-rs-RS221-2010-11-30-0000.json",
+      "count": 2,
+      "bytes": 23907
+    },
+    {
+      "file": "texts-rs-RS221-2010-12-01-0000.json",
+      "count": 2,
+      "bytes": 23313
+    },
+    {
+      "file": "texts-rs-RS221-2010-12-02-0000.json",
+      "count": 2,
+      "bytes": 26023
+    },
+    {
+      "file": "texts-rs-RS221-2010-12-03-0000.json",
+      "count": 2,
+      "bytes": 25403
+    },
+    {
+      "file": "texts-rs-RS221-2010-12-06-0000.json",
+      "count": 2,
+      "bytes": 25793
+    },
+    {
+      "file": "texts-rs-RS221-2010-12-07-0000.json",
+      "count": 2,
+      "bytes": 25329
+    },
+    {
+      "file": "texts-rs-RS221-2010-12-08-0000.json",
+      "count": 2,
+      "bytes": 26355
+    },
+    {
+      "file": "texts-rs-RS221-2010-12-09-0000.json",
+      "count": 2,
+      "bytes": 26439
+    },
+    {
+      "file": "texts-rs-RS221-2010-12-10-0000.json",
+      "count": 2,
+      "bytes": 27179
+    },
+    {
+      "file": "texts-rs-RS221-2010-12-13-0000.json",
+      "count": 2,
+      "bytes": 24065
+    },
+    {
+      "file": "texts-rs-RS222-2011-02-22-0000.json",
+      "count": 2,
+      "bytes": 24257
+    },
+    {
+      "file": "texts-rs-RS222-2011-02-23-0000.json",
+      "count": 2,
+      "bytes": 23255
+    },
+    {
+      "file": "texts-rs-RS222-2011-02-24-0000.json",
+      "count": 2,
+      "bytes": 23849
+    },
+    {
+      "file": "texts-rs-RS222-2011-02-25-0000.json",
+      "count": 2,
+      "bytes": 23853
+    },
+    {
+      "file": "texts-rs-RS222-2011-03-01-0000.json",
+      "count": 2,
+      "bytes": 23503
+    },
+    {
+      "file": "texts-rs-RS222-2011-03-03-0000.json",
+      "count": 2,
+      "bytes": 24099
+    },
+    {
+      "file": "texts-rs-RS222-2011-03-04-0000.json",
+      "count": 2,
+      "bytes": 23253
+    },
+    {
+      "file": "texts-rs-RS222-2011-03-07-0000.json",
+      "count": 2,
+      "bytes": 22183
+    },
+    {
+      "file": "texts-rs-RS222-2011-03-08-0000.json",
+      "count": 2,
+      "bytes": 25123
+    },
+    {
+      "file": "texts-rs-RS222-2011-03-09-0000.json",
+      "count": 2,
+      "bytes": 24817
+    },
+    {
+      "file": "texts-rs-RS222-2011-03-10-0000.json",
+      "count": 2,
+      "bytes": 25405
+    },
+    {
+      "file": "texts-rs-RS222-2011-03-11-0000.json",
+      "count": 2,
+      "bytes": 23941
+    },
+    {
+      "file": "texts-rs-RS222-2011-03-14-0000.json",
+      "count": 2,
+      "bytes": 23379
+    },
+    {
+      "file": "texts-rs-RS222-2011-03-16-0000.json",
+      "count": 2,
+      "bytes": 24469
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-01-0000.json",
+      "count": 2,
+      "bytes": 24319
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-02-0000.json",
+      "count": 2,
+      "bytes": 22457
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-03-0000.json",
+      "count": 2,
+      "bytes": 24573
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-04-0000.json",
+      "count": 2,
+      "bytes": 23199
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-05-0000.json",
+      "count": 2,
+      "bytes": 22883
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-08-0000.json",
+      "count": 2,
+      "bytes": 24423
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-09-0000.json",
+      "count": 2,
+      "bytes": 24459
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-10-0000.json",
+      "count": 2,
+      "bytes": 23489
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-11-0000.json",
+      "count": 2,
+      "bytes": 23877
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-12-0000.json",
+      "count": 2,
+      "bytes": 22741
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-16-0000.json",
+      "count": 2,
+      "bytes": 25047
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-17-0000.json",
+      "count": 2,
+      "bytes": 23611
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-18-0000.json",
+      "count": 2,
+      "bytes": 23199
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-19-0000.json",
+      "count": 2,
+      "bytes": 23505
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-23-0000.json",
+      "count": 2,
+      "bytes": 25419
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-24-0000.json",
+      "count": 1,
+      "bytes": 11621
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-25-0000.json",
+      "count": 2,
+      "bytes": 26231
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-26-0000.json",
+      "count": 2,
+      "bytes": 23631
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-29-0000.json",
+      "count": 2,
+      "bytes": 24443
+    },
+    {
+      "file": "texts-rs-RS223-2011-08-30-0000.json",
+      "count": 2,
+      "bytes": 23905
+    },
+    {
+      "file": "texts-rs-RS223-2011-09-02-0000.json",
+      "count": 2,
+      "bytes": 23091
+    },
+    {
+      "file": "texts-rs-RS223-2011-09-05-0000.json",
+      "count": 2,
+      "bytes": 23621
+    },
+    {
+      "file": "texts-rs-RS223-2011-09-06-0000.json",
+      "count": 2,
+      "bytes": 24639
+    },
+    {
+      "file": "texts-rs-RS223-2011-09-07-0000.json",
+      "count": 2,
+      "bytes": 23099
+    },
+    {
+      "file": "texts-rs-RS223-2011-09-08-0000.json",
+      "count": 2,
+      "bytes": 23987
+    },
+    {
+      "file": "texts-rs-RS224-2011-11-22-0000.json",
+      "count": 2,
+      "bytes": 23507
+    },
+    {
+      "file": "texts-rs-RS224-2011-11-23-0000.json",
+      "count": 2,
+      "bytes": 24863
+    },
+    {
+      "file": "texts-rs-RS224-2011-11-24-0000.json",
+      "count": 2,
+      "bytes": 23511
+    },
+    {
+      "file": "texts-rs-RS224-2011-11-25-0000.json",
+      "count": 2,
+      "bytes": 23335
+    },
+    {
+      "file": "texts-rs-RS224-2011-11-28-0000.json",
+      "count": 2,
+      "bytes": 22053
+    },
+    {
+      "file": "texts-rs-RS224-2011-11-29-0000.json",
+      "count": 2,
+      "bytes": 22831
+    },
+    {
+      "file": "texts-rs-RS224-2011-11-30-0000.json",
+      "count": 2,
+      "bytes": 22867
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-01-0000.json",
+      "count": 2,
+      "bytes": 23957
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-02-0000.json",
+      "count": 2,
+      "bytes": 25069
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-05-0000.json",
+      "count": 2,
+      "bytes": 23753
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-07-0000.json",
+      "count": 2,
+      "bytes": 22989
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-08-0000.json",
+      "count": 2,
+      "bytes": 25655
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-09-0000.json",
+      "count": 2,
+      "bytes": 23511
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-12-0000.json",
+      "count": 2,
+      "bytes": 23323
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-13-0000.json",
+      "count": 2,
+      "bytes": 23359
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-14-0000.json",
+      "count": 2,
+      "bytes": 21789
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-15-0000.json",
+      "count": 2,
+      "bytes": 22929
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-16-0000.json",
+      "count": 2,
+      "bytes": 22737
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-19-0000.json",
+      "count": 2,
+      "bytes": 23295
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-20-0000.json",
+      "count": 2,
+      "bytes": 24693
+    },
+    {
+      "file": "texts-rs-RS224-2011-12-21-0000.json",
+      "count": 2,
+      "bytes": 22239
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-13-0000.json",
+      "count": 2,
+      "bytes": 101793
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-14-0000.json",
+      "count": 2,
+      "bytes": 21907
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-15-0000.json",
+      "count": 2,
+      "bytes": 24225
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-19-0000.json",
+      "count": 2,
+      "bytes": 23139
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-20-0000.json",
+      "count": 2,
+      "bytes": 24143
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-22-0000.json",
+      "count": 2,
+      "bytes": 24187
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-23-0000.json",
+      "count": 2,
+      "bytes": 22521
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-26-0000.json",
+      "count": 2,
+      "bytes": 23591
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-27-0000.json",
+      "count": 2,
+      "bytes": 23753
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-28-0000.json",
+      "count": 2,
+      "bytes": 25291
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-29-0000.json",
+      "count": 2,
+      "bytes": 25523
+    },
+    {
+      "file": "texts-rs-RS225-2012-03-30-0000.json",
+      "count": 2,
+      "bytes": 22981
+    },
+    {
+      "file": "texts-rs-RS225-2012-04-24-0000.json",
+      "count": 2,
+      "bytes": 24851
+    },
+    {
+      "file": "texts-rs-RS225-2012-04-25-0000.json",
+      "count": 2,
+      "bytes": 22103
+    },
+    {
+      "file": "texts-rs-RS225-2012-04-26-0000.json",
+      "count": 2,
+      "bytes": 25009
+    },
+    {
+      "file": "texts-rs-RS225-2012-04-27-0000.json",
+      "count": 2,
+      "bytes": 25783
+    },
+    {
+      "file": "texts-rs-RS225-2012-04-30-0000.json",
+      "count": 2,
+      "bytes": 27605
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-02-0000.json",
+      "count": 2,
+      "bytes": 23837
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-03-0000.json",
+      "count": 2,
+      "bytes": 24267
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-04-0000.json",
+      "count": 2,
+      "bytes": 25325
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-07-0000.json",
+      "count": 2,
+      "bytes": 23797
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-08-0000.json",
+      "count": 2,
+      "bytes": 23863
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-09-0000.json",
+      "count": 2,
+      "bytes": 24145
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-10-0000.json",
+      "count": 2,
+      "bytes": 27025
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-11-0000.json",
+      "count": 1,
+      "bytes": 12645
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-14-0000.json",
+      "count": 2,
+      "bytes": 24055
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-15-0000.json",
+      "count": 2,
+      "bytes": 24195
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-16-0000.json",
+      "count": 2,
+      "bytes": 22349
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-17-0000.json",
+      "count": 2,
+      "bytes": 24195
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-18-0000.json",
+      "count": 2,
+      "bytes": 24677
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-21-0000.json",
+      "count": 2,
+      "bytes": 24719
+    },
+    {
+      "file": "texts-rs-RS225-2012-05-22-0000.json",
+      "count": 2,
+      "bytes": 26419
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-08-0000.json",
+      "count": 2,
+      "bytes": 23119
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-09-0000.json",
+      "count": 2,
+      "bytes": 22803
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-13-0000.json",
+      "count": 2,
+      "bytes": 22819
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-14-0000.json",
+      "count": 2,
+      "bytes": 23721
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-16-0000.json",
+      "count": 2,
+      "bytes": 95427
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-17-0000.json",
+      "count": 2,
+      "bytes": 21075
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-21-0000.json",
+      "count": 2,
+      "bytes": 24263
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-22-0000.json",
+      "count": 2,
+      "bytes": 27153
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-23-0000.json",
+      "count": 2,
+      "bytes": 25855
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-24-0000.json",
+      "count": 2,
+      "bytes": 26191
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-27-0000.json",
+      "count": 2,
+      "bytes": 23567
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-28-0000.json",
+      "count": 2,
+      "bytes": 25223
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-29-0000.json",
+      "count": 2,
+      "bytes": 23369
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-30-0000.json",
+      "count": 2,
+      "bytes": 26971
+    },
+    {
+      "file": "texts-rs-RS226-2012-08-31-0000.json",
+      "count": 2,
+      "bytes": 26101
+    },
+    {
+      "file": "texts-rs-RS226-2012-09-03-0000.json",
+      "count": 2,
+      "bytes": 21823
+    },
+    {
+      "file": "texts-rs-RS226-2012-09-04-0000.json",
+      "count": 2,
+      "bytes": 25509
+    },
+    {
+      "file": "texts-rs-RS226-2012-09-05-0000.json",
+      "count": 2,
+      "bytes": 24499
+    },
+    {
+      "file": "texts-rs-RS226-2012-09-06-0000.json",
+      "count": 2,
+      "bytes": 25307
+    },
+    {
+      "file": "texts-rs-RS226-2012-09-07-0000.json",
+      "count": 2,
+      "bytes": 24563
+    },
+    {
+      "file": "texts-rs-RS227-2012-11-22-0000.json",
+      "count": 2,
+      "bytes": 23235
+    },
+    {
+      "file": "texts-rs-RS227-2012-11-26-0000.json",
+      "count": 2,
+      "bytes": 21157
+    },
+    {
+      "file": "texts-rs-RS227-2012-11-27-0000.json",
+      "count": 2,
+      "bytes": 23243
+    },
+    {
+      "file": "texts-rs-RS227-2012-11-29-0000.json",
+      "count": 2,
+      "bytes": 23027
+    },
+    {
+      "file": "texts-rs-RS227-2012-11-30-0000.json",
+      "count": 2,
+      "bytes": 22877
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-03-0000.json",
+      "count": 2,
+      "bytes": 23561
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-04-0000.json",
+      "count": 2,
+      "bytes": 24681
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-05-0000.json",
+      "count": 2,
+      "bytes": 24737
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-06-0000.json",
+      "count": 2,
+      "bytes": 25737
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-07-0000.json",
+      "count": 2,
+      "bytes": 23779
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-10-0000.json",
+      "count": 2,
+      "bytes": 24375
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-11-0000.json",
+      "count": 2,
+      "bytes": 25887
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-12-0000.json",
+      "count": 2,
+      "bytes": 25113
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-13-0000.json",
+      "count": 2,
+      "bytes": 23827
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-14-0000.json",
+      "count": 2,
+      "bytes": 26639
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-17-0000.json",
+      "count": 2,
+      "bytes": 24761
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-18-0000.json",
+      "count": 2,
+      "bytes": 25101
+    },
+    {
+      "file": "texts-rs-RS227-2012-12-20-0000.json",
+      "count": 2,
+      "bytes": 23447
+    },
+    {
+      "file": "texts-rs-RS228-2013-02-22-0000.json",
+      "count": 2,
+      "bytes": 94126
+    },
+    {
+      "file": "texts-rs-RS228-2013-02-26-0000.json",
+      "count": 2,
+      "bytes": 98680
+    },
+    {
+      "file": "texts-rs-RS228-2013-02-27-0000.json",
+      "count": 2,
+      "bytes": 101353
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-01-0000.json",
+      "count": 2,
+      "bytes": 95479
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-04-0000.json",
+      "count": 2,
+      "bytes": 96799
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-05-0000.json",
+      "count": 2,
+      "bytes": 98133
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-06-0000.json",
+      "count": 1,
+      "bytes": 85182
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-07-0000.json",
+      "count": 2,
+      "bytes": 100915
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-08-0000.json",
+      "count": 2,
+      "bytes": 104209
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-11-0000.json",
+      "count": 2,
+      "bytes": 100224
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-12-0000.json",
+      "count": 2,
+      "bytes": 99915
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-13-0000.json",
+      "count": 2,
+      "bytes": 100232
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-14-0000.json",
+      "count": 2,
+      "bytes": 99721
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-15-0000.json",
+      "count": 2,
+      "bytes": 97413
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-18-0000.json",
+      "count": 2,
+      "bytes": 99530
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-19-0000.json",
+      "count": 2,
+      "bytes": 103200
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-20-0000.json",
+      "count": 2,
+      "bytes": 100666
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-21-0000.json",
+      "count": 2,
+      "bytes": 99281
+    },
+    {
+      "file": "texts-rs-RS228-2013-03-22-0000.json",
+      "count": 2,
+      "bytes": 98772
+    },
+    {
+      "file": "texts-rs-RS228-2013-04-22-0000.json",
+      "count": 2,
+      "bytes": 100556
+    },
+    {
+      "file": "texts-rs-RS228-2013-04-23-0000.json",
+      "count": 2,
+      "bytes": 100607
+    },
+    {
+      "file": "texts-rs-RS228-2013-04-25-0000.json",
+      "count": 2,
+      "bytes": 97323
+    },
+    {
+      "file": "texts-rs-RS228-2013-04-26-0000.json",
+      "count": 1,
+      "bytes": 87245
+    },
+    {
+      "file": "texts-rs-RS228-2013-04-29-0000.json",
+      "count": 2,
+      "bytes": 98624
+    },
+    {
+      "file": "texts-rs-RS228-2013-04-30-0000.json",
+      "count": 2,
+      "bytes": 101076
+    },
+    {
+      "file": "texts-rs-RS228-2013-05-02-0000.json",
+      "count": 2,
+      "bytes": 25477
+    },
+    {
+      "file": "texts-rs-RS228-2013-05-03-0000.json",
+      "count": 1,
+      "bytes": 12649
+    },
+    {
+      "file": "texts-rs-RS228-2013-05-06-0000.json",
+      "count": 1,
+      "bytes": 12814
+    },
+    {
+      "file": "texts-rs-RS228-2013-05-07-0000.json",
+      "count": 1,
+      "bytes": 13436
+    },
+    {
+      "file": "texts-rs-RS228-2013-05-08-0000.json",
+      "count": 1,
+      "bytes": 13229
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-05-0000.json",
+      "count": 2,
+      "bytes": 100873
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-06-0000.json",
+      "count": 1,
+      "bytes": 86930
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-07-0000.json",
+      "count": 2,
+      "bytes": 100743
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-08-0000.json",
+      "count": 2,
+      "bytes": 98245
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-12-0000.json",
+      "count": 2,
+      "bytes": 100761
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-13-0000.json",
+      "count": 2,
+      "bytes": 100597
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-14-0000.json",
+      "count": 2,
+      "bytes": 99658
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-16-0000.json",
+      "count": 2,
+      "bytes": 99020
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-19-0000.json",
+      "count": 2,
+      "bytes": 100977
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-22-0000.json",
+      "count": 2,
+      "bytes": 102480
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-23-0000.json",
+      "count": 2,
+      "bytes": 102712
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-26-0000.json",
+      "count": 2,
+      "bytes": 99991
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-27-0000.json",
+      "count": 2,
+      "bytes": 101452
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-29-0000.json",
+      "count": 1,
+      "bytes": 11945
+    },
+    {
+      "file": "texts-rs-RS229-2013-08-30-0000.json",
+      "count": 2,
+      "bytes": 95056
+    },
+    {
+      "file": "texts-rs-RS230-2013-12-05-0000.json",
+      "count": 2,
+      "bytes": 101745
+    },
+    {
+      "file": "texts-rs-RS230-2013-12-06-0000.json",
+      "count": 2,
+      "bytes": 97536
+    },
+    {
+      "file": "texts-rs-RS230-2013-12-09-0000.json",
+      "count": 1,
+      "bytes": 12908
+    },
+    {
+      "file": "texts-rs-RS230-2013-12-10-0000.json",
+      "count": 2,
+      "bytes": 100418
+    },
+    {
+      "file": "texts-rs-RS230-2013-12-11-0000.json",
+      "count": 2,
+      "bytes": 100306
+    },
+    {
+      "file": "texts-rs-RS230-2013-12-12-0000.json",
+      "count": 2,
+      "bytes": 103327
+    },
+    {
+      "file": "texts-rs-RS230-2013-12-13-0000.json",
+      "count": 2,
+      "bytes": 99277
+    },
+    {
+      "file": "texts-rs-RS230-2013-12-16-0000.json",
+      "count": 2,
+      "bytes": 98382
+    },
+    {
+      "file": "texts-rs-RS230-2013-12-17-0000.json",
+      "count": 2,
+      "bytes": 100896
+    },
+    {
+      "file": "texts-rs-RS230-2013-12-18-0000.json",
+      "count": 2,
+      "bytes": 100268
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-05-0000.json",
+      "count": 2,
+      "bytes": 69945
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-06-0000.json",
+      "count": 2,
+      "bytes": 62170
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-07-0000.json",
+      "count": 2,
+      "bytes": 84537
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-10-0000.json",
+      "count": 2,
+      "bytes": 99515
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-11-0000.json",
+      "count": 2,
+      "bytes": 99431
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-12-0000.json",
+      "count": 2,
+      "bytes": 102563
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-13-0000.json",
+      "count": 2,
+      "bytes": 99041
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-18-0000.json",
+      "count": 2,
+      "bytes": 100751
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-19-0000.json",
+      "count": 2,
+      "bytes": 101546
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-20-0000.json",
+      "count": 2,
+      "bytes": 99576
+    },
+    {
+      "file": "texts-rs-RS230-2014-02-21-0000.json",
+      "count": 2,
+      "bytes": 97776
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-07-0000.json",
+      "count": 1,
+      "bytes": 72261
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-08-0000.json",
+      "count": 2,
+      "bytes": 84356
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-09-0000.json",
+      "count": 2,
+      "bytes": 81590
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-11-0000.json",
+      "count": 2,
+      "bytes": 98455
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-14-0000.json",
+      "count": 2,
+      "bytes": 84684
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-15-0000.json",
+      "count": 2,
+      "bytes": 67869
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-16-0000.json",
+      "count": 2,
+      "bytes": 99022
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-17-0000.json",
+      "count": 2,
+      "bytes": 100995
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-18-0000.json",
+      "count": 2,
+      "bytes": 93073
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-21-0000.json",
+      "count": 2,
+      "bytes": 98865
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-22-0000.json",
+      "count": 1,
+      "bytes": 85938
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-23-0000.json",
+      "count": 2,
+      "bytes": 97519
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-24-0000.json",
+      "count": 2,
+      "bytes": 98229
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-25-0000.json",
+      "count": 2,
+      "bytes": 98951
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-28-0000.json",
+      "count": 2,
+      "bytes": 97017
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-30-0000.json",
+      "count": 2,
+      "bytes": 98645
+    },
+    {
+      "file": "texts-rs-RS232-2014-07-31-0000.json",
+      "count": 2,
+      "bytes": 98981
+    },
+    {
+      "file": "texts-rs-RS232-2014-08-01-0000.json",
+      "count": 2,
+      "bytes": 97405
+    },
+    {
+      "file": "texts-rs-RS232-2014-08-04-0000.json",
+      "count": 2,
+      "bytes": 98389
+    },
+    {
+      "file": "texts-rs-RS232-2014-08-05-0000.json",
+      "count": 2,
+      "bytes": 97330
+    },
+    {
+      "file": "texts-rs-RS232-2014-08-06-0000.json",
+      "count": 1,
+      "bytes": 88546
+    },
+    {
+      "file": "texts-rs-RS232-2014-08-07-0000.json",
+      "count": 1,
+      "bytes": 85965
+    },
+    {
+      "file": "texts-rs-RS232-2014-08-08-0000.json",
+      "count": 2,
+      "bytes": 93852
+    },
+    {
+      "file": "texts-rs-RS232-2014-08-11-0000.json",
+      "count": 2,
+      "bytes": 97979
+    },
+    {
+      "file": "texts-rs-RS232-2014-08-12-0000.json",
+      "count": 2,
+      "bytes": 95310
+    },
+    {
+      "file": "texts-rs-RS232-2014-08-13-0000.json",
+      "count": 2,
+      "bytes": 99781
+    },
+    {
+      "file": "texts-rs-RS232-2014-08-14-0000.json",
+      "count": 2,
+      "bytes": 67983
+    },
+    {
+      "file": "texts-rs-RS233-2014-11-24-0000.json",
+      "count": 2,
+      "bytes": 95865
+    },
+    {
+      "file": "texts-rs-RS233-2014-11-25-0000.json",
+      "count": 2,
+      "bytes": 94523
+    },
+    {
+      "file": "texts-rs-RS233-2014-11-26-0000.json",
+      "count": 2,
+      "bytes": 95513
+    },
+    {
+      "file": "texts-rs-RS233-2014-11-27-0000.json",
+      "count": 1,
+      "bytes": 13270
+    },
+    {
+      "file": "texts-rs-RS233-2014-11-28-0000.json",
+      "count": 2,
+      "bytes": 99138
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-01-0000.json",
+      "count": 2,
+      "bytes": 96357
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-02-0000.json",
+      "count": 2,
+      "bytes": 99179
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-03-0000.json",
+      "count": 2,
+      "bytes": 98582
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-04-0000.json",
+      "count": 2,
+      "bytes": 102708
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-05-0000.json",
+      "count": 2,
+      "bytes": 96867
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-08-0000.json",
+      "count": 2,
+      "bytes": 99849
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-09-0000.json",
+      "count": 2,
+      "bytes": 99006
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-10-0000.json",
+      "count": 2,
+      "bytes": 99280
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-11-0000.json",
+      "count": 2,
+      "bytes": 102349
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-12-0000.json",
+      "count": 2,
+      "bytes": 94732
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-15-0000.json",
+      "count": 2,
+      "bytes": 100755
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-16-0000.json",
+      "count": 2,
+      "bytes": 100537
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-17-0000.json",
+      "count": 2,
+      "bytes": 98253
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-18-0000.json",
+      "count": 2,
+      "bytes": 101590
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-19-0000.json",
+      "count": 2,
+      "bytes": 100470
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-22-0000.json",
+      "count": 2,
+      "bytes": 100477
+    },
+    {
+      "file": "texts-rs-RS233-2014-12-23-0000.json",
+      "count": 2,
+      "bytes": 104037
+    },
+    {
+      "file": "texts-rs-RS234-2015-02-24-0000.json",
+      "count": 2,
+      "bytes": 98948
+    },
+    {
+      "file": "texts-rs-RS234-2015-02-25-0000.json",
+      "count": 2,
+      "bytes": 95975
+    },
+    {
+      "file": "texts-rs-RS234-2015-02-26-0000.json",
+      "count": 2,
+      "bytes": 99698
+    },
+    {
+      "file": "texts-rs-RS234-2015-02-27-0000.json",
+      "count": 2,
+      "bytes": 97082
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-02-0000.json",
+      "count": 2,
+      "bytes": 95918
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-03-0000.json",
+      "count": 2,
+      "bytes": 101360
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-04-0000.json",
+      "count": 1,
+      "bytes": 8716
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-09-0000.json",
+      "count": 2,
+      "bytes": 96840
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-10-0000.json",
+      "count": 2,
+      "bytes": 96702
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-11-0000.json",
+      "count": 2,
+      "bytes": 98670
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-12-0000.json",
+      "count": 2,
+      "bytes": 102655
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-13-0000.json",
+      "count": 1,
+      "bytes": 9831
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-16-0000.json",
+      "count": 1,
+      "bytes": 9704
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-17-0000.json",
+      "count": 2,
+      "bytes": 97613
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-18-0000.json",
+      "count": 2,
+      "bytes": 97364
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-19-0000.json",
+      "count": 2,
+      "bytes": 97644
+    },
+    {
+      "file": "texts-rs-RS234-2015-03-20-0000.json",
+      "count": 2,
+      "bytes": 99424
+    },
+    {
+      "file": "texts-rs-RS235-2015-04-23-0000.json",
+      "count": 2,
+      "bytes": 70218
+    },
+    {
+      "file": "texts-rs-RS235-2015-04-24-0000.json",
+      "count": 2,
+      "bytes": 98822
+    },
+    {
+      "file": "texts-rs-RS235-2015-04-27-0000.json",
+      "count": 2,
+      "bytes": 100679
+    },
+    {
+      "file": "texts-rs-RS235-2015-04-28-0000.json",
+      "count": 2,
+      "bytes": 100240
+    },
+    {
+      "file": "texts-rs-RS235-2015-04-29-0000.json",
+      "count": 2,
+      "bytes": 99492
+    },
+    {
+      "file": "texts-rs-RS235-2015-04-30-0000.json",
+      "count": 2,
+      "bytes": 99234
+    },
+    {
+      "file": "texts-rs-RS235-2015-05-05-0000.json",
+      "count": 2,
+      "bytes": 96233
+    },
+    {
+      "file": "texts-rs-RS235-2015-05-06-0000.json",
+      "count": 1,
+      "bytes": 8550
+    },
+    {
+      "file": "texts-rs-RS235-2015-05-07-0000.json",
+      "count": 2,
+      "bytes": 99900
+    },
+    {
+      "file": "texts-rs-RS235-2015-05-08-0000.json",
+      "count": 2,
+      "bytes": 97729
+    },
+    {
+      "file": "texts-rs-RS235-2015-05-11-0000.json",
+      "count": 2,
+      "bytes": 99271
+    },
+    {
+      "file": "texts-rs-RS235-2015-05-12-0000.json",
+      "count": 2,
+      "bytes": 97266
+    },
+    {
+      "file": "texts-rs-RS235-2015-05-13-0000.json",
+      "count": 2,
+      "bytes": 101183
+    },
+    {
+      "file": "texts-rs-RS236-2015-07-21-0000.json",
+      "count": 2,
+      "bytes": 98874
+    },
+    {
+      "file": "texts-rs-RS236-2015-07-22-0000.json",
+      "count": 2,
+      "bytes": 100130
+    },
+    {
+      "file": "texts-rs-RS236-2015-07-23-0000.json",
+      "count": 2,
+      "bytes": 103479
+    },
+    {
+      "file": "texts-rs-RS236-2015-07-24-0000.json",
+      "count": 2,
+      "bytes": 99244
+    },
+    {
+      "file": "texts-rs-RS236-2015-07-27-0000.json",
+      "count": 2,
+      "bytes": 98624
+    },
+    {
+      "file": "texts-rs-RS236-2015-07-28-0000.json",
+      "count": 2,
+      "bytes": 101791
+    },
+    {
+      "file": "texts-rs-RS236-2015-07-29-0000.json",
+      "count": 2,
+      "bytes": 100361
+    },
+    {
+      "file": "texts-rs-RS236-2015-07-30-0000.json",
+      "count": 2,
+      "bytes": 102638
+    },
+    {
+      "file": "texts-rs-RS236-2015-07-31-0000.json",
+      "count": 2,
+      "bytes": 99945
+    },
+    {
+      "file": "texts-rs-RS236-2015-08-03-0000.json",
+      "count": 2,
+      "bytes": 100518
+    },
+    {
+      "file": "texts-rs-RS236-2015-08-04-0000.json",
+      "count": 2,
+      "bytes": 104371
+    },
+    {
+      "file": "texts-rs-RS236-2015-08-05-0000.json",
+      "count": 2,
+      "bytes": 98386
+    },
+    {
+      "file": "texts-rs-RS236-2015-08-06-0000.json",
+      "count": 2,
+      "bytes": 104863
+    },
+    {
+      "file": "texts-rs-RS236-2015-08-07-0000.json",
+      "count": 2,
+      "bytes": 99636
+    },
+    {
+      "file": "texts-rs-RS236-2015-08-10-0000.json",
+      "count": 2,
+      "bytes": 100805
+    },
+    {
+      "file": "texts-rs-RS236-2015-08-11-0000.json",
+      "count": 2,
+      "bytes": 104747
+    },
+    {
+      "file": "texts-rs-RS236-2015-08-12-0000.json",
+      "count": 2,
+      "bytes": 101063
+    },
+    {
+      "file": "texts-rs-RS236-2015-08-13-0000.json",
+      "count": 1,
+      "bytes": 96258
+    },
+    {
+      "file": "texts-rs-RS237-2015-11-30-0000.json",
+      "count": 2,
+      "bytes": 99665
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-01-0000.json",
+      "count": 2,
+      "bytes": 100498
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-02-0000.json",
+      "count": 2,
+      "bytes": 97619
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-03-0000.json",
+      "count": 2,
+      "bytes": 103260
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-04-0000.json",
+      "count": 2,
+      "bytes": 99779
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-07-0000.json",
+      "count": 2,
+      "bytes": 100514
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-08-0000.json",
+      "count": 2,
+      "bytes": 97545
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-09-0000.json",
+      "count": 2,
+      "bytes": 97336
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-10-0000.json",
+      "count": 2,
+      "bytes": 104199
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-11-0000.json",
+      "count": 2,
+      "bytes": 97651
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-14-0000.json",
+      "count": 2,
+      "bytes": 99587
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-15-0000.json",
+      "count": 2,
+      "bytes": 99244
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-16-0000.json",
+      "count": 2,
+      "bytes": 99350
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-17-0000.json",
+      "count": 2,
+      "bytes": 102570
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-18-0000.json",
+      "count": 2,
+      "bytes": 97698
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-21-0000.json",
+      "count": 2,
+      "bytes": 100892
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-22-0000.json",
+      "count": 2,
+      "bytes": 99555
+    },
+    {
+      "file": "texts-rs-RS237-2015-12-23-0000.json",
+      "count": 2,
+      "bytes": 100654
+    },
+    {
+      "file": "texts-rs-RS238-2016-02-24-0000.json",
+      "count": 2,
+      "bytes": 102355
+    },
+    {
+      "file": "texts-rs-RS238-2016-02-25-0000.json",
+      "count": 2,
+      "bytes": 101628
+    },
+    {
+      "file": "texts-rs-RS238-2016-02-26-0000.json",
+      "count": 2,
+      "bytes": 98540
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-01-0000.json",
+      "count": 2,
+      "bytes": 100457
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-02-0000.json",
+      "count": 2,
+      "bytes": 103138
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-03-0000.json",
+      "count": 2,
+      "bytes": 101204
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-04-0000.json",
+      "count": 2,
+      "bytes": 99578
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-08-0000.json",
+      "count": 2,
+      "bytes": 98459
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-09-0000.json",
+      "count": 2,
+      "bytes": 98497
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-10-0000.json",
+      "count": 2,
+      "bytes": 101095
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-11-0000.json",
+      "count": 2,
+      "bytes": 97094
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-14-0000.json",
+      "count": 2,
+      "bytes": 101419
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-15-0000.json",
+      "count": 2,
+      "bytes": 100580
+    },
+    {
+      "file": "texts-rs-RS238-2016-03-16-0000.json",
+      "count": 2,
+      "bytes": 101028
+    },
+    {
+      "file": "texts-rs-RS239-2016-04-25-0000.json",
+      "count": 2,
+      "bytes": 100169
+    },
+    {
+      "file": "texts-rs-RS239-2016-04-26-0000.json",
+      "count": 2,
+      "bytes": 103040
+    },
+    {
+      "file": "texts-rs-RS239-2016-04-27-0000.json",
+      "count": 2,
+      "bytes": 101648
+    },
+    {
+      "file": "texts-rs-RS239-2016-04-28-0000.json",
+      "count": 2,
+      "bytes": 102446
+    },
+    {
+      "file": "texts-rs-RS239-2016-04-29-0000.json",
+      "count": 2,
+      "bytes": 101151
+    },
+    {
+      "file": "texts-rs-RS239-2016-05-02-0000.json",
+      "count": 2,
+      "bytes": 99577
+    },
+    {
+      "file": "texts-rs-RS239-2016-05-03-0000.json",
+      "count": 2,
+      "bytes": 100335
+    },
+    {
+      "file": "texts-rs-RS239-2016-05-04-0000.json",
+      "count": 2,
+      "bytes": 100785
+    },
+    {
+      "file": "texts-rs-RS239-2016-05-05-0000.json",
+      "count": 2,
+      "bytes": 102585
+    },
+    {
+      "file": "texts-rs-RS239-2016-05-06-0000.json",
+      "count": 2,
+      "bytes": 100647
+    },
+    {
+      "file": "texts-rs-RS239-2016-05-09-0000.json",
+      "count": 2,
+      "bytes": 99454
+    },
+    {
+      "file": "texts-rs-RS239-2016-05-10-0000.json",
+      "count": 2,
+      "bytes": 101218
+    },
+    {
+      "file": "texts-rs-RS239-2016-05-11-0000.json",
+      "count": 2,
+      "bytes": 101010
+    },
+    {
+      "file": "texts-rs-RS239-2016-05-12-0000.json",
+      "count": 2,
+      "bytes": 99789
+    },
+    {
+      "file": "texts-rs-RS239-2016-05-13-0000.json",
+      "count": 2,
+      "bytes": 96459
+    },
+    {
+      "file": "texts-rs-RS240-2016-07-18-0000.json",
+      "count": 2,
+      "bytes": 86347
+    },
+    {
+      "file": "texts-rs-RS240-2016-07-19-0000.json",
+      "count": 2,
+      "bytes": 87104
+    },
+    {
+      "file": "texts-rs-RS240-2016-07-20-0000.json",
+      "count": 2,
+      "bytes": 73891
+    },
+    {
+      "file": "texts-rs-RS240-2016-07-21-0000.json",
+      "count": 2,
+      "bytes": 92916
+    },
+    {
+      "file": "texts-rs-RS240-2016-07-22-0000.json",
+      "count": 2,
+      "bytes": 99694
+    },
+    {
+      "file": "texts-rs-RS240-2016-07-25-0000.json",
+      "count": 2,
+      "bytes": 99094
+    },
+    {
+      "file": "texts-rs-RS240-2016-07-26-0000.json",
+      "count": 2,
+      "bytes": 99883
+    },
+    {
+      "file": "texts-rs-RS240-2016-07-27-0000.json",
+      "count": 2,
+      "bytes": 99865
+    },
+    {
+      "file": "texts-rs-RS240-2016-07-28-0000.json",
+      "count": 2,
+      "bytes": 101890
+    },
+    {
+      "file": "texts-rs-RS240-2016-07-29-0000.json",
+      "count": 2,
+      "bytes": 100441
+    },
+    {
+      "file": "texts-rs-RS240-2016-08-01-0000.json",
+      "count": 2,
+      "bytes": 99027
+    },
+    {
+      "file": "texts-rs-RS240-2016-08-02-0000.json",
+      "count": 2,
+      "bytes": 101345
+    },
+    {
+      "file": "texts-rs-RS240-2016-08-03-0000.json",
+      "count": 2,
+      "bytes": 96059
+    },
+    {
+      "file": "texts-rs-RS240-2016-08-04-0000.json",
+      "count": 1,
+      "bytes": 93571
+    },
+    {
+      "file": "texts-rs-RS240-2016-08-05-0000.json",
+      "count": 2,
+      "bytes": 100221
+    },
+    {
+      "file": "texts-rs-RS240-2016-08-08-0000.json",
+      "count": 2,
+      "bytes": 100579
+    },
+    {
+      "file": "texts-rs-RS240-2016-08-09-0000.json",
+      "count": 1,
+      "bytes": 90305
+    },
+    {
+      "file": "texts-rs-RS240-2016-08-10-0000.json",
+      "count": 2,
+      "bytes": 103075
+    },
+    {
+      "file": "texts-rs-RS240-2016-08-11-0000.json",
+      "count": 2,
+      "bytes": 104678
+    },
+    {
+      "file": "texts-rs-RS240-2016-08-12-0000.json",
+      "count": 2,
+      "bytes": 100401
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-16-0000.json",
+      "count": 2,
+      "bytes": 99654
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-17-0000.json",
+      "count": 2,
+      "bytes": 106270
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-18-0000.json",
+      "count": 2,
+      "bytes": 97819
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-21-0000.json",
+      "count": 2,
+      "bytes": 97838
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-22-0000.json",
+      "count": 2,
+      "bytes": 102885
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-23-0000.json",
+      "count": 2,
+      "bytes": 100123
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-24-0000.json",
+      "count": 2,
+      "bytes": 98584
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-25-0000.json",
+      "count": 2,
+      "bytes": 98322
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-28-0000.json",
+      "count": 2,
+      "bytes": 99458
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-29-0000.json",
+      "count": 2,
+      "bytes": 100989
+    },
+    {
+      "file": "texts-rs-RS241-2016-11-30-0000.json",
+      "count": 2,
+      "bytes": 99870
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-01-0000.json",
+      "count": 2,
+      "bytes": 103060
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-02-0000.json",
+      "count": 2,
+      "bytes": 95554
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-05-0000.json",
+      "count": 2,
+      "bytes": 98501
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-06-0000.json",
+      "count": 2,
+      "bytes": 98863
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-07-0000.json",
+      "count": 2,
+      "bytes": 103549
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-08-0000.json",
+      "count": 2,
+      "bytes": 101941
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-09-0000.json",
+      "count": 2,
+      "bytes": 97688
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-12-0000.json",
+      "count": 2,
+      "bytes": 100975
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-14-0000.json",
+      "count": 2,
+      "bytes": 99683
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-15-0000.json",
+      "count": 2,
+      "bytes": 103725
+    },
+    {
+      "file": "texts-rs-RS241-2016-12-16-0000.json",
+      "count": 2,
+      "bytes": 100475
+    },
+    {
+      "file": "texts-rs-RS242-2017-02-02-0000.json",
+      "count": 2,
+      "bytes": 101998
+    },
+    {
+      "file": "texts-rs-RS242-2017-02-03-0000.json",
+      "count": 2,
+      "bytes": 99654
+    },
+    {
+      "file": "texts-rs-RS242-2017-02-06-0000.json",
+      "count": 2,
+      "bytes": 103959
+    },
+    {
+      "file": "texts-rs-RS242-2017-02-07-0000.json",
+      "count": 2,
+      "bytes": 101680
+    },
+    {
+      "file": "texts-rs-RS242-2017-02-08-0000.json",
+      "count": 2,
+      "bytes": 99342
+    },
+    {
+      "file": "texts-rs-RS242-2017-02-09-0000.json",
+      "count": 2,
+      "bytes": 100081
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-09-0000.json",
+      "count": 2,
+      "bytes": 101087
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-10-0000.json",
+      "count": 2,
+      "bytes": 102043
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-14-0000.json",
+      "count": 2,
+      "bytes": 100220
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-15-0000.json",
+      "count": 2,
+      "bytes": 101065
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-16-0000.json",
+      "count": 2,
+      "bytes": 101485
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-17-0000.json",
+      "count": 2,
+      "bytes": 100526
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-20-0000.json",
+      "count": 2,
+      "bytes": 102426
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-21-0000.json",
+      "count": 2,
+      "bytes": 98233
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-22-0000.json",
+      "count": 2,
+      "bytes": 97451
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-23-0000.json",
+      "count": 2,
+      "bytes": 98521
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-24-0000.json",
+      "count": 2,
+      "bytes": 99690
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-27-0000.json",
+      "count": 2,
+      "bytes": 103084
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-28-0000.json",
+      "count": 2,
+      "bytes": 99169
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-29-0000.json",
+      "count": 2,
+      "bytes": 100198
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-30-0000.json",
+      "count": 2,
+      "bytes": 100629
+    },
+    {
+      "file": "texts-rs-RS242-2017-03-31-0000.json",
+      "count": 2,
+      "bytes": 100405
+    },
+    {
+      "file": "texts-rs-RS242-2017-04-03-0000.json",
+      "count": 2,
+      "bytes": 101206
+    },
+    {
+      "file": "texts-rs-RS242-2017-04-05-0000.json",
+      "count": 2,
+      "bytes": 97636
+    },
+    {
+      "file": "texts-rs-RS242-2017-04-06-0000.json",
+      "count": 2,
+      "bytes": 99933
+    },
+    {
+      "file": "texts-rs-RS242-2017-04-07-0000.json",
+      "count": 2,
+      "bytes": 99321
+    },
+    {
+      "file": "texts-rs-RS242-2017-04-10-0000.json",
+      "count": 2,
+      "bytes": 101545
+    },
+    {
+      "file": "texts-rs-RS242-2017-04-11-0000.json",
+      "count": 1,
+      "bytes": 91848
+    },
+    {
+      "file": "texts-rs-RS242-2017-04-12-0000.json",
+      "count": 2,
+      "bytes": 100579
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-17-0000.json",
+      "count": 2,
+      "bytes": 103137
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-18-0000.json",
+      "count": 2,
+      "bytes": 101233
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-19-0000.json",
+      "count": 2,
+      "bytes": 98216
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-20-0000.json",
+      "count": 2,
+      "bytes": 102208
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-21-0000.json",
+      "count": 2,
+      "bytes": 98269
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-24-0000.json",
+      "count": 2,
+      "bytes": 103095
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-25-0000.json",
+      "count": 2,
+      "bytes": 98994
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-26-0000.json",
+      "count": 2,
+      "bytes": 100582
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-27-0000.json",
+      "count": 2,
+      "bytes": 99726
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-28-0000.json",
+      "count": 2,
+      "bytes": 103471
+    },
+    {
+      "file": "texts-rs-RS243-2017-07-31-0000.json",
+      "count": 2,
+      "bytes": 101029
+    },
+    {
+      "file": "texts-rs-RS243-2017-08-01-0000.json",
+      "count": 2,
+      "bytes": 98807
+    },
+    {
+      "file": "texts-rs-RS243-2017-08-02-0000.json",
+      "count": 2,
+      "bytes": 97823
+    },
+    {
+      "file": "texts-rs-RS243-2017-08-03-0000.json",
+      "count": 2,
+      "bytes": 99161
+    },
+    {
+      "file": "texts-rs-RS243-2017-08-04-0000.json",
+      "count": 2,
+      "bytes": 98835
+    },
+    {
+      "file": "texts-rs-RS243-2017-08-08-0000.json",
+      "count": 2,
+      "bytes": 99165
+    },
+    {
+      "file": "texts-rs-RS243-2017-08-09-0000.json",
+      "count": 2,
+      "bytes": 102294
+    },
+    {
+      "file": "texts-rs-RS243-2017-08-10-0000.json",
+      "count": 2,
+      "bytes": 101301
+    },
+    {
+      "file": "texts-rs-RS243-2017-08-11-0000.json",
+      "count": 2,
+      "bytes": 101532
+    },
+    {
+      "file": "texts-rs-RS244-2017-12-15-0000.json",
+      "count": 2,
+      "bytes": 100962
+    },
+    {
+      "file": "texts-rs-RS244-2017-12-18-0000.json",
+      "count": 2,
+      "bytes": 102777
+    },
+    {
+      "file": "texts-rs-RS244-2017-12-19-0000.json",
+      "count": 2,
+      "bytes": 98984
+    },
+    {
+      "file": "texts-rs-RS244-2017-12-20-0000.json",
+      "count": 2,
+      "bytes": 99304
+    },
+    {
+      "file": "texts-rs-RS244-2017-12-21-0000.json",
+      "count": 2,
+      "bytes": 101249
+    },
+    {
+      "file": "texts-rs-RS244-2017-12-22-0000.json",
+      "count": 1,
+      "bytes": 10046
+    },
+    {
+      "file": "texts-rs-RS244-2017-12-27-0000.json",
+      "count": 2,
+      "bytes": 103669
+    },
+    {
+      "file": "texts-rs-RS244-2017-12-28-0000.json",
+      "count": 1,
+      "bytes": 93259
+    },
+    {
+      "file": "texts-rs-RS244-2017-12-29-0000.json",
+      "count": 2,
+      "bytes": 103171
+    },
+    {
+      "file": "texts-rs-RS244-2018-01-01-0000.json",
+      "count": 2,
+      "bytes": 105068
+    },
+    {
+      "file": "texts-rs-RS244-2018-01-02-0000.json",
+      "count": 2,
+      "bytes": 100087
+    },
+    {
+      "file": "texts-rs-RS244-2018-01-03-0000.json",
+      "count": 2,
+      "bytes": 101045
+    },
+    {
+      "file": "texts-rs-RS244-2018-01-04-0000.json",
+      "count": 2,
+      "bytes": 104257
+    },
+    {
+      "file": "texts-rs-RS244-2018-01-05-0000.json",
+      "count": 2,
+      "bytes": 99942
+    },
+    {
+      "file": "texts-rs-RS245-2018-02-02-0000.json",
+      "count": 2,
+      "bytes": 99989
+    },
+    {
+      "file": "texts-rs-RS245-2018-02-05-0000.json",
+      "count": 2,
+      "bytes": 105316
+    },
+    {
+      "file": "texts-rs-RS245-2018-02-06-0000.json",
+      "count": 2,
+      "bytes": 100698
+    },
+    {
+      "file": "texts-rs-RS245-2018-02-07-0000.json",
+      "count": 2,
+      "bytes": 105178
+    },
+    {
+      "file": "texts-rs-RS245-2018-02-08-0000.json",
+      "count": 2,
+      "bytes": 101012
+    },
+    {
+      "file": "texts-rs-RS245-2018-02-09-0000.json",
+      "count": 2,
+      "bytes": 102539
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-05-0000.json",
+      "count": 2,
+      "bytes": 102326
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-06-0000.json",
+      "count": 2,
+      "bytes": 103979
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-07-0000.json",
+      "count": 1,
+      "bytes": 9951
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-08-0000.json",
+      "count": 2,
+      "bytes": 99696
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-09-0000.json",
+      "count": 2,
+      "bytes": 102500
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-12-0000.json",
+      "count": 2,
+      "bytes": 103538
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-13-0000.json",
+      "count": 2,
+      "bytes": 100628
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-14-0000.json",
+      "count": 2,
+      "bytes": 100863
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-15-0000.json",
+      "count": 2,
+      "bytes": 101849
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-16-0000.json",
+      "count": 2,
+      "bytes": 100509
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-19-0000.json",
+      "count": 2,
+      "bytes": 102865
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-20-0000.json",
+      "count": 2,
+      "bytes": 100667
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-21-0000.json",
+      "count": 2,
+      "bytes": 101307
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-22-0000.json",
+      "count": 2,
+      "bytes": 102370
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-23-0000.json",
+      "count": 2,
+      "bytes": 100599
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-26-0000.json",
+      "count": 2,
+      "bytes": 105756
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-27-0000.json",
+      "count": 2,
+      "bytes": 99094
+    },
+    {
+      "file": "texts-rs-RS245-2018-03-28-0000.json",
+      "count": 2,
+      "bytes": 104810
+    },
+    {
+      "file": "texts-rs-RS245-2018-04-02-0000.json",
+      "count": 2,
+      "bytes": 104608
+    },
+    {
+      "file": "texts-rs-RS245-2018-04-03-0000.json",
+      "count": 2,
+      "bytes": 102085
+    },
+    {
+      "file": "texts-rs-RS245-2018-04-04-0000.json",
+      "count": 2,
+      "bytes": 104463
+    },
+    {
+      "file": "texts-rs-RS245-2018-04-05-0000.json",
+      "count": 2,
+      "bytes": 102289
+    },
+    {
+      "file": "texts-rs-RS245-2018-04-06-0000.json",
+      "count": 2,
+      "bytes": 104101
+    },
+    {
+      "file": "texts-rs-RS246-2018-07-18-0000.json",
+      "count": 2,
+      "bytes": 101244
+    },
+    {
+      "file": "texts-rs-RS246-2018-07-19-0000.json",
+      "count": 2,
+      "bytes": 102251
+    },
+    {
+      "file": "texts-rs-RS246-2018-07-20-0000.json",
+      "count": 1,
+      "bytes": 87551
+    },
+    {
+      "file": "texts-rs-RS246-2018-07-23-0000.json",
+      "count": 2,
+      "bytes": 103670
+    },
+    {
+      "file": "texts-rs-RS246-2018-07-24-0000.json",
+      "count": 1,
+      "bytes": 10563
+    },
+    {
+      "file": "texts-rs-RS246-2018-07-25-0000.json",
+      "count": 2,
+      "bytes": 103713
+    },
+    {
+      "file": "texts-rs-RS246-2018-07-26-0000.json",
+      "count": 2,
+      "bytes": 105487
+    },
+    {
+      "file": "texts-rs-RS246-2018-07-27-0000.json",
+      "count": 2,
+      "bytes": 104277
+    },
+    {
+      "file": "texts-rs-RS246-2018-07-30-0000.json",
+      "count": 2,
+      "bytes": 102728
+    },
+    {
+      "file": "texts-rs-RS246-2018-07-31-0000.json",
+      "count": 2,
+      "bytes": 100914
+    },
+    {
+      "file": "texts-rs-RS246-2018-08-01-0000.json",
+      "count": 2,
+      "bytes": 100198
+    },
+    {
+      "file": "texts-rs-RS246-2018-08-02-0000.json",
+      "count": 2,
+      "bytes": 99191
+    },
+    {
+      "file": "texts-rs-RS246-2018-08-03-0000.json",
+      "count": 2,
+      "bytes": 103223
+    },
+    {
+      "file": "texts-rs-RS246-2018-08-06-0000.json",
+      "count": 2,
+      "bytes": 102634
+    },
+    {
+      "file": "texts-rs-RS246-2018-08-07-0000.json",
+      "count": 2,
+      "bytes": 101036
+    },
+    {
+      "file": "texts-rs-RS246-2018-08-08-0000.json",
+      "count": 2,
+      "bytes": 101873
+    },
+    {
+      "file": "texts-rs-RS246-2018-08-09-0000.json",
+      "count": 2,
+      "bytes": 98843
+    },
+    {
+      "file": "texts-rs-RS246-2018-08-10-0000.json",
+      "count": 2,
+      "bytes": 99722
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-11-0000.json",
+      "count": 2,
+      "bytes": 99602
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-12-0000.json",
+      "count": 2,
+      "bytes": 103779
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-13-0000.json",
+      "count": 2,
+      "bytes": 99216
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-14-0000.json",
+      "count": 1,
+      "bytes": 93366
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-17-0000.json",
+      "count": 2,
+      "bytes": 105128
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-18-0000.json",
+      "count": 2,
+      "bytes": 99691
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-19-0000.json",
+      "count": 2,
+      "bytes": 103461
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-20-0000.json",
+      "count": 2,
+      "bytes": 99595
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-21-0000.json",
+      "count": 2,
+      "bytes": 102623
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-24-0000.json",
+      "count": 2,
+      "bytes": 98295
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-27-0000.json",
+      "count": 2,
+      "bytes": 100221
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-28-0000.json",
+      "count": 1,
+      "bytes": 10283
+    },
+    {
+      "file": "texts-rs-RS247-2018-12-31-0000.json",
+      "count": 2,
+      "bytes": 104772
+    },
+    {
+      "file": "texts-rs-RS247-2019-01-01-0000.json",
+      "count": 2,
+      "bytes": 100680
+    },
+    {
+      "file": "texts-rs-RS247-2019-01-02-0000.json",
+      "count": 2,
+      "bytes": 102960
+    },
+    {
+      "file": "texts-rs-RS247-2019-01-03-0000.json",
+      "count": 2,
+      "bytes": 102372
+    },
+    {
+      "file": "texts-rs-RS247-2019-01-04-0000.json",
+      "count": 2,
+      "bytes": 102521
+    },
+    {
+      "file": "texts-rs-RS247-2019-01-07-0000.json",
+      "count": 2,
+      "bytes": 106815
+    },
+    {
+      "file": "texts-rs-RS247-2019-01-08-0000.json",
+      "count": 1,
+      "bytes": 8899
+    },
+    {
+      "file": "texts-rs-RS248-2019-02-04-0000.json",
+      "count": 2,
+      "bytes": 102354
+    },
+    {
+      "file": "texts-rs-RS248-2019-02-05-0000.json",
+      "count": 2,
+      "bytes": 87350
+    },
+    {
+      "file": "texts-rs-RS248-2019-02-06-0000.json",
+      "count": 2,
+      "bytes": 103086
+    },
+    {
+      "file": "texts-rs-RS248-2019-02-07-0000.json",
+      "count": 2,
+      "bytes": 101629
+    },
+    {
+      "file": "texts-rs-RS248-2019-02-08-0000.json",
+      "count": 2,
+      "bytes": 102886
+    },
+    {
+      "file": "texts-rs-RS248-2019-02-11-0000.json",
+      "count": 2,
+      "bytes": 107085
+    },
+    {
+      "file": "texts-rs-RS248-2019-02-12-0000.json",
+      "count": 2,
+      "bytes": 105087
+    },
+    {
+      "file": "texts-rs-RS248-2019-02-13-0000.json",
+      "count": 2,
+      "bytes": 100737
+    },
+    {
+      "file": "texts-rs-RS249-2019-06-21-0000.json",
+      "count": 1,
+      "bytes": 77515
+    },
+    {
+      "file": "texts-rs-RS249-2019-06-24-0000.json",
+      "count": 1,
+      "bytes": 87630
+    },
+    {
+      "file": "texts-rs-RS249-2019-06-25-0000.json",
+      "count": 1,
+      "bytes": 90505
+    },
+    {
+      "file": "texts-rs-RS249-2019-06-26-0000.json",
+      "count": 1,
+      "bytes": 90955
+    },
+    {
+      "file": "texts-rs-RS249-2019-06-27-0000.json",
+      "count": 1,
+      "bytes": 89683
+    },
+    {
+      "file": "texts-rs-RS249-2019-06-28-0000.json",
+      "count": 1,
+      "bytes": 90627
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-01-0000.json",
+      "count": 1,
+      "bytes": 88167
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-02-0000.json",
+      "count": 1,
+      "bytes": 91676
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-04-0000.json",
+      "count": 1,
+      "bytes": 84779
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-08-0000.json",
+      "count": 1,
+      "bytes": 88964
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-09-0000.json",
+      "count": 1,
+      "bytes": 88971
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-10-0000.json",
+      "count": 1,
+      "bytes": 88806
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-11-0000.json",
+      "count": 1,
+      "bytes": 86895
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-12-0000.json",
+      "count": 1,
+      "bytes": 89673
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-15-0000.json",
+      "count": 1,
+      "bytes": 91094
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-16-0000.json",
+      "count": 1,
+      "bytes": 86471
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-17-0000.json",
+      "count": 1,
+      "bytes": 90517
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-18-0000.json",
+      "count": 1,
+      "bytes": 88248
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-22-0000.json",
+      "count": 1,
+      "bytes": 87625
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-23-0000.json",
+      "count": 1,
+      "bytes": 87613
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-24-0000.json",
+      "count": 1,
+      "bytes": 88816
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-25-0000.json",
+      "count": 1,
+      "bytes": 86963
+    },
+    {
+      "file": "texts-rs-RS249-2019-07-26-0000.json",
+      "count": 1,
+      "bytes": 90420
+    },
+    {
+      "file": "texts-rs-RS250-2007-11-15-0000.json",
+      "count": 1,
+      "bytes": 95282
+    },
+    {
+      "file": "texts-rs-RS250-2019-11-18-0000.json",
+      "count": 2,
+      "bytes": 97416
+    },
+    {
+      "file": "texts-rs-RS250-2019-11-19-0000.json",
+      "count": 2,
+      "bytes": 94814
+    },
+    {
+      "file": "texts-rs-RS250-2019-11-20-0000.json",
+      "count": 2,
+      "bytes": 96552
+    },
+    {
+      "file": "texts-rs-RS250-2019-11-21-0000.json",
+      "count": 2,
+      "bytes": 97877
+    },
+    {
+      "file": "texts-rs-RS250-2019-11-22-0000.json",
+      "count": 2,
+      "bytes": 103322
+    },
+    {
+      "file": "texts-rs-RS250-2019-11-25-0000.json",
+      "count": 2,
+      "bytes": 96958
+    },
+    {
+      "file": "texts-rs-RS250-2019-11-27-0000.json",
+      "count": 2,
+      "bytes": 100108
+    },
+    {
+      "file": "texts-rs-RS250-2019-11-28-0000.json",
+      "count": 2,
+      "bytes": 100115
+    },
+    {
+      "file": "texts-rs-RS250-2019-11-29-0000.json",
+      "count": 2,
+      "bytes": 102109
+    },
+    {
+      "file": "texts-rs-RS250-2019-12-02-0000.json",
+      "count": 2,
+      "bytes": 97072
+    },
+    {
+      "file": "texts-rs-RS250-2019-12-03-0000.json",
+      "count": 2,
+      "bytes": 99843
+    },
+    {
+      "file": "texts-rs-RS250-2019-12-04-0000.json",
+      "count": 2,
+      "bytes": 98958
+    },
+    {
+      "file": "texts-rs-RS250-2019-12-05-0000.json",
+      "count": 2,
+      "bytes": 104645
+    },
+    {
+      "file": "texts-rs-RS250-2019-12-06-0000.json",
+      "count": 2,
+      "bytes": 101471
+    },
+    {
+      "file": "texts-rs-RS250-2019-12-09-0000.json",
+      "count": 2,
+      "bytes": 101519
+    },
+    {
+      "file": "texts-rs-RS250-2019-12-10-0000.json",
+      "count": 2,
+      "bytes": 99240
+    },
+    {
+      "file": "texts-rs-RS250-2019-12-11-0000.json",
+      "count": 1,
+      "bytes": 10512
+    },
+    {
+      "file": "texts-rs-RS250-2019-12-12-0000.json",
+      "count": 1,
+      "bytes": 9701
+    },
+    {
+      "file": "texts-rs-RS250-2019-12-13-0000.json",
+      "count": 2,
+      "bytes": 103848
+    },
+    {
+      "file": "texts-rs-RS251-2020-02-03-0000.json",
+      "count": 2,
+      "bytes": 98696
+    },
+    {
+      "file": "texts-rs-RS251-2020-02-04-0000.json",
+      "count": 2,
+      "bytes": 97975
+    },
+    {
+      "file": "texts-rs-RS251-2020-02-05-0000.json",
+      "count": 2,
+      "bytes": 98795
+    },
+    {
+      "file": "texts-rs-RS251-2020-02-06-0000.json",
+      "count": 2,
+      "bytes": 101730
+    },
+    {
+      "file": "texts-rs-RS251-2020-02-07-0000.json",
+      "count": 2,
+      "bytes": 101840
+    },
+    {
+      "file": "texts-rs-RS251-2020-02-10-0000.json",
+      "count": 2,
+      "bytes": 96187
+    },
+    {
+      "file": "texts-rs-RS251-2020-02-11-0000.json",
+      "count": 2,
+      "bytes": 99959
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-02-0000.json",
+      "count": 2,
+      "bytes": 100137
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-03-0000.json",
+      "count": 2,
+      "bytes": 97616
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-04-0000.json",
+      "count": 2,
+      "bytes": 97975
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-05-0000.json",
+      "count": 1,
+      "bytes": 92022
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-06-0000.json",
+      "count": 2,
+      "bytes": 101730
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-11-0000.json",
+      "count": 2,
+      "bytes": 99959
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-12-0000.json",
+      "count": 2,
+      "bytes": 102150
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-13-0000.json",
+      "count": 2,
+      "bytes": 102615
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-16-0000.json",
+      "count": 2,
+      "bytes": 100021
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-17-0000.json",
+      "count": 2,
+      "bytes": 99327
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-18-0000.json",
+      "count": 2,
+      "bytes": 100925
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-19-0000.json",
+      "count": 2,
+      "bytes": 99873
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-20-0000.json",
+      "count": 2,
+      "bytes": 102631
+    },
+    {
+      "file": "texts-rs-RS251-2020-03-23-0000.json",
+      "count": 2,
+      "bytes": 100465
+    },
+    {
+      "file": "texts-rs-RS252-2020-09-14-0000.json",
+      "count": 1,
+      "bytes": 105505
+    },
+    {
+      "file": "texts-rs-RS252-2020-09-15-0000.json",
+      "count": 1,
+      "bytes": 102428
+    },
+    {
+      "file": "texts-rs-RS252-2020-09-16-0000.json",
+      "count": 1,
+      "bytes": 100218
+    },
+    {
+      "file": "texts-rs-RS252-2020-09-17-0000.json",
+      "count": 1,
+      "bytes": 105268
+    },
+    {
+      "file": "texts-rs-RS252-2020-09-18-0000.json",
+      "count": 1,
+      "bytes": 104969
+    },
+    {
+      "file": "texts-rs-RS252-2020-09-19-0000.json",
+      "count": 1,
+      "bytes": 102592
+    },
+    {
+      "file": "texts-rs-RS252-2020-09-20-0000.json",
+      "count": 1,
+      "bytes": 100526
+    },
+    {
+      "file": "texts-rs-RS252-2020-09-21-0000.json",
+      "count": 1,
+      "bytes": 103602
+    },
+    {
+      "file": "texts-rs-RS252-2020-09-22-0000.json",
+      "count": 1,
+      "bytes": 94452
+    },
+    {
+      "file": "texts-rs-RS252-2020-09-23-0000.json",
+      "count": 1,
+      "bytes": 106727
+    },
+    {
+      "file": "texts-rs-RS253-2021-02-02-0000.json",
+      "count": 2,
+      "bytes": 115248
+    },
+    {
+      "file": "texts-rs-RS253-2021-02-03-0000.json",
+      "count": 1,
+      "bytes": 100611
+    },
+    {
+      "file": "texts-rs-RS253-2021-02-04-0000.json",
+      "count": 2,
+      "bytes": 117163
+    },
+    {
+      "file": "texts-rs-RS253-2021-02-05-0000.json",
+      "count": 2,
+      "bytes": 113971
+    },
+    {
+      "file": "texts-rs-RS253-2021-02-08-0000.json",
+      "count": 2,
+      "bytes": 110325
+    },
+    {
+      "file": "texts-rs-RS253-2021-02-09-0000.json",
+      "count": 2,
+      "bytes": 111734
+    },
+    {
+      "file": "texts-rs-RS253-2021-02-10-0000.json",
+      "count": 2,
+      "bytes": 109581
+    },
+    {
+      "file": "texts-rs-RS253-2021-02-11-0000.json",
+      "count": 2,
+      "bytes": 112287
+    },
+    {
+      "file": "texts-rs-RS253-2021-02-12-0000.json",
+      "count": 2,
+      "bytes": 116313
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-08-0000.json",
+      "count": 2,
+      "bytes": 116842
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-09-0000.json",
+      "count": 2,
+      "bytes": 116072
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-10-0000.json",
+      "count": 2,
+      "bytes": 113698
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-12-0000.json",
+      "count": 2,
+      "bytes": 118604
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-15-0000.json",
+      "count": 2,
+      "bytes": 118563
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-16-0000.json",
+      "count": 2,
+      "bytes": 114303
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-17-0000.json",
+      "count": 2,
+      "bytes": 115009
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-18-0000.json",
+      "count": 2,
+      "bytes": 113533
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-19-0000.json",
+      "count": 2,
+      "bytes": 119980
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-22-0000.json",
+      "count": 2,
+      "bytes": 115874
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-23-0000.json",
+      "count": 2,
+      "bytes": 114984
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-24-0000.json",
+      "count": 2,
+      "bytes": 111851
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-25-0000.json",
+      "count": 2,
+      "bytes": 115163
+    },
+    {
+      "file": "texts-rs-RS253-2021-03-26-0000.json",
+      "count": 2,
+      "bytes": 116788
+    },
+    {
+      "file": "texts-rs-RS254-2021-07-19-0000.json",
+      "count": 2,
+      "bytes": 118241
+    },
+    {
+      "file": "texts-rs-RS254-2021-07-20-0000.json",
+      "count": 2,
+      "bytes": 116454
+    },
+    {
+      "file": "texts-rs-RS254-2021-07-22-0000.json",
+      "count": 2,
+      "bytes": 120039
+    },
+    {
+      "file": "texts-rs-RS254-2021-07-23-0000.json",
+      "count": 2,
+      "bytes": 123852
+    },
+    {
+      "file": "texts-rs-RS254-2021-07-26-0000.json",
+      "count": 2,
+      "bytes": 119104
+    },
+    {
+      "file": "texts-rs-RS254-2021-07-27-0000.json",
+      "count": 2,
+      "bytes": 113029
+    },
+    {
+      "file": "texts-rs-RS254-2021-07-28-0000.json",
+      "count": 2,
+      "bytes": 115961
+    },
+    {
+      "file": "texts-rs-RS254-2021-07-29-0000.json",
+      "count": 2,
+      "bytes": 122743
+    },
+    {
+      "file": "texts-rs-RS254-2021-07-30-0000.json",
+      "count": 2,
+      "bytes": 120668
+    },
+    {
+      "file": "texts-rs-RS254-2021-08-02-0000.json",
+      "count": 2,
+      "bytes": 115546
+    },
+    {
+      "file": "texts-rs-RS254-2021-08-03-0000.json",
+      "count": 2,
+      "bytes": 115576
+    },
+    {
+      "file": "texts-rs-RS254-2021-08-04-0000.json",
+      "count": 2,
+      "bytes": 117037
+    },
+    {
+      "file": "texts-rs-RS254-2021-08-05-0000.json",
+      "count": 2,
+      "bytes": 117163
+    },
+    {
+      "file": "texts-rs-RS254-2021-08-06-0000.json",
+      "count": 2,
+      "bytes": 117094
+    },
+    {
+      "file": "texts-rs-RS254-2021-08-09-0000.json",
+      "count": 2,
+      "bytes": 120266
+    },
+    {
+      "file": "texts-rs-RS254-2021-08-10-0000.json",
+      "count": 2,
+      "bytes": 120304
+    },
+    {
+      "file": "texts-rs-RS254-2021-08-11-0000.json",
+      "count": 2,
+      "bytes": 120441
+    },
+    {
+      "file": "texts-rs-RS255-2021-11-29-0000.json",
+      "count": 2,
+      "bytes": 111981
+    },
+    {
+      "file": "texts-rs-RS255-2021-11-30-0000.json",
+      "count": 2,
+      "bytes": 112935
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-01-0000.json",
+      "count": 2,
+      "bytes": 110773
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-02-0000.json",
+      "count": 2,
+      "bytes": 113678
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-03-0000.json",
+      "count": 2,
+      "bytes": 118763
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-06-0000.json",
+      "count": 2,
+      "bytes": 112514
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-07-0000.json",
+      "count": 2,
+      "bytes": 111183
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-08-0000.json",
+      "count": 2,
+      "bytes": 112925
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-09-0000.json",
+      "count": 2,
+      "bytes": 114256
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-10-0000.json",
+      "count": 2,
+      "bytes": 119628
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-13-0000.json",
+      "count": 2,
+      "bytes": 109867
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-14-0000.json",
+      "count": 2,
+      "bytes": 110783
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-15-0000.json",
+      "count": 2,
+      "bytes": 113709
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-16-0000.json",
+      "count": 2,
+      "bytes": 115703
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-17-0000.json",
+      "count": 2,
+      "bytes": 114753
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-20-0000.json",
+      "count": 2,
+      "bytes": 110431
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-21-0000.json",
+      "count": 2,
+      "bytes": 112042
+    },
+    {
+      "file": "texts-rs-RS255-2021-12-22-0000.json",
+      "count": 2,
+      "bytes": 121052
+    },
+    {
+      "file": "texts-rs-RS256-2022-02-02-0000.json",
+      "count": 2,
+      "bytes": 115021
+    },
+    {
+      "file": "texts-rs-RS256-2022-02-03-0000.json",
+      "count": 2,
+      "bytes": 113749
+    },
+    {
+      "file": "texts-rs-RS256-2022-02-04-0000.json",
+      "count": 2,
+      "bytes": 115646
+    },
+    {
+      "file": "texts-rs-RS256-2022-02-07-0000.json",
+      "count": 2,
+      "bytes": 115647
+    },
+    {
+      "file": "texts-rs-RS256-2022-02-08-0000.json",
+      "count": 2,
+      "bytes": 114380
+    },
+    {
+      "file": "texts-rs-RS256-2022-02-09-0000.json",
+      "count": 2,
+      "bytes": 117662
+    },
+    {
+      "file": "texts-rs-RS256-2022-02-10-0000.json",
+      "count": 2,
+      "bytes": 115606
+    },
+    {
+      "file": "texts-rs-RS256-2022-02-11-0000.json",
+      "count": 2,
+      "bytes": 113584
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-14-0000.json",
+      "count": 2,
+      "bytes": 113727
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-15-0000.json",
+      "count": 2,
+      "bytes": 115867
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-16-0000.json",
+      "count": 2,
+      "bytes": 119159
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-17-0000.json",
+      "count": 2,
+      "bytes": 118919
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-21-0000.json",
+      "count": 2,
+      "bytes": 118475
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-22-0000.json",
+      "count": 2,
+      "bytes": 118593
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-23-0000.json",
+      "count": 2,
+      "bytes": 119244
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-24-0000.json",
+      "count": 2,
+      "bytes": 122404
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-25-0000.json",
+      "count": 2,
+      "bytes": 119097
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-28-0000.json",
+      "count": 2,
+      "bytes": 117075
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-29-0000.json",
+      "count": 2,
+      "bytes": 114179
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-30-0000.json",
+      "count": 2,
+      "bytes": 120327
+    },
+    {
+      "file": "texts-rs-RS256-2022-03-31-0000.json",
+      "count": 2,
+      "bytes": 121541
+    },
+    {
+      "file": "texts-rs-RS256-2022-04-01-0000.json",
+      "count": 2,
+      "bytes": 119648
+    },
+    {
+      "file": "texts-rs-RS256-2022-04-04-0000.json",
+      "count": 2,
+      "bytes": 115599
+    },
+    {
+      "file": "texts-rs-RS256-2022-04-05-0000.json",
+      "count": 2,
+      "bytes": 118797
+    },
+    {
+      "file": "texts-rs-RS256-2022-04-06-0000.json",
+      "count": 2,
+      "bytes": 120677
+    },
+    {
+      "file": "texts-rs-RS256-2022-04-07-0000.json",
+      "count": 2,
+      "bytes": 122266
+    },
+    {
+      "file": "texts-rs-RS257-2022-07-18-0000.json",
+      "count": 2,
+      "bytes": 116164
+    },
+    {
+      "file": "texts-rs-RS257-2022-07-19-0000.json",
+      "count": 2,
+      "bytes": 118106
+    },
+    {
+      "file": "texts-rs-RS257-2022-07-20-0000.json",
+      "count": 2,
+      "bytes": 120523
+    },
+    {
+      "file": "texts-rs-RS257-2022-07-21-0000.json",
+      "count": 2,
+      "bytes": 123779
+    },
+    {
+      "file": "texts-rs-RS257-2022-07-22-0000.json",
+      "count": 2,
+      "bytes": 121608
+    },
+    {
+      "file": "texts-rs-RS257-2022-07-25-0000.json",
+      "count": 2,
+      "bytes": 117996
+    },
+    {
+      "file": "texts-rs-RS257-2022-07-26-0000.json",
+      "count": 2,
+      "bytes": 115518
+    },
+    {
+      "file": "texts-rs-RS257-2022-07-27-0000.json",
+      "count": 2,
+      "bytes": 121764
+    },
+    {
+      "file": "texts-rs-RS257-2022-07-28-0000.json",
+      "count": 2,
+      "bytes": 122503
+    },
+    {
+      "file": "texts-rs-RS257-2022-07-29-0000.json",
+      "count": 2,
+      "bytes": 123889
+    },
+    {
+      "file": "texts-rs-RS257-2022-08-01-0000.json",
+      "count": 2,
+      "bytes": 115254
+    },
+    {
+      "file": "texts-rs-RS257-2022-08-02-0000.json",
+      "count": 2,
+      "bytes": 116217
+    },
+    {
+      "file": "texts-rs-RS257-2022-08-03-0000.json",
+      "count": 2,
+      "bytes": 117720
+    },
+    {
+      "file": "texts-rs-RS257-2022-08-04-0000.json",
+      "count": 2,
+      "bytes": 118985
+    },
+    {
+      "file": "texts-rs-RS257-2022-08-05-0000.json",
+      "count": 2,
+      "bytes": 119522
+    },
+    {
+      "file": "texts-rs-RS257-2022-08-08-0000.json",
+      "count": 2,
+      "bytes": 117347
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-07-0000.json",
+      "count": 2,
+      "bytes": 122324
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-08-0000.json",
+      "count": 2,
+      "bytes": 122723
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-09-0000.json",
+      "count": 2,
+      "bytes": 124262
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-12-0000.json",
+      "count": 2,
+      "bytes": 118714
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-13-0000.json",
+      "count": 2,
+      "bytes": 121031
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-14-0000.json",
+      "count": 2,
+      "bytes": 119760
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-15-0000.json",
+      "count": 2,
+      "bytes": 121740
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-16-0000.json",
+      "count": 2,
+      "bytes": 121727
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-19-0000.json",
+      "count": 2,
+      "bytes": 116901
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-20-0000.json",
+      "count": 2,
+      "bytes": 118450
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-21-0000.json",
+      "count": 2,
+      "bytes": 123925
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-22-0000.json",
+      "count": 2,
+      "bytes": 120708
+    },
+    {
+      "file": "texts-rs-RS258-2022-12-23-0000.json",
+      "count": 2,
+      "bytes": 120881
+    },
+    {
+      "file": "texts-rs-RS259-2023-02-02-0000.json",
+      "count": 2,
+      "bytes": 120486
+    },
+    {
+      "file": "texts-rs-RS259-2023-02-03-0000.json",
+      "count": 2,
+      "bytes": 117671
+    },
+    {
+      "file": "texts-rs-RS259-2023-02-06-0000.json",
+      "count": 2,
+      "bytes": 121715
+    },
+    {
+      "file": "texts-rs-RS259-2023-02-07-0000.json",
+      "count": 2,
+      "bytes": 120823
+    },
+    {
+      "file": "texts-rs-RS259-2023-02-08-0000.json",
+      "count": 2,
+      "bytes": 122744
+    },
+    {
+      "file": "texts-rs-RS259-2023-02-09-0000.json",
+      "count": 2,
+      "bytes": 118610
+    },
+    {
+      "file": "texts-rs-RS259-2023-02-10-0000.json",
+      "count": 2,
+      "bytes": 119440
+    },
+    {
+      "file": "texts-rs-RS259-2023-02-13-0000.json",
+      "count": 2,
+      "bytes": 116041
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-13-0000.json",
+      "count": 2,
+      "bytes": 119462
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-14-0000.json",
+      "count": 2,
+      "bytes": 116019
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-15-0000.json",
+      "count": 2,
+      "bytes": 119843
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-16-0000.json",
+      "count": 2,
+      "bytes": 123263
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-17-0000.json",
+      "count": 2,
+      "bytes": 124294
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-20-0000.json",
+      "count": 2,
+      "bytes": 122796
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-21-0000.json",
+      "count": 2,
+      "bytes": 118580
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-22-0000.json",
+      "count": 2,
+      "bytes": 122869
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-23-0000.json",
+      "count": 2,
+      "bytes": 123754
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-24-0000.json",
+      "count": 2,
+      "bytes": 120630
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-27-0000.json",
+      "count": 2,
+      "bytes": 118249
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-28-0000.json",
+      "count": 2,
+      "bytes": 118207
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-29-0000.json",
+      "count": 2,
+      "bytes": 121408
+    },
+    {
+      "file": "texts-rs-RS259-2023-03-31-0000.json",
+      "count": 2,
+      "bytes": 121917
+    },
+    {
+      "file": "texts-rs-RS259-2023-04-03-0000.json",
+      "count": 2,
+      "bytes": 117424
+    },
+    {
+      "file": "texts-rs-RS259-2023-04-05-0000.json",
+      "count": 2,
+      "bytes": 118876
+    },
+    {
+      "file": "texts-rs-RS259-2023-04-06-0000.json",
+      "count": 2,
+      "bytes": 123885
+    },
+    {
+      "file": "texts-rs-RS260-2023-07-20-0000.json",
+      "count": 2,
+      "bytes": 120646
+    },
+    {
+      "file": "texts-rs-RS260-2023-07-21-0000.json",
+      "count": 2,
+      "bytes": 121022
+    },
+    {
+      "file": "texts-rs-RS260-2023-07-24-0000.json",
+      "count": 2,
+      "bytes": 119858
+    },
+    {
+      "file": "texts-rs-RS260-2023-07-25-0000.json",
+      "count": 2,
+      "bytes": 116277
+    },
+    {
+      "file": "texts-rs-RS260-2023-07-26-0000.json",
+      "count": 2,
+      "bytes": 121807
+    },
+    {
+      "file": "texts-rs-RS260-2023-07-27-0000.json",
+      "count": 2,
+      "bytes": 121424
+    },
+    {
+      "file": "texts-rs-RS260-2023-07-28-0000.json",
+      "count": 2,
+      "bytes": 119477
+    },
+    {
+      "file": "texts-rs-RS260-2023-07-31-0000.json",
+      "count": 2,
+      "bytes": 121125
+    },
+    {
+      "file": "texts-rs-RS260-2023-08-01-0000.json",
+      "count": 2,
+      "bytes": 120378
+    },
+    {
+      "file": "texts-rs-RS260-2023-08-02-0000.json",
+      "count": 2,
+      "bytes": 125127
+    },
+    {
+      "file": "texts-rs-RS260-2023-08-03-0000.json",
+      "count": 2,
+      "bytes": 124395
+    },
+    {
+      "file": "texts-rs-RS260-2023-08-04-0000.json",
+      "count": 2,
+      "bytes": 125164
+    },
+    {
+      "file": "texts-rs-RS260-2023-08-07-0000.json",
+      "count": 2,
+      "bytes": 122137
+    },
+    {
+      "file": "texts-rs-RS260-2023-08-08-0000.json",
+      "count": 2,
+      "bytes": 122855
+    },
+    {
+      "file": "texts-rs-RS260-2023-08-09-0000.json",
+      "count": 2,
+      "bytes": 120201
+    },
+    {
+      "file": "texts-rs-RS260-2023-08-10-0000.json",
+      "count": 2,
+      "bytes": 124100
+    },
+    {
+      "file": "texts-rs-RS260-2023-08-11-0000.json",
+      "count": 2,
+      "bytes": 123523
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-04-0000.json",
+      "count": 2,
+      "bytes": 122396
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-05-0000.json",
+      "count": 2,
+      "bytes": 124791
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-06-0000.json",
+      "count": 2,
+      "bytes": 119395
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-07-0000.json",
+      "count": 2,
+      "bytes": 119077
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-08-0000.json",
+      "count": 2,
+      "bytes": 126992
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-11-0000.json",
+      "count": 2,
+      "bytes": 120136
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-12-0000.json",
+      "count": 2,
+      "bytes": 119767
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-13-0000.json",
+      "count": 2,
+      "bytes": 114319
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-14-0000.json",
+      "count": 2,
+      "bytes": 121147
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-15-0000.json",
+      "count": 2,
+      "bytes": 126888
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-18-0000.json",
+      "count": 2,
+      "bytes": 120925
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-19-0000.json",
+      "count": 2,
+      "bytes": 123456
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-20-0000.json",
+      "count": 2,
+      "bytes": 119073
+    },
+    {
+      "file": "texts-rs-RS262-2023-12-21-0000.json",
+      "count": 2,
+      "bytes": 122359
+    },
+    {
+      "file": "texts-rs-RS263-2024-02-02-0000.json",
+      "count": 2,
+      "bytes": 121721
+    },
+    {
+      "file": "texts-rs-RS263-2024-02-05-0000.json",
+      "count": 2,
+      "bytes": 117513
+    },
+    {
+      "file": "texts-rs-RS263-2024-02-06-0000.json",
+      "count": 2,
+      "bytes": 118883
+    },
+    {
+      "file": "texts-rs-RS263-2024-02-07-0000.json",
+      "count": 2,
+      "bytes": 117554
+    },
+    {
+      "file": "texts-rs-RS263-2024-02-08-0000.json",
+      "count": 2,
+      "bytes": 122030
+    },
+    {
+      "file": "texts-rs-RS263-2024-02-09-0000.json",
+      "count": 2,
+      "bytes": 122500
+    },
+    {
+      "file": "texts-rs-RS265-2024-07-22-0000.json",
+      "count": 2,
+      "bytes": 123217
+    },
+    {
+      "file": "texts-rs-RS265-2024-07-24-0000.json",
+      "count": 2,
+      "bytes": 113935
+    },
+    {
+      "file": "texts-rs-RS265-2024-07-25-0000.json",
+      "count": 2,
+      "bytes": 118665
+    },
+    {
+      "file": "texts-rs-RS265-2024-07-26-0000.json",
+      "count": 2,
+      "bytes": 124531
+    },
+    {
+      "file": "texts-rs-RS265-2024-07-29-0000.json",
+      "count": 2,
+      "bytes": 120618
+    },
+    {
+      "file": "texts-rs-RS265-2024-07-30-0000.json",
+      "count": 2,
+      "bytes": 118735
+    },
+    {
+      "file": "texts-rs-RS265-2024-07-31-0000.json",
+      "count": 2,
+      "bytes": 116054
+    },
+    {
+      "file": "texts-rs-RS265-2024-08-01-0000.json",
+      "count": 2,
+      "bytes": 117302
+    },
+    {
+      "file": "texts-rs-RS265-2024-08-02-0000.json",
+      "count": 2,
+      "bytes": 122547
+    },
+    {
+      "file": "texts-rs-RS265-2024-08-05-0000.json",
+      "count": 2,
+      "bytes": 115526
+    },
+    {
+      "file": "texts-rs-RS265-2024-08-06-0000.json",
+      "count": 2,
+      "bytes": 104615
+    },
+    {
+      "file": "texts-rs-RS265-2024-08-07-0000.json",
+      "count": 2,
+      "bytes": 101691
+    },
+    {
+      "file": "texts-rs-RS265-2024-08-08-0000.json",
+      "count": 2,
+      "bytes": 119115
+    },
+    {
+      "file": "texts-rs-RS265-2024-08-09-0000.json",
+      "count": 2,
+      "bytes": 122500
+    },
+    {
+      "file": "texts-rs-RS266-2024-11-25-0000.json",
+      "count": 2,
+      "bytes": 121738
+    },
+    {
+      "file": "texts-rs-RS266-2024-11-27-0000.json",
+      "count": 2,
+      "bytes": 119898
+    },
+    {
+      "file": "texts-rs-RS266-2024-11-28-0000.json",
+      "count": 2,
+      "bytes": 121880
+    },
+    {
+      "file": "texts-rs-RS266-2024-11-29-0000.json",
+      "count": 2,
+      "bytes": 124130
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-02-0000.json",
+      "count": 2,
+      "bytes": 121830
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-03-0000.json",
+      "count": 2,
+      "bytes": 121214
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-04-0000.json",
+      "count": 2,
+      "bytes": 120407
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-05-0000.json",
+      "count": 2,
+      "bytes": 125006
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-06-0000.json",
+      "count": 2,
+      "bytes": 121395
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-09-0000.json",
+      "count": 2,
+      "bytes": 119120
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-10-0000.json",
+      "count": 2,
+      "bytes": 122327
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-11-0000.json",
+      "count": 2,
+      "bytes": 122971
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-12-0000.json",
+      "count": 2,
+      "bytes": 125098
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-13-0000.json",
+      "count": 2,
+      "bytes": 126576
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-16-0000.json",
+      "count": 2,
+      "bytes": 124619
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-17-0000.json",
+      "count": 2,
+      "bytes": 126869
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-18-0000.json",
+      "count": 2,
+      "bytes": 122146
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-19-0000.json",
+      "count": 2,
+      "bytes": 121300
+    },
+    {
+      "file": "texts-rs-RS266-2024-12-20-0000.json",
+      "count": 2,
+      "bytes": 126010
+    },
+    {
+      "file": "texts-rs-RS267-2025-01-31-0000.json",
+      "count": 1,
+      "bytes": 112733
+    },
+    {
+      "file": "texts-rs-RS267-2025-02-03-0000.json",
+      "count": 2,
+      "bytes": 127236
+    },
+    {
+      "file": "texts-rs-RS267-2025-02-04-0000.json",
+      "count": 2,
+      "bytes": 123658
+    },
+    {
+      "file": "texts-rs-RS267-2025-02-06-0000.json",
+      "count": 2,
+      "bytes": 126717
+    },
+    {
+      "file": "texts-rs-RS267-2025-02-07-0000.json",
+      "count": 2,
+      "bytes": 132149
+    },
+    {
+      "file": "texts-rs-RS267-2025-02-10-0000.json",
+      "count": 2,
+      "bytes": 127896
+    },
+    {
+      "file": "texts-rs-RS267-2025-02-11-0000.json",
+      "count": 2,
+      "bytes": 125078
+    },
+    {
+      "file": "texts-rs-RS267-2025-02-13-0000.json",
+      "count": 2,
+      "bytes": 130185
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-10-0000.json",
+      "count": 2,
+      "bytes": 135216
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-11-0000.json",
+      "count": 2,
+      "bytes": 131666
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-12-0000.json",
+      "count": 2,
+      "bytes": 127686
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-13-0000.json",
+      "count": 2,
+      "bytes": 125670
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-17-0000.json",
+      "count": 2,
+      "bytes": 133304
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-18-0000.json",
+      "count": 2,
+      "bytes": 128434
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-19-0000.json",
+      "count": 2,
+      "bytes": 129255
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-20-0000.json",
+      "count": 2,
+      "bytes": 128155
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-21-0000.json",
+      "count": 2,
+      "bytes": 132201
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-24-0000.json",
+      "count": 2,
+      "bytes": 128480
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-25-0000.json",
+      "count": 2,
+      "bytes": 129106
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-26-0000.json",
+      "count": 2,
+      "bytes": 130681
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-27-0000.json",
+      "count": 2,
+      "bytes": 130904
+    },
+    {
+      "file": "texts-rs-RS267-2025-03-28-0000.json",
+      "count": 2,
+      "bytes": 131404
+    },
+    {
+      "file": "texts-rs-RS267-2025-04-01-0000.json",
+      "count": 2,
+      "bytes": 130816
+    },
+    {
+      "file": "texts-rs-RS267-2025-04-02-0000.json",
+      "count": 2,
+      "bytes": 325092
+    },
+    {
+      "file": "texts-rs-RS267-2025-04-03-0000.json",
+      "count": 2,
+      "bytes": 123590
+    },
+    {
+      "file": "texts-rs-RS267-2025-04-04-0000.json",
+      "count": 2,
+      "bytes": 130200
+    },
+    {
+      "file": "texts-rs-RS268-2025-07-21-0000.json",
+      "count": 2,
+      "bytes": 129373
+    },
+    {
+      "file": "texts-rs-RS268-2025-07-22-0000.json",
+      "count": 2,
+      "bytes": 131862
+    },
+    {
+      "file": "texts-rs-RS268-2025-07-23-0000.json",
+      "count": 2,
+      "bytes": 125362
+    },
+    {
+      "file": "texts-rs-RS268-2025-07-24-0000.json",
+      "count": 2,
+      "bytes": 130715
+    },
+    {
+      "file": "texts-rs-RS268-2025-07-25-0000.json",
+      "count": 2,
+      "bytes": 135239
+    },
+    {
+      "file": "texts-rs-RS268-2025-07-28-0000.json",
+      "count": 2,
+      "bytes": 132188
+    },
+    {
+      "file": "texts-rs-RS268-2025-07-29-0000.json",
+      "count": 2,
+      "bytes": 133774
+    },
+    {
+      "file": "texts-rs-RS268-2025-07-30-0000.json",
+      "count": 2,
+      "bytes": 132805
+    },
+    {
+      "file": "texts-rs-RS268-2025-07-31-0000.json",
+      "count": 2,
+      "bytes": 132529
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-01-0000.json",
+      "count": 2,
+      "bytes": 136857
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-04-0000.json",
+      "count": 2,
+      "bytes": 131538
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-05-0000.json",
+      "count": 2,
+      "bytes": 134489
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-06-0000.json",
+      "count": 2,
+      "bytes": 129270
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-07-0000.json",
+      "count": 2,
+      "bytes": 131434
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-08-0000.json",
+      "count": 2,
+      "bytes": 132212
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-11-0000.json",
+      "count": 2,
+      "bytes": 131680
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-12-0000.json",
+      "count": 2,
+      "bytes": 133994
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-18-0000.json",
+      "count": 2,
+      "bytes": 132059
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-19-0000.json",
+      "count": 2,
+      "bytes": 132182
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-20-0000.json",
+      "count": 2,
+      "bytes": 135369
+    },
+    {
+      "file": "texts-rs-RS268-2025-08-21-0000.json",
+      "count": 2,
+      "bytes": 135057
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-01-0000.json",
+      "count": 2,
+      "bytes": 138756
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-02-0000.json",
+      "count": 2,
+      "bytes": 134232
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-03-0000.json",
+      "count": 2,
+      "bytes": 133365
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-04-0000.json",
+      "count": 2,
+      "bytes": 129438
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-05-0000.json",
+      "count": 2,
+      "bytes": 136903
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-08-0000.json",
+      "count": 2,
+      "bytes": 139879
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-09-0000.json",
+      "count": 2,
+      "bytes": 135669
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-10-0000.json",
+      "count": 2,
+      "bytes": 136028
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-11-0000.json",
+      "count": 2,
+      "bytes": 136068
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-12-0000.json",
+      "count": 2,
+      "bytes": 139155
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-15-0000.json",
+      "count": 2,
+      "bytes": 139726
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-16-0000.json",
+      "count": 2,
+      "bytes": 140157
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-17-0000.json",
+      "count": 2,
+      "bytes": 138719
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-18-0000.json",
+      "count": 2,
+      "bytes": 132640
+    },
+    {
+      "file": "texts-rs-RS269-2025-12-19-0000.json",
+      "count": 2,
+      "bytes": 136345
+    },
+    {
+      "file": "texts-rs-RS270-2026-01-29-0000.json",
+      "count": 2,
+      "bytes": 130916
+    },
+    {
+      "file": "texts-rs-RS270-2026-02-02-0000.json",
+      "count": 2,
+      "bytes": 142662
+    },
+    {
+      "file": "texts-rs-RS270-2026-02-03-0000.json",
+      "count": 2,
+      "bytes": 140327
+    },
+    {
+      "file": "texts-rs-RS270-2026-02-04-0000.json",
+      "count": 2,
+      "bytes": 143173
+    },
+    {
+      "file": "texts-rs-RS270-2026-02-05-0000.json",
+      "count": 2,
+      "bytes": 136612
+    },
+    {
+      "file": "texts-rs-RS270-2026-02-06-0000.json",
+      "count": 2,
+      "bytes": 143561
+    },
+    {
+      "file": "texts-rs-RS270-2026-02-09-0000.json",
+      "count": 2,
+      "bytes": 142953
+    },
+    {
+      "file": "texts-rs-RS270-2026-02-10-0000.json",
+      "count": 2,
+      "bytes": 137758
+    },
+    {
+      "file": "texts-rs-RS270-2026-02-11-0000.json",
+      "count": 2,
+      "bytes": 137646
+    },
+    {
+      "file": "texts-rs-RS270-2026-02-12-0000.json",
+      "count": 2,
+      "bytes": 133628
+    },
+    {
+      "file": "texts-rs-RS270-2026-02-13-0000.json",
+      "count": 2,
+      "bytes": 140935
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-09-0000.json",
+      "count": 2,
+      "bytes": 142634
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-10-0000.json",
+      "count": 2,
+      "bytes": 139332
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-11-0000.json",
+      "count": 2,
+      "bytes": 142821
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-12-0000.json",
+      "count": 2,
+      "bytes": 135039
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-13-0000.json",
+      "count": 2,
+      "bytes": 142391
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-16-0000.json",
+      "count": 2,
+      "bytes": 137664
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-17-0000.json",
+      "count": 2,
+      "bytes": 139726
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-18-0000.json",
+      "count": 2,
+      "bytes": 143765
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-19-0000.json",
+      "count": 2,
+      "bytes": 136765
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-20-0000.json",
+      "count": 2,
+      "bytes": 144881
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-23-0000.json",
+      "count": 2,
+      "bytes": 144545
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-24-0000.json",
+      "count": 2,
+      "bytes": 140229
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-25-0000.json",
+      "count": 2,
+      "bytes": 138574
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-27-0000.json",
+      "count": 2,
+      "bytes": 139790
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-30-0000.json",
+      "count": 2,
+      "bytes": 136017
+    },
+    {
+      "file": "texts-rs-RS270-2026-04-01-0000.json",
+      "count": 2,
+      "bytes": 147887
+    },
+    {
+      "file": "texts-rs-RS270-2026-04-02-0000.json",
+      "count": 2,
+      "bytes": 137284
+    }
+  ]
+}

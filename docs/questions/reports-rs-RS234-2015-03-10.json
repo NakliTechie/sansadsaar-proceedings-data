@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 234,
+      "date_iso": "2015-03-10",
+      "date": "10/03/2015",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/234/2015310_10.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 234 · 10/03/2015 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 234,
+      "date_iso": "2015-03-10",
+      "date": "10/03/2015",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/234/2015310_4883RS.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 234 · 10/03/2015 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS234-2015-03-10"
+}

@@ -1,0 +1,15 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 208,
+      "date": "02/08/2006",
+      "date_iso": "2006-08-02",
+      "file_versions": [],
+      "title": "Rajya Sabha · Session 208 · 02/08/2006"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS208-2006-08-02"
+}

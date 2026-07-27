@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 235,
+      "date": "24/04/2015",
+      "date_iso": "2015-04-24",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/235/F24.04.2015.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 235 · 24/04/2015"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS235-2015-04-24"
+}

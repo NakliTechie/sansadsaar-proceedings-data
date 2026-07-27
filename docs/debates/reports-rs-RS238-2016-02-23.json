@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 238,
+      "date": "23/02/2016",
+      "date_iso": "2016-02-23",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/238/F23.02.2016.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 238 · 23/02/2016"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS238-2016-02-23"
+}

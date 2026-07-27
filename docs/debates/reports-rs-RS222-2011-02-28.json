@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 222,
+      "date": "28/02/2011",
+      "date_iso": "2011-02-28",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/222/F28.02.2011.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 222 · 28/02/2011"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS222-2011-02-28"
+}

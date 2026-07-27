@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 241,
+      "date_iso": "2016-11-22",
+      "date": "22/11/2016",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/241/20161122_22.11.2016 SE.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 241 · 22/11/2016 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 241,
+      "date_iso": "2016-11-22",
+      "date": "22/11/2016",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/241/20161122_22.11.2016 UE.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 241 · 22/11/2016 · Unstarred"
+    }
+  ],
+  "count": 2,
+  "house": "rs",
+  "bucket": "rs-RS241-2016-11-22"
+}

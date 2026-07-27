@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 229,
+      "date": "27/08/2013",
+      "date_iso": "2013-08-27",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/229/F27.08.2013.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 229 · 27/08/2013"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS229-2013-08-27"
+}

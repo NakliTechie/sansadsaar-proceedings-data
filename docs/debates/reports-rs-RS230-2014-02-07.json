@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 230,
+      "date": "07/02/2014",
+      "date_iso": "2014-02-07",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/230/F07.02.2014.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 230 · 07/02/2014"
+    }
+  ],
+  "count": 1,
+  "house": "rs",
+  "bucket": "rs-RS230-2014-02-07"
+}
