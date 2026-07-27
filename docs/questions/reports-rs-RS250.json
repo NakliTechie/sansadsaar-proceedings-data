@@ -1,0 +1,340 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-13",
+      "date": "13/12/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191213_ES 13.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 13/12/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-13",
+      "date": "13/12/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191213_EU 13 (1).pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 13/12/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-12",
+      "date": "12/12/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191212_ES 12.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 12/12/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-11",
+      "date": "11/12/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191211_ES 11.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 11/12/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-10",
+      "date": "10/12/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191210_ES 10.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 10/12/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-10",
+      "date": "10/12/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191210_EU 10.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 10/12/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-09",
+      "date": "09/12/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019129_ES 9.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 09/12/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-09",
+      "date": "09/12/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019129_EU 9.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 09/12/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-06",
+      "date": "06/12/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019126_ES6.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 06/12/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-06",
+      "date": "06/12/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019126_EU 6 (2).pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 06/12/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-05",
+      "date": "05/12/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019125_ES5.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 05/12/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-05",
+      "date": "05/12/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019125_EU 5 (1).pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 05/12/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-04",
+      "date": "04/12/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019124_ES 4.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 04/12/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-04",
+      "date": "04/12/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019124_EU 4.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 04/12/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-03",
+      "date": "03/12/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019123_ES 3.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 03/12/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-03",
+      "date": "03/12/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019123_EU 3 (1).pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 03/12/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-02",
+      "date": "02/12/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019122_ES 2.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 02/12/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-12-02",
+      "date": "02/12/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/2019122_EU 2 (1).pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 02/12/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-29",
+      "date": "29/11/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191129_ES 29.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 29/11/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-29",
+      "date": "29/11/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191129_EU 29.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 29/11/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-28",
+      "date": "28/11/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191128_ES  28.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 28/11/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-28",
+      "date": "28/11/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191128_EU 28.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 28/11/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-27",
+      "date": "27/11/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191127_ES27.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 27/11/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-27",
+      "date": "27/11/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191127_EU27.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 27/11/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-25",
+      "date": "25/11/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191125_ES25.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 25/11/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-25",
+      "date": "25/11/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191125_EU 25.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 25/11/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-22",
+      "date": "22/11/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191122_ES 22.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 22/11/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-22",
+      "date": "22/11/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191122_EU 22.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 22/11/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-21",
+      "date": "21/11/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191121_ES 21.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 21/11/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-21",
+      "date": "21/11/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191121_EU 21.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 21/11/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-20",
+      "date": "20/11/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191120_ES 20.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 20/11/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-20",
+      "date": "20/11/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191120_EU 20 (1).pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 20/11/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-19",
+      "date": "19/11/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191119_19.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 19/11/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-19",
+      "date": "19/11/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191119_3151RS.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 19/11/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-18",
+      "date": "18/11/2019",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191118_ES 18.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 18/11/2019 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2019-11-18",
+      "date": "18/11/2019",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191118_EU 18.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 18/11/2019 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 250,
+      "date_iso": "2007-11-15",
+      "date": "15/11/2007",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/250/20191212_EU 12 (1).pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 250 · 15/11/2007 · Unstarred"
+    }
+  ],
+  "count": 37,
+  "house": "rs",
+  "bucket": "rs-RS250"
+}

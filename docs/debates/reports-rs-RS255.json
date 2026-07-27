@@ -1,0 +1,385 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "22/12/2021",
+      "date_iso": "2021-12-22",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/22122021/EV22122021(1).pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/22122021/F22122021(1).pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/22122021/20211222.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 22/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "21/12/2021",
+      "date_iso": "2021-12-21",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/21122021/211221.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/21122021/F21122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/21122021/20211221.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 21/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "20/12/2021",
+      "date_iso": "2021-12-20",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/20122021/EV20122021(1).pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/20122021/F20122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/20122021/20211220.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 20/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "17/12/2021",
+      "date_iso": "2021-12-17",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/17122021/17122021.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/17122021/F17122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/17122021/20211217.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 17/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "16/12/2021",
+      "date_iso": "2021-12-16",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/16122021/161221.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/16122021/F16122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/16122021/20211216.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 16/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "15/12/2021",
+      "date_iso": "2021-12-15",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/15122021/EV15122021.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/15122021/F15122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/15122021/20211215.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 15/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "14/12/2021",
+      "date_iso": "2021-12-14",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/14122021/14122021(1).pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/14122021/F14122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/14122021/20211214.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 14/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "13/12/2021",
+      "date_iso": "2021-12-13",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/13122021/131221(1).pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/13122021/F13122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/13122021/20211213.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 13/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "10/12/2021",
+      "date_iso": "2021-12-10",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/10122021/10122021.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/10122021/F10122021(1).pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/10122021/20211210.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 10/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "09/12/2021",
+      "date_iso": "2021-12-09",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/9122021/EV 09122021.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/9122021/F09122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/9122021/20211209.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 09/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "08/12/2021",
+      "date_iso": "2021-12-08",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/8122021/081221(1).pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/8122021/F08122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/8122021/20211208.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 08/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "07/12/2021",
+      "date_iso": "2021-12-07",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/7122021/EV07122021.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/7122021/F07122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/7122021/20211207(1).pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 07/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "06/12/2021",
+      "date_iso": "2021-12-06",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/16122021/161221.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/16122021/F16122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/16122021/20211216.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 06/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "03/12/2021",
+      "date_iso": "2021-12-03",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/13122021/131221(1).pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/13122021/F13122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/13122021/20211213.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 03/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "02/12/2021",
+      "date_iso": "2021-12-02",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/22122021/EV22122021(1).pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/22122021/F22122021(1).pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/22122021/20211222.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 02/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "01/12/2021",
+      "date_iso": "2021-12-01",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/21122021/211221.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/21122021/F21122021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/21122021/20211221.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 01/12/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "30/11/2021",
+      "date_iso": "2021-11-30",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/30112021/EV30112021.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/30112021/F30112021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/30112021/20211130.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 30/11/2021"
+    },
+    {
+      "house": "rs",
+      "session": 255,
+      "date": "29/11/2021",
+      "date_iso": "2021-11-29",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/255/29112021/EV29112021.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/255/29112021/F29112021.pdf"
+        },
+        {
+          "version": "part1",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Part-1QuestionAnswers/255/29112021/20211129.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 255 · 29/11/2021"
+    }
+  ],
+  "count": 18,
+  "house": "rs",
+  "bucket": "rs-RS255"
+}

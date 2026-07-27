@@ -1,0 +1,92 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 264,
+      "date": "03/07/2024",
+      "date_iso": "2024-07-03",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/264/372024/EV03072024.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/264/372024/03072024.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 264 · 03/07/2024"
+    },
+    {
+      "house": "rs",
+      "session": 264,
+      "date": "02/07/2024",
+      "date_iso": "2024-07-02",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/264/272024/EV 02-07-2024(1).pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/264/272024/02072024.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 264 · 02/07/2024"
+    },
+    {
+      "house": "rs",
+      "session": 264,
+      "date": "01/07/2024",
+      "date_iso": "2024-07-01",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/264/172024/EV01072024.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/264/172024/01072024.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 264 · 01/07/2024"
+    },
+    {
+      "house": "rs",
+      "session": 264,
+      "date": "28/06/2024",
+      "date_iso": "2024-06-28",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/264/2862024/EV 28062024.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/264/2862024/28062024.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 264 · 28/06/2024"
+    },
+    {
+      "house": "rs",
+      "session": 264,
+      "date": "27/06/2024",
+      "date_iso": "2024-06-27",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/264/2762024/EV 27-06-2024.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/264/2762024/27062024.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 264 · 27/06/2024"
+    }
+  ],
+  "count": 5,
+  "house": "rs",
+  "bucket": "rs-RS264"
+}

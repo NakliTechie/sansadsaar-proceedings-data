@@ -1,0 +1,75 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 261,
+      "date": "21/09/2023",
+      "date_iso": "2023-09-21",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/261/2192023/EV21092023.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/261/2192023/21092023.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 261 · 21/09/2023"
+    },
+    {
+      "house": "rs",
+      "session": 261,
+      "date": "20/09/2023",
+      "date_iso": "2023-09-20",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/261/2092023/EV 20092023.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/261/2092023/20092023.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 261 · 20/09/2023"
+    },
+    {
+      "house": "rs",
+      "session": 261,
+      "date": "19/09/2023",
+      "date_iso": "2023-09-19",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/261/1992023/EV 19092023.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/261/1992023/19092023.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 261 · 19/09/2023"
+    },
+    {
+      "house": "rs",
+      "session": 261,
+      "date": "18/09/2023",
+      "date_iso": "2023-09-18",
+      "file_versions": [
+        {
+          "version": "english",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/English/261/1892023/EV 18092023.pdf"
+        },
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/261/1892023/18092023.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 261 · 18/09/2023"
+    }
+  ],
+  "count": 4,
+  "house": "rs",
+  "bucket": "rs-RS261"
+}

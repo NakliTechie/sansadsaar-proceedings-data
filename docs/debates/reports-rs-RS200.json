@@ -1,0 +1,267 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "05/02/2004",
+      "date_iso": "2004-02-05",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F05.02.2004.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 05/02/2004"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "04/02/2004",
+      "date_iso": "2004-02-04",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F04.02.2004.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 04/02/2004"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "03/02/2004",
+      "date_iso": "2004-02-03",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F03.02.2004.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 03/02/2004"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "30/12/2003",
+      "date_iso": "2003-12-30",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F30.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 30/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "23/12/2003",
+      "date_iso": "2003-12-23",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F23.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 23/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "22/12/2003",
+      "date_iso": "2003-12-22",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F22.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 22/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "19/12/2003",
+      "date_iso": "2003-12-19",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F19.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 19/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "18/12/2003",
+      "date_iso": "2003-12-18",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F18.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 18/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "17/12/2003",
+      "date_iso": "2003-12-17",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F17.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 17/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "16/12/2003",
+      "date_iso": "2003-12-16",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F16.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 16/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "15/12/2003",
+      "date_iso": "2003-12-15",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F15.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 15/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "12/12/2003",
+      "date_iso": "2003-12-12",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F12.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 12/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "11/12/2003",
+      "date_iso": "2003-12-11",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F11.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 11/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "10/12/2003",
+      "date_iso": "2003-12-10",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F10.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 10/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "09/12/2003",
+      "date_iso": "2003-12-09",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F09.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 09/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "08/12/2003",
+      "date_iso": "2003-12-08",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F08.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 08/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "05/12/2003",
+      "date_iso": "2003-12-05",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F05.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 05/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "04/12/2003",
+      "date_iso": "2003-12-04",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F04.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 04/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "03/12/2003",
+      "date_iso": "2003-12-03",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F03.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 03/12/2003"
+    },
+    {
+      "house": "rs",
+      "session": 200,
+      "date": "02/12/2003",
+      "date_iso": "2003-12-02",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/200/F02.12.2003.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 200 · 02/12/2003"
+    }
+  ],
+  "count": 20,
+  "house": "rs",
+  "bucket": "rs-RS200"
+}

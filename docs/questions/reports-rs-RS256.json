@@ -1,0 +1,475 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-04-07",
+      "date": "07/04/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202247_SQ07042022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 07/04/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-04-07",
+      "date": "07/04/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202246_UQ07042022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 07/04/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-04-06",
+      "date": "06/04/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202246_SQ06042022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 06/04/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-04-06",
+      "date": "06/04/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202246_UQ06042022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 06/04/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-04-05",
+      "date": "05/04/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202245_SQ05.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 05/04/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-04-05",
+      "date": "05/04/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202245_UQ05042022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 05/04/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-04-04",
+      "date": "04/04/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202244_ENGSQ04042022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 04/04/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-04-04",
+      "date": "04/04/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202244_ENGUQ04042022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 04/04/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-04-01",
+      "date": "01/04/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022330_SQ01042022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 01/04/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-04-01",
+      "date": "01/04/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202241_UQ01042022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 01/04/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-31",
+      "date": "31/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022331_SQ31032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 31/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-31",
+      "date": "31/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022331_UQ31032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 31/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-30",
+      "date": "30/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022330_SQ30032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 30/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-30",
+      "date": "30/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022330_UQ30032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 30/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-29",
+      "date": "29/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022329_SQ29032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 29/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-29",
+      "date": "29/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022329_UQ29032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 29/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-28",
+      "date": "28/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022328_SQ28032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 28/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-28",
+      "date": "28/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022328_UQ28032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 28/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-25",
+      "date": "25/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022325_SQ25032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 25/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-25",
+      "date": "25/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022325_UQ25032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 25/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-24",
+      "date": "24/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022324_SQ24032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 24/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-24",
+      "date": "24/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022324_UQ24032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 24/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-23",
+      "date": "23/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022323_SQ23032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 23/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-23",
+      "date": "23/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022323_UQ23032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 23/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-22",
+      "date": "22/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022322_SQ ENG 22032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 22/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-22",
+      "date": "22/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022322_UQ ENG 22032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 22/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-21",
+      "date": "21/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022321_SQ21032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 21/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-21",
+      "date": "21/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022321_UQ21032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 21/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-17",
+      "date": "17/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022317_SQ17032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 17/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-17",
+      "date": "17/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022317_UQ17032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 17/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-16",
+      "date": "16/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022316_SQ16032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 16/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-16",
+      "date": "16/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022316_UQ16032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 16/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-15",
+      "date": "15/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022315_SQ15032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 15/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-15",
+      "date": "15/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022315_UQ15032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 15/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-14",
+      "date": "14/03/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022314_SQ14032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 14/03/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-03-14",
+      "date": "14/03/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022314_UQ14032022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 14/03/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-11",
+      "date": "11/02/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022211_Final SQ CRC 11 02 2022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 11/02/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-11",
+      "date": "11/02/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022211_FINAL UQ CRC 11022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 11/02/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-10",
+      "date": "10/02/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022210_SQEng10022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 10/02/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-10",
+      "date": "10/02/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022210_UQEngerrata10022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 10/02/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-09",
+      "date": "09/02/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202229_SQEng_09022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 09/02/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-09",
+      "date": "09/02/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202229_UQEng_09022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 09/02/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-08",
+      "date": "08/02/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202228_SQ 08022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 08/02/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-08",
+      "date": "08/02/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202228_UQ 08022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 08/02/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-07",
+      "date": "07/02/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202227_SQ 07022022Eng.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 07/02/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-07",
+      "date": "07/02/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202227_UQ 07022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 07/02/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-04",
+      "date": "04/02/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202224_SQ 04022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 04/02/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-04",
+      "date": "04/02/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022210_UQ errata 0402022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 04/02/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-03",
+      "date": "03/02/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202223_SQ03022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 03/02/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-03",
+      "date": "03/02/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202223_U03022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 03/02/2022 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-02",
+      "date": "02/02/2022",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_202222_S02022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 02/02/2022 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 256,
+      "date_iso": "2022-02-02",
+      "date": "02/02/2022",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/256/English_2022210_UQ errata02022022.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 256 · 02/02/2022 · Unstarred"
+    }
+  ],
+  "count": 52,
+  "house": "rs",
+  "bucket": "rs-RS256"
+}

@@ -1,0 +1,59 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 216,
+      "date": "09/06/2009",
+      "date_iso": "2009-06-09",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/216/F09.06.2009.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 216 · 09/06/2009"
+    },
+    {
+      "house": "rs",
+      "session": 216,
+      "date": "08/06/2009",
+      "date_iso": "2009-06-08",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/216/F08.06.2009.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 216 · 08/06/2009"
+    },
+    {
+      "house": "rs",
+      "session": 216,
+      "date": "05/06/2009",
+      "date_iso": "2009-06-05",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/216/F05.06.2009.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 216 · 05/06/2009"
+    },
+    {
+      "house": "rs",
+      "session": 216,
+      "date": "04/06/2009",
+      "date_iso": "2009-06-04",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/216/F04.06.2009.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 216 · 04/06/2009"
+    }
+  ],
+  "count": 4,
+  "house": "rs",
+  "bucket": "rs-RS216"
+}

@@ -1,0 +1,46 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 231,
+      "date": "11/06/2014",
+      "date_iso": "2014-06-11",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/231/F11.06.2014.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 231 · 11/06/2014"
+    },
+    {
+      "house": "rs",
+      "session": 231,
+      "date": "10/06/2014",
+      "date_iso": "2014-06-10",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/231/F10.06.2014.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 231 · 10/06/2014"
+    },
+    {
+      "house": "rs",
+      "session": 231,
+      "date": "09/06/2014",
+      "date_iso": "2014-06-09",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/231/F09.06.2014.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 231 · 09/06/2014"
+    }
+  ],
+  "count": 3,
+  "house": "rs",
+  "bucket": "rs-RS231"
+}

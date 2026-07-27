@@ -1,0 +1,421 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-26",
+      "date": "26/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021326_SQCRCEng26032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 26/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-26",
+      "date": "26/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021326_UQCRCEng26032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 26/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-25",
+      "date": "25/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021325_SQCRCEng25032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 25/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-25",
+      "date": "25/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021325_UQCRCEng25032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 25/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-24",
+      "date": "24/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021324_CRCSQEng240321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 24/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-24",
+      "date": "24/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021324_CRCUQEng240321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 24/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-23",
+      "date": "23/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021323_CRCSQ23032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 23/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-23",
+      "date": "23/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021323_CRCUQ23032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 23/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-22",
+      "date": "22/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021322_SQCRCEng22032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 22/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-22",
+      "date": "22/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021322_UQCRCEng22032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 22/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-19",
+      "date": "19/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021319_CRCSQ Eng 19032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 19/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-19",
+      "date": "19/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021319_CRCUQ Eng 19032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 19/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-18",
+      "date": "18/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021318_SQCRC 18032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 18/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-18",
+      "date": "18/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021318_UQCRC 18032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 18/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-17",
+      "date": "17/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021317_SQCRCEng170321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 17/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-17",
+      "date": "17/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021317_UQCRCEng170321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 17/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-16",
+      "date": "16/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021316_SQCRCEng160321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 16/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-16",
+      "date": "16/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021316_UQCRCEng160321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 16/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-15",
+      "date": "15/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021315_SQCRCEng150321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 15/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-15",
+      "date": "15/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021315_UQCRCEng150321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 15/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-12",
+      "date": "12/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021312_SQCRCEng 12032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 12/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-12",
+      "date": "12/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021312_UQCRCEng 12032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 12/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-10",
+      "date": "10/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021310_SQCRCEng100321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 10/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-10",
+      "date": "10/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021310_UQCRCEng100321.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 10/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-09",
+      "date": "09/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202139_SQCRCEng09032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 09/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-09",
+      "date": "09/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202139_UQCRCEng09032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 09/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-08",
+      "date": "08/03/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202138_SQCRCEng08032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 08/03/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-03-08",
+      "date": "08/03/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202138_UQCRCEng08032021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 08/03/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-12",
+      "date": "12/02/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021212_CRCSQ12022021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 12/02/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-12",
+      "date": "12/02/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021212_CRCUQ 12022021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 12/02/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-11",
+      "date": "11/02/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021211_SQCRC 11022021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 11/02/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-11",
+      "date": "11/02/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021211_UQCRC 11022021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 11/02/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-10",
+      "date": "10/02/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021210_CRCEngSQ100221.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 10/02/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-10",
+      "date": "10/02/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2021210_CRCEngUQ100221.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 10/02/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-09",
+      "date": "09/02/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202129_SQCRC09022021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 09/02/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-09",
+      "date": "09/02/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202129_UQCRC09022021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 09/02/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-08",
+      "date": "08/02/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202128_SQCRC08022021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 08/02/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-08",
+      "date": "08/02/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202128_UQCRC08022021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 08/02/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-05",
+      "date": "05/02/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202125_SQCRC 05022021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 05/02/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-05",
+      "date": "05/02/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202125_UQCRC 05022021.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 05/02/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-04",
+      "date": "04/02/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202124_Final SQ CRC 04.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 04/02/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-04",
+      "date": "04/02/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202124_FINAL UQ CRC 04.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 04/02/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-03",
+      "date": "03/02/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202123_starred3.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 03/02/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-03",
+      "date": "03/02/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202123_unstarred3.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 03/02/2021 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-02",
+      "date": "02/02/2021",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_202122_CRCEngSQ020221.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 02/02/2021 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 253,
+      "date_iso": "2021-02-02",
+      "date": "02/02/2021",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/253/English_2022523_CRCEngUQ020221.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 253 · 02/02/2021 · Unstarred"
+    }
+  ],
+  "count": 46,
+  "house": "rs",
+  "bucket": "rs-RS253"
+}

@@ -275,14 +275,26 @@ def save_reports(reports: dict[str, list[dict]]) -> None:
 
 
 def _reports_bucket(house: str, r: dict) -> str:
-    """Natural bucket for a reports record — same coordinates the text shards
-    use, so a sitting's metadata and its bodies move together."""
+    """Bucket for a reports record.
+
+    COARSER than the text/search buckets, and deliberately so. Reports shards
+    are read IN FULL at app startup (fetchReports pulls every shard listed in
+    reports-meta.json to build the record list), whereas text and search
+    shards are fetched one at a time on demand. Many small files are ideal
+    for the latter and actively harmful for the former: same bytes, far more
+    round trips.
+
+    Bucketing these on the text bucket keyed RS by sitting DATE, which took
+    the count to 1,490 (questions) / 1,777 (debates). The app fired them all
+    through Promise.all and the browser rejected the burst - every request
+    failed with a bare "Failed to fetch", taking questions and debates down
+    on 2026-07-27. Keyed by SESSION instead: 121 / 150 files, largest 3.4 MB,
+    and a walk still rewrites ~3 MB rather than all 126 MB.
+    """
     try:
         if house == "ls":
-            return bucket_for("ls|" + ls_file_id(
-                int(r["lok_sabha"]), int(r["session"]), int(r["db_slno"])))
-        return bucket_for("rs|" + rs_versioned_file_id(
-            int(r["session"]), r["date_iso"], "floor"))
+            return f"ls-LS{int(r['lok_sabha'])}-S{int(r['session'])}"
+        return f"rs-RS{int(r['session'])}"
     except (KeyError, TypeError, ValueError):
         return f"{house}-misc"
 
