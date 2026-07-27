@@ -1411,63 +1411,57 @@ def phase_extract() -> int:
     return 0 if not rate_limited else 1
 
 
-def _guard_derive_not_destructive() -> None:
-    """Refuse to derive from an empty text/ when the corpus is already bundled.
+def _derive_would_be_destructive() -> bool:
+    """True when a derive right now would rebuild manifest/audit from nothing.
 
-    phase_derive rebuilds manifest.json (and, for debates, meta.json +
-    audit.json) by scanning docs/<corpus>/text/*.txt. That directory is
-    gitignored and write_text_shards deletes it after bundling, so running
-    derive STANDALONE against an already-bundled corpus sees nothing, reports
-    "nothing extracted", and overwrites committed files with empty ones.
+    phase_derive scans docs/<corpus>/text/*.txt. That directory is gitignored
+    and write_text_shards deletes it after bundling, so a derive with an empty
+    scan produces empty manifest/audit and overwrites committed data with
+    zeros. Observed 2026-07-27: questions manifest 40,443 -> 47 bytes, debates
+    audit with_text 52,251 -> 0.
 
-    Observed 2026-07-27 while migrating the corpus by hand: the questions
-    manifest went 40,443 -> 47 bytes and the debates audit reported
-    with_text 52,251 -> 0. Recovered only because the tree was still in git.
+    This must SKIP, not abort. An extract run that finds nothing to do also
+    leaves text/ empty, and that is a completely normal steady state - debates
+    LS is already 91% extracted and RS 99.9%. Aborting would turn "nothing new
+    today" into a red build on every cycle once backfill completes.
 
-    This is safe in the workflow, where derive runs in the same job
-    immediately after extract and text/ is populated. It is only ever
-    destructive when a human runs derive on its own — which is exactly when
-    nobody is watching for it.
-
-    Set ALLOW_EMPTY_DERIVE=1 to override (e.g. a genuinely empty corpus).
+    Set ALLOW_EMPTY_DERIVE=1 to force the rebuild anyway.
     """
     if os.environ.get("ALLOW_EMPTY_DERIVE") == "1":
-        return
-    txt_count = sum(1 for _ in TEXT_DIR.rglob("*.txt")) if TEXT_DIR.exists() else 0
-    if txt_count:
-        return
+        return False
+    if TEXT_DIR.exists() and any(TEXT_DIR.rglob("*.txt")):
+        return False
     meta_path = DOCS / "texts-meta.json"
     if not meta_path.exists():
-        return
+        return False
     try:
         bundled = json.loads(meta_path.read_text()).get("totals", {}).get("records_with_text", 0)
     except (OSError, json.JSONDecodeError):
-        return
+        return False
     if bundled > 0:
-        raise SystemExit(
-            f"[derive] REFUSING: text/ has no .txt files but texts-meta.json "
-            f"reports {bundled} bundled records.\n"
-            f"         Deriving now would rebuild manifest/audit from an empty "
-            f"scan and overwrite committed data with zeros.\n"
-            f"         Run the extract phase first, or set ALLOW_EMPTY_DERIVE=1 "
-            f"if the corpus really is empty."
-        )
+        print(f"  [derive] text/ is empty but texts-meta.json reports {bundled} bundled "
+              f"records — preserving committed manifest/audit instead of rebuilding "
+              f"them from an empty scan.")
+        return True
+    return False
 
 
 def phase_derive() -> int:
     """Derived files: manifest, audit, search bundle, search index, +
     re-emit the bundled text shards via parliamentwatch_text_shards.
     """
-    _guard_derive_not_destructive()
     t_start = time.monotonic()
     print("[phase_derive] start")
 
     reports = load_existing_reports()
     print(f"  reports loaded: " + ", ".join(f"{h}={len(reports.get(h, []))}" for h in HOUSES))
 
-    manifest = build_manifest()
-    if not write_json_idempotent(MANIFEST_JSON, manifest):
-        print("  [skip] manifest.json unchanged")
+    if _derive_would_be_destructive():
+        print("  [skip] manifest.json preserved (empty text/ scan on a bundled corpus)")
+    else:
+        manifest = build_manifest()
+        if not write_json_idempotent(MANIFEST_JSON, manifest):
+            print("  [skip] manifest.json unchanged")
 
     audit = compute_audit(reports)
     if not write_json_idempotent(AUDIT_JSON, audit):
