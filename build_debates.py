@@ -1322,7 +1322,51 @@ def phase_extract() -> None:
           f"remaining_after={max(0, rs_stats.get('candidates_total', 0) - len(rs_stats.get('extracted', [])) - len(rs_stats.get('failed', [])))}")
 
 
+def _guard_derive_not_destructive() -> None:
+    """Refuse to derive from an empty text/ when the corpus is already bundled.
+
+    phase_derive rebuilds manifest.json (and, for debates, meta.json +
+    audit.json) by scanning docs/<corpus>/text/*.txt. That directory is
+    gitignored and write_text_shards deletes it after bundling, so running
+    derive STANDALONE against an already-bundled corpus sees nothing, reports
+    "nothing extracted", and overwrites committed files with empty ones.
+
+    Observed 2026-07-27 while migrating the corpus by hand: the questions
+    manifest went 40,443 -> 47 bytes and the debates audit reported
+    with_text 52,251 -> 0. Recovered only because the tree was still in git.
+
+    This is safe in the workflow, where derive runs in the same job
+    immediately after extract and text/ is populated. It is only ever
+    destructive when a human runs derive on its own — which is exactly when
+    nobody is watching for it.
+
+    Set ALLOW_EMPTY_DERIVE=1 to override (e.g. a genuinely empty corpus).
+    """
+    if os.environ.get("ALLOW_EMPTY_DERIVE") == "1":
+        return
+    txt_count = sum(1 for _ in TEXT_DIR.rglob("*.txt")) if TEXT_DIR.exists() else 0
+    if txt_count:
+        return
+    meta_path = DOCS / "texts-meta.json"
+    if not meta_path.exists():
+        return
+    try:
+        bundled = json.loads(meta_path.read_text()).get("totals", {}).get("records_with_text", 0)
+    except (OSError, json.JSONDecodeError):
+        return
+    if bundled > 0:
+        raise SystemExit(
+            f"[derive] REFUSING: text/ has no .txt files but texts-meta.json "
+            f"reports {bundled} bundled records.\n"
+            f"         Deriving now would rebuild manifest/audit from an empty "
+            f"scan and overwrite committed data with zeros.\n"
+            f"         Run the extract phase first, or set ALLOW_EMPTY_DERIVE=1 "
+            f"if the corpus really is empty."
+        )
+
+
 def phase_derive() -> None:
+    _guard_derive_not_destructive()
     reports = load_existing_reports()
     total = sum(len(reports.get(h, [])) for h in HOUSES)
 
