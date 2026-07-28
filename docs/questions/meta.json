@@ -1,13 +1,13 @@
 {
   "phase": "derive",
-  "generated_at": "2026-07-28T21:53:11Z",
-  "elapsed_s": 98.6,
+  "generated_at": "2026-07-28T22:50:47Z",
+  "elapsed_s": 107.1,
   "totals": {
     "ls": 245025,
     "rs": 2795
   },
   "search_bundle": {
-    "shard_count": 1225,
+    "shard_count": 1226,
     "shards": [
       "search-bundle-ls-LS16-S10-0000.json",
       "search-bundle-ls-LS16-S10-0001.json",
@@ -50,6 +50,7 @@
       "search-bundle-ls-LS16-S16-0004.json",
       "search-bundle-ls-LS16-S17-0000.json",
       "search-bundle-ls-LS16-S17-0001.json",
+      "search-bundle-ls-LS16-S8-0001.json",
       "search-bundle-ls-LS16-S8-0002.json",
       "search-bundle-ls-LS16-S9-0000.json",
       "search-bundle-ls-LS16-S9-0001.json",
@@ -1277,8 +1278,9 @@
       "search-bundle-ls-LS16-S16-0004.json": 1609355,
       "search-bundle-ls-LS16-S17-0000.json": 3534855,
       "search-bundle-ls-LS16-S17-0001.json": 2612089,
-      "search-bundle-ls-LS16-S8-0002.json": 2084211,
-      "search-bundle-ls-LS16-S9-0000.json": 4331741,
+      "search-bundle-ls-LS16-S8-0001.json": 364831,
+      "search-bundle-ls-LS16-S8-0002.json": 2658231,
+      "search-bundle-ls-LS16-S9-0000.json": 4483786,
       "search-bundle-ls-LS16-S9-0001.json": 2939301,
       "search-bundle-ls-LS16-S9-0002.json": 2884417,
       "search-bundle-ls-LS16-S9-0003.json": 2656417,
@@ -2462,14 +2464,14 @@
       "search-bundle-rs-RS271-2026-08-03-0000.json": 11931,
       "search-bundle-rs-RS271-2026-08-04-0000.json": 11925
     },
-    "total": 134460,
-    "truncated": 34385,
+    "total": 134827,
+    "truncated": 34433,
     "head_chars": 5000,
-    "size_bytes": 473732559,
+    "size_bytes": 474823455,
     "max_shard_bytes": 6548464
   },
   "search_index": {
-    "shard_count": 1225,
+    "shard_count": 1226,
     "shards": [
       "search-index-ls-LS16-S10-0000.json",
       "search-index-ls-LS16-S10-0001.json",
@@ -2512,6 +2514,7 @@
       "search-index-ls-LS16-S16-0004.json",
       "search-index-ls-LS16-S17-0000.json",
       "search-index-ls-LS16-S17-0001.json",
+      "search-index-ls-LS16-S8-0001.json",
       "search-index-ls-LS16-S8-0002.json",
       "search-index-ls-LS16-S9-0000.json",
       "search-index-ls-LS16-S9-0001.json",
@@ -3739,8 +3742,9 @@
       "search-index-ls-LS16-S16-0004.json": 844545,
       "search-index-ls-LS16-S17-0000.json": 1566542,
       "search-index-ls-LS16-S17-0001.json": 1235369,
-      "search-index-ls-LS16-S8-0002.json": 1041327,
-      "search-index-ls-LS16-S9-0000.json": 1822270,
+      "search-index-ls-LS16-S8-0001.json": 188241,
+      "search-index-ls-LS16-S8-0002.json": 1334058,
+      "search-index-ls-LS16-S9-0000.json": 1904502,
       "search-index-ls-LS16-S9-0001.json": 1528997,
       "search-index-ls-LS16-S9-0002.json": 1438313,
       "search-index-ls-LS16-S9-0003.json": 1327178,
@@ -4924,17 +4928,17 @@
       "search-index-rs-RS271-2026-08-03-0000.json": 48642,
       "search-index-rs-RS271-2026-08-04-0000.json": 48622
     },
-    "total": 134459,
-    "size_bytes": 251106295,
+    "total": 134826,
+    "size_bytes": 251669499,
     "max_shard_bytes": 3423298
   },
   "audit": {
     "ls_records": 245025,
-    "ls_with_text": 132372,
-    "ls_pypdf_empty_awaiting_ocr": 5137,
-    "ls_pypdf_error_retryable": 101,
+    "ls_with_text": 132739,
+    "ls_pypdf_empty_awaiting_ocr": 5176,
+    "ls_pypdf_error_retryable": 67,
     "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 107415,
+    "ls_never_attempted": 107043,
     "rs_records": 2795,
     "rs_with_text": 2088,
     "rs_pypdf_empty_awaiting_ocr": 1,
@@ -4943,13 +4947,13 @@
     "rs_never_attempted": 706
   },
   "text_shards": {
-    "records_with_text": 126346,
-    "shards": 1608,
+    "records_with_text": 126696,
+    "shards": 1609,
     "r2_fallback": 0,
-    "total_text_bytes": 1212493,
+    "total_text_bytes": 1185162,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 125992,
-    "txt_files_removed": 354
+    "from_existing_shards": 126346,
+    "txt_files_removed": 350
   }
 }
