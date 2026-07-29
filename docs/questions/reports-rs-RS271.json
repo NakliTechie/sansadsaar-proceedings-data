@@ -3,6 +3,24 @@
     {
       "house": "rs",
       "session": 271,
+      "date_iso": "2026-08-05",
+      "date": "05/08/2026",
+      "type": "STARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/271/English_202685_SQCRC0508206.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 271 · 05/08/2026 · Starred"
+    },
+    {
+      "house": "rs",
+      "session": 271,
+      "date_iso": "2026-08-05",
+      "date": "05/08/2026",
+      "type": "UNSTARRED",
+      "pdf_url": "https://sansad.in/getFile/UploadedFiles/Questions/QuestionsList/271/English_202685_UQCRC05082026.pdf?source=rscms",
+      "subject": "Rajya Sabha · Session 271 · 05/08/2026 · Unstarred"
+    },
+    {
+      "house": "rs",
+      "session": 271,
       "date_iso": "2026-08-04",
       "date": "04/08/2026",
       "type": "STARRED",
@@ -217,7 +235,7 @@
       "subject": "Rajya Sabha · Session 271 · 20/07/2026 · Unstarred"
     }
   ],
-  "count": 24,
+  "count": 26,
   "house": "rs",
   "bucket": "rs-RS271"
 }
