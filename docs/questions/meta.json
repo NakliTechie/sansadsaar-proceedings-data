@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-07-28T23:45:42Z",
-  "elapsed_s": 101.0,
+  "generated_at": "2026-07-29T01:15:30Z",
+  "elapsed_s": 104.4,
   "totals": {
     "ls": 245025,
     "rs": 2795
@@ -1278,9 +1278,9 @@
       "search-bundle-ls-LS16-S16-0004.json": 1609355,
       "search-bundle-ls-LS16-S17-0000.json": 3534855,
       "search-bundle-ls-LS16-S17-0001.json": 2612089,
-      "search-bundle-ls-LS16-S8-0001.json": 1458411,
+      "search-bundle-ls-LS16-S8-0001.json": 2766324,
       "search-bundle-ls-LS16-S8-0002.json": 2658231,
-      "search-bundle-ls-LS16-S9-0000.json": 4532313,
+      "search-bundle-ls-LS16-S9-0000.json": 4549184,
       "search-bundle-ls-LS16-S9-0001.json": 2939301,
       "search-bundle-ls-LS16-S9-0002.json": 2884417,
       "search-bundle-ls-LS16-S9-0003.json": 2656417,
@@ -2464,10 +2464,10 @@
       "search-bundle-rs-RS271-2026-08-03-0000.json": 11931,
       "search-bundle-rs-RS271-2026-08-04-0000.json": 11925
     },
-    "total": 135238,
-    "truncated": 34499,
+    "total": 135662,
+    "truncated": 34579,
     "head_chars": 5000,
-    "size_bytes": 475975928,
+    "size_bytes": 477300712,
     "max_shard_bytes": 6548464
   },
   "search_index": {
@@ -3742,9 +3742,9 @@
       "search-index-ls-LS16-S16-0004.json": 844545,
       "search-index-ls-LS16-S17-0000.json": 1566542,
       "search-index-ls-LS16-S17-0001.json": 1235369,
-      "search-index-ls-LS16-S8-0001.json": 765994,
+      "search-index-ls-LS16-S8-0001.json": 1340043,
       "search-index-ls-LS16-S8-0002.json": 1334058,
-      "search-index-ls-LS16-S9-0000.json": 1935892,
+      "search-index-ls-LS16-S9-0000.json": 1940776,
       "search-index-ls-LS16-S9-0001.json": 1528997,
       "search-index-ls-LS16-S9-0002.json": 1438313,
       "search-index-ls-LS16-S9-0003.json": 1327178,
@@ -4928,17 +4928,17 @@
       "search-index-rs-RS271-2026-08-03-0000.json": 48642,
       "search-index-rs-RS271-2026-08-04-0000.json": 48622
     },
-    "total": 135237,
-    "size_bytes": 252322655,
+    "total": 135661,
+    "size_bytes": 252901588,
     "max_shard_bytes": 3423298
   },
   "audit": {
     "ls_records": 245025,
-    "ls_with_text": 133150,
-    "ls_pypdf_empty_awaiting_ocr": 5189,
-    "ls_pypdf_error_retryable": 51,
+    "ls_with_text": 133574,
+    "ls_pypdf_empty_awaiting_ocr": 5195,
+    "ls_pypdf_error_retryable": 45,
     "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 106635,
+    "ls_never_attempted": 106211,
     "rs_records": 2795,
     "rs_with_text": 2088,
     "rs_pypdf_empty_awaiting_ocr": 1,
@@ -4947,13 +4947,13 @@
     "rs_never_attempted": 706
   },
   "text_shards": {
-    "records_with_text": 127100,
-    "shards": 1611,
+    "records_with_text": 127522,
+    "shards": 1612,
     "r2_fallback": 0,
-    "total_text_bytes": 1474060,
+    "total_text_bytes": 1634377,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 126696,
-    "txt_files_removed": 404
+    "from_existing_shards": 127100,
+    "txt_files_removed": 422
   }
 }
