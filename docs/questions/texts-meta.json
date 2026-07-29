@@ -4,14 +4,14 @@
   "r2_origin": null,
   "schema": 2,
   "totals": {
-    "records_with_text": 128745,
-    "shards": 1618,
+    "records_with_text": 129055,
+    "shards": 1620,
     "r2_fallback": 0,
-    "total_text_bytes": 654687,
+    "total_text_bytes": 1498826,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 128567,
-    "txt_files_removed": 178
+    "from_existing_shards": 128745,
+    "txt_files_removed": 310
   },
   "shard_stride": 250,
   "shards": [
@@ -22,8 +22,8 @@
     },
     {
       "file": "texts-ls-LS16-S10-0001.json",
-      "count": 243,
-      "bytes": 1143557
+      "count": 244,
+      "bytes": 1151918
     },
     {
       "file": "texts-ls-LS16-S10-0002.json",
@@ -761,19 +761,24 @@
       "bytes": 334147
     },
     {
+      "file": "texts-ls-LS16-S7-0011.json",
+      "count": 134,
+      "bytes": 547031
+    },
+    {
       "file": "texts-ls-LS16-S7-0012.json",
-      "count": 78,
-      "bytes": 226622
+      "count": 218,
+      "bytes": 897950
     },
     {
       "file": "texts-ls-LS16-S8-0000.json",
-      "count": 173,
-      "bytes": 948539
+      "count": 205,
+      "bytes": 1120528
     },
     {
       "file": "texts-ls-LS16-S8-0001.json",
-      "count": 243,
-      "bytes": 988616
+      "count": 244,
+      "bytes": 1002801
     },
     {
       "file": "texts-ls-LS16-S8-0002.json",
@@ -8104,6 +8109,11 @@
       "file": "texts-rs-RS271-2026-08-04-0000.json",
       "count": 2,
       "bytes": 139852
+    },
+    {
+      "file": "texts-rs-RS271-2026-08-05-0000.json",
+      "count": 2,
+      "bytes": 142578
     }
   ]
 }
