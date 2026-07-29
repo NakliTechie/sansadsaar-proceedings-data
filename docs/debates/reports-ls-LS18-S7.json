@@ -4,6 +4,102 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 7,
+      "db_slno": 6338,
+      "title": "The Jan Vishwas (Amendment of Provisions) Bill,2026-introduced",
+      "debate_date": "27/03/2026",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Jitin Prasada",
+          "mp_code": 4065,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Dr. Kadiyam Kavya",
+          "mp_code": 5783,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Adv Gowaal Kagada Padavi",
+          "mp_code": 5760,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Ujjwal Raman Singh",
+          "mp_code": 5749,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 9
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 10
+        },
+        {
+          "mp_name": "Shri Anurag Singh Thakur",
+          "mp_code": 4249,
+          "mp_part_code": 17
+        }
+      ],
+      "keywords": [
+        "Law Violation",
+        "Corruption",
+        "Imprisonment",
+        "Decriminalisation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 7,
+      "db_slno": 6337,
+      "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025, as reported by Select Committee– contd",
+      "debate_date": "27/03/2026",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Ms Kangna Ranaut",
+          "mp_code": 5652,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Adv Gowaal Kagada Padavi",
+          "mp_code": 5760,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 4
+        }
+      ],
+      "keywords": [
+        "Banking",
+        "Bankruptcy",
+        "Insolvency",
+        "Bankruptcy and Insolvency Code"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 7,
       "db_slno": 6336,
       "title": "Regarding request to re-install the Statue of Dr B.R. Ambedkar to its original place in Parliament House Complex",
       "debate_date": "27/03/2026",
@@ -23413,7 +23509,7 @@
       "keywords": []
     }
   ],
-  "count": 902,
+  "count": 904,
   "house": "ls",
   "bucket": "ls-LS18-S7"
 }
