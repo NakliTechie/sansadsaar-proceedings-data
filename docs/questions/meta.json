@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-07-29T20:06:45Z",
-  "elapsed_s": 108.7,
+  "generated_at": "2026-07-29T21:43:15Z",
+  "elapsed_s": 106.9,
   "totals": {
     "ls": 245275,
     "rs": 2797
@@ -1283,10 +1283,10 @@
       "search-bundle-ls-LS16-S16-0004.json": 1609355,
       "search-bundle-ls-LS16-S17-0000.json": 3534855,
       "search-bundle-ls-LS16-S17-0001.json": 2612089,
-      "search-bundle-ls-LS16-S7-0001.json": 779432,
+      "search-bundle-ls-LS16-S7-0001.json": 1894493,
       "search-bundle-ls-LS16-S7-0002.json": 2809119,
       "search-bundle-ls-LS16-S7-0003.json": 581486,
-      "search-bundle-ls-LS16-S8-0000.json": 3807973,
+      "search-bundle-ls-LS16-S8-0000.json": 3824178,
       "search-bundle-ls-LS16-S8-0001.json": 2812868,
       "search-bundle-ls-LS16-S8-0002.json": 2658231,
       "search-bundle-ls-LS16-S9-0000.json": 4593584,
@@ -2474,10 +2474,10 @@
       "search-bundle-rs-RS271-2026-08-04-0000.json": 11925,
       "search-bundle-rs-RS271-2026-08-05-0000.json": 11843
     },
-    "total": 138573,
-    "truncated": 35141,
+    "total": 138952,
+    "truncated": 35212,
     "head_chars": 5000,
-    "size_bytes": 486481439,
+    "size_bytes": 487612705,
     "max_shard_bytes": 6548464
   },
   "search_index": {
@@ -3757,10 +3757,10 @@
       "search-index-ls-LS16-S16-0004.json": 844545,
       "search-index-ls-LS16-S17-0000.json": 1566542,
       "search-index-ls-LS16-S17-0001.json": 1235369,
-      "search-index-ls-LS16-S7-0001.json": 393590,
+      "search-index-ls-LS16-S7-0001.json": 1054431,
       "search-index-ls-LS16-S7-0002.json": 1363478,
       "search-index-ls-LS16-S7-0003.json": 361834,
-      "search-index-ls-LS16-S8-0000.json": 1703692,
+      "search-index-ls-LS16-S8-0000.json": 1711984,
       "search-index-ls-LS16-S8-0001.json": 1356792,
       "search-index-ls-LS16-S8-0002.json": 1334058,
       "search-index-ls-LS16-S9-0000.json": 1954689,
@@ -4948,17 +4948,17 @@
       "search-index-rs-RS271-2026-08-04-0000.json": 48622,
       "search-index-rs-RS271-2026-08-05-0000.json": 46212
     },
-    "total": 138572,
-    "size_bytes": 257369208,
+    "total": 138951,
+    "size_bytes": 258038341,
     "max_shard_bytes": 3423298
   },
   "audit": {
     "ls_records": 245275,
-    "ls_with_text": 136483,
-    "ls_pypdf_empty_awaiting_ocr": 5308,
-    "ls_pypdf_error_retryable": 51,
+    "ls_with_text": 136862,
+    "ls_pypdf_empty_awaiting_ocr": 5357,
+    "ls_pypdf_error_retryable": 45,
     "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 103433,
+    "ls_never_attempted": 103011,
     "rs_records": 2797,
     "rs_with_text": 2090,
     "rs_pypdf_empty_awaiting_ocr": 1,
@@ -4967,13 +4967,13 @@
     "rs_never_attempted": 706
   },
   "text_shards": {
-    "records_with_text": 130179,
-    "shards": 1625,
+    "records_with_text": 130556,
+    "shards": 1626,
     "r2_fallback": 0,
-    "total_text_bytes": 1485009,
+    "total_text_bytes": 1600955,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 129783,
-    "txt_files_removed": 396
+    "from_existing_shards": 130179,
+    "txt_files_removed": 377
   }
 }
