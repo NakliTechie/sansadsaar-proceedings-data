@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-07-30T20:53:41Z",
-  "elapsed_s": 104.9,
+  "generated_at": "2026-07-30T21:56:39Z",
+  "elapsed_s": 106.4,
   "totals": {
     "ls": 245525,
     "rs": 2799
@@ -1290,7 +1290,7 @@
       "search-bundle-ls-LS16-S16-0004.json": 1609355,
       "search-bundle-ls-LS16-S17-0000.json": 3534855,
       "search-bundle-ls-LS16-S17-0001.json": 2612089,
-      "search-bundle-ls-LS16-S6-0001.json": 1349867,
+      "search-bundle-ls-LS16-S6-0001.json": 2610440,
       "search-bundle-ls-LS16-S6-0002.json": 2757059,
       "search-bundle-ls-LS16-S6-0003.json": 2640020,
       "search-bundle-ls-LS16-S6-0004.json": 334724,
@@ -2488,10 +2488,10 @@
       "search-bundle-rs-RS271-2026-08-05-0000.json": 11843,
       "search-bundle-rs-RS271-2026-08-06-0000.json": 11900
     },
-    "total": 143209,
-    "truncated": 35981,
+    "total": 143615,
+    "truncated": 36055,
     "head_chars": 5000,
-    "size_bytes": 500563739,
+    "size_bytes": 501824312,
     "max_shard_bytes": 6548464
   },
   "search_index": {
@@ -3778,7 +3778,7 @@
       "search-index-ls-LS16-S16-0004.json": 844545,
       "search-index-ls-LS16-S17-0000.json": 1566542,
       "search-index-ls-LS16-S17-0001.json": 1235369,
-      "search-index-ls-LS16-S6-0001.json": 653238,
+      "search-index-ls-LS16-S6-0001.json": 1251502,
       "search-index-ls-LS16-S6-0002.json": 1380086,
       "search-index-ls-LS16-S6-0003.json": 1318612,
       "search-index-ls-LS16-S6-0004.json": 208189,
@@ -4976,17 +4976,17 @@
       "search-index-rs-RS271-2026-08-05-0000.json": 46212,
       "search-index-rs-RS271-2026-08-06-0000.json": 48380
     },
-    "total": 143208,
-    "size_bytes": 264401265,
+    "total": 143614,
+    "size_bytes": 264999529,
     "max_shard_bytes": 3423298
   },
   "audit": {
     "ls_records": 245525,
-    "ls_with_text": 141117,
-    "ls_pypdf_empty_awaiting_ocr": 5576,
+    "ls_with_text": 141523,
+    "ls_pypdf_empty_awaiting_ocr": 5602,
     "ls_pypdf_error_retryable": 37,
     "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 98795,
+    "ls_never_attempted": 98363,
     "rs_records": 2799,
     "rs_with_text": 2092,
     "rs_pypdf_empty_awaiting_ocr": 1,
@@ -4995,13 +4995,13 @@
     "rs_never_attempted": 706
   },
   "text_shards": {
-    "records_with_text": 134529,
-    "shards": 1645,
+    "records_with_text": 134935,
+    "shards": 1646,
     "r2_fallback": 0,
-    "total_text_bytes": 1322989,
+    "total_text_bytes": 1511373,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 134118,
-    "txt_files_removed": 411
+    "from_existing_shards": 134529,
+    "txt_files_removed": 406
   }
 }
