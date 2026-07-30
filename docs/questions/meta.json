@@ -1,13 +1,13 @@
 {
   "phase": "derive",
-  "generated_at": "2026-07-30T04:47:58Z",
-  "elapsed_s": 82.0,
+  "generated_at": "2026-07-30T07:26:53Z",
+  "elapsed_s": 86.3,
   "totals": {
     "ls": 245275,
     "rs": 2797
   },
   "search_bundle": {
-    "shard_count": 1233,
+    "shard_count": 1234,
     "shards": [
       "search-bundle-ls-LS16-S10-0000.json",
       "search-bundle-ls-LS16-S10-0001.json",
@@ -50,6 +50,7 @@
       "search-bundle-ls-LS16-S16-0004.json",
       "search-bundle-ls-LS16-S17-0000.json",
       "search-bundle-ls-LS16-S17-0001.json",
+      "search-bundle-ls-LS16-S6-0003.json",
       "search-bundle-ls-LS16-S6-0004.json",
       "search-bundle-ls-LS16-S7-0000.json",
       "search-bundle-ls-LS16-S7-0001.json",
@@ -1285,12 +1286,13 @@
       "search-bundle-ls-LS16-S16-0004.json": 1609355,
       "search-bundle-ls-LS16-S17-0000.json": 3534855,
       "search-bundle-ls-LS16-S17-0001.json": 2612089,
-      "search-bundle-ls-LS16-S6-0004.json": 179471,
-      "search-bundle-ls-LS16-S7-0000.json": 3532628,
+      "search-bundle-ls-LS16-S6-0003.json": 640705,
+      "search-bundle-ls-LS16-S6-0004.json": 334724,
+      "search-bundle-ls-LS16-S7-0000.json": 3755152,
       "search-bundle-ls-LS16-S7-0001.json": 2674983,
       "search-bundle-ls-LS16-S7-0002.json": 2809119,
       "search-bundle-ls-LS16-S7-0003.json": 581486,
-      "search-bundle-ls-LS16-S8-0000.json": 3876470,
+      "search-bundle-ls-LS16-S8-0000.json": 3883201,
       "search-bundle-ls-LS16-S8-0001.json": 2812868,
       "search-bundle-ls-LS16-S8-0002.json": 2658231,
       "search-bundle-ls-LS16-S9-0000.json": 4593584,
@@ -2478,14 +2480,14 @@
       "search-bundle-rs-RS271-2026-08-04-0000.json": 11925,
       "search-bundle-rs-RS271-2026-08-05-0000.json": 11843
     },
-    "total": 140405,
-    "truncated": 35481,
+    "total": 140770,
+    "truncated": 35524,
     "head_chars": 5000,
-    "size_bytes": 492157586,
+    "size_bytes": 493182799,
     "max_shard_bytes": 6548464
   },
   "search_index": {
-    "shard_count": 1233,
+    "shard_count": 1234,
     "shards": [
       "search-index-ls-LS16-S10-0000.json",
       "search-index-ls-LS16-S10-0001.json",
@@ -2528,6 +2530,7 @@
       "search-index-ls-LS16-S16-0004.json",
       "search-index-ls-LS16-S17-0000.json",
       "search-index-ls-LS16-S17-0001.json",
+      "search-index-ls-LS16-S6-0003.json",
       "search-index-ls-LS16-S6-0004.json",
       "search-index-ls-LS16-S7-0000.json",
       "search-index-ls-LS16-S7-0001.json",
@@ -3763,12 +3766,13 @@
       "search-index-ls-LS16-S16-0004.json": 844545,
       "search-index-ls-LS16-S17-0000.json": 1566542,
       "search-index-ls-LS16-S17-0001.json": 1235369,
-      "search-index-ls-LS16-S6-0004.json": 138621,
-      "search-index-ls-LS16-S7-0000.json": 1615216,
+      "search-index-ls-LS16-S6-0003.json": 332584,
+      "search-index-ls-LS16-S6-0004.json": 208189,
+      "search-index-ls-LS16-S7-0000.json": 1697795,
       "search-index-ls-LS16-S7-0001.json": 1465439,
       "search-index-ls-LS16-S7-0002.json": 1363478,
       "search-index-ls-LS16-S7-0003.json": 361834,
-      "search-index-ls-LS16-S8-0000.json": 1735758,
+      "search-index-ls-LS16-S8-0000.json": 1737937,
       "search-index-ls-LS16-S8-0001.json": 1356792,
       "search-index-ls-LS16-S8-0002.json": 1334058,
       "search-index-ls-LS16-S9-0000.json": 1954689,
@@ -4956,17 +4960,17 @@
       "search-index-rs-RS271-2026-08-04-0000.json": 48622,
       "search-index-rs-RS271-2026-08-05-0000.json": 46212
     },
-    "total": 140404,
-    "size_bytes": 260226960,
+    "total": 140769,
+    "size_bytes": 260713870,
     "max_shard_bytes": 3423298
   },
   "audit": {
     "ls_records": 245275,
-    "ls_with_text": 138315,
-    "ls_pypdf_empty_awaiting_ocr": 5446,
-    "ls_pypdf_error_retryable": 153,
+    "ls_with_text": 138680,
+    "ls_pypdf_empty_awaiting_ocr": 5459,
+    "ls_pypdf_error_retryable": 89,
     "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 101361,
+    "ls_never_attempted": 101047,
     "rs_records": 2797,
     "rs_with_text": 2090,
     "rs_pypdf_empty_awaiting_ocr": 1,
@@ -4975,13 +4979,13 @@
     "rs_never_attempted": 706
   },
   "text_shards": {
-    "records_with_text": 131784,
-    "shards": 1632,
+    "records_with_text": 132116,
+    "shards": 1633,
     "r2_fallback": 0,
-    "total_text_bytes": 771806,
+    "total_text_bytes": 1002730,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 131589,
-    "txt_files_removed": 195
+    "from_existing_shards": 131784,
+    "txt_files_removed": 332
   }
 }
