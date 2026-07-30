@@ -1,797 +1,801 @@
 {
   "texts": {
     "ls": {
-      "LS14_S3_1508": {
-        "size": 1406,
-        "url": "text/ls/LS14_S3_1508.txt"
-      },
-      "LS14_S3_1509": {
-        "size": 1264,
-        "url": "text/ls/LS14_S3_1509.txt"
-      },
-      "LS14_S3_1510": {
-        "size": 1117,
-        "url": "text/ls/LS14_S3_1510.txt"
-      },
-      "LS14_S3_1511": {
-        "size": 225082,
-        "url": "text/ls/LS14_S3_1511.txt"
-      },
-      "LS14_S3_1512": {
-        "size": 48231,
-        "url": "text/ls/LS14_S3_1512.txt"
-      },
-      "LS14_S3_1513": {
-        "size": 538,
-        "url": "text/ls/LS14_S3_1513.txt"
-      },
-      "LS14_S3_1514": {
-        "size": 671,
-        "url": "text/ls/LS14_S3_1514.txt"
-      },
-      "LS14_S3_1516": {
-        "size": 621,
-        "url": "text/ls/LS14_S3_1516.txt"
-      },
-      "LS14_S3_1517": {
-        "size": 592,
-        "url": "text/ls/LS14_S3_1517.txt"
-      },
-      "LS14_S3_1518": {
-        "size": 670,
-        "url": "text/ls/LS14_S3_1518.txt"
-      },
-      "LS14_S3_1519": {
-        "size": 1124,
-        "url": "text/ls/LS14_S3_1519.txt"
-      },
-      "LS14_S3_1520": {
-        "size": 809,
-        "url": "text/ls/LS14_S3_1520.txt"
-      },
-      "LS14_S3_1521": {
-        "size": 809,
-        "url": "text/ls/LS14_S3_1521.txt"
-      },
-      "LS14_S3_1522": {
-        "size": 676,
-        "url": "text/ls/LS14_S3_1522.txt"
-      },
-      "LS14_S3_1523": {
-        "size": 698,
-        "url": "text/ls/LS14_S3_1523.txt"
-      },
-      "LS14_S3_1524": {
-        "size": 680,
-        "url": "text/ls/LS14_S3_1524.txt"
-      },
-      "LS14_S3_1525": {
-        "size": 1042,
-        "url": "text/ls/LS14_S3_1525.txt"
-      },
-      "LS14_S3_1526": {
-        "size": 1131,
-        "url": "text/ls/LS14_S3_1526.txt"
-      },
-      "LS14_S3_1527": {
-        "size": 136950,
-        "url": "text/ls/LS14_S3_1527.txt"
-      },
-      "LS14_S3_1528": {
-        "size": 7928,
-        "url": "text/ls/LS14_S3_1528.txt"
-      },
-      "LS14_S3_1529": {
-        "size": 57323,
-        "url": "text/ls/LS14_S3_1529.txt"
-      },
-      "LS14_S3_1530": {
-        "size": 3155,
-        "url": "text/ls/LS14_S3_1530.txt"
-      },
-      "LS14_S3_1531": {
-        "size": 1747,
-        "url": "text/ls/LS14_S3_1531.txt"
-      },
-      "LS14_S3_1532": {
-        "size": 2159,
-        "url": "text/ls/LS14_S3_1532.txt"
-      },
-      "LS14_S3_1533": {
-        "size": 20190,
-        "url": "text/ls/LS14_S3_1533.txt"
-      },
-      "LS14_S3_1534": {
-        "size": 358,
-        "url": "text/ls/LS14_S3_1534.txt"
-      },
-      "LS14_S3_1535": {
-        "size": 539,
-        "url": "text/ls/LS14_S3_1535.txt"
-      },
-      "LS14_S3_1536": {
-        "size": 425,
-        "url": "text/ls/LS14_S3_1536.txt"
-      },
-      "LS14_S3_1537": {
-        "size": 671,
-        "url": "text/ls/LS14_S3_1537.txt"
-      },
-      "LS14_S3_1538": {
-        "size": 1081,
-        "url": "text/ls/LS14_S3_1538.txt"
-      },
-      "LS14_S3_1539": {
-        "size": 416,
-        "url": "text/ls/LS14_S3_1539.txt"
-      },
-      "LS14_S3_1540": {
-        "size": 457,
-        "url": "text/ls/LS14_S3_1540.txt"
-      },
-      "LS14_S3_1541": {
-        "size": 1028,
-        "url": "text/ls/LS14_S3_1541.txt"
-      },
-      "LS14_S3_1542": {
-        "size": 38879,
-        "url": "text/ls/LS14_S3_1542.txt"
-      },
-      "LS14_S3_1543": {
-        "size": 938,
-        "url": "text/ls/LS14_S3_1543.txt"
-      },
-      "LS14_S3_1544": {
-        "size": 4066,
-        "url": "text/ls/LS14_S3_1544.txt"
-      },
-      "LS14_S3_1545": {
-        "size": 3424,
-        "url": "text/ls/LS14_S3_1545.txt"
-      },
-      "LS14_S3_1546": {
-        "size": 2311,
-        "url": "text/ls/LS14_S3_1546.txt"
-      },
-      "LS14_S3_1547": {
-        "size": 3255,
-        "url": "text/ls/LS14_S3_1547.txt"
-      },
-      "LS14_S3_1548": {
-        "size": 3503,
-        "url": "text/ls/LS14_S3_1548.txt"
-      },
-      "LS14_S3_1549": {
-        "size": 2833,
-        "url": "text/ls/LS14_S3_1549.txt"
-      },
-      "LS14_S3_1550": {
-        "size": 45063,
-        "url": "text/ls/LS14_S3_1550.txt"
-      },
-      "LS14_S3_1551": {
-        "size": 42972,
-        "url": "text/ls/LS14_S3_1551.txt"
-      },
-      "LS14_S3_1552": {
-        "size": 854,
-        "url": "text/ls/LS14_S3_1552.txt"
-      },
-      "LS14_S3_1553": {
-        "size": 12280,
-        "url": "text/ls/LS14_S3_1553.txt"
-      },
-      "LS14_S3_1554": {
-        "size": 21707,
-        "url": "text/ls/LS14_S3_1554.txt"
-      },
-      "LS14_S3_1555": {
-        "size": 1141,
-        "url": "text/ls/LS14_S3_1555.txt"
-      },
-      "LS14_S3_1556": {
-        "size": 1478,
-        "url": "text/ls/LS14_S3_1556.txt"
-      },
-      "LS14_S3_1557": {
-        "size": 1857,
-        "url": "text/ls/LS14_S3_1557.txt"
-      },
-      "LS14_S3_1558": {
-        "size": 1110,
-        "url": "text/ls/LS14_S3_1558.txt"
-      },
-      "LS14_S3_1560": {
-        "size": 1374,
-        "url": "text/ls/LS14_S3_1560.txt"
-      },
-      "LS14_S3_1561": {
-        "size": 1380,
-        "url": "text/ls/LS14_S3_1561.txt"
-      },
-      "LS14_S3_1562": {
-        "size": 2354,
-        "url": "text/ls/LS14_S3_1562.txt"
-      },
-      "LS14_S3_1563": {
-        "size": 1411,
-        "url": "text/ls/LS14_S3_1563.txt"
-      },
-      "LS14_S3_1564": {
-        "size": 2612,
-        "url": "text/ls/LS14_S3_1564.txt"
-      },
-      "LS14_S3_1565": {
-        "size": 1685,
-        "url": "text/ls/LS14_S3_1565.txt"
-      },
-      "LS14_S3_1566": {
-        "size": 1414,
-        "url": "text/ls/LS14_S3_1566.txt"
-      },
-      "LS14_S3_1567": {
-        "size": 1173,
-        "url": "text/ls/LS14_S3_1567.txt"
-      },
-      "LS14_S3_1568": {
-        "size": 1860,
-        "url": "text/ls/LS14_S3_1568.txt"
-      },
-      "LS14_S3_1569": {
-        "size": 1018,
-        "url": "text/ls/LS14_S3_1569.txt"
-      },
-      "LS14_S3_1570": {
-        "size": 78694,
-        "url": "text/ls/LS14_S3_1570.txt"
-      },
-      "LS14_S3_1571": {
-        "size": 1898,
-        "url": "text/ls/LS14_S3_1571.txt"
-      },
-      "LS14_S3_1572": {
-        "size": 2054,
-        "url": "text/ls/LS14_S3_1572.txt"
-      },
-      "LS14_S3_1573": {
-        "size": 51716,
-        "url": "text/ls/LS14_S3_1573.txt"
-      },
-      "LS14_S3_1574": {
-        "size": 48630,
-        "url": "text/ls/LS14_S3_1574.txt"
-      },
-      "LS14_S3_1575": {
-        "size": 1308,
-        "url": "text/ls/LS14_S3_1575.txt"
-      },
-      "LS14_S3_1576": {
-        "size": 14459,
-        "url": "text/ls/LS14_S3_1576.txt"
-      },
-      "LS14_S3_1577": {
-        "size": 1799,
-        "url": "text/ls/LS14_S3_1577.txt"
-      },
-      "LS14_S3_1578": {
-        "size": 493,
-        "url": "text/ls/LS14_S3_1578.txt"
-      },
-      "LS14_S3_1580": {
-        "size": 917,
-        "url": "text/ls/LS14_S3_1580.txt"
-      },
-      "LS14_S3_1581": {
-        "size": 5298,
-        "url": "text/ls/LS14_S3_1581.txt"
-      },
-      "LS14_S3_1582": {
-        "size": 2909,
-        "url": "text/ls/LS14_S3_1582.txt"
-      },
-      "LS14_S3_1583": {
-        "size": 2697,
-        "url": "text/ls/LS14_S3_1583.txt"
-      },
-      "LS14_S3_1584": {
-        "size": 806,
-        "url": "text/ls/LS14_S3_1584.txt"
-      },
-      "LS14_S3_1585": {
-        "size": 1365,
-        "url": "text/ls/LS14_S3_1585.txt"
-      },
-      "LS14_S3_1586": {
-        "size": 789,
-        "url": "text/ls/LS14_S3_1586.txt"
-      },
-      "LS14_S3_1587": {
-        "size": 6024,
-        "url": "text/ls/LS14_S3_1587.txt"
-      },
-      "LS14_S3_1588": {
-        "size": 1262,
-        "url": "text/ls/LS14_S3_1588.txt"
-      },
-      "LS14_S3_1589": {
-        "size": 2888,
-        "url": "text/ls/LS14_S3_1589.txt"
-      },
-      "LS14_S3_1590": {
-        "size": 2989,
-        "url": "text/ls/LS14_S3_1590.txt"
-      },
-      "LS14_S3_1591": {
-        "size": 1393,
-        "url": "text/ls/LS14_S3_1591.txt"
-      },
-      "LS14_S3_1592": {
-        "size": 3707,
-        "url": "text/ls/LS14_S3_1592.txt"
-      },
-      "LS14_S3_1593": {
-        "size": 4179,
-        "url": "text/ls/LS14_S3_1593.txt"
-      },
-      "LS14_S3_1594": {
-        "size": 1201,
-        "url": "text/ls/LS14_S3_1594.txt"
-      },
-      "LS14_S3_1595": {
-        "size": 3924,
-        "url": "text/ls/LS14_S3_1595.txt"
-      },
-      "LS14_S3_1596": {
-        "size": 1625,
-        "url": "text/ls/LS14_S3_1596.txt"
-      },
-      "LS14_S3_1597": {
-        "size": 2926,
-        "url": "text/ls/LS14_S3_1597.txt"
-      },
-      "LS14_S3_1598": {
-        "size": 1910,
-        "url": "text/ls/LS14_S3_1598.txt"
-      },
-      "LS14_S3_1599": {
-        "size": 1524,
-        "url": "text/ls/LS14_S3_1599.txt"
-      },
-      "LS14_S3_1600": {
-        "size": 1359,
-        "url": "text/ls/LS14_S3_1600.txt"
-      },
-      "LS14_S3_1601": {
-        "size": 3395,
-        "url": "text/ls/LS14_S3_1601.txt"
-      },
-      "LS14_S3_1602": {
-        "size": 937,
-        "url": "text/ls/LS14_S3_1602.txt"
-      },
-      "LS14_S3_1603": {
-        "size": 1620,
-        "url": "text/ls/LS14_S3_1603.txt"
-      },
-      "LS14_S3_1604": {
-        "size": 2457,
-        "url": "text/ls/LS14_S3_1604.txt"
-      },
-      "LS14_S3_1605": {
-        "size": 2110,
-        "url": "text/ls/LS14_S3_1605.txt"
-      },
-      "LS14_S3_1606": {
-        "size": 1108,
-        "url": "text/ls/LS14_S3_1606.txt"
-      },
-      "LS14_S3_1607": {
-        "size": 2828,
-        "url": "text/ls/LS14_S3_1607.txt"
-      },
-      "LS14_S3_1608": {
-        "size": 1714,
-        "url": "text/ls/LS14_S3_1608.txt"
-      },
-      "LS14_S3_1609": {
-        "size": 3517,
-        "url": "text/ls/LS14_S3_1609.txt"
-      },
-      "LS14_S3_1610": {
-        "size": 2256,
-        "url": "text/ls/LS14_S3_1610.txt"
-      },
-      "LS14_S3_1611": {
-        "size": 1419,
-        "url": "text/ls/LS14_S3_1611.txt"
-      },
-      "LS14_S3_1612": {
-        "size": 888,
-        "url": "text/ls/LS14_S3_1612.txt"
-      },
-      "LS14_S3_1613": {
-        "size": 1552,
-        "url": "text/ls/LS14_S3_1613.txt"
-      },
-      "LS14_S3_1614": {
-        "size": 3283,
-        "url": "text/ls/LS14_S3_1614.txt"
-      },
-      "LS14_S3_1615": {
-        "size": 2185,
-        "url": "text/ls/LS14_S3_1615.txt"
-      },
-      "LS14_S3_1616": {
-        "size": 25880,
-        "url": "text/ls/LS14_S3_1616.txt"
-      },
-      "LS14_S3_1617": {
-        "size": 1020,
-        "url": "text/ls/LS14_S3_1617.txt"
-      },
-      "LS14_S3_1618": {
-        "size": 1541,
-        "url": "text/ls/LS14_S3_1618.txt"
-      },
-      "LS14_S3_1619": {
-        "size": 3438,
-        "url": "text/ls/LS14_S3_1619.txt"
-      },
-      "LS14_S3_1620": {
-        "size": 2786,
-        "url": "text/ls/LS14_S3_1620.txt"
-      },
-      "LS14_S3_1621": {
-        "size": 2185,
-        "url": "text/ls/LS14_S3_1621.txt"
-      },
-      "LS14_S3_1622": {
-        "size": 631,
-        "url": "text/ls/LS14_S3_1622.txt"
-      },
-      "LS14_S3_1623": {
-        "size": 3622,
-        "url": "text/ls/LS14_S3_1623.txt"
-      },
-      "LS14_S3_1624": {
+      "LS14_S3_1004": {
+        "size": 2694,
+        "url": "text/ls/LS14_S3_1004.txt"
+      },
+      "LS14_S3_1005": {
+        "size": 5337,
+        "url": "text/ls/LS14_S3_1005.txt"
+      },
+      "LS14_S3_1006": {
+        "size": 1183,
+        "url": "text/ls/LS14_S3_1006.txt"
+      },
+      "LS14_S3_1007": {
+        "size": 2109,
+        "url": "text/ls/LS14_S3_1007.txt"
+      },
+      "LS14_S3_1008": {
+        "size": 13721,
+        "url": "text/ls/LS14_S3_1008.txt"
+      },
+      "LS14_S3_1009": {
+        "size": 12058,
+        "url": "text/ls/LS14_S3_1009.txt"
+      },
+      "LS14_S3_1010": {
+        "size": 4150,
+        "url": "text/ls/LS14_S3_1010.txt"
+      },
+      "LS14_S3_1011": {
+        "size": 2166,
+        "url": "text/ls/LS14_S3_1011.txt"
+      },
+      "LS14_S3_1012": {
+        "size": 2212,
+        "url": "text/ls/LS14_S3_1012.txt"
+      },
+      "LS14_S3_1013": {
+        "size": 1591,
+        "url": "text/ls/LS14_S3_1013.txt"
+      },
+      "LS14_S3_1014": {
+        "size": 5174,
+        "url": "text/ls/LS14_S3_1014.txt"
+      },
+      "LS14_S3_1015": {
+        "size": 1539,
+        "url": "text/ls/LS14_S3_1015.txt"
+      },
+      "LS14_S3_1016": {
+        "size": 1621,
+        "url": "text/ls/LS14_S3_1016.txt"
+      },
+      "LS14_S3_1017": {
+        "size": 3932,
+        "url": "text/ls/LS14_S3_1017.txt"
+      },
+      "LS14_S3_1018": {
         "size": 1369,
-        "url": "text/ls/LS14_S3_1624.txt"
+        "url": "text/ls/LS14_S3_1018.txt"
       },
-      "LS14_S3_1625": {
-        "size": 1252,
-        "url": "text/ls/LS14_S3_1625.txt"
+      "LS14_S3_1019": {
+        "size": 3076,
+        "url": "text/ls/LS14_S3_1019.txt"
       },
-      "LS14_S3_1626": {
-        "size": 1689,
-        "url": "text/ls/LS14_S3_1626.txt"
+      "LS14_S3_1020": {
+        "size": 2069,
+        "url": "text/ls/LS14_S3_1020.txt"
       },
-      "LS14_S3_1627": {
-        "size": 1789,
-        "url": "text/ls/LS14_S3_1627.txt"
+      "LS14_S3_1021": {
+        "size": 2373,
+        "url": "text/ls/LS14_S3_1021.txt"
       },
-      "LS14_S3_1628": {
-        "size": 2199,
-        "url": "text/ls/LS14_S3_1628.txt"
+      "LS14_S3_1022": {
+        "size": 2214,
+        "url": "text/ls/LS14_S3_1022.txt"
       },
-      "LS14_S3_1629": {
-        "size": 2284,
-        "url": "text/ls/LS14_S3_1629.txt"
+      "LS14_S3_1023": {
+        "size": 2726,
+        "url": "text/ls/LS14_S3_1023.txt"
       },
-      "LS14_S3_1630": {
-        "size": 1832,
-        "url": "text/ls/LS14_S3_1630.txt"
+      "LS14_S3_1024": {
+        "size": 761,
+        "url": "text/ls/LS14_S3_1024.txt"
       },
-      "LS14_S3_1631": {
-        "size": 1426,
-        "url": "text/ls/LS14_S3_1631.txt"
+      "LS14_S3_1025": {
+        "size": 2004,
+        "url": "text/ls/LS14_S3_1025.txt"
       },
-      "LS14_S3_1632": {
-        "size": 198649,
-        "url": "text/ls/LS14_S3_1632.txt"
-      },
-      "LS14_S3_1633": {
-        "size": 1679,
-        "url": "text/ls/LS14_S3_1633.txt"
-      },
-      "LS14_S3_1634": {
-        "size": 51986,
-        "url": "text/ls/LS14_S3_1634.txt"
-      },
-      "LS14_S3_1635": {
-        "size": 769,
-        "url": "text/ls/LS14_S3_1635.txt"
-      },
-      "LS14_S3_1636": {
-        "size": 514,
-        "url": "text/ls/LS14_S3_1636.txt"
-      },
-      "LS14_S3_1637": {
-        "size": 375,
-        "url": "text/ls/LS14_S3_1637.txt"
-      },
-      "LS14_S3_1638": {
-        "size": 2569,
-        "url": "text/ls/LS14_S3_1638.txt"
-      },
-      "LS14_S3_1639": {
-        "size": 1567,
-        "url": "text/ls/LS14_S3_1639.txt"
-      },
-      "LS14_S3_1640": {
-        "size": 805,
-        "url": "text/ls/LS14_S3_1640.txt"
-      },
-      "LS14_S3_1641": {
-        "size": 655,
-        "url": "text/ls/LS14_S3_1641.txt"
-      },
-      "LS14_S3_1642": {
-        "size": 1150,
-        "url": "text/ls/LS14_S3_1642.txt"
-      },
-      "LS14_S3_1644": {
-        "size": 675,
-        "url": "text/ls/LS14_S3_1644.txt"
-      },
-      "LS14_S3_1645": {
-        "size": 1470,
-        "url": "text/ls/LS14_S3_1645.txt"
-      },
-      "LS14_S3_1646": {
-        "size": 5152,
-        "url": "text/ls/LS14_S3_1646.txt"
-      },
-      "LS14_S3_1647": {
-        "size": 24853,
-        "url": "text/ls/LS14_S3_1647.txt"
-      },
-      "LS14_S3_1648": {
-        "size": 17080,
-        "url": "text/ls/LS14_S3_1648.txt"
-      },
-      "LS14_S3_1649": {
-        "size": 7415,
-        "url": "text/ls/LS14_S3_1649.txt"
-      },
-      "LS14_S3_1650": {
-        "size": 4126,
-        "url": "text/ls/LS14_S3_1650.txt"
-      },
-      "LS14_S3_1651": {
-        "size": 3504,
-        "url": "text/ls/LS14_S3_1651.txt"
-      },
-      "LS14_S3_1652": {
-        "size": 3674,
-        "url": "text/ls/LS14_S3_1652.txt"
-      },
-      "LS14_S3_1653": {
-        "size": 4391,
-        "url": "text/ls/LS14_S3_1653.txt"
-      },
-      "LS14_S3_1655": {
-        "size": 1738,
-        "url": "text/ls/LS14_S3_1655.txt"
-      },
-      "LS14_S3_1656": {
-        "size": 3329,
-        "url": "text/ls/LS14_S3_1656.txt"
-      },
-      "LS14_S3_1657": {
-        "size": 1085,
-        "url": "text/ls/LS14_S3_1657.txt"
-      },
-      "LS14_S3_1658": {
-        "size": 2492,
-        "url": "text/ls/LS14_S3_1658.txt"
-      },
-      "LS14_S3_1659": {
-        "size": 2306,
-        "url": "text/ls/LS14_S3_1659.txt"
-      },
-      "LS14_S3_1660": {
-        "size": 2245,
-        "url": "text/ls/LS14_S3_1660.txt"
-      },
-      "LS14_S3_1661": {
-        "size": 3610,
-        "url": "text/ls/LS14_S3_1661.txt"
-      },
-      "LS14_S3_1662": {
-        "size": 1385,
-        "url": "text/ls/LS14_S3_1662.txt"
-      },
-      "LS14_S3_1664": {
-        "size": 3168,
-        "url": "text/ls/LS14_S3_1664.txt"
-      },
-      "LS14_S3_1665": {
-        "size": 1834,
-        "url": "text/ls/LS14_S3_1665.txt"
-      },
-      "LS14_S3_1666": {
-        "size": 2172,
-        "url": "text/ls/LS14_S3_1666.txt"
-      },
-      "LS14_S3_1668": {
-        "size": 1757,
-        "url": "text/ls/LS14_S3_1668.txt"
-      },
-      "LS14_S3_1669": {
-        "size": 2143,
-        "url": "text/ls/LS14_S3_1669.txt"
-      },
-      "LS14_S3_1670": {
-        "size": 815,
-        "url": "text/ls/LS14_S3_1670.txt"
-      },
-      "LS14_S3_1671": {
-        "size": 2107,
-        "url": "text/ls/LS14_S3_1671.txt"
-      },
-      "LS14_S3_1672": {
+      "LS14_S3_1026": {
         "size": 1581,
-        "url": "text/ls/LS14_S3_1672.txt"
+        "url": "text/ls/LS14_S3_1026.txt"
       },
-      "LS14_S3_1673": {
-        "size": 1683,
-        "url": "text/ls/LS14_S3_1673.txt"
+      "LS14_S3_1027": {
+        "size": 3037,
+        "url": "text/ls/LS14_S3_1027.txt"
       },
-      "LS14_S3_1674": {
-        "size": 1471,
-        "url": "text/ls/LS14_S3_1674.txt"
+      "LS14_S3_1028": {
+        "size": 18736,
+        "url": "text/ls/LS14_S3_1028.txt"
       },
-      "LS14_S3_1675": {
-        "size": 1821,
-        "url": "text/ls/LS14_S3_1675.txt"
+      "LS14_S3_1029": {
+        "size": 2945,
+        "url": "text/ls/LS14_S3_1029.txt"
       },
-      "LS14_S3_1676": {
-        "size": 1236,
-        "url": "text/ls/LS14_S3_1676.txt"
+      "LS14_S3_1030": {
+        "size": 2466,
+        "url": "text/ls/LS14_S3_1030.txt"
       },
-      "LS14_S3_1677": {
-        "size": 2828,
-        "url": "text/ls/LS14_S3_1677.txt"
+      "LS14_S3_1031": {
+        "size": 1700,
+        "url": "text/ls/LS14_S3_1031.txt"
       },
-      "LS14_S3_1678": {
-        "size": 3686,
-        "url": "text/ls/LS14_S3_1678.txt"
+      "LS14_S3_1032": {
+        "size": 1636,
+        "url": "text/ls/LS14_S3_1032.txt"
       },
-      "LS14_S3_1679": {
-        "size": 4523,
-        "url": "text/ls/LS14_S3_1679.txt"
+      "LS14_S3_1033": {
+        "size": 1656,
+        "url": "text/ls/LS14_S3_1033.txt"
       },
-      "LS14_S3_1680": {
-        "size": 778,
-        "url": "text/ls/LS14_S3_1680.txt"
+      "LS14_S3_1034": {
+        "size": 913,
+        "url": "text/ls/LS14_S3_1034.txt"
       },
-      "LS14_S3_1681": {
-        "size": 2683,
-        "url": "text/ls/LS14_S3_1681.txt"
+      "LS14_S3_1035": {
+        "size": 1991,
+        "url": "text/ls/LS14_S3_1035.txt"
       },
-      "LS14_S3_1682": {
-        "size": 2183,
-        "url": "text/ls/LS14_S3_1682.txt"
+      "LS14_S3_1036": {
+        "size": 1312,
+        "url": "text/ls/LS14_S3_1036.txt"
       },
-      "LS14_S3_1683": {
-        "size": 3180,
-        "url": "text/ls/LS14_S3_1683.txt"
+      "LS14_S3_1037": {
+        "size": 1800,
+        "url": "text/ls/LS14_S3_1037.txt"
       },
-      "LS14_S4_1131": {
-        "size": 26368,
-        "url": "text/ls/LS14_S4_1131.txt"
+      "LS14_S3_1038": {
+        "size": 387552,
+        "url": "text/ls/LS14_S3_1038.txt"
       },
-      "LS14_S4_1132": {
-        "size": 96578,
-        "url": "text/ls/LS14_S4_1132.txt"
+      "LS14_S3_1039": {
+        "size": 1145,
+        "url": "text/ls/LS14_S3_1039.txt"
       },
-      "LS14_S4_1136": {
-        "size": 1314,
-        "url": "text/ls/LS14_S4_1136.txt"
+      "LS14_S3_1040": {
+        "size": 13007,
+        "url": "text/ls/LS14_S3_1040.txt"
       },
-      "LS14_S4_1137": {
-        "size": 416,
-        "url": "text/ls/LS14_S4_1137.txt"
+      "LS14_S3_1041": {
+        "size": 780,
+        "url": "text/ls/LS14_S3_1041.txt"
       },
-      "LS14_S4_1138": {
-        "size": 1233,
-        "url": "text/ls/LS14_S4_1138.txt"
+      "LS14_S3_1042": {
+        "size": 2020,
+        "url": "text/ls/LS14_S3_1042.txt"
       },
-      "LS14_S4_1139": {
-        "size": 1299,
-        "url": "text/ls/LS14_S4_1139.txt"
+      "LS14_S3_1043": {
+        "size": 3650,
+        "url": "text/ls/LS14_S3_1043.txt"
       },
-      "LS14_S4_1141": {
-        "size": 12137,
-        "url": "text/ls/LS14_S4_1141.txt"
+      "LS14_S3_1044": {
+        "size": 38291,
+        "url": "text/ls/LS14_S3_1044.txt"
       },
-      "LS14_S4_1148": {
-        "size": 180527,
-        "url": "text/ls/LS14_S4_1148.txt"
+      "LS14_S3_1045": {
+        "size": 4431,
+        "url": "text/ls/LS14_S3_1045.txt"
       },
-      "LS14_S4_1149": {
+      "LS14_S3_1046": {
+        "size": 2113,
+        "url": "text/ls/LS14_S3_1046.txt"
+      },
+      "LS14_S3_1047": {
+        "size": 1920,
+        "url": "text/ls/LS14_S3_1047.txt"
+      },
+      "LS14_S3_1048": {
+        "size": 2486,
+        "url": "text/ls/LS14_S3_1048.txt"
+      },
+      "LS14_S3_1049": {
+        "size": 1800,
+        "url": "text/ls/LS14_S3_1049.txt"
+      },
+      "LS14_S3_1051": {
+        "size": 2229,
+        "url": "text/ls/LS14_S3_1051.txt"
+      },
+      "LS14_S3_1052": {
+        "size": 2493,
+        "url": "text/ls/LS14_S3_1052.txt"
+      },
+      "LS14_S3_1053": {
+        "size": 1101,
+        "url": "text/ls/LS14_S3_1053.txt"
+      },
+      "LS14_S3_1054": {
+        "size": 2398,
+        "url": "text/ls/LS14_S3_1054.txt"
+      },
+      "LS14_S3_1055": {
+        "size": 2315,
+        "url": "text/ls/LS14_S3_1055.txt"
+      },
+      "LS14_S3_1056": {
+        "size": 2779,
+        "url": "text/ls/LS14_S3_1056.txt"
+      },
+      "LS14_S3_1057": {
+        "size": 3922,
+        "url": "text/ls/LS14_S3_1057.txt"
+      },
+      "LS14_S3_1058": {
+        "size": 4883,
+        "url": "text/ls/LS14_S3_1058.txt"
+      },
+      "LS14_S3_1059": {
+        "size": 1925,
+        "url": "text/ls/LS14_S3_1059.txt"
+      },
+      "LS14_S3_1060": {
+        "size": 1293,
+        "url": "text/ls/LS14_S3_1060.txt"
+      },
+      "LS14_S3_1061": {
+        "size": 1623,
+        "url": "text/ls/LS14_S3_1061.txt"
+      },
+      "LS14_S3_1062": {
+        "size": 3254,
+        "url": "text/ls/LS14_S3_1062.txt"
+      },
+      "LS14_S3_1063": {
+        "size": 3142,
+        "url": "text/ls/LS14_S3_1063.txt"
+      },
+      "LS14_S3_1064": {
+        "size": 1328,
+        "url": "text/ls/LS14_S3_1064.txt"
+      },
+      "LS14_S3_1065": {
+        "size": 1012,
+        "url": "text/ls/LS14_S3_1065.txt"
+      },
+      "LS14_S3_1066": {
+        "size": 1430,
+        "url": "text/ls/LS14_S3_1066.txt"
+      },
+      "LS14_S3_1067": {
+        "size": 1562,
+        "url": "text/ls/LS14_S3_1067.txt"
+      },
+      "LS14_S3_1068": {
+        "size": 1348,
+        "url": "text/ls/LS14_S3_1068.txt"
+      },
+      "LS14_S3_1069": {
+        "size": 1311,
+        "url": "text/ls/LS14_S3_1069.txt"
+      },
+      "LS14_S3_1070": {
+        "size": 1945,
+        "url": "text/ls/LS14_S3_1070.txt"
+      },
+      "LS14_S3_1071": {
+        "size": 1649,
+        "url": "text/ls/LS14_S3_1071.txt"
+      },
+      "LS14_S3_1072": {
+        "size": 737,
+        "url": "text/ls/LS14_S3_1072.txt"
+      },
+      "LS14_S3_1073": {
+        "size": 127263,
+        "url": "text/ls/LS14_S3_1073.txt"
+      },
+      "LS14_S3_1074": {
+        "size": 177245,
+        "url": "text/ls/LS14_S3_1074.txt"
+      },
+      "LS14_S3_1075": {
+        "size": 4283,
+        "url": "text/ls/LS14_S3_1075.txt"
+      },
+      "LS14_S3_1076": {
+        "size": 44525,
+        "url": "text/ls/LS14_S3_1076.txt"
+      },
+      "LS14_S3_1077": {
+        "size": 455,
+        "url": "text/ls/LS14_S3_1077.txt"
+      },
+      "LS14_S3_1078": {
+        "size": 370,
+        "url": "text/ls/LS14_S3_1078.txt"
+      },
+      "LS14_S3_1079": {
+        "size": 2575,
+        "url": "text/ls/LS14_S3_1079.txt"
+      },
+      "LS14_S3_1080": {
+        "size": 1367,
+        "url": "text/ls/LS14_S3_1080.txt"
+      },
+      "LS14_S3_1081": {
+        "size": 694,
+        "url": "text/ls/LS14_S3_1081.txt"
+      },
+      "LS14_S3_1082": {
+        "size": 793,
+        "url": "text/ls/LS14_S3_1082.txt"
+      },
+      "LS14_S3_1083": {
+        "size": 23309,
+        "url": "text/ls/LS14_S3_1083.txt"
+      },
+      "LS14_S3_1084": {
+        "size": 2131,
+        "url": "text/ls/LS14_S3_1084.txt"
+      },
+      "LS14_S3_1085": {
+        "size": 12031,
+        "url": "text/ls/LS14_S3_1085.txt"
+      },
+      "LS14_S3_1086": {
+        "size": 1783,
+        "url": "text/ls/LS14_S3_1086.txt"
+      },
+      "LS14_S3_1087": {
+        "size": 1090,
+        "url": "text/ls/LS14_S3_1087.txt"
+      },
+      "LS14_S3_1088": {
+        "size": 1339,
+        "url": "text/ls/LS14_S3_1088.txt"
+      },
+      "LS14_S3_1089": {
+        "size": 1114,
+        "url": "text/ls/LS14_S3_1089.txt"
+      },
+      "LS14_S3_1090": {
+        "size": 1026,
+        "url": "text/ls/LS14_S3_1090.txt"
+      },
+      "LS14_S3_1091": {
+        "size": 1743,
+        "url": "text/ls/LS14_S3_1091.txt"
+      },
+      "LS14_S3_1092": {
+        "size": 2158,
+        "url": "text/ls/LS14_S3_1092.txt"
+      },
+      "LS14_S3_1093": {
+        "size": 1749,
+        "url": "text/ls/LS14_S3_1093.txt"
+      },
+      "LS14_S3_1094": {
+        "size": 1201,
+        "url": "text/ls/LS14_S3_1094.txt"
+      },
+      "LS14_S3_1095": {
+        "size": 1986,
+        "url": "text/ls/LS14_S3_1095.txt"
+      },
+      "LS14_S3_1096": {
+        "size": 1431,
+        "url": "text/ls/LS14_S3_1096.txt"
+      },
+      "LS14_S3_1097": {
+        "size": 1082,
+        "url": "text/ls/LS14_S3_1097.txt"
+      },
+      "LS14_S3_1098": {
+        "size": 1302,
+        "url": "text/ls/LS14_S3_1098.txt"
+      },
+      "LS14_S3_1099": {
+        "size": 1389,
+        "url": "text/ls/LS14_S3_1099.txt"
+      },
+      "LS14_S3_1100": {
+        "size": 3553,
+        "url": "text/ls/LS14_S3_1100.txt"
+      },
+      "LS14_S3_1101": {
+        "size": 23941,
+        "url": "text/ls/LS14_S3_1101.txt"
+      },
+      "LS14_S3_1102": {
+        "size": 735,
+        "url": "text/ls/LS14_S3_1102.txt"
+      },
+      "LS14_S3_1103": {
+        "size": 544,
+        "url": "text/ls/LS14_S3_1103.txt"
+      },
+      "LS14_S3_1104": {
+        "size": 679,
+        "url": "text/ls/LS14_S3_1104.txt"
+      },
+      "LS14_S3_1105": {
+        "size": 807,
+        "url": "text/ls/LS14_S3_1105.txt"
+      },
+      "LS14_S3_1106": {
+        "size": 1380,
+        "url": "text/ls/LS14_S3_1106.txt"
+      },
+      "LS14_S3_1107": {
+        "size": 1241,
+        "url": "text/ls/LS14_S3_1107.txt"
+      },
+      "LS14_S3_1108": {
+        "size": 674,
+        "url": "text/ls/LS14_S3_1108.txt"
+      },
+      "LS14_S3_1109": {
+        "size": 591,
+        "url": "text/ls/LS14_S3_1109.txt"
+      },
+      "LS14_S3_1110": {
+        "size": 16944,
+        "url": "text/ls/LS14_S3_1110.txt"
+      },
+      "LS14_S3_1111": {
+        "size": 16355,
+        "url": "text/ls/LS14_S3_1111.txt"
+      },
+      "LS14_S3_1112": {
+        "size": 27570,
+        "url": "text/ls/LS14_S3_1112.txt"
+      },
+      "LS14_S3_1113": {
+        "size": 12161,
+        "url": "text/ls/LS14_S3_1113.txt"
+      },
+      "LS14_S3_1114": {
+        "size": 6571,
+        "url": "text/ls/LS14_S3_1114.txt"
+      },
+      "LS14_S3_1115": {
+        "size": 3904,
+        "url": "text/ls/LS14_S3_1115.txt"
+      },
+      "LS14_S3_1116": {
+        "size": 1254,
+        "url": "text/ls/LS14_S3_1116.txt"
+      },
+      "LS14_S3_1117": {
+        "size": 1472,
+        "url": "text/ls/LS14_S3_1117.txt"
+      },
+      "LS14_S3_1118": {
+        "size": 1391,
+        "url": "text/ls/LS14_S3_1118.txt"
+      },
+      "LS14_S3_1119": {
+        "size": 1146,
+        "url": "text/ls/LS14_S3_1119.txt"
+      },
+      "LS14_S3_1120": {
+        "size": 1464,
+        "url": "text/ls/LS14_S3_1120.txt"
+      },
+      "LS14_S3_1121": {
+        "size": 1560,
+        "url": "text/ls/LS14_S3_1121.txt"
+      },
+      "LS14_S3_1122": {
+        "size": 1029,
+        "url": "text/ls/LS14_S3_1122.txt"
+      },
+      "LS14_S3_1123": {
+        "size": 1958,
+        "url": "text/ls/LS14_S3_1123.txt"
+      },
+      "LS14_S3_1124": {
+        "size": 897,
+        "url": "text/ls/LS14_S3_1124.txt"
+      },
+      "LS14_S3_1125": {
+        "size": 1260,
+        "url": "text/ls/LS14_S3_1125.txt"
+      },
+      "LS14_S3_1126": {
+        "size": 1617,
+        "url": "text/ls/LS14_S3_1126.txt"
+      },
+      "LS14_S3_1127": {
+        "size": 2120,
+        "url": "text/ls/LS14_S3_1127.txt"
+      },
+      "LS14_S3_1128": {
+        "size": 1360,
+        "url": "text/ls/LS14_S3_1128.txt"
+      },
+      "LS14_S3_1129": {
+        "size": 1017,
+        "url": "text/ls/LS14_S3_1129.txt"
+      },
+      "LS14_S3_1130": {
+        "size": 298957,
+        "url": "text/ls/LS14_S3_1130.txt"
+      },
+      "LS14_S3_1429": {
+        "size": 1461,
+        "url": "text/ls/LS14_S3_1429.txt"
+      },
+      "LS14_S3_1430": {
+        "size": 35709,
+        "url": "text/ls/LS14_S3_1430.txt"
+      },
+      "LS14_S3_1431": {
+        "size": 751,
+        "url": "text/ls/LS14_S3_1431.txt"
+      },
+      "LS14_S3_1432": {
+        "size": 1143,
+        "url": "text/ls/LS14_S3_1432.txt"
+      },
+      "LS14_S3_1433": {
+        "size": 8674,
+        "url": "text/ls/LS14_S3_1433.txt"
+      },
+      "LS14_S3_1434": {
+        "size": 686,
+        "url": "text/ls/LS14_S3_1434.txt"
+      },
+      "LS14_S3_1435": {
+        "size": 6145,
+        "url": "text/ls/LS14_S3_1435.txt"
+      },
+      "LS14_S3_1436": {
+        "size": 3870,
+        "url": "text/ls/LS14_S3_1436.txt"
+      },
+      "LS14_S3_1437": {
+        "size": 3812,
+        "url": "text/ls/LS14_S3_1437.txt"
+      },
+      "LS14_S3_1438": {
+        "size": 2096,
+        "url": "text/ls/LS14_S3_1438.txt"
+      },
+      "LS14_S3_1439": {
+        "size": 1955,
+        "url": "text/ls/LS14_S3_1439.txt"
+      },
+      "LS14_S3_1440": {
+        "size": 11902,
+        "url": "text/ls/LS14_S3_1440.txt"
+      },
+      "LS14_S3_1442": {
+        "size": 1907,
+        "url": "text/ls/LS14_S3_1442.txt"
+      },
+      "LS14_S3_1443": {
+        "size": 480,
+        "url": "text/ls/LS14_S3_1443.txt"
+      },
+      "LS14_S3_1444": {
+        "size": 3673,
+        "url": "text/ls/LS14_S3_1444.txt"
+      },
+      "LS14_S3_1445": {
+        "size": 17256,
+        "url": "text/ls/LS14_S3_1445.txt"
+      },
+      "LS14_S3_1446": {
+        "size": 4765,
+        "url": "text/ls/LS14_S3_1446.txt"
+      },
+      "LS14_S3_1447": {
+        "size": 1826,
+        "url": "text/ls/LS14_S3_1447.txt"
+      },
+      "LS14_S3_1450": {
+        "size": 3248,
+        "url": "text/ls/LS14_S3_1450.txt"
+      },
+      "LS14_S3_1451": {
+        "size": 978,
+        "url": "text/ls/LS14_S3_1451.txt"
+      },
+      "LS14_S3_1452": {
+        "size": 1761,
+        "url": "text/ls/LS14_S3_1452.txt"
+      },
+      "LS14_S3_1453": {
+        "size": 2176,
+        "url": "text/ls/LS14_S3_1453.txt"
+      },
+      "LS14_S3_1454": {
+        "size": 7078,
+        "url": "text/ls/LS14_S3_1454.txt"
+      },
+      "LS14_S3_1455": {
+        "size": 4566,
+        "url": "text/ls/LS14_S3_1455.txt"
+      },
+      "LS14_S3_1456": {
+        "size": 4257,
+        "url": "text/ls/LS14_S3_1456.txt"
+      },
+      "LS14_S3_1457": {
+        "size": 1198,
+        "url": "text/ls/LS14_S3_1457.txt"
+      },
+      "LS14_S3_1458": {
         "size": 1387,
-        "url": "text/ls/LS14_S4_1149.txt"
+        "url": "text/ls/LS14_S3_1458.txt"
       },
-      "LS14_S4_1150": {
-        "size": 1565,
-        "url": "text/ls/LS14_S4_1150.txt"
+      "LS14_S3_1459": {
+        "size": 2192,
+        "url": "text/ls/LS14_S3_1459.txt"
       },
-      "LS14_S4_1151": {
-        "size": 1095,
-        "url": "text/ls/LS14_S4_1151.txt"
+      "LS14_S3_1461": {
+        "size": 2395,
+        "url": "text/ls/LS14_S3_1461.txt"
       },
-      "LS14_S4_1152": {
-        "size": 337,
-        "url": "text/ls/LS14_S4_1152.txt"
+      "LS14_S3_1462": {
+        "size": 3823,
+        "url": "text/ls/LS14_S3_1462.txt"
       },
-      "LS14_S4_1153": {
-        "size": 2099,
-        "url": "text/ls/LS14_S4_1153.txt"
+      "LS14_S3_1463": {
+        "size": 3607,
+        "url": "text/ls/LS14_S3_1463.txt"
       },
-      "LS14_S4_1154": {
-        "size": 88204,
-        "url": "text/ls/LS14_S4_1154.txt"
+      "LS14_S3_1464": {
+        "size": 3063,
+        "url": "text/ls/LS14_S3_1464.txt"
       },
-      "LS14_S4_1155": {
-        "size": 564,
-        "url": "text/ls/LS14_S4_1155.txt"
+      "LS14_S3_1465": {
+        "size": 2115,
+        "url": "text/ls/LS14_S3_1465.txt"
       },
-      "LS14_S4_1156": {
-        "size": 582,
-        "url": "text/ls/LS14_S4_1156.txt"
+      "LS14_S3_1467": {
+        "size": 3254,
+        "url": "text/ls/LS14_S3_1467.txt"
       },
-      "LS14_S4_1157": {
-        "size": 430,
-        "url": "text/ls/LS14_S4_1157.txt"
+      "LS14_S3_1468": {
+        "size": 1276,
+        "url": "text/ls/LS14_S3_1468.txt"
       },
-      "LS14_S4_1158": {
-        "size": 18677,
-        "url": "text/ls/LS14_S4_1158.txt"
+      "LS14_S3_1469": {
+        "size": 1748,
+        "url": "text/ls/LS14_S3_1469.txt"
       },
-      "LS14_S4_1159": {
-        "size": 3556,
-        "url": "text/ls/LS14_S4_1159.txt"
+      "LS14_S3_1470": {
+        "size": 1264,
+        "url": "text/ls/LS14_S3_1470.txt"
       },
-      "LS14_S4_1160": {
-        "size": 4784,
-        "url": "text/ls/LS14_S4_1160.txt"
+      "LS14_S3_1471": {
+        "size": 1524,
+        "url": "text/ls/LS14_S3_1471.txt"
       },
-      "LS14_S4_1161": {
-        "size": 7494,
-        "url": "text/ls/LS14_S4_1161.txt"
+      "LS14_S3_1472": {
+        "size": 2100,
+        "url": "text/ls/LS14_S3_1472.txt"
       },
-      "LS14_S4_1162": {
-        "size": 2954,
-        "url": "text/ls/LS14_S4_1162.txt"
+      "LS14_S3_1473": {
+        "size": 1150,
+        "url": "text/ls/LS14_S3_1473.txt"
       },
-      "LS14_S4_1163": {
-        "size": 1625,
-        "url": "text/ls/LS14_S4_1163.txt"
+      "LS14_S3_1475": {
+        "size": 2232,
+        "url": "text/ls/LS14_S3_1475.txt"
       },
-      "LS14_S4_1164": {
-        "size": 6762,
-        "url": "text/ls/LS14_S4_1164.txt"
+      "LS14_S3_1476": {
+        "size": 838,
+        "url": "text/ls/LS14_S3_1476.txt"
       },
-      "LS14_S4_1165": {
-        "size": 358,
-        "url": "text/ls/LS14_S4_1165.txt"
+      "LS14_S3_1477": {
+        "size": 1810,
+        "url": "text/ls/LS14_S3_1477.txt"
       },
-      "LS14_S4_1166": {
-        "size": 965,
-        "url": "text/ls/LS14_S4_1166.txt"
+      "LS14_S3_1478": {
+        "size": 3201,
+        "url": "text/ls/LS14_S3_1478.txt"
       },
-      "LS14_S4_1167": {
-        "size": 2633,
-        "url": "text/ls/LS14_S4_1167.txt"
+      "LS14_S3_1479": {
+        "size": 1400,
+        "url": "text/ls/LS14_S3_1479.txt"
       },
-      "LS14_S4_1168": {
-        "size": 7736,
-        "url": "text/ls/LS14_S4_1168.txt"
+      "LS14_S3_1480": {
+        "size": 1069,
+        "url": "text/ls/LS14_S3_1480.txt"
       },
-      "LS14_S4_1169": {
-        "size": 5271,
-        "url": "text/ls/LS14_S4_1169.txt"
+      "LS14_S3_1481": {
+        "size": 4065,
+        "url": "text/ls/LS14_S3_1481.txt"
+      },
+      "LS14_S3_1482": {
+        "size": 2480,
+        "url": "text/ls/LS14_S3_1482.txt"
+      },
+      "LS14_S3_1483": {
+        "size": 1575,
+        "url": "text/ls/LS14_S3_1483.txt"
+      },
+      "LS14_S3_1484": {
+        "size": 1439,
+        "url": "text/ls/LS14_S3_1484.txt"
+      },
+      "LS14_S3_1485": {
+        "size": 5719,
+        "url": "text/ls/LS14_S3_1485.txt"
+      },
+      "LS14_S3_1486": {
+        "size": 1909,
+        "url": "text/ls/LS14_S3_1486.txt"
+      },
+      "LS14_S3_1487": {
+        "size": 1014,
+        "url": "text/ls/LS14_S3_1487.txt"
+      },
+      "LS14_S3_1488": {
+        "size": 2458,
+        "url": "text/ls/LS14_S3_1488.txt"
+      },
+      "LS14_S3_1489": {
+        "size": 2677,
+        "url": "text/ls/LS14_S3_1489.txt"
+      },
+      "LS14_S3_1490": {
+        "size": 2075,
+        "url": "text/ls/LS14_S3_1490.txt"
+      },
+      "LS14_S3_1491": {
+        "size": 34382,
+        "url": "text/ls/LS14_S3_1491.txt"
+      },
+      "LS14_S3_1492": {
+        "size": 1965,
+        "url": "text/ls/LS14_S3_1492.txt"
+      },
+      "LS14_S3_1493": {
+        "size": 2511,
+        "url": "text/ls/LS14_S3_1493.txt"
+      },
+      "LS14_S3_1494": {
+        "size": 926,
+        "url": "text/ls/LS14_S3_1494.txt"
+      },
+      "LS14_S3_1495": {
+        "size": 2609,
+        "url": "text/ls/LS14_S3_1495.txt"
+      },
+      "LS14_S3_1496": {
+        "size": 1436,
+        "url": "text/ls/LS14_S3_1496.txt"
+      },
+      "LS14_S3_1497": {
+        "size": 1609,
+        "url": "text/ls/LS14_S3_1497.txt"
+      },
+      "LS14_S3_1498": {
+        "size": 2175,
+        "url": "text/ls/LS14_S3_1498.txt"
+      },
+      "LS14_S3_1499": {
+        "size": 1282,
+        "url": "text/ls/LS14_S3_1499.txt"
+      },
+      "LS14_S3_1500": {
+        "size": 1068,
+        "url": "text/ls/LS14_S3_1500.txt"
+      },
+      "LS14_S3_1501": {
+        "size": 1237,
+        "url": "text/ls/LS14_S3_1501.txt"
+      },
+      "LS14_S3_1502": {
+        "size": 873,
+        "url": "text/ls/LS14_S3_1502.txt"
+      },
+      "LS14_S3_1503": {
+        "size": 606,
+        "url": "text/ls/LS14_S3_1503.txt"
+      },
+      "LS14_S3_1504": {
+        "size": 637,
+        "url": "text/ls/LS14_S3_1504.txt"
+      },
+      "LS14_S3_1505": {
+        "size": 2217,
+        "url": "text/ls/LS14_S3_1505.txt"
+      },
+      "LS14_S3_1506": {
+        "size": 846,
+        "url": "text/ls/LS14_S3_1506.txt"
+      },
+      "LS14_S3_1507": {
+        "size": 996,
+        "url": "text/ls/LS14_S3_1507.txt"
       }
     }
   }
