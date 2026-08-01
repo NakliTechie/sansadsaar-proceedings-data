@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T23:46:11Z",
+  "generated_at": "2026-08-01T01:18:25Z",
   "totals": {
     "pypdf-empty": 5608,
-    "pypdf-error": 428,
+    "pypdf-error": 432,
     "ocr-failed": 0
   },
   "markers": {
@@ -5630,10 +5630,8 @@
     "ls|LS16_S6_U_261": "pypdf-error",
     "ls|LS16_S6_U_187": "pypdf-error",
     "ls|LS16_S6_U_110": "pypdf-error",
-    "ls|LS16_S6_U_141": "pypdf-error",
     "ls|LS16_S6_U_111": "pypdf-error",
     "ls|LS16_S6_U_137": "pypdf-error",
-    "ls|LS16_S6_U_249": "pypdf-error",
     "ls|LS16_S6_U_66": "pypdf-error",
     "ls|LS16_S6_U_30": "pypdf-error",
     "ls|LS16_S5_U_4132": "pypdf-error",
@@ -6041,6 +6039,12 @@
     "ls|LS16_S5_U_3593": "pypdf-error",
     "ls|LS16_S5_U_3594": "pypdf-error",
     "ls|LS16_S5_U_3596": "pypdf-error",
-    "ls|LS16_S5_U_3599": "pypdf-error"
+    "ls|LS16_S5_U_3599": "pypdf-error",
+    "ls|LS16_S5_U_3590": "pypdf-error",
+    "ls|LS16_S5_U_3592": "pypdf-error",
+    "ls|LS16_S5_U_3587": "pypdf-error",
+    "ls|LS16_S5_U_3591": "pypdf-error",
+    "ls|LS16_S5_U_3588": "pypdf-error",
+    "ls|LS16_S5_U_3589": "pypdf-error"
   }
 }

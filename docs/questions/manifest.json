@@ -1,21 +1,13 @@
 {
   "texts": {
     "ls": {
-      "LS16_S5_U_3595": {
-        "size": 5093,
-        "url": "text/ls/LS16_S5_U_3595.txt"
+      "LS16_S6_U_141": {
+        "size": 4836,
+        "url": "text/ls/LS16_S6_U_141.txt"
       },
-      "LS16_S5_U_3597": {
-        "size": 4998,
-        "url": "text/ls/LS16_S5_U_3597.txt"
-      },
-      "LS16_S6_U_23": {
-        "size": 173665,
-        "url": "text/ls/LS16_S6_U_23.txt"
-      },
-      "LS16_S6_U_70": {
-        "size": 4326,
-        "url": "text/ls/LS16_S6_U_70.txt"
+      "LS16_S6_U_249": {
+        "size": 4632,
+        "url": "text/ls/LS16_S6_U_249.txt"
       }
     }
   }
