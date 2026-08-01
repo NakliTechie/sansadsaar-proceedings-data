@@ -1,13 +1,9 @@
 {
   "texts": {
     "ls": {
-      "LS16_S6_U_187": {
-        "size": 6063,
-        "url": "text/ls/LS16_S6_U_187.txt"
-      },
-      "LS16_S6_U_40": {
-        "size": 24501,
-        "url": "text/ls/LS16_S6_U_40.txt"
+      "LS16_S5_U_3561": {
+        "size": 3355,
+        "url": "text/ls/LS16_S5_U_3561.txt"
       }
     }
   }
