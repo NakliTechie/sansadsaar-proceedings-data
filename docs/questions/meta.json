@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-08-03T17:35:07Z",
-  "elapsed_s": 116.2,
+  "generated_at": "2026-08-03T19:16:48Z",
+  "elapsed_s": 108.7,
   "totals": {
     "ls": 246025,
     "rs": 2801
@@ -4999,10 +4999,10 @@
   "audit": {
     "ls_records": 246025,
     "ls_with_text": 143545,
-    "ls_pypdf_empty_awaiting_ocr": 5657,
+    "ls_pypdf_empty_awaiting_ocr": 5659,
     "ls_pypdf_error_retryable": 457,
     "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 96366,
+    "ls_never_attempted": 96364,
     "rs_records": 2801,
     "rs_with_text": 2094,
     "rs_pypdf_empty_awaiting_ocr": 1,
