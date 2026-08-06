@@ -4259,6 +4259,333 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 8,
+      "question_no": 261,
+      "type": "STARRED",
+      "subject": "Assessment of Housing Shortage",
+      "members": [
+        "Shri K Gopinath"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS261_bIFXdv.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS261_bIFXdv.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 262,
+      "type": "STARRED",
+      "subject": "Implementation of PMAY-U 2.0 in Tamil Nadu",
+      "members": [
+        "Shri C N Annadurai",
+        "Dr. Rani Srikumar"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS262_GXTlV5.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS262_GXTlV5.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 263,
+      "type": "STARRED",
+      "subject": "Air Connectivity from Chandigarh Airport",
+      "members": [
+        "Shri Malvinder Singh Kang"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS263_Iyo9NO.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS263_Iyo9NO.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 264,
+      "type": "STARRED",
+      "subject": "Construction of Roads under CRF",
+      "members": [
+        "Shri Bhausaheb Rajaram Wakchaure"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS264_YNwtpX.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS264_YNwtpX.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 265,
+      "type": "STARRED",
+      "subject": "Implementation of JJM 2.0",
+      "members": [
+        "Smt. D K Aruna",
+        "Shri Miteshbhai Rameshbhai Patel"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS265_f3O07i.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS265_f3O07i.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 266,
+      "type": "STARRED",
+      "subject": "Upgradation of Existing Roads as National Highways in Kerala",
+      "members": [
+        "Shri Kodikunnil Suresh"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS266_wsvHjz.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS266_wsvHjz.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 267,
+      "type": "STARRED",
+      "subject": "Central Assistance for the Godavari Water Grid Project",
+      "members": [
+        "Shri Tangella Uday Srinivas"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS267_Qptyzi.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS267_Qptyzi.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 268,
+      "type": "STARRED",
+      "subject": "Implementation of SATAT Scheme",
+      "members": [
+        "Shri Krishna Prasad Tenneti",
+        "Smt. Shobhanaben Mahendrasinh Baraiya"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS268_lJTqYU.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS268_lJTqYU.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 269,
+      "type": "STARRED",
+      "subject": "Bir Billing Ropeway Project",
+      "members": [
+        "Dr. Rajeev Bharadwaj"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS269_EcKPmK.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS269_EcKPmK.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 270,
+      "type": "STARRED",
+      "subject": "Implementation of National Air Sports Policy",
+      "members": [
+        "Shri Rajiv Pratap Rudy"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS270_qhdHGe.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS270_qhdHGe.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 271,
+      "type": "STARRED",
+      "subject": "Implementation of Modified UDAN Scheme",
+      "members": [
+        "Shri Bibhu Prasad Tarai",
+        "Shri Janardan Mishra"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS271_7uyrUS.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS271_7uyrUS.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 272,
+      "type": "STARRED",
+      "subject": "Construction of National Highways in Rajasthan",
+      "members": [
+        "Smt. Manju Sharma"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS272_6wK95Y.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS272_6wK95Y.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 273,
+      "type": "STARRED",
+      "subject": "Expansion of Digi Yatra Platform",
+      "members": [
+        "Shri Rahul Singh Lodhi",
+        "Shri Khagen Murmu"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS273_Y4e9cy.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS273_Y4e9cy.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 274,
+      "type": "STARRED",
+      "subject": "Crude Oil Production",
+      "members": [
+        "Ms. Mahua Moitra"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS274_eL7XPz.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS274_eL7XPz.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 275,
+      "type": "STARRED",
+      "subject": "Implementation of SBM-U",
+      "members": [
+        "Shri Jugal Kishore",
+        "Shri Rajkumar Chahar"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS275_mjD3CV.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS275_mjD3CV.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 276,
+      "type": "STARRED",
+      "subject": "Assistance and Incentives under PM SVANidhi Scheme",
+      "members": [
+        "Shri Biplab Kumar Deb"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS276_EDWC48.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS276_EDWC48.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 277,
+      "type": "STARRED",
+      "subject": "Flood Management in Jorhat District of Assam",
+      "members": [
+        "Shri Gaurav Gogoi"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS277_NwWBDK.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS277_NwWBDK.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 278,
+      "type": "STARRED",
+      "subject": "Contaminated Drinking Water Sources",
+      "members": [
+        "Shri Balwant Baswant Wankhade"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS278_aTCV68.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS278_aTCV68.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 279,
+      "type": "STARRED",
+      "subject": "Implementation of Smart Cities Mission",
+      "members": [
+        "Shri Dhairyasheel Sambhajirao Mane",
+        "Smt. Malvika Devi"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS279_WRKjRD.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS279_WRKjRD.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 280,
+      "type": "STARRED",
+      "subject": "Damage to Roads and Flyovers",
+      "members": [
+        "Shri Captain Viriato Fernandes"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS280_wRJt0T.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AS280_wRJt0T.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
       "question_no": 1,
       "type": "UNSTARRED",
       "subject": "Central Assistance for Restoration of Heritage Temple at Amalner",
@@ -54368,9 +54695,3878 @@
       "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2990_SqOT7j.pdf?source=lsapps",
       "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2990_SqOT7j.pdf?source=lsapps",
       "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 2991,
+      "type": "UNSTARRED",
+      "subject": "Management of Burial Grounds and Crematoria",
+      "members": [
+        "Shri Parshottambhai Rupala"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2991_eC9AWW.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2991_eC9AWW.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 2992,
+      "type": "UNSTARRED",
+      "subject": "MSEs in Border Districts of Rajasthan",
+      "members": [
+        "Shri Ummeda Ram Beniwal"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2992_8NfgmG.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2992_8NfgmG.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 2993,
+      "type": "UNSTARRED",
+      "subject": "CCUS Projects",
+      "members": [
+        "Shri Maddila Gurumoorthy"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2993_wx7zSb.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2993_wx7zSb.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 2994,
+      "type": "UNSTARRED",
+      "subject": "Status of Implementation of Ken-Betwa River Link Project",
+      "members": [
+        "Shri Sunil Bose"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2994_2Fq38C.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2994_2Fq38C.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 2995,
+      "type": "UNSTARRED",
+      "subject": "Implementation of PMEGP",
+      "members": [
+        "Smt. Roopkumari Choudhary"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2995_orSe8h.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2995_orSe8h.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 2996,
+      "type": "UNSTARRED",
+      "subject": "Rural Households with FHTCs in Kerala",
+      "members": [
+        "Adv K. Francis George"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2996_eFZBBI.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2996_eFZBBI.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 2997,
+      "type": "UNSTARRED",
+      "subject": "Un-electrified  Households under Saubhagya",
+      "members": [
+        "Shri Ramasahayam Raghuram Reddy"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2997_v5uwGI.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2997_v5uwGI.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 2998,
+      "type": "UNSTARRED",
+      "subject": "Assessment on Post-Harvest Losses",
+      "members": [
+        "Shri Jai Prakash"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2998_2ua2FY.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2998_2ua2FY.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 2999,
+      "type": "UNSTARRED",
+      "subject": "Damage to Irrigation Infrastructure due to Floods",
+      "members": [
+        "Md. Rakibul Hussain"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU2999_hnfQxl.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU2999_hnfQxl.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3000,
+      "type": "UNSTARRED",
+      "subject": "Namo Bharat Regional Rapid Transit System",
+      "members": [
+        "Dr. Hemang Joshi",
+        "Shri Pradeep Kumar Singh",
+        "Shri Arun Govil",
+        "Shri Janardan Mishra",
+        "Shri Manish Jaiswal"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3000_xDlvcO.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3000_xDlvcO.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3001,
+      "type": "UNSTARRED",
+      "subject": "Widening of Aroor to Edappally Stretch on NH-66",
+      "members": [
+        "Shri Hibi Eden"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3001_LMQzIT.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3001_LMQzIT.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3002,
+      "type": "UNSTARRED",
+      "subject": "Expansion of National Gas Grid and CGD Infrastructure",
+      "members": [
+        "Shri Bhartruhari Mahtab",
+        "Shri Jashubhai Bhilubhai Rathva",
+        "Shri Chavda Vinod Lakhamshi",
+        "Shri Mahendra Singh Solanky",
+        "Dr. Sanjay Jaiswal",
+        "Shri Manish Jaiswal",
+        "Shri Kota Srinivasa Poojary",
+        "Shri Vijay Baghel",
+        "Shri Krishna Prasad Tenneti",
+        "Smt. Mahima Kumari Mewar",
+        "Shri Dilip Saikia",
+        "Shri P P Chaudhary",
+        "Shri Rajkumar Chahar",
+        "Dr. Manna Lal Rawat",
+        "Shri Janardan Mishra",
+        "Shri Rahul Singh Lodhi",
+        "Shri Chandra Prakash Choudhary",
+        "Smt. Kamaljeet Sehrawat",
+        "Shri Manoj Tiwari",
+        "Smt. Anita Nagarsingh Chouhan"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3002_WgvZci.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3002_WgvZci.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3003,
+      "type": "UNSTARRED",
+      "subject": "Promotion of Sustainable Aviation Fuel",
+      "members": [
+        "Shri Darshan Singh Choudhary"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3003_3BMJJk.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3003_3BMJJk.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3004,
+      "type": "UNSTARRED",
+      "subject": "Development of Aviation Sector under UDAN Scheme",
+      "members": [
+        "Shri Malaiyarasan D"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3004_nUJ18s.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3004_nUJ18s.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3005,
+      "type": "UNSTARRED",
+      "subject": "Multimodal Logistics Parks under Bharatmala Pariyojana",
+      "members": [
+        "Shri Chandra Prakash Choudhary",
+        "Shri Balabhadra Majhi",
+        "Shri Manoj Tiwari",
+        "Dr. K Sudhakar",
+        "Dr. Hemant Vishnu Savara",
+        "Shri Mahendra Singh Solanky",
+        "Shri Naba Charan Majhi",
+        "Shri Lavu Sri Krishna Devarayalu",
+        "Shri Manish Jaiswal",
+        "Shri Avimanyu Sethi",
+        "Shri Kota Srinivasa Poojary",
+        "Shri Jugal Kishore",
+        "Shri Vishweshwar Hegde Kageri",
+        "Smt. Mahima Kumari Mewar",
+        "Shri Ravindra Shukla Alias Ravi Kishan",
+        "Shri Haribhai Patel"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3005_Jocowh.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3005_Jocowh.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3006,
+      "type": "UNSTARRED",
+      "subject": "Bhoomi Rashi Portal for Land Acquisition",
+      "members": [
+        "Shri Dulu Mahato",
+        "Shri Bunty Vivek Sahu",
+        "Shri Ashish Dubey",
+        "Shri Ramesh Awasthi",
+        "Smt. Shobhanaben Mahendrasinh Baraiya",
+        "Smt. Himadri Singh",
+        "Shri Praveen Patel",
+        "Shri Vijay Baghel",
+        "Shri Jugal Kishore",
+        "Shri P P Chaudhary",
+        "Shri Janardan Mishra",
+        "Shri Sukhjinder Singh Randhawa",
+        "Shri Jaswantsinh Sumanbhai Bhabhor",
+        "Shri Arun Govil",
+        "Smt. Kamaljeet Sehrawat",
+        "Shri Sanjay Haribhau Jadhav"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3006_jMQaRJ.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3006_jMQaRJ.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3007,
+      "type": "UNSTARRED",
+      "subject": "Funding for Polavaram Phase-I",
+      "members": [
+        "Shri P V Midhun Reddy"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3007_dETnz9.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3007_dETnz9.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3008,
+      "type": "UNSTARRED",
+      "subject": "National Aquifer Mapping and Management Programme",
+      "members": [
+        "Shri Anup Sanjay Dhotre",
+        "Smt. Smita Uday Wagh",
+        "Shri Vishnu Dayal Ram",
+        "Shri Balabhadra Majhi",
+        "Smt. Kamaljeet Sehrawat",
+        "Shri Tejasvi Surya",
+        "Shri Bunty Vivek Sahu",
+        "Shri Godam Nagesh",
+        "Shri Mahendra Singh Solanky",
+        "Smt. Mala Rajya Laxmi Shah",
+        "Shri Bibhu Prasad Tarai",
+        "Shri Avimanyu Sethi",
+        "Shri Sukanta Kumar Panigrahi",
+        "Shri Yaduveer Wadiyar",
+        "Smt. Mahima Kumari Mewar",
+        "Shri Trivendra Singh Rawat",
+        "Shri Damodar Agrawal",
+        "Shri Khagen Murmu",
+        "Shri G M Harish Balayogi",
+        "Smt. Sanjna Jatav"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3008_Wk3UzV.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3008_Wk3UzV.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3009,
+      "type": "UNSTARRED",
+      "subject": "Implementation of PMEGP in Perambalur",
+      "members": [
+        "Thiru Arun Nehru"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3009_T0SU32.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3009_T0SU32.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3010,
+      "type": "UNSTARRED",
+      "subject": "Central Excise Duty on Petrol and Diesel",
+      "members": [
+        "Shri S Venkatesan",
+        "Shri Sachithanantham R"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3010_F03aNM.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3010_F03aNM.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3011,
+      "type": "UNSTARRED",
+      "subject": "Scheme for Sub-stations and Transmission Network in Etawah",
+      "members": [
+        "Shri Jitendra Kumar Dohare"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3011_L0K41q.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3011_L0K41q.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3012,
+      "type": "UNSTARRED",
+      "subject": "Seasonal Migration of Van Gujjar Tribal Community",
+      "members": [
+        "Shri Asaduddin Owaisi"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3012_QW30Sp.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3012_QW30Sp.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3013,
+      "type": "UNSTARRED",
+      "subject": "Slum Rehabilitation Scheme",
+      "members": [
+        "Dr. Alok Kumar Suman"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3013_DU7Z1P.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3013_DU7Z1P.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3014,
+      "type": "UNSTARRED",
+      "subject": "Schemes for Road Accident Victims",
+      "members": [
+        "Shri Arun Kumar Sagar"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3014_HEXawE.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3014_HEXawE.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3015,
+      "type": "UNSTARRED",
+      "subject": "Expression of Interest for APC Scheme",
+      "members": [
+        "Adv Gowaal Kagada Padavi"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3015_jyNEqz.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3015_jyNEqz.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3016,
+      "type": "UNSTARRED",
+      "subject": "Irrigation Projects under PMKSY-AIBP",
+      "members": [
+        "Shri Rajeev Rai",
+        "Shri Pushpendra Saroj",
+        "Adv Priya Saroj"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3016_faHoYo.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3016_faHoYo.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3017,
+      "type": "UNSTARRED",
+      "subject": "LPG Distribution in Tamil Nadu",
+      "members": [
+        "Shri Mani A"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3017_5JX9Z7.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3017_5JX9Z7.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3018,
+      "type": "UNSTARRED",
+      "subject": "Extension of Jal Jeevan Mission",
+      "members": [
+        "Shri Naresh Ganpat Mhaske",
+        "Smt. Bharti Pardhi",
+        "Dr. Shrikant Eknath Shinde",
+        "Dr. Raj Kumar Chabbewal",
+        "Shri Shrirang Appa Chandu Barne",
+        "Shri Ravindra Dattaram Waikar"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3018_bkuplC.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3018_bkuplC.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3019,
+      "type": "UNSTARRED",
+      "subject": "Replacement of Faulty Distribution Transformers",
+      "members": [
+        "Shri Bharat Singh Kushwah"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3019_iARjTp.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3019_iARjTp.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3020,
+      "type": "UNSTARRED",
+      "subject": "Projects and Schemes Financed by HUDCO",
+      "members": [
+        "Shri Appalanaidu Kalisetti",
+        "Dr. Byreddy Shabari"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3020_HeCcsN.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3020_HeCcsN.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3021,
+      "type": "UNSTARRED",
+      "subject": "Maintenance of Highway Sanitation",
+      "members": [
+        "Shri Azad Kirti Jha"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3021_dEb79K.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3021_dEb79K.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3022,
+      "type": "UNSTARRED",
+      "subject": "Implementation of AMRUT 2.0",
+      "members": [
+        "Shri Radheshyam Rathiya",
+        "Shri Dhairyasheel Sambhajirao Mane",
+        "Dr. Nishikant Dubey",
+        "Smt. Mala Rajya Laxmi Shah",
+        "Dr. Sanjay Jaiswal",
+        "Shri Sudheer Gupta",
+        "Shri Naba Charan Majhi",
+        "Shri Ramesh Awasthi",
+        "Shri Avimanyu Sethi",
+        "Shri Anil Firojiya",
+        "Shri Yogender Chandolia",
+        "Shri Damodar Agrawal",
+        "Shri Ravindra Shukla Alias Ravi Kishan",
+        "Shri Shashank Mani",
+        "Shri Rahul Singh Lodhi",
+        "Shri Mahesh Kashyap",
+        "Shri Arvind Dharmapuri",
+        "Shri Anup Sanjay Dhotre",
+        "Smt. Smita Uday Wagh",
+        "Shri Satish Kumar Gautam",
+        "Shri Balabhadra Majhi",
+        "Smt. Anita Nagarsingh Chouhan",
+        "Shri Alok Sharma",
+        "Shri Pradeep Kumar Singh",
+        "Dr. Kalanidhi Veeraswamy"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3022_tT0QXq.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3022_tT0QXq.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3023,
+      "type": "UNSTARRED",
+      "subject": "Groundwater Mapping for Vaigai Basin",
+      "members": [
+        "Thiru Thanga Tamilselvan"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3023_N4TuqV.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3023_N4TuqV.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3024,
+      "type": "UNSTARRED",
+      "subject": "Flight Operations at Shivamogga Airport",
+      "members": [
+        "Shri B Y Raghavendra"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3024_HdhUHg.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3024_HdhUHg.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3025,
+      "type": "UNSTARRED",
+      "subject": "Construction of Airport in Chhattisgarh",
+      "members": [
+        "Shri Vijay Baghel"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3025_yJJA71.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3025_yJJA71.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3026,
+      "type": "UNSTARRED",
+      "subject": "Greenfield Airports",
+      "members": [
+        "Dr. Shivaji Bandappa Kalge",
+        "Shri Bhumare Sandipanrao Asaram",
+        "Shri Nilesh Dnyandev Lanke",
+        "Shri Gyaneshwar Patil"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3026_ODl1K9.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3026_ODl1K9.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3027,
+      "type": "UNSTARRED",
+      "subject": "Implementation of MSE-CDP",
+      "members": [
+        "Shri Kesineni Sivanath"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3027_1xWgZI.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3027_1xWgZI.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3028,
+      "type": "UNSTARRED",
+      "subject": "Pendency on MSME Samadhaan Portal",
+      "members": [
+        "Shri Brijmohan Agrawal"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3028_5me0s9.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3028_5me0s9.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3029,
+      "type": "UNSTARRED",
+      "subject": "Usage of Drones",
+      "members": [
+        "Shri Dileshwar Kamait"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3029_0N2M4F.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3029_0N2M4F.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3030,
+      "type": "UNSTARRED",
+      "subject": "Integrated Water Governance and Sustainable Water Resource Management",
+      "members": [
+        "Thiru D M Kathir Anand"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3030_wHjZGr.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3030_wHjZGr.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3031,
+      "type": "UNSTARRED",
+      "subject": "Progress made under NAQUIM 2.0",
+      "members": [
+        "Shri Jaswantsinh Sumanbhai Bhabhor"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3031_XM0Eiq.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3031_XM0Eiq.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3032,
+      "type": "UNSTARRED",
+      "subject": "Implementation of MAHA Water Mission",
+      "members": [
+        "Shri Bhartruhari Mahtab",
+        "Dr. Nishikant Dubey",
+        "Dr. Hemant Vishnu Savara",
+        "Shri Chavda Vinod Lakhamshi",
+        "Dr. Sanjay Jaiswal",
+        "Shri Naba Charan Majhi",
+        "Shri Pradeep Kumar Singh",
+        "Shri Anil Firojiya",
+        "Shri Yogender Chandolia",
+        "Shri Rajkumar Chahar",
+        "Shri Mahesh Kashyap",
+        "Shri Khagen Murmu",
+        "Shri Captain Brijesh Chowta",
+        "Shri Manoj Tiwari"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3032_wL2qqT.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3032_wL2qqT.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3033,
+      "type": "UNSTARRED",
+      "subject": "Uninterrupted Power Supply in Robertsganj",
+      "members": [
+        "Shri  Chhotelal"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3033_PATffo.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3033_PATffo.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3034,
+      "type": "UNSTARRED",
+      "subject": "Construction of Tunnels on NH-326 and NH-26",
+      "members": [
+        "Shri Saptagiri Sankar Ulaka"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3034_h8QKCc.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3034_h8QKCc.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3035,
+      "type": "UNSTARRED",
+      "subject": "Pedestrian Infrastructure",
+      "members": [
+        "Thiru Dr. S Jagathratchakan"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3035_OaJYbR.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3035_OaJYbR.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3036,
+      "type": "UNSTARRED",
+      "subject": "Nitrate Levels in Groundwater",
+      "members": [
+        "Shri Neeraj Maurya"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3036_9NeTOa.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3036_9NeTOa.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3037,
+      "type": "UNSTARRED",
+      "subject": "Development of Hisar Airport",
+      "members": [
+        "Shri Jai Parkash"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3037_feGTMw.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3037_feGTMw.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3038,
+      "type": "UNSTARRED",
+      "subject": "Construction of Railway Over Bridge",
+      "members": [
+        "Shri Patel Umeshbhai Babubhai"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3038_VB7DCs.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3038_VB7DCs.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3039,
+      "type": "UNSTARRED",
+      "subject": "Helicopter Accidents in Himalayan Region",
+      "members": [
+        "Shri Anurag Singh Thakur"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3039_TyJDpT.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3039_TyJDpT.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3040,
+      "type": "UNSTARRED",
+      "subject": "Restrictions on Purchase of Vehicles",
+      "members": [
+        "Shri Anil Yeshwant Desai"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3040_WI4eaO.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3040_WI4eaO.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3041,
+      "type": "UNSTARRED",
+      "subject": "Status of Mandi Northern Bypass Project",
+      "members": [
+        "Ms Kangna Ranaut"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3041_zvQnum.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3041_zvQnum.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3042,
+      "type": "UNSTARRED",
+      "subject": "Inadequate Air Connectivity from Sri Guru Ram Dass Jee International Airport",
+      "members": [
+        "Shri Gurjeet Singh Aujla"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3042_6AG0SP.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3042_6AG0SP.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3043,
+      "type": "UNSTARRED",
+      "subject": "Credit Access and Support for Women Entrepreneurs in MSMEs",
+      "members": [
+        "Shri Vishaldada Prakashbapu Patil",
+        "Dr. Bachhav Shobha Dinesh",
+        "Ms. Praniti Sushilkumar Shinde"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3043_dXQLbE.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3043_dXQLbE.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3044,
+      "type": "UNSTARRED",
+      "subject": "Schemes relating to Cold-chain Development",
+      "members": [
+        "Shri Sanjay Dina Patil"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3044_ETEu57.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3044_ETEu57.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3045,
+      "type": "UNSTARRED",
+      "subject": "Status of Greenfield Project",
+      "members": [
+        "Shri Santosh Pandey"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3045_y5mP3s.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3045_y5mP3s.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3046,
+      "type": "UNSTARRED",
+      "subject": "Special Initiatives under DAJGUA",
+      "members": [
+        "Shri Bunty Vivek Sahu"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3046_2mY5lh.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3046_2mY5lh.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3047,
+      "type": "UNSTARRED",
+      "subject": "National Manufacturing Mission",
+      "members": [
+        "Shri Eswarasamy K"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3047_rYudQt.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3047_rYudQt.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3048,
+      "type": "UNSTARRED",
+      "subject": "PMEGP in Union Territory of Ladakh",
+      "members": [
+        "Shri Mohmad Haneefa"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3048_nxxkHD.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3048_nxxkHD.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3049,
+      "type": "UNSTARRED",
+      "subject": "Consumer Complaints on E20 Petrol",
+      "members": [
+        "Shri Abhishek Banerjee"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3049_TaGYMw.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3049_TaGYMw.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3050,
+      "type": "UNSTARRED",
+      "subject": "ULBs covered under SBM-U 2.0 in Thanjavur",
+      "members": [
+        "Shri Murasoli S"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3050_VrvMdL.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3050_VrvMdL.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3051,
+      "type": "UNSTARRED",
+      "subject": "Upgradation of Roads",
+      "members": [
+        "Shri Rajkumar Roat"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3051_OgXWvd.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3051_OgXWvd.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3052,
+      "type": "UNSTARRED",
+      "subject": "Rehabilitation of Tribals affected by Ken-Betwa Link Project",
+      "members": [
+        "Shri Ajendra Singh Lodhi",
+        "Shri Rahul Gandhi"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3052_CSwKpw.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3052_CSwKpw.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3053,
+      "type": "UNSTARRED",
+      "subject": "Projects under AMRUT 2.0 in Bihar",
+      "members": [
+        "Shri Gopal Jee Thakur"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3053_F8E6R2.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3053_F8E6R2.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3054,
+      "type": "UNSTARRED",
+      "subject": "Expansion of Airport Infrastructure in Tamil Nadu",
+      "members": [
+        "Shri Selvam G",
+        "Dr. Rani Srikumar",
+        "Shri C N Annadurai"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3054_U85p4W.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3054_U85p4W.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3055,
+      "type": "UNSTARRED",
+      "subject": "Petroleum and Gas Infrastructure in Maharashtra",
+      "members": [
+        "Shri Mohite Patil Dhairyasheel Rajsinh",
+        "Smt. Supriya Sule"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3055_FQtuzX.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3055_FQtuzX.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3056,
+      "type": "UNSTARRED",
+      "subject": "Flights from Rajahmundry Airport",
+      "members": [
+        "Dr. D. Purandeswari"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3056_XclK9Y.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3056_XclK9Y.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3057,
+      "type": "UNSTARRED",
+      "subject": "National Overseas Scholarship for STs",
+      "members": [
+        "Shri Balashowry Vallabhaneni"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3057_IAj3jj.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3057_IAj3jj.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3058,
+      "type": "UNSTARRED",
+      "subject": "National Highway-183A in Kerala",
+      "members": [
+        "Shri Anto Antony"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3058_25ysTK.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3058_25ysTK.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3059,
+      "type": "UNSTARRED",
+      "subject": "Mekedatu Balancing Reservoir Project",
+      "members": [
+        "Shri Matheswaran V S"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3059_J22DDj.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3059_J22DDj.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3060,
+      "type": "UNSTARRED",
+      "subject": "Strengthening of Power Infrastructure",
+      "members": [
+        "Smt. Jyotsna Charandas Mahant"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3060_V6HMZ4.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3060_V6HMZ4.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3061,
+      "type": "UNSTARRED",
+      "subject": "Domestic Food Market in Tamil Nadu",
+      "members": [
+        "Ms. S Jothimani"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3061_dSSB56.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3061_dSSB56.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3062,
+      "type": "UNSTARRED",
+      "subject": "KVIC Programmes in Maharashtra",
+      "members": [
+        "Smt. Supriya Sule",
+        "Dr. Amol Ramsing Kolhe",
+        "Shri Mohite Patil Dhairyasheel Rajsinh",
+        "Prof. Varsha Eknath Gaikwad",
+        "Shri Bhaskar Murlidhar Bhagare"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3062_uvcNkP.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3062_uvcNkP.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3063,
+      "type": "UNSTARRED",
+      "subject": "National Highway Projects  in Tamil Nadu",
+      "members": [
+        "Shri Raja A"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3063_icbuNv.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3063_icbuNv.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3064,
+      "type": "UNSTARRED",
+      "subject": "Addressing Recommendations of Tribal Communities",
+      "members": [
+        "Shri V K Sreekandan"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3064_HuNHEo.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3064_HuNHEo.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3065,
+      "type": "UNSTARRED",
+      "subject": "Penalty Provisions for overloaded Vehicles",
+      "members": [
+        "Shri Imran Masood"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3065_dFa7QO.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3065_dFa7QO.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3066,
+      "type": "UNSTARRED",
+      "subject": "Safety Assessments for Dams and Reservoirs",
+      "members": [
+        "Shri Sribharat Mathukumilli"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3066_Q1K7y7.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3066_Q1K7y7.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3067,
+      "type": "UNSTARRED",
+      "subject": "Outstanding Debt on NHAI",
+      "members": [
+        "Dr. Gumma Thanuja Rani"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3067_hoXHCJ.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3067_hoXHCJ.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3068,
+      "type": "UNSTARRED",
+      "subject": "Marine Food Processing Schemes in Tamil Nadu",
+      "members": [
+        "Shri Navaskani K"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3068_o3JcoT.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3068_o3JcoT.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3069,
+      "type": "UNSTARRED",
+      "subject": "Approval of Norms for High Rise Buildings",
+      "members": [
+        "Shri Varun Chaudhry"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3069_9DmCCg.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3069_9DmCCg.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3070,
+      "type": "UNSTARRED",
+      "subject": "MSMEs in Rajasthan",
+      "members": [
+        "Shri Rahul Kaswan"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3070_FCEP81.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3070_FCEP81.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3071,
+      "type": "UNSTARRED",
+      "subject": "Projects approved under PLISFPI Scheme",
+      "members": [
+        "Smt. Sangeeta Kumari Singh Deo"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3071_p1hWKH.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3071_p1hWKH.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3072,
+      "type": "UNSTARRED",
+      "subject": "PM Vishwakarma Scheme",
+      "members": [
+        "Shri Rajesh Verma",
+        "Smt. Shambhavi",
+        "Dr. Lata Wankhede",
+        "Shri Arun Bharti"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3072_87raWT.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3072_87raWT.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3073,
+      "type": "UNSTARRED",
+      "subject": "Metro Rail Network in Chennai",
+      "members": [
+        "Dr. T Sumathy Alias Thamizhachi Thangapandian"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3073_pCo7mR.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3073_pCo7mR.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3074,
+      "type": "UNSTARRED",
+      "subject": "National Institute of Food Technology, Entrepreneurship and Management",
+      "members": [
+        "Shri Kaushalendra Kumar",
+        "Shri Ramprit Mandal",
+        "Shri Dinesh Chandra Yadav"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3074_N3AXZg.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3074_N3AXZg.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3075,
+      "type": "UNSTARRED",
+      "subject": "Completion Status of Projects under SCM",
+      "members": [
+        "Smt. Delkar Kalaben Mohanbhai",
+        "Dr. Shivaji Bandappa Kalge"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3075_b4SzXO.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3075_b4SzXO.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3076,
+      "type": "UNSTARRED",
+      "subject": "Reduction in Frequency of Flights from Prayagraj to Mumbai",
+      "members": [
+        "Shri Praveen Patel"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3076_7zJjDn.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3076_7zJjDn.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3077,
+      "type": "UNSTARRED",
+      "subject": "Implementation of Cashless Treatment Scheme",
+      "members": [
+        "Ms Iqra Choudhary"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3077_hHaMmx.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3077_hHaMmx.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3078,
+      "type": "UNSTARRED",
+      "subject": "Strengthening Road Safety",
+      "members": [
+        "Shri Suresh Kumar Shetkar"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3078_GDqMw0.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3078_GDqMw0.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3079,
+      "type": "UNSTARRED",
+      "subject": "Overloaded Transformers in Sonipat",
+      "members": [
+        "Shri Satpal Brahamchari",
+        "Shri Jai Parkash"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3079_52UL75.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3079_52UL75.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3080,
+      "type": "UNSTARRED",
+      "subject": "Toll Policy in Bihar",
+      "members": [
+        "Shri Raja Ram Singh"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3080_NcJiUF.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3080_NcJiUF.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3081,
+      "type": "UNSTARRED",
+      "subject": "Cap on Airfares",
+      "members": [
+        "Shri Brijendra Singh Ola"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3081_lBOlAz.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3081_lBOlAz.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3082,
+      "type": "UNSTARRED",
+      "subject": "Beneficiaries under PMEGP and PM Vishwakarma Scheme",
+      "members": [
+        "Shri Bastipati Nagaraju",
+        "Shri Lavu Sri Krishna Devarayalu"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3082_9h3QBT.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3082_9h3QBT.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3083,
+      "type": "UNSTARRED",
+      "subject": "Environmental impact of Coal-based Thermal Power Plants",
+      "members": [
+        "Shri Chandra Prakash Choudhary"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3083_dlNyS6.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3083_dlNyS6.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3084,
+      "type": "UNSTARRED",
+      "subject": "MSME Extension Centres",
+      "members": [
+        "Shri Magunta Sreenivasulu Reddy",
+        "Shri Putta Mahesh Kumar"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3084_14OcI6.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3084_14OcI6.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3085,
+      "type": "UNSTARRED",
+      "subject": "PMUY and City Gas Distribution Network",
+      "members": [
+        "Shri Kuldeep Indora",
+        "Smt. Sanjna Jatav",
+        "Shri Rahul Kaswan",
+        "Dr. Rajkumar Sangwan"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3085_a6GzAQ.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3085_a6GzAQ.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3086,
+      "type": "UNSTARRED",
+      "subject": "Underwater Road Tunnel under Hooghly River",
+      "members": [
+        "Shri Jagannath Sarkar"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3086_JwEywj.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3086_JwEywj.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3087,
+      "type": "UNSTARRED",
+      "subject": "Funds for Bengaluru Metro Rail",
+      "members": [
+        "Shri P C Mohan"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3087_a08f2L.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3087_a08f2L.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3088,
+      "type": "UNSTARRED",
+      "subject": "Impact of Bharatmala Pariyojana Projects",
+      "members": [
+        "Shri Tharaniventhan M S"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3088_S9Ydx3.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3088_S9Ydx3.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3089,
+      "type": "UNSTARRED",
+      "subject": "Compliance with Traffic Rules by Vehicles",
+      "members": [
+        "Dr. Sambit Patra"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3089_lw8AD1.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3089_lw8AD1.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3090,
+      "type": "UNSTARRED",
+      "subject": "Status of CAD&WM Programme in Odisha",
+      "members": [
+        "Shri Pradeep Purohit"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3090_bVhrKO.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3090_bVhrKO.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3091,
+      "type": "UNSTARRED",
+      "subject": "DBT in Implementation of Scholarship Schemes for Tribals",
+      "members": [
+        "Shri Jugal Kishore",
+        "Shri Nalin Soren",
+        "Dr. K Sudhakar",
+        "Smt. Mahima Kumari Mewar",
+        "Shri P P Chaudhary",
+        "Shri Manish Jaiswal",
+        "Smt. Himadri Singh"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3091_8zhQNN.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3091_8zhQNN.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3092,
+      "type": "UNSTARRED",
+      "subject": "Expansion of Bagdogra Airport",
+      "members": [
+        "Shri Raju Bista"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3092_Y8muRf.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3092_Y8muRf.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3093,
+      "type": "UNSTARRED",
+      "subject": "Implementation of CRIF Setu Bandhan Scheme",
+      "members": [
+        "Shri Kunduru Raghuveer"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3093_NPuAYr.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3093_NPuAYr.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3094,
+      "type": "UNSTARRED",
+      "subject": "Implementation of SATAT and GOBARdhan Initiatives for CBG Production",
+      "members": [
+        "Shri Yaduveer Wadiyar"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3094_RcGfnS.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3094_RcGfnS.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3095,
+      "type": "UNSTARRED",
+      "subject": "Strengthening of Air Connectivity in Akola",
+      "members": [
+        "Shri Anup Sanjay Dhotre"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3095_9ZH9jj.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3095_9ZH9jj.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3096,
+      "type": "UNSTARRED",
+      "subject": "Shortage of Bitumen",
+      "members": [
+        "Shri Karti P Chidambaram"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3096_n7BnxZ.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3096_n7BnxZ.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3097,
+      "type": "UNSTARRED",
+      "subject": "Improvement in Groundwater Levels",
+      "members": [
+        "Shri Ashish Dubey"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3097_7ud9m3.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3097_7ud9m3.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3098,
+      "type": "UNSTARRED",
+      "subject": "Approval for Outer Ring Road Project in Kerala",
+      "members": [
+        "Adv. Adoor Prakash"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3098_ahlZYp.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3098_ahlZYp.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3099,
+      "type": "UNSTARRED",
+      "subject": "Projects under Jal Shakti Abhiyan",
+      "members": [
+        "Shri Manickam Tagore B",
+        "Shri Suresh Kumar Shetkar"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3099_i4stPu.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3099_i4stPu.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3100,
+      "type": "UNSTARRED",
+      "subject": "Modernisation of Thermal Power Plants",
+      "members": [
+        "Shri Magunta Sreenivasulu Reddy"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3100_0MuDjA.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3100_0MuDjA.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3101,
+      "type": "UNSTARRED",
+      "subject": "Development of Airports in West Bengal",
+      "members": [
+        "Shri Saumitra Khan"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3101_vLSVfa.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3101_vLSVfa.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3102,
+      "type": "UNSTARRED",
+      "subject": "Incentives to ULBs",
+      "members": [
+        "Shri Trivendra Singh Rawat"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3102_duPtsz.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3102_duPtsz.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3103,
+      "type": "UNSTARRED",
+      "subject": "Groundwater Depletion, Water Conservation and Sustainable Water Management",
+      "members": [
+        "Dr. Prabha Mallikarjun",
+        "Shri Zia Ur Rehman"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3103_mwozDU.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3103_mwozDU.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3104,
+      "type": "UNSTARRED",
+      "subject": "Review of Implementation of JJM",
+      "members": [
+        "Dr. Kirsan Namdeo"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3104_lCBwxQ.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3104_lCBwxQ.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3105,
+      "type": "UNSTARRED",
+      "subject": "FHTCs under JJM in Thane District",
+      "members": [
+        "Shri Balya Mama Suresh Gopinath Mhatre"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3105_c9IWK1.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3105_c9IWK1.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3106,
+      "type": "UNSTARRED",
+      "subject": "Periodic Safety Audits of Operational Metro Rail Systems",
+      "members": [
+        "Shri Tejasvi Surya"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3106_TPAOeV.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3106_TPAOeV.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3107,
+      "type": "UNSTARRED",
+      "subject": "Financial, Technical and Logistical Assistance to Kerala under AMRUT",
+      "members": [
+        "Dr. M P Abdussamad Samadani"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3107_rrCdct.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3107_rrCdct.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3108,
+      "type": "UNSTARRED",
+      "subject": "Expansion of CNG Stations in Bundelkhand",
+      "members": [
+        "Shri Ajendra Singh Lodhi"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3108_1oBzgI.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3108_1oBzgI.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3109,
+      "type": "UNSTARRED",
+      "subject": "Review of Irrigation Situation",
+      "members": [
+        "Shri K E Prakash"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3109_O7fS6H.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3109_O7fS6H.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3110,
+      "type": "UNSTARRED",
+      "subject": "Monitoring of LPG Refills under PMUY",
+      "members": [
+        "Shri Sasikanth Senthil"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3110_zZhnQX.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3110_zZhnQX.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3111,
+      "type": "UNSTARRED",
+      "subject": "Status of Chardham Mahamarg Vikas Pariyojana",
+      "members": [
+        "Shri Rao Rajendra Singh"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3111_Ivgzp6.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3111_Ivgzp6.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3112,
+      "type": "UNSTARRED",
+      "subject": "Villages Certified as \"ODF Plus Model\" in Odisha",
+      "members": [
+        "Smt. Aparajita Sarangi"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3112_D88Hwf.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3112_D88Hwf.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3113,
+      "type": "UNSTARRED",
+      "subject": "Electrification of Tribal Households",
+      "members": [
+        "Shri K Radhakrishnan",
+        "Adv Dean Kuriakose"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3113_FMWNuV.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3113_FMWNuV.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3114,
+      "type": "UNSTARRED",
+      "subject": "Expressway Projects under Bharatmala Pariyojana",
+      "members": [
+        "Smt. Shambhavi",
+        "Shri Rajesh Verma",
+        "Dr. D. Purandeswari",
+        "Dr. Lata Wankhede",
+        "Shri Arun Bharti",
+        "Shri Atul Garg"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3114_baMEWt.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3114_baMEWt.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3115,
+      "type": "UNSTARRED",
+      "subject": "Rectification of Black Spots on NHs in Andhra Pradesh",
+      "members": [
+        "Shri Prabhakar Reddy Vemireddy"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3115_ew2ysk.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3115_ew2ysk.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3116,
+      "type": "UNSTARRED",
+      "subject": "Black Spots on Rajganj-Govindpur NH Stretch in Dhanbad",
+      "members": [
+        "Shri Dulu Mahato"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3116_spRYZr.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3116_spRYZr.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3117,
+      "type": "UNSTARRED",
+      "subject": "PM Vishwakarma Scheme in Karnataka",
+      "members": [
+        "Shri E Tukaram"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3117_JtQlAD.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3117_JtQlAD.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3118,
+      "type": "UNSTARRED",
+      "subject": "Bharatmala Pariyojana Phase-II",
+      "members": [
+        "Dr. Pradeep Kumar Panigrahy"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3118_zwx54s.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3118_zwx54s.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3119,
+      "type": "UNSTARRED",
+      "subject": "Road Safety Audit of NHs in Kerala",
+      "members": [
+        "Shri Rajmohan Unnithan"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3119_H5HQNn.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3119_H5HQNn.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3120,
+      "type": "UNSTARRED",
+      "subject": "Flooding in Punjab",
+      "members": [
+        "Smt. Harsimrat Kaur Badal"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3120_5yUaBu.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3120_5yUaBu.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3121,
+      "type": "UNSTARRED",
+      "subject": "Tribal Land Rights and Consent in Projects",
+      "members": [
+        "Shri Vijay Kumar Hansdak"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3121_GqJFGR.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3121_GqJFGR.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3122,
+      "type": "UNSTARRED",
+      "subject": "MSME Technology Centre and Clusters in West Bengal",
+      "members": [
+        "Shri Kartick Chandra Paul"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3122_mC4Ol0.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3122_mC4Ol0.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3123,
+      "type": "UNSTARRED",
+      "subject": "Power Generation and Consumption",
+      "members": [
+        "Km. Sudha R"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3123_fyakiv.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3123_fyakiv.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3124,
+      "type": "UNSTARRED",
+      "subject": "Expansion of Mangaluru International Airport",
+      "members": [
+        "Shri Captain Brijesh Chowta"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3124_xAfAHR.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3124_xAfAHR.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3125,
+      "type": "UNSTARRED",
+      "subject": "Strengthening Energy Sector in Uttar Pradesh",
+      "members": [
+        "Shri Sanatan Pandey"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3125_bs9h6O.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3125_bs9h6O.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3126,
+      "type": "UNSTARRED",
+      "subject": "Urban Housing Projects under PMAY-U in Punjab",
+      "members": [
+        "Dr. Raj Kumar Chabbewal"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3126_xQxOk0.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3126_xQxOk0.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3127,
+      "type": "UNSTARRED",
+      "subject": "Implementation of City Gas Distribution Network in Eastern Uttar Pradesh",
+      "members": [
+        "Shri Shashank Mani"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3127_kKUsq1.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3127_kKUsq1.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3128,
+      "type": "UNSTARRED",
+      "subject": "Sustainable Urban Water Management",
+      "members": [
+        "Dr. Kalanidhi Veeraswamy"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3128_1qYqYV.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3128_1qYqYV.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3129,
+      "type": "UNSTARRED",
+      "subject": "Proposals for APC from Kolhapur",
+      "members": [
+        "Shri Shahu Shahaji Chhatrapati"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3129_8xnl7A.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3129_8xnl7A.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3130,
+      "type": "UNSTARRED",
+      "subject": "Development of Parandur Airport",
+      "members": [
+        "Thiru Dayanidhi Maran"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3130_OmVs09.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3130_OmVs09.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3131,
+      "type": "UNSTARRED",
+      "subject": "3A Notification for NH-183",
+      "members": [
+        "Adv Dean Kuriakose"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3131_pucNNL.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3131_pucNNL.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3132,
+      "type": "UNSTARRED",
+      "subject": "Expansion of National Highways",
+      "members": [
+        "Shri Adhikari Soumendu"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3132_5gf3CU.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3132_5gf3CU.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3133,
+      "type": "UNSTARRED",
+      "subject": "Parvatmala Pariyojana and Ropeway Projects",
+      "members": [
+        "Shri Nalin Soren",
+        "Shri Vishweshwar Hegde Kageri",
+        "Shri Dilip Saikia",
+        "Shri Godam Nagesh",
+        "Shri Trivendra Singh Rawat",
+        "Smt. Mala Rajya Laxmi Shah",
+        "Dr. Manna Lal Rawat",
+        "Shri Chintamani Maharaj",
+        "Shri Arvind Dharmapuri",
+        "Shri Chandra Prakash Choudhary",
+        "Smt. Anita Nagarsingh Chouhan"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3133_R3YvRP.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3133_R3YvRP.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3134,
+      "type": "UNSTARRED",
+      "subject": "Structural Failures on NH-66 in Kerala",
+      "members": [
+        "Shri K C Venugopal"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3134_NLwwV7.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3134_NLwwV7.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3135,
+      "type": "UNSTARRED",
+      "subject": "Drainage Framework of Sikar",
+      "members": [
+        "Shri Amra Ram"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3135_cm4cbj.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3135_cm4cbj.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3136,
+      "type": "UNSTARRED",
+      "subject": "Measures to Reduce Road Accidents",
+      "members": [
+        "Shri Bastipati Nagaraju"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3136_OkiH0J.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3136_OkiH0J.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3137,
+      "type": "UNSTARRED",
+      "subject": "Development of Aviation Infrastructure under UDAN Scheme",
+      "members": [
+        "Dr. Bhola Singh",
+        "Smt. Rachna Banerjee"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3137_my7gfW.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3137_my7gfW.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3138,
+      "type": "UNSTARRED",
+      "subject": "UDAN Scheme for Kolar District",
+      "members": [
+        "Shri M Mallesh Babu"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3138_4Nec9s.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3138_4Nec9s.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3139,
+      "type": "UNSTARRED",
+      "subject": "Schemes for the Development of STs in Alipurduar, West Bengal",
+      "members": [
+        "Shri Manoj Tigga"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3139_vrfJRy.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3139_vrfJRy.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3140,
+      "type": "UNSTARRED",
+      "subject": "Delays in Laying Drinking Water Supply Pipelines",
+      "members": [
+        "Shri Lalji Verma"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3140_ukcpCA.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3140_ukcpCA.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3141,
+      "type": "UNSTARRED",
+      "subject": "Construction of New Ponds for Groundwater Recharge",
+      "members": [
+        "Dr. Anand Kumar"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3141_dudebw.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3141_dudebw.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3142,
+      "type": "UNSTARRED",
+      "subject": "Loss of Life and Property due to Floods in Ganga/Yamuna/Tons Rivers",
+      "members": [
+        "Shri Ujjwal Raman Singh"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3142_slxrCl.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3142_slxrCl.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3143,
+      "type": "UNSTARRED",
+      "subject": "Amendment in Model Building Bye-Laws",
+      "members": [
+        "Shri M K Raghavan"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3143_5FJjjp.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3143_5FJjjp.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3144,
+      "type": "UNSTARRED",
+      "subject": "MSMEs in Uttar Pradesh",
+      "members": [
+        "Mrs Ruchi Vira"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3144_bDHOvy.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3144_bDHOvy.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3145,
+      "type": "UNSTARRED",
+      "subject": "Load on Low- capacity Power Transformers",
+      "members": [
+        "Shri Ajay Kumar Mandal"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3145_I9J0Xu.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3145_I9J0Xu.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3146,
+      "type": "UNSTARRED",
+      "subject": "Power Supply to MRTS Projects",
+      "members": [
+        "Shri Anurag Sharma"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3146_T4DwHG.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3146_T4DwHG.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3147,
+      "type": "UNSTARRED",
+      "subject": "Impact  of Climate Change on Hydropower Generation",
+      "members": [
+        "Prof. Sougata Ray",
+        "Shri Kishori Lal"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3147_h5O0ux.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3147_h5O0ux.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3148,
+      "type": "UNSTARRED",
+      "subject": "Targets under SCM",
+      "members": [
+        "Shri Gurmeet Singh Meet Hayer"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3148_K5Zkdu.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3148_K5Zkdu.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3149,
+      "type": "UNSTARRED",
+      "subject": "Pricing of E-20 Petrol",
+      "members": [
+        "Adv. Chandra Shekhar"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3149_m2UFuk.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3149_m2UFuk.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3150,
+      "type": "UNSTARRED",
+      "subject": "Expansion of Natural Gas Access",
+      "members": [
+        "Shri Chavan Ravindra Vasantrao",
+        "Shri Biplab Kumar Deb"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3150_Lxawdf.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3150_Lxawdf.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3151,
+      "type": "UNSTARRED",
+      "subject": "Subsidised LPG Refills under PMUY",
+      "members": [
+        "Ms Sayani Ghosh"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3151_0ZImcK.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3151_0ZImcK.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3152,
+      "type": "UNSTARRED",
+      "subject": "Construction of NH from Chausa to Varanasi",
+      "members": [
+        "Shri Sudhakar Singh"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3152_5QXIYE.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3152_5QXIYE.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3153,
+      "type": "UNSTARRED",
+      "subject": "Acute Water Stress in Khajuraho",
+      "members": [
+        "Shri Vishnu Datt Sharma"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3153_BNRiBz.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3153_BNRiBz.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3154,
+      "type": "UNSTARRED",
+      "subject": "Establishment of Bus Terminal",
+      "members": [
+        "Shri Chamala Kiran Kumar Reddy",
+        "Shri Eatala Rajender"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3154_oPEZF9.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3154_oPEZF9.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3155,
+      "type": "UNSTARRED",
+      "subject": "Implementing Agencies for Training Programmes",
+      "members": [
+        "Shri Balram Naik Porika"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3155_DWQ11n.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3155_DWQ11n.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3156,
+      "type": "UNSTARRED",
+      "subject": "Encroachment on DDA Land",
+      "members": [
+        "Shri Ramvir Singh Bidhuri"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3156_BQE2F5.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3156_BQE2F5.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3157,
+      "type": "UNSTARRED",
+      "subject": "Complaints Regarding Engine Components due to Ethanol Blended Petrol",
+      "members": [
+        "Shri Babu Singh Kushwaha",
+        "Shri Devesh Shakya"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3157_C4Oi2a.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3157_C4Oi2a.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3158,
+      "type": "UNSTARRED",
+      "subject": "NITI Aayog Report on empowering City Governments",
+      "members": [
+        "Dr. Shashi Tharoor"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3158_fWM8rU.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3158_fWM8rU.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3159,
+      "type": "UNSTARRED",
+      "subject": "Expansion of LPG Distribution Infrastructure",
+      "members": [
+        "Shri Baijayant Panda"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3159_oZBznM.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3159_oZBznM.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3160,
+      "type": "UNSTARRED",
+      "subject": "Inclusion of Aviation Turbine Fuel under GST",
+      "members": [
+        "Shri Dushyant Singh"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3160_u7TV2g.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3160_u7TV2g.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3161,
+      "type": "UNSTARRED",
+      "subject": "Common Facility Centre in Karnataka",
+      "members": [
+        "Shri  Radhakrishna"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3161_p8DVbc.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3161_p8DVbc.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3162,
+      "type": "UNSTARRED",
+      "subject": "Recovery of Loans from Workers",
+      "members": [
+        "Dr. Manna Lal Rawat"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3162_hwNy4C.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3162_hwNy4C.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3163,
+      "type": "UNSTARRED",
+      "subject": "Construction of Houses under PMAY-U in Andhra Pradesh",
+      "members": [
+        "Shri G M Harish Balayogi"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3163_IdTTDw.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3163_IdTTDw.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3164,
+      "type": "UNSTARRED",
+      "subject": "Civil Aviation Services at Solapur Airport",
+      "members": [
+        "Ms. Praniti Sushilkumar Shinde"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3164_ykAKUu.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3164_ykAKUu.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3165,
+      "type": "UNSTARRED",
+      "subject": "Academic Outcomes of EMRSs",
+      "members": [
+        "Shri Ganesh Singh"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3165_wvYcpI.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3165_wvYcpI.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3166,
+      "type": "UNSTARRED",
+      "subject": "Status of NUDM",
+      "members": [
+        "Shri Appalanaidu Kalisetti"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3166_ttkwZ6.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3166_ttkwZ6.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3167,
+      "type": "UNSTARRED",
+      "subject": "Aircraft Accidents and Technical Defects",
+      "members": [
+        "Shri Shyamkumar Daulat Barve"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3167_qZtvdB.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3167_qZtvdB.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3168,
+      "type": "UNSTARRED",
+      "subject": "Rainwater Harvesting and Water Conservation",
+      "members": [
+        "Shri Vijayakumar Alias Vijay Vasanth"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3168_ANrfTp.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3168_ANrfTp.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3169,
+      "type": "UNSTARRED",
+      "subject": "Accidents and Fatalities on Expressways",
+      "members": [
+        "Shri Hanuman Beniwal"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3169_LVfcD6.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3169_LVfcD6.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3170,
+      "type": "UNSTARRED",
+      "subject": "Performance of MSMEs in Mumbai",
+      "members": [
+        "Prof. Varsha Eknath Gaikwad"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3170_aXjCN5.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3170_aXjCN5.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3171,
+      "type": "UNSTARRED",
+      "subject": "Cashless Treatment for Road Accident Victims",
+      "members": [
+        "Shri B K Parthasarathi"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3171_BZzjhS.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3171_BZzjhS.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3172,
+      "type": "UNSTARRED",
+      "subject": "Construction Work of NTPC Power Generation Plant in Odisha",
+      "members": [
+        "Shri Rudra Narayan Pany"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3172_CFynh4.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3172_CFynh4.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3173,
+      "type": "UNSTARRED",
+      "subject": "Increasing Road Accidents on NH 66 in Kerala",
+      "members": [
+        "Shri Shafi Parambil"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3173_5E5m7h.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3173_5E5m7h.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3174,
+      "type": "UNSTARRED",
+      "subject": "Integrated Cold Chain and Value Addition Infrastructure Projects",
+      "members": [
+        "Shri Naveen Jindal"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3174_nUgYdG.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3174_nUgYdG.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3175,
+      "type": "UNSTARRED",
+      "subject": "Water Structure Proposed under PKC Project",
+      "members": [
+        "Shri Murari Lal Meena"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3175_54oE49.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3175_54oE49.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3176,
+      "type": "UNSTARRED",
+      "subject": "DPR for Service Road on NH-66",
+      "members": [
+        "Shri Kota Srinivasa Poojary"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3176_vPUy88.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3176_vPUy88.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3177,
+      "type": "UNSTARRED",
+      "subject": "Development of Airports in Uttar Pradesh",
+      "members": [
+        "Shri Rajeev Rai"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3177_snFpkN.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3177_snFpkN.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3178,
+      "type": "UNSTARRED",
+      "subject": "MSME Procurement and Payments by Oil PSUs",
+      "members": [
+        "Shri Kali Charan Singh"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3178_b83fLY.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3178_b83fLY.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3179,
+      "type": "UNSTARRED",
+      "subject": "Multiple Tax on Vehicles",
+      "members": [
+        "Dr. Sharmila Sarkar"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3179_CHYuiJ.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3179_CHYuiJ.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3180,
+      "type": "UNSTARRED",
+      "subject": "Review of Performance of MSME Schemes",
+      "members": [
+        "Shri Tariq Anwar"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3180_NA3mSH.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3180_NA3mSH.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3181,
+      "type": "UNSTARRED",
+      "subject": "Expansion of Airport Infrastructure",
+      "members": [
+        "Smt. Rachna Banerjee"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3181_Eplze3.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3181_Eplze3.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3182,
+      "type": "UNSTARRED",
+      "subject": "Dilapiadated Condition of Road",
+      "members": [
+        "Shri Ram Shiromani Verma"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3182_YsBWbY.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3182_YsBWbY.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3183,
+      "type": "UNSTARRED",
+      "subject": "Promotion of MSMEs in Fatehgarh Sahib, Punjab",
+      "members": [
+        "Dr. Amar Singh"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3183_oWzm8s.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3183_oWzm8s.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3184,
+      "type": "UNSTARRED",
+      "subject": "Beneficiaries approved under the PLISFPI",
+      "members": [
+        "Shri Basavaraj Bommai"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3184_LcqVfB.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3184_LcqVfB.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3185,
+      "type": "UNSTARRED",
+      "subject": "Development of NH-627 in Assam",
+      "members": [
+        "Shri Amarsing Tisso"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3185_qSml54.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3185_qSml54.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3186,
+      "type": "UNSTARRED",
+      "subject": "Development of New Airports",
+      "members": [
+        "Shri Narayan Tatu Rane"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3186_K89ITn.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3186_K89ITn.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3187,
+      "type": "UNSTARRED",
+      "subject": "Implementation of IES",
+      "members": [
+        "Shri Jugal Kishore",
+        "Shri Nalin Soren",
+        "Dr. Sanjay Jaiswal",
+        "Shri Rahul Singh Lodhi",
+        "Shri Satish Kumar Gautam",
+        "Shri Praveen Patel",
+        "Shri Anil Firojiya"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3187_QulOQE.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3187_QulOQE.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3188,
+      "type": "UNSTARRED",
+      "subject": "PMEGP in Maharashtra",
+      "members": [
+        "Shri Sanjay Haribhau Jadhav"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3188_gLzqys.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3188_gLzqys.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3189,
+      "type": "UNSTARRED",
+      "subject": "Loan Applications under Deendayal Jan Aajeevika Yojana–Shehari",
+      "members": [
+        "Shri G Lakshminarayana"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3189_Vohjzb.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3189_Vohjzb.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3190,
+      "type": "UNSTARRED",
+      "subject": "Projects under Namami Gange Mission",
+      "members": [
+        "Shri Kaushalendra Kumar"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3190_Ip1l3X.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3190_Ip1l3X.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3191,
+      "type": "UNSTARRED",
+      "subject": "Development of Airports",
+      "members": [
+        "Shri  Selvaganapathi T.M."
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3191_WlcMFd.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3191_WlcMFd.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3192,
+      "type": "UNSTARRED",
+      "subject": "LPG Connections under PMUY in Warangal",
+      "members": [
+        "Dr. Kadiyam Kavya"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3192_vxvH5M.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3192_vxvH5M.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3193,
+      "type": "UNSTARRED",
+      "subject": "Human-Centered Entrepreneurship in MSMEs",
+      "members": [
+        "Shri Eatala Rajender"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3193_KNGMLe.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3193_KNGMLe.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3194,
+      "type": "UNSTARRED",
+      "subject": "Road and Infrastructure Projects in Mathurapur",
+      "members": [
+        "Shri Bapi Haldar"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3194_c2Ajqe.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3194_c2Ajqe.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3195,
+      "type": "UNSTARRED",
+      "subject": "Undocumented Habitations on Private Owned Lands",
+      "members": [
+        "Dr. C N Manjunath"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3195_CVVN3N.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3195_CVVN3N.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3196,
+      "type": "UNSTARRED",
+      "subject": "Setting up of Agro Processing Clusters for Sugarcane By-products",
+      "members": [
+        "Shri Harendra Singh Malik"
+      ],
+      "ministry": "FOOD PROCESSING INDUSTRIES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3196_shAzeY.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3196_shAzeY.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3197,
+      "type": "UNSTARRED",
+      "subject": "Subarnarekha Multipurpose Project in Jharkhand",
+      "members": [
+        "Shri Bidyut Baran Mahato"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3197_EE3sYp.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3197_EE3sYp.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3198,
+      "type": "UNSTARRED",
+      "subject": "Projects under the North Eastern-Region Urban Development Programme",
+      "members": [
+        "Shri Kamakhya Prasad Tasa"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3198_YMGvM7.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3198_YMGvM7.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3199,
+      "type": "UNSTARRED",
+      "subject": "Electrification of Transport and other Sectors",
+      "members": [
+        "Shri Kanwar Singh Tanwar"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3199_K55MXU.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3199_K55MXU.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3200,
+      "type": "UNSTARRED",
+      "subject": "Cap on Airfare",
+      "members": [
+        "Smt. Bharti Pardhi",
+        "Shri Ravindra Dattaram Waikar",
+        "Dr. Shrikant Eknath Shinde",
+        "Shri Shrirang Appa Chandu Barne",
+        "Shri Naresh Ganpat Mhaske"
+      ],
+      "ministry": "CIVIL AVIATION",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3200_GpnVYL.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3200_GpnVYL.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3201,
+      "type": "UNSTARRED",
+      "subject": "Housing for All",
+      "members": [
+        "Shri Ramprit Mandal"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3201_38RP1w.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3201_38RP1w.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3202,
+      "type": "UNSTARRED",
+      "subject": "Road Projects in Bihar",
+      "members": [
+        "Smt. Krishna Devi Shivshankar Patel"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3202_aVtMpa.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3202_aVtMpa.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3203,
+      "type": "UNSTARRED",
+      "subject": "Compressed Bio-Gas Plants under SATAT Scheme",
+      "members": [
+        "Shri Lalji Verma",
+        "Shri Babu Singh Kushwaha",
+        "Shri Neeraj Maurya",
+        "Shri Devesh Shakya"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3203_xInnHQ.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3203_xInnHQ.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3204,
+      "type": "UNSTARRED",
+      "subject": "Pumped Storage Projects",
+      "members": [
+        "Shri Hasmukhbhai Somabhai Patel",
+        "Shri Vivek Thakur"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3204_3XYpKu.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3204_3XYpKu.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3205,
+      "type": "UNSTARRED",
+      "subject": "LPG Supply under PMUY in Uttar Pradesh",
+      "members": [
+        "Shri Ramashankar  Vidharthi Rajbhar"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3205_BJ0J38.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3205_BJ0J38.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3206,
+      "type": "UNSTARRED",
+      "subject": "Potable Water Supply under AMRUT 2.0",
+      "members": [
+        "Dr. K Sudhakar"
+      ],
+      "ministry": "HOUSING AND URBAN AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3206_UsG0xb.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3206_UsG0xb.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3207,
+      "type": "UNSTARRED",
+      "subject": "Projects under CRIF in Telangana",
+      "members": [
+        "Shri Konda Vishweshwar Reddy"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3207_kpDSPx.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3207_kpDSPx.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3208,
+      "type": "UNSTARRED",
+      "subject": "FHTCs under JJM in Bihar",
+      "members": [
+        "Shri Arun Bharti",
+        "Shri Rajesh Verma",
+        "Dr. Lata Wankhede",
+        "Smt. Shambhavi"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3208_fUqI1w.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3208_fUqI1w.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3209,
+      "type": "UNSTARRED",
+      "subject": "Projects to increase Power Generation, Transmission and Distribution Capacity",
+      "members": [
+        "Shri Rajesh Ranjan"
+      ],
+      "ministry": "POWER",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3209_MYEKuB.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3209_MYEKuB.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3210,
+      "type": "UNSTARRED",
+      "subject": "Progress of JJM in Baramulla",
+      "members": [
+        "Shri Abdul Rashid Sheikh"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3210_itcAk6.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3210_itcAk6.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3211,
+      "type": "UNSTARRED",
+      "subject": "Atal Bhujal Yojana in Rajasthan",
+      "members": [
+        "Shri Harish Chandra Meena"
+      ],
+      "ministry": "JAL SHAKTI",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3211_JoSEYV.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3211_JoSEYV.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3212,
+      "type": "UNSTARRED",
+      "subject": "Illegal Collection from Vehicles on NHs",
+      "members": [
+        "Dr. Prashant Yadaorao Padole"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3212_BZ0Ww6.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3212_BZ0Ww6.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3213,
+      "type": "UNSTARRED",
+      "subject": "Transportation Subsidy for LPG Cylinders in Lakshadweep",
+      "members": [
+        "Shri Muhammed Hamdullah Sayeed"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3213_3PqEgc.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3213_3PqEgc.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3214,
+      "type": "UNSTARRED",
+      "subject": "National Highway-66 in Kerala",
+      "members": [
+        "Shri E T Mohammed Basheer"
+      ],
+      "ministry": "ROAD TRANSPORT AND HIGHWAYS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3214_3vDWav.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3214_3vDWav.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3215,
+      "type": "UNSTARRED",
+      "subject": "Support to MSMEs in Odisha",
+      "members": [
+        "Shri Sukanta Kumar Panigrahi"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3215_OXv58S.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3215_OXv58S.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3216,
+      "type": "UNSTARRED",
+      "subject": "Supply of E-20 Petrol to Bhutan",
+      "members": [
+        "Smt. Mala Roy"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3216_VHsqsS.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3216_VHsqsS.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3217,
+      "type": "UNSTARRED",
+      "subject": "Udyam Sakhi Portal",
+      "members": [
+        "Shri Ajay Bhatt"
+      ],
+      "ministry": "MICRO, SMALL AND MEDIUM ENTERPRISES",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3217_i9FxZY.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3217_i9FxZY.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3218,
+      "type": "UNSTARRED",
+      "subject": "Development of STs in Karnataka",
+      "members": [
+        "Shri Shreyas M Patel"
+      ],
+      "ministry": "TRIBAL AFFAIRS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3218_QRWorw.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3218_QRWorw.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3219,
+      "type": "UNSTARRED",
+      "subject": "Diesel Purchase Limit for Farmers",
+      "members": [
+        "Shri Kuldeep Indora"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3219_9FdCLx.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3219_9FdCLx.pdf?source=lsapps",
+      "supplementary": false
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "question_no": 3220,
+      "type": "UNSTARRED",
+      "subject": "Discoveries of New Oil and Natural Gas Reserves",
+      "members": [
+        "Shri Arun Govil"
+      ],
+      "ministry": "PETROLEUM AND NATURAL GAS",
+      "date": "06.08.2026",
+      "pdf_url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU3220_bu3Aqm.pdf?source=lsapps",
+      "pdf_url_hindi": "https://sansad.in/getFile/lsapps/loksabhaquestions/qhindi/188/AU3220_bu3Aqm.pdf?source=lsapps",
+      "supplementary": false
     }
   ],
-  "count": 3250,
+  "count": 3500,
   "house": "ls",
   "bucket": "ls-LS18-S8"
 }
