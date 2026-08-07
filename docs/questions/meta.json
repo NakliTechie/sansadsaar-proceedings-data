@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-08-07T03:44:54Z",
-  "elapsed_s": 115.2,
+  "generated_at": "2026-08-07T05:29:44Z",
+  "elapsed_s": 102.5,
   "totals": {
     "ls": 246775,
     "rs": 2809
@@ -5020,9 +5020,9 @@
     "ls_records": 246775,
     "ls_with_text": 144277,
     "ls_pypdf_empty_awaiting_ocr": 5683,
-    "ls_pypdf_error_retryable": 455,
+    "ls_pypdf_error_retryable": 457,
     "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 96360,
+    "ls_never_attempted": 96358,
     "rs_records": 2809,
     "rs_with_text": 2102,
     "rs_pypdf_empty_awaiting_ocr": 1,
@@ -5034,10 +5034,10 @@
     "records_with_text": 137335,
     "shards": 1662,
     "r2_fallback": 0,
-    "total_text_bytes": 139307,
+    "total_text_bytes": 0,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 137332,
-    "txt_files_removed": 3
+    "from_existing_shards": 137335,
+    "txt_files_removed": 0
   }
 }
