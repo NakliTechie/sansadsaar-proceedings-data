@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-08-09T02:56:39Z",
-  "elapsed_s": 88.2,
+  "generated_at": "2026-08-09T04:56:42Z",
+  "elapsed_s": 111.9,
   "totals": {
     "ls": 247025,
     "rs": 2809
@@ -1299,7 +1299,7 @@
       "search-bundle-ls-LS16-S16-0004.json": 1609355,
       "search-bundle-ls-LS16-S17-0000.json": 3534855,
       "search-bundle-ls-LS16-S17-0001.json": 2612089,
-      "search-bundle-ls-LS16-S5-0003.json": 250468,
+      "search-bundle-ls-LS16-S5-0003.json": 253124,
       "search-bundle-ls-LS16-S5-0004.json": 202745,
       "search-bundle-ls-LS16-S6-0000.json": 4604728,
       "search-bundle-ls-LS16-S6-0001.json": 2827962,
@@ -2506,10 +2506,10 @@
       "search-bundle-rs-RS271-2026-08-12-0000.json": 11873,
       "search-bundle-rs-RS271-2026-08-13-0000.json": 11921
     },
-    "total": 146629,
+    "total": 146630,
     "truncated": 37089,
     "head_chars": 5000,
-    "size_bytes": 513531774,
+    "size_bytes": 513534430,
     "max_shard_bytes": 6548464
   },
   "search_index": {
@@ -3805,7 +3805,7 @@
       "search-index-ls-LS16-S16-0004.json": 844545,
       "search-index-ls-LS16-S17-0000.json": 1566542,
       "search-index-ls-LS16-S17-0001.json": 1235369,
-      "search-index-ls-LS16-S5-0003.json": 164994,
+      "search-index-ls-LS16-S5-0003.json": 166111,
       "search-index-ls-LS16-S5-0004.json": 125544,
       "search-index-ls-LS16-S6-0000.json": 1882861,
       "search-index-ls-LS16-S6-0001.json": 1368070,
@@ -5012,17 +5012,17 @@
       "search-index-rs-RS271-2026-08-12-0000.json": 48763,
       "search-index-rs-RS271-2026-08-13-0000.json": 48726
     },
-    "total": 146628,
-    "size_bytes": 270711106,
+    "total": 146629,
+    "size_bytes": 270712223,
     "max_shard_bytes": 3423298
   },
   "audit": {
     "ls_records": 247025,
-    "ls_with_text": 144527,
-    "ls_pypdf_empty_awaiting_ocr": 5683,
-    "ls_pypdf_error_retryable": 457,
+    "ls_with_text": 144528,
+    "ls_pypdf_empty_awaiting_ocr": 5685,
+    "ls_pypdf_error_retryable": 456,
     "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 96358,
+    "ls_never_attempted": 96356,
     "rs_records": 2809,
     "rs_with_text": 2102,
     "rs_pypdf_empty_awaiting_ocr": 1,
@@ -5031,13 +5031,13 @@
     "rs_never_attempted": 706
   },
   "text_shards": {
-    "records_with_text": 137585,
+    "records_with_text": 137586,
     "shards": 1663,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 2494,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 137585,
-    "txt_files_removed": 0
+    "txt_files_removed": 1
   }
 }
