@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T09:46:47Z",
+  "generated_at": "2026-08-22T04:29:16Z",
   "totals": {
-    "pypdf-empty": 5658,
-    "pypdf-error": 456,
+    "pypdf-empty": 5659,
+    "pypdf-error": 455,
     "ocr-failed": 0
   },
   "markers": {
@@ -4614,7 +4614,7 @@
     "ls|LS16_S11_U_212": "pypdf-empty",
     "ls|LS16_S10_U_5022": "pypdf-empty",
     "ls|LS16_S10_U_4999": "pypdf-empty",
-    "ls|LS16_S11_U_36": "pypdf-error",
+    "ls|LS16_S11_U_36": "pypdf-empty",
     "ls|LS16_S10_U_5028": "pypdf-empty",
     "ls|LS16_S11_U_34": "pypdf-empty",
     "ls|LS16_S11_U_79": "pypdf-empty",
