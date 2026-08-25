@@ -86,7 +86,7 @@ jobs:
           git diff --cached --quiet && echo "no walk changes" && exit 0
           git commit -m "Auto-walk questions primary data [$(date -u +%Y-%m-%dT%H:%MZ)]"
           for attempt in 1 2 3 4 5; do
-            if git pull --rebase origin main && git push; then
+            if git fetch origin main && git rebase -X theirs origin/main && git push origin HEAD:main; then
               echo "pushed on attempt $attempt"
               exit 0
             fi

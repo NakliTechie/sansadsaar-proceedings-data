@@ -87,5 +87,10 @@ jobs:
           git add docs/netas-data.tar.gz
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "Auto-update netas tarball [$(date -u +%Y-%m-%dT%H:%MZ)]"
-          git pull --rebase origin main
-          git push
+          for attempt in 1 2 3 4 5; do
+            if git fetch origin main && git rebase -X theirs origin/main && git push origin HEAD:main; then
+              echo "pushed on attempt $attempt"; exit 0
+            fi
+            echo "attempt $attempt failed; retrying"; git rebase --abort 2>/dev/null || true; sleep $((RANDOM % 5 + 3))
+          done
+          echo "::error::exceeded 5 push attempts"; exit 1
