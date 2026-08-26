@@ -1,11 +1,10 @@
 {
-  "phase": "walk",
-  "generated_at": "2026-08-26T08:03:16Z",
-  "elapsed_s": 3189.2,
-  "ls_walk_stats": {
-    "new": 0,
-    "updated": 0,
-    "kept_legacy": 28501
+  "phase": "derive",
+  "generated_at": "2026-08-26T08:25:48Z",
+  "elapsed_s": 110.0,
+  "totals": {
+    "ls": 247775,
+    "rs": 2809
   },
   "rs_walk_stats": {
     "new": 0,
