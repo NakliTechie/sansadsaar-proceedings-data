@@ -1,0 +1,72 @@
+{
+  "records": [
+    {
+      "house": "rs",
+      "session": 270,
+      "date": "04/02/2026",
+      "date_iso": "2026-02-04",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/422026/04022026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 04/02/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
+      "date": "02/02/2026",
+      "date_iso": "2026-02-02",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/222026/02022026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 02/02/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
+      "date": "01/02/2026",
+      "date_iso": "2026-02-01",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/122026/01022026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 01/02/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
+      "date": "29/01/2026",
+      "date_iso": "2026-01-29",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/2912026/29012026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 29/01/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
+      "date": "28/01/2026",
+      "date_iso": "2026-01-28",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/2812026/28012026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 28/01/2026"
+    }
+  ],
+  "count": 5,
+  "house": "rs",
+  "bucket": "rs-RS270"
+}
