@@ -1,10 +1,34 @@
 {
   "texts": {
     "rs": {
-      "RS266_2024-11-25": {
-        "english": {
-          "size": 53029,
-          "url": "text/rs/RS266_2024-11-25_english.txt"
+      "RS270_2026-01-28": {
+        "floor": {
+          "size": 153549,
+          "url": "text/rs/RS270_2026-01-28_floor.txt"
+        }
+      },
+      "RS270_2026-01-29": {
+        "floor": {
+          "size": 132214,
+          "url": "text/rs/RS270_2026-01-29_floor.txt"
+        }
+      },
+      "RS270_2026-02-01": {
+        "floor": {
+          "size": 2620,
+          "url": "text/rs/RS270_2026-02-01_floor.txt"
+        }
+      },
+      "RS270_2026-02-02": {
+        "floor": {
+          "size": 387659,
+          "url": "text/rs/RS270_2026-02-02_floor.txt"
+        }
+      },
+      "RS270_2026-02-04": {
+        "floor": {
+          "size": 484716,
+          "url": "text/rs/RS270_2026-02-04_floor.txt"
         }
       }
     }
