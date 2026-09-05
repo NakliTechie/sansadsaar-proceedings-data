@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-09-05T17:02:34Z",
-  "elapsed_s": 111.2,
+  "generated_at": "2026-09-05T19:35:18Z",
+  "elapsed_s": 85.7,
   "totals": {
     "ls": 247775,
     "rs": 2809
