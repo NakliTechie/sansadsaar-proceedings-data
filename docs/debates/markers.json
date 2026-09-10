@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-30T06:50:32Z",
+  "generated_at": "2026-09-10T11:34:02Z",
   "totals": {
     "empty": 15,
     "error": 4,
     "pypdf-empty": 0,
-    "pypdf-error": 17,
+    "pypdf-error": 18,
     "ocr-failed": 0
   },
   "markers": {
@@ -43,6 +43,7 @@
     "ls|LS14_S4_2389": "empty",
     "ls|LS14_S3_1579": "empty",
     "ls|LS14_S3_1515": "empty",
-    "ls|LS14_S3_1050": "empty"
+    "ls|LS14_S3_1050": "empty",
+    "rs|RS195_2002-04-26_english": "pypdf-error"
   }
 }
