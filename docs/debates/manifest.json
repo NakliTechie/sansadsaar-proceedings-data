@@ -1,10 +1,22 @@
 {
   "texts": {
     "rs": {
-      "RS266_2024-11-28": {
-        "english": {
-          "size": 25419,
-          "url": "text/rs/RS266_2024-11-28_english.txt"
+      "RS270_2026-02-03": {
+        "floor": {
+          "size": 439890,
+          "url": "text/rs/RS270_2026-02-03_floor.txt"
+        }
+      },
+      "RS270_2026-02-05": {
+        "floor": {
+          "size": 590161,
+          "url": "text/rs/RS270_2026-02-05_floor.txt"
+        }
+      },
+      "RS270_2026-02-06": {
+        "floor": {
+          "size": 257962,
+          "url": "text/rs/RS270_2026-02-06_floor.txt"
         }
       }
     }
