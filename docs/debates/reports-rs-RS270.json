@@ -3,6 +3,32 @@
     {
       "house": "rs",
       "session": 270,
+      "date": "06/02/2026",
+      "date_iso": "2026-02-06",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/622026/06022026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 06/02/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
+      "date": "05/02/2026",
+      "date_iso": "2026-02-05",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/522026/05022026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 05/02/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
       "date": "04/02/2026",
       "date_iso": "2026-02-04",
       "file_versions": [
@@ -12,6 +38,19 @@
         }
       ],
       "title": "Rajya Sabha · Session 270 · 04/02/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
+      "date": "03/02/2026",
+      "date_iso": "2026-02-03",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/322026/03022026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 03/02/2026"
     },
     {
       "house": "rs",
@@ -66,7 +105,7 @@
       "title": "Rajya Sabha · Session 270 · 28/01/2026"
     }
   ],
-  "count": 5,
+  "count": 8,
   "house": "rs",
   "bucket": "rs-RS270"
 }
