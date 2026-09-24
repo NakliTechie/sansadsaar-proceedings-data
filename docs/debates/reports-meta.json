@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-23T12:15:05Z",
+  "generated_at": "2026-09-24T12:15:33Z",
   "shard_size": 2500,
   "totals": {
-    "ls": 58165,
+    "ls": 58205,
     "rs": 1718
   },
   "shards": {
     "ls": [
       {
         "file": "reports-ls-LS18-S8.json",
-        "count": 150
+        "count": 190
       },
       {
         "file": "reports-ls-LS18-S7.json",
