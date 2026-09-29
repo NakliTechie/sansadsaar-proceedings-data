@@ -1,35 +1,16 @@
 {
-  "phase": "derive",
-  "generated_at": "2026-09-29T20:02:21Z",
-  "elapsed_s": 22.9,
-  "totals": {
-    "ls": 247775,
-    "rs": 2809
+  "phase": "walk",
+  "generated_at": "2026-09-29T22:35:20Z",
+  "elapsed_s": 1101.3,
+  "ls_walk_stats": {
+    "new": 0,
+    "updated": 0,
+    "kept_legacy": 28501
   },
-  "search_bundle": null,
-  "search_index": null,
-  "audit": {
-    "ls_records": 247775,
-    "ls_with_text": 145257,
-    "ls_pypdf_empty_awaiting_ocr": 5710,
-    "ls_pypdf_error_retryable": 457,
-    "ls_ocr_failed_permanent": 0,
-    "ls_never_attempted": 96351,
-    "rs_records": 2809,
-    "rs_with_text": 2102,
-    "rs_pypdf_empty_awaiting_ocr": 1,
-    "rs_pypdf_error_retryable": 0,
-    "rs_ocr_failed_permanent": 0,
-    "rs_never_attempted": 706
+  "rs_walk_stats": {
+    "new": 0,
+    "updated": 0,
+    "kept_legacy": 0
   },
-  "text_shards": {
-    "records_with_text": 138315,
-    "shards": 1666,
-    "r2_fallback": 0,
-    "total_text_bytes": 0,
-    "missing_files": 0,
-    "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 138315,
-    "txt_files_removed": 0
-  }
+  "rate_limited": false
 }
