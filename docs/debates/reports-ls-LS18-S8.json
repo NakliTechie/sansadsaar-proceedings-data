@@ -4,6 +4,439 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 8,
+      "db_slno": 7026,
+      "title": "Need to develop Narsinghgarh in Rajgarh Parliamentary Constituency, Madhya Pradesh as a Tourist Circuit-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Rodmal Nagar",
+          "mp_code": 4702,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Tourism Development",
+        "Rail Connectivity"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7025,
+      "title": "Need to assess and address the likely adverse impact of El Nino on rainfall pattern and agriculture in Telangana-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. D K Aruna",
+          "mp_code": 5703,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Agricultural Distress",
+        "Water Security"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7024,
+      "title": "Need to address the problems in flood-affected districts in Assam-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Kamakhya Prasad Tasa",
+          "mp_code": 4739,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Flood Prone Areas",
+        "Rehabilitation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7023,
+      "title": "Need for comprehensive measures for smooth processing of reimbursement claims of beneficiaries under Ex-Servicemen Contributory Health Scheme-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Captain Brijesh Chowta",
+          "mp_code": 5627,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Medical Reimbursement",
+        "Health Care Facilities"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7022,
+      "title": "Need to restore the correct nomenclature of Sargara Community in official records in Rajasthan-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Mahima Kumari Mewar",
+          "mp_code": 5683,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Notification",
+        "Caste Certificate"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7021,
+      "title": "Regarding construction of New Railway Lines in Udaipur Parliamentary Constituency, Rajasthan-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Manna Lal Rawat",
+          "mp_code": 5622,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Facilities",
+        "Rail Connectivity"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7020,
+      "title": "Regarding refund of money to investors who invested in Adarsh Credit Co-operative Society-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Lumbaram Choudhary",
+          "mp_code": 5621,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Frauds",
+        "Investor Money"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7019,
+      "title": "Need to establish Institute of Space Science and Technology or its regional campus in Balaghat, Madhya Pradesh-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Bharti Pardhi",
+          "mp_code": 5696,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Higher Education Institutions",
+        "Space Research"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7018,
+      "title": "Need to include persons suffering from kidney disease and undergoing dialysis under the Rights of Persons with Disabilities Act, 2016-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Eatala Rajender",
+          "mp_code": 5731,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Employment Opportunities",
+        "Social Security"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7017,
+      "title": "Need to establish a National Cultural and Auditorium Centre in North East Delhi-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Manoj Tiwari",
+          "mp_code": 4606,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Artisans",
+        "Cultural Heritage"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7016,
+      "title": "Need to provide stoppage of Patalkot Express at Sonagiri Ji in Datia District, Madhya Pradesh-Laid",
+      "debate_date": "03/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Bunty Vivek Sahu",
+          "mp_code": 5666,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Pilgrimage",
+        "Train Stoppage"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7015,
+      "title": "The Bankers Books Evidence Bill, 2026-introduced",
+      "debate_date": "03/08/2026",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Smt. Nirmala Sitharaman",
+          "mp_code": 2288,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Krishna Prasad Tenneti",
+          "mp_code": 5680,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7014,
+      "title": "The Indian Statistical Institute Bill, 2026-introduced",
+      "debate_date": "03/08/2026",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Rao Inderjit Singh",
+          "mp_code": 3904,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Krishna Prasad Tenneti",
+          "mp_code": 5680,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7013,
+      "title": "Presentation of a Statement showing Demands for Excess Grants, 2022-23",
+      "debate_date": "03/08/2026",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Smt. Nirmala Sitharaman",
+          "mp_code": 2288,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7012,
+      "title": "Motion regarding election of two members to Employees State Insurance Corporation",
+      "debate_date": "03/08/2026",
+      "debate_type": 59,
+      "debate_type_desc": "ELECTION TO COMMITTEES/BOARDS",
+      "members": [
+        {
+          "mp_name": "Dr. Mansukh Mandaviya",
+          "mp_code": 5555,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Krishna Prasad Tenneti",
+          "mp_code": 5680,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7011,
+      "title": "Laid the record of evidence of the Joint Committee on Corporate Laws (Amendment) Bill, 2026",
+      "debate_date": "03/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Sudheer Gupta",
+          "mp_code": 4615,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7010,
+      "title": "Presentation of Report of the Joint Committee on Corporate Laws (Amendment) Bill, 2026",
+      "debate_date": "03/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Sudheer Gupta",
+          "mp_code": 4615,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7009,
+      "title": "Papers Laid on the Table by Ministers/Members",
+      "debate_date": "03/08/2026",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Gajendra Singh Shekhawat",
+          "mp_code": 4670,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Jayant Chaudhary",
+          "mp_code": 2551,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Kirti Vardhan Singh",
+          "mp_code": 3926,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Km. Shobha Karandlaje",
+          "mp_code": 4616,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Smt. Raksha Nikhil Khadse",
+          "mp_code": 4722,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Shri Harsh Malhotra",
+          "mp_code": 5563,
+          "mp_part_code": 7
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7008,
+      "title": "Ruling regarding Notices of Adjournment Motion",
+      "debate_date": "03/08/2026",
+      "debate_type": 63,
+      "debate_type_desc": "RULING BY THE SPEAKER",
+      "members": [
+        {
+          "mp_name": "Shri Krishna Prasad Tenneti",
+          "mp_code": 5680,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7007,
+      "title": "The Speaker, on the behalf of the House, congratulated the players, their coaches and Team India for excellent performance and securing 4th place in the 23rd Commonwealth Games",
+      "debate_date": "03/08/2026",
+      "debate_type": 13,
+      "debate_type_desc": "FELICITATIONS",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
       "db_slno": 7006,
       "title": "Need to re-establish Gujarat State Road Transport Corporation (GSRTC) Passenger Transport Facilities and Bus Terminal Services in Daman and Silvassa.-laid",
       "debate_date": "24/07/2026",
@@ -5827,7 +6260,7 @@
       "keywords": []
     }
   ],
-  "count": 278,
+  "count": 298,
   "house": "ls",
   "bucket": "ls-LS18-S8"
 }
