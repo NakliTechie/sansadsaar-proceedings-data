@@ -1,8 +1,8 @@
 {
-  "audited_at": "2026-10-09T17:06:33Z",
+  "audited_at": "2026-10-09T22:46:27Z",
   "totals": {
-    "ls_records": 58330,
-    "ls_with_text": 58315,
+    "ls_records": 58350,
+    "ls_with_text": 58335,
     "ls_empty_upstream": 15,
     "ls_error_retryable": 0,
     "ls_never_attempted": 0,
