@@ -4,6 +4,423 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 8,
+      "db_slno": 7063,
+      "title": "Regarding need to provide central assistance to strengthen school education system and related facilities in Bastar Parliamentary Constituency, Chhattisgarh- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Mahesh Kashyap",
+          "mp_code": 5626,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Central Assistance",
+        "School Education",
+        "Naxalism"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7062,
+      "title": "Regarding need to strengthen and expand cancer diagnosis and treatment facilities in Government hospitals in semi-urban and rural areas of the country- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Arun Govil",
+          "mp_code": 5564,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Cancer",
+        "Medical Facilites"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7061,
+      "title": "Regarding need for a comprehensive National School Fitness Mission to ensure maintenance of fitness standards among school children in the country- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Bhartruhari Mahtab",
+          "mp_code": 225,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Public Health"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7060,
+      "title": "Regarding need to frame a policy to regulate establishment of restaurants along National Highways- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Kanwar Singh Tanwar",
+          "mp_code": 4607,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "National Highways",
+        "Road Safety",
+        "National Highways Authority of India (NHAI)",
+        "Rules and Regulations",
+        "Traffic Jams"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7059,
+      "title": "Regarding need to review the decision to establish a Tiger Reserve in Kumbhalgarh in Rajasthan- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Smt. Mahima Kumari Mewar",
+          "mp_code": 5683,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Tiger Reserve"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7058,
+      "title": "Regarding need to convert State Highway No. 1 from Khurda to Kalahandi in Odisha to a National Highway and integrate the same with NH57- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Sukanta Kumar Panigrahi",
+          "mp_code": 5615,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "National Highways",
+        "Transportation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7057,
+      "title": "Registration of Births and Deaths (Amendment) Bill, 2026",
+      "debate_date": "29/07/2026",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Nityanand Rai",
+          "mp_code": 4625,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7056,
+      "title": "Motion regarding report of Joint Committee on the Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 and the Union Territories Laws (Amendment) Bill, 2024- Extension of Time",
+      "debate_date": "29/07/2026",
+      "debate_type": 15,
+      "debate_type_desc": "GOVERNMENT MOTION",
+      "members": [
+        {
+          "mp_name": "Shri P P Chaudhary",
+          "mp_code": 4597,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7055,
+      "title": "Observation regarding disruption of the House",
+      "debate_date": "29/07/2026",
+      "debate_type": 33,
+      "debate_type_desc": "OBSERVATION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri N K Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7054,
+      "title": "Statement regarding status of implementation of recommendations contained in the 32nd Report of the Standing Committee on Consumer Affairs, Food and Public Distribution on 'Sugar Industry in India-A Review' pertaining to the Department of Food and Public Distribution, Ministry of Consumer Affairs, Food and Public Distribution-laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Smt. Nimuben Jayantibhai Bambhaniya",
+          "mp_code": 5614,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7053,
+      "title": "Statement regarding status of implementation of recommendations contained in the 19th Report of the Standing Committee on Coal, Mines and Steel on 'Demands for Grants (2026-27)' pertaining to the Ministry of Mines-laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Satish Chandra Dubey",
+          "mp_code": 2435,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7052,
+      "title": "Statement regarding status of implementation of recommendations contained in the 22nd Report of the Standing Committee on Communications and Information Technology on 'Review of mechanism to curb Fake News' pertaining to the Ministry of Information and Broadcasting- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Dr. L. Murugan",
+          "mp_code": 2504,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7051,
+      "title": "Statement regarding status of implementation of recommendations contained in the 411th Report of the Standing Committee on Science and Technology, Environment, Forests and Climate Change on 'Demands for Grants (2026-2027) (Demand No. 24)' pertaining to the Ministry of Earth Sciences- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Dr. Jitendra Singh",
+          "mp_code": 4718,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7050,
+      "title": "Statement regarding status of implementation of recommendations contained in the 409th Report of the Standing Committee on Science and Technology, Environment, Forests and Climate Change on 'Demands for Grants (2026-2027) (Demand No. 89)' pertaining to the Department of Science and Technology, Ministry of Science and Technology- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Dr. Jitendra Singh",
+          "mp_code": 4718,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7049,
+      "title": "Presentation of 27th report of the Standing Committee on Coal, Mines and Steel",
+      "debate_date": "29/07/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Anurag Singh Thakur",
+          "mp_code": 4249,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7048,
+      "title": "Laid on the table the minutes of the Third Sitting of the Committee on Absence of Members from the sittings of the House",
+      "debate_date": "29/07/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Biplab Kumar Deb",
+          "mp_code": 5671,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7047,
+      "title": "Papers laid on the Table of the House by Minister/Members",
+      "debate_date": "29/07/2026",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Dr. Jitendra Singh",
+          "mp_code": 4718,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Jitin Prasada",
+          "mp_code": 4065,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Dr. Chandra Sekhar Pemmasani",
+          "mp_code": 5636,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Shri B.L. Verma",
+          "mp_code": 2491,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Satish Chandra Dubey",
+          "mp_code": 2435,
+          "mp_part_code": 5
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7046,
+      "title": "Ruling regarding Notices of Adjournment Motion",
+      "debate_date": "29/07/2026",
+      "debate_type": 63,
+      "debate_type_desc": "RULING BY THE SPEAKER",
+      "members": [
+        {
+          "mp_name": "Shri N K Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Adjournment Motions"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7045,
+      "title": "Observation regarding Disruption of the House",
+      "debate_date": "29/07/2026",
+      "debate_type": 33,
+      "debate_type_desc": "OBSERVATION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7044,
+      "title": "The Speaker, on behalf of the House, congratulated Ms. Harjinder Kaur and Shri Gulveer Singh on winning silver medals and their coaches and Team India for this achievement in 23rd Commonwealth Games",
+      "debate_date": "29/07/2026",
+      "debate_type": 13,
+      "debate_type_desc": "FELICITATIONS",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
       "db_slno": 7043,
       "title": "Statutory Resolution regarding Disapproval of The Supreme Court (Number of Judges) Amendment Ordinance, 2026 and the Supreme Court (Number of Judges) Amendment Bill, 2026",
       "debate_date": "03/08/2026",
@@ -6633,7 +7050,7 @@
       "keywords": []
     }
   ],
-  "count": 315,
+  "count": 335,
   "house": "ls",
   "bucket": "ls-LS18-S8"
 }
