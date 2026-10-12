@@ -1,65 +1,45 @@
 {
   "texts": {
     "ls": {
-      "LS18_S8_7064": {
-        "size": 3008,
-        "url": "text/ls/LS18_S8_7064.txt"
+      "LS18_S8_7079": {
+        "size": 1073,
+        "url": "text/ls/LS18_S8_7079.txt"
       },
-      "LS18_S8_7065": {
-        "size": 3094,
-        "url": "text/ls/LS18_S8_7065.txt"
+      "LS18_S8_7080": {
+        "size": 1197,
+        "url": "text/ls/LS18_S8_7080.txt"
       },
-      "LS18_S8_7066": {
-        "size": 3205,
-        "url": "text/ls/LS18_S8_7066.txt"
+      "LS18_S8_7081": {
+        "size": 1590,
+        "url": "text/ls/LS18_S8_7081.txt"
       },
-      "LS18_S8_7067": {
-        "size": 1750,
-        "url": "text/ls/LS18_S8_7067.txt"
+      "LS18_S8_7082": {
+        "size": 3154,
+        "url": "text/ls/LS18_S8_7082.txt"
       },
-      "LS18_S8_7068": {
-        "size": 3116,
-        "url": "text/ls/LS18_S8_7068.txt"
+      "LS18_S8_7083": {
+        "size": 2414,
+        "url": "text/ls/LS18_S8_7083.txt"
       },
-      "LS18_S8_7069": {
-        "size": 1546,
-        "url": "text/ls/LS18_S8_7069.txt"
+      "LS18_S8_7084": {
+        "size": 3362,
+        "url": "text/ls/LS18_S8_7084.txt"
       },
-      "LS18_S8_7070": {
-        "size": 1537,
-        "url": "text/ls/LS18_S8_7070.txt"
+      "LS18_S8_7085": {
+        "size": 1153,
+        "url": "text/ls/LS18_S8_7085.txt"
       },
-      "LS18_S8_7071": {
-        "size": 1270,
-        "url": "text/ls/LS18_S8_7071.txt"
+      "LS18_S8_7086": {
+        "size": 2859,
+        "url": "text/ls/LS18_S8_7086.txt"
       },
-      "LS18_S8_7072": {
-        "size": 2845,
-        "url": "text/ls/LS18_S8_7072.txt"
+      "LS18_S8_7087": {
+        "size": 175312,
+        "url": "text/ls/LS18_S8_7087.txt"
       },
-      "LS18_S8_7073": {
-        "size": 1621,
-        "url": "text/ls/LS18_S8_7073.txt"
-      },
-      "LS18_S8_7074": {
-        "size": 1606,
-        "url": "text/ls/LS18_S8_7074.txt"
-      },
-      "LS18_S8_7075": {
-        "size": 2111,
-        "url": "text/ls/LS18_S8_7075.txt"
-      },
-      "LS18_S8_7076": {
-        "size": 2645,
-        "url": "text/ls/LS18_S8_7076.txt"
-      },
-      "LS18_S8_7077": {
-        "size": 1266,
-        "url": "text/ls/LS18_S8_7077.txt"
-      },
-      "LS18_S8_7078": {
-        "size": 1141,
-        "url": "text/ls/LS18_S8_7078.txt"
+      "LS18_S8_7088": {
+        "size": 1443,
+        "url": "text/ls/LS18_S8_7088.txt"
       }
     }
   }
