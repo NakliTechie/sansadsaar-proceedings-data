@@ -4,6 +4,299 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 8,
+      "db_slno": 7088,
+      "title": "Reference regarding Point of Order in the discussion",
+      "debate_date": "29/07/2026",
+      "debate_type": 37,
+      "debate_type_desc": "POINTS OF ORDER",
+      "members": [
+        {
+          "mp_name": "Dr. Nishikant Dubey",
+          "mp_code": 4324,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. Kakoli Ghosh Dastidar",
+          "mp_code": 4489,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7087,
+      "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026 ( Contd.- Concluded)",
+      "debate_date": "29/07/2026",
+      "debate_type": 14,
+      "debate_type_desc": "GOVERNMENT BILLS",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Dileshwar Kamait",
+          "mp_code": 5222,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Rajesh Ranjan",
+          "mp_code": 554,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Dr. Bhola Singh",
+          "mp_code": 4605,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri N K Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 5
+        },
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Dr. Indra Hang Subba",
+          "mp_code": 5111,
+          "mp_part_code": 12
+        },
+        {
+          "mp_name": "Shri Hanuman Beniwal",
+          "mp_code": 5205,
+          "mp_part_code": 14
+        },
+        {
+          "mp_name": "Shri Rahul Gandhi",
+          "mp_code": 4074,
+          "mp_part_code": 15
+        },
+        {
+          "mp_name": "Shri K C Venugopal",
+          "mp_code": 4567,
+          "mp_part_code": 18
+        },
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 19
+        },
+        {
+          "mp_name": "Shri Gaurav Gogoi",
+          "mp_code": 4788,
+          "mp_part_code": 22
+        },
+        {
+          "mp_name": "Shri Anurag Singh Thakur",
+          "mp_code": 4249,
+          "mp_part_code": 28
+        },
+        {
+          "mp_name": "Shri Rajnath Singh",
+          "mp_code": 4268,
+          "mp_part_code": 37
+        },
+        {
+          "mp_name": "Shri Akhilesh Yadav",
+          "mp_code": 564,
+          "mp_part_code": 47
+        },
+        {
+          "mp_name": "Dr. Jitendra Singh",
+          "mp_code": 4718,
+          "mp_part_code": 61
+        }
+      ],
+      "keywords": [
+        "Admission",
+        "Examination Reforms",
+        "Examinations",
+        "Kendriya Vidyalayas",
+        "Accountability",
+        "Investigation",
+        "Corruption",
+        "Privatisation",
+        "Competitive Examination",
+        "National Education Policy",
+        "Paper Leak"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7086,
+      "title": "Regarding need to investigate all the cases of paper leaks in the country-laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Rajesh Ranjan",
+          "mp_code": 554,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Paper Leak"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7085,
+      "title": "Regarding need to expedite approval to the revised Greenfield National Highway No. 744 project in Kollam, Kerala- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri N K Premachandran",
+          "mp_code": 3754,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "National Highways"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7084,
+      "title": "Regarding need to utilise the services of trained healthcare professionals to strengthen rural healthcare services in Uttar Pradesh-laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Rajkumar Sangwan",
+          "mp_code": 5550,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Rural Health Care Programme"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7083,
+      "title": "Regarding implementation of 33 per cent reservation for women in Legislatures- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Amra Ram",
+          "mp_code": 5776,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Women Reservation"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7082,
+      "title": "Regarding need for conservation of Gangetic Dolphins and Gharials and protection of their natural habitat in the Gandak river in Bihar- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Dr. Alok Kumar Suman",
+          "mp_code": 5211,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Aquatic Conservation",
+        "Conservation",
+        "Biodiversity"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7081,
+      "title": "Regarding need to allocate funds under PRASHAD Scheme for development of Kanak Durga Temple in Vijayawada, Andhra Pradesh-laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Kesineni Sivanath",
+          "mp_code": 5667,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "National Mission on Pilgrimage Rejuvenation and Heritage Augmentation Drive (PRASHAD) Scheme"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7080,
+      "title": "Regarding need to operationalize the Vellore Airport in Tamil Nadu under UDAN Scheme- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Thiru D M Kathir Anand",
+          "mp_code": 5528,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "UDAAN Scheme"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7079,
+      "title": "Regarding need to introduce regular direct flight services from Salem in Tamil Nadu to New Delhi and Mumbai- laid",
+      "debate_date": "29/07/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Mani A",
+          "mp_code": 5814,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Tourism",
+        "Employment Generation",
+        "Air Service",
+        "Domestic Flights"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
       "db_slno": 7078,
       "title": "Regarding increasing incidents of cloud bursts and other extreme weather events in Himalayan and other Hilly regions- laid",
       "debate_date": "29/07/2026",
@@ -445,7 +738,7 @@
       "lok_sabha": 18,
       "session": 8,
       "db_slno": 7057,
-      "title": "Registration of Births and Deaths (Amendment) Bill, 2026",
+      "title": "The Registration of Births and Deaths (Amendment) Bill, 2026",
       "debate_date": "29/07/2026",
       "debate_type": 14,
       "debate_type_desc": "GOVERNMENT BILLS",
@@ -7362,7 +7655,7 @@
       "keywords": []
     }
   ],
-  "count": 350,
+  "count": 360,
   "house": "ls",
   "bucket": "ls-LS18-S8"
 }
