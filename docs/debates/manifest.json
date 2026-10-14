@@ -1,45 +1,11 @@
 {
   "texts": {
-    "ls": {
-      "LS18_S8_7079": {
-        "size": 1073,
-        "url": "text/ls/LS18_S8_7079.txt"
-      },
-      "LS18_S8_7080": {
-        "size": 1197,
-        "url": "text/ls/LS18_S8_7080.txt"
-      },
-      "LS18_S8_7081": {
-        "size": 1590,
-        "url": "text/ls/LS18_S8_7081.txt"
-      },
-      "LS18_S8_7082": {
-        "size": 3154,
-        "url": "text/ls/LS18_S8_7082.txt"
-      },
-      "LS18_S8_7083": {
-        "size": 2414,
-        "url": "text/ls/LS18_S8_7083.txt"
-      },
-      "LS18_S8_7084": {
-        "size": 3362,
-        "url": "text/ls/LS18_S8_7084.txt"
-      },
-      "LS18_S8_7085": {
-        "size": 1153,
-        "url": "text/ls/LS18_S8_7085.txt"
-      },
-      "LS18_S8_7086": {
-        "size": 2859,
-        "url": "text/ls/LS18_S8_7086.txt"
-      },
-      "LS18_S8_7087": {
-        "size": 175312,
-        "url": "text/ls/LS18_S8_7087.txt"
-      },
-      "LS18_S8_7088": {
-        "size": 1443,
-        "url": "text/ls/LS18_S8_7088.txt"
+    "rs": {
+      "RS266_2024-12-04": {
+        "english": {
+          "size": 401261,
+          "url": "text/rs/RS266_2024-12-04_english.txt"
+        }
       }
     }
   }
