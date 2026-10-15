@@ -1,10 +1,10 @@
 {
   "texts": {
     "rs": {
-      "RS266_2024-11-29": {
-        "english": {
-          "size": 22919,
-          "url": "text/rs/RS266_2024-11-29_english.txt"
+      "RS270_2026-03-11": {
+        "floor": {
+          "size": 574087,
+          "url": "text/rs/RS270_2026-03-11_floor.txt"
         }
       }
     }
