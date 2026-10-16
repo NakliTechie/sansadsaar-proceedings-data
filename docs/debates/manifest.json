@@ -1,10 +1,22 @@
 {
   "texts": {
     "rs": {
-      "RS270_2026-03-11": {
+      "RS270_2026-03-17": {
         "floor": {
-          "size": 574087,
-          "url": "text/rs/RS270_2026-03-11_floor.txt"
+          "size": 17652,
+          "url": "text/rs/RS270_2026-03-17_floor.txt"
+        }
+      },
+      "RS270_2026-03-24": {
+        "floor": {
+          "size": 744705,
+          "url": "text/rs/RS270_2026-03-24_floor.txt"
+        }
+      },
+      "RS270_2026-04-16": {
+        "floor": {
+          "size": 26606,
+          "url": "text/rs/RS270_2026-04-16_floor.txt"
         }
       }
     }
