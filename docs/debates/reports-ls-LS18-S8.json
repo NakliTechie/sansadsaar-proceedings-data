@@ -61,7 +61,7 @@
       "lok_sabha": 18,
       "session": 8,
       "db_slno": 7159,
-      "title": "Business of the House",
+      "title": "Regarding Business of the House",
       "debate_date": "31/07/2026",
       "debate_type": 7,
       "debate_type_desc": "BUSINESS OF HOUSE",
@@ -72,7 +72,9 @@
           "mp_part_code": 1
         }
       ],
-      "keywords": []
+      "keywords": [
+        "Business of the House"
+      ]
     },
     {
       "house": "ls",
