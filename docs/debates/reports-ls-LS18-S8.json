@@ -41,7 +41,9 @@
           "mp_part_code": 1
         }
       ],
-      "keywords": []
+      "keywords": [
+        "Demands For Excess Grants"
+      ]
     },
     {
       "house": "ls",
@@ -148,7 +150,8 @@
       ],
       "keywords": [
         "Ground Water",
-        "Rain Water Harvesting"
+        "Rain Water Harvesting",
+        "Jal Jeevan Mission"
       ]
     },
     {
@@ -190,6 +193,7 @@
         }
       ],
       "keywords": [
+        "Electricity Boards",
         "Transparency",
         "Corruption"
       ]
@@ -211,7 +215,9 @@
         }
       ],
       "keywords": [
-        "Maintenance and Repair"
+        "Maintenance and Repair",
+        "Road Construction",
+        "Pradhan Mantri Gramin Sadak Yojana"
       ]
     },
     {
@@ -262,7 +268,7 @@
       "lok_sabha": 18,
       "session": 8,
       "db_slno": 7230,
-      "title": "Need to review the proposal to change allocation of ration under and adequate allocation to Kerala-Laid",
+      "title": "Need to review the proposal to change allocation of ration under National Food Security Act and ensure timely and adequate allocation to Kerala-Laid",
       "debate_date": "04/08/2026",
       "debate_type": 21,
       "debate_type_desc": "MATTERS UNDER RULE-377",
@@ -296,7 +302,8 @@
       ],
       "keywords": [
         "Central Bureau of Investigation(CBI) ",
-        "Frauds"
+        "Frauds",
+        "Teacher Recruitment"
       ]
     },
     {
@@ -317,6 +324,7 @@
       ],
       "keywords": [
         "Maintenance and Repair",
+        "Road Construction",
         "Traffic Jams"
       ]
     },
@@ -358,6 +366,8 @@
         }
       ],
       "keywords": [
+        "Flood Control",
+        "Fund Allocation",
         "Rehabilitation",
         "Disaster Managment"
       ]
