@@ -4,14 +4,14 @@
   "r2_origin": null,
   "schema": 2,
   "totals": {
-    "records_with_text": 61016,
-    "shards": 2169,
+    "records_with_text": 61020,
+    "shards": 2173,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 2425817,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 61016,
-    "txt_files_removed": 0
+    "txt_files_removed": 4
   },
   "shard_stride": 250,
   "shards": [
@@ -10816,9 +10816,19 @@
       "bytes": 535116
     },
     {
+      "file": "texts-rs-RS270-2026-03-10-0000.json",
+      "count": 1,
+      "bytes": 579942
+    },
+    {
       "file": "texts-rs-RS270-2026-03-11-0000.json",
       "count": 1,
       "bytes": 579942
+    },
+    {
+      "file": "texts-rs-RS270-2026-03-12-0000.json",
+      "count": 1,
+      "bytes": 572079
     },
     {
       "file": "texts-rs-RS270-2026-03-13-0000.json",
@@ -10841,9 +10851,19 @@
       "bytes": 491666
     },
     {
+      "file": "texts-rs-RS270-2026-03-23-0000.json",
+      "count": 1,
+      "bytes": 546762
+    },
+    {
       "file": "texts-rs-RS270-2026-03-24-0000.json",
       "count": 1,
       "bytes": 751612
+    },
+    {
+      "file": "texts-rs-RS270-2026-04-01-0000.json",
+      "count": 1,
+      "bytes": 751395
     },
     {
       "file": "texts-rs-RS270-2026-04-16-0000.json",
