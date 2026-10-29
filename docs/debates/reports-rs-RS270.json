@@ -42,6 +42,19 @@
     {
       "house": "rs",
       "session": 270,
+      "date": "01/04/2026",
+      "date_iso": "2026-04-01",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/142026/01042026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 01/04/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
       "date": "24/03/2026",
       "date_iso": "2026-03-24",
       "file_versions": [
@@ -51,6 +64,19 @@
         }
       ],
       "title": "Rajya Sabha · Session 270 · 24/03/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
+      "date": "23/03/2026",
+      "date_iso": "2026-03-23",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/2332026/23032026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 23/03/2026"
     },
     {
       "house": "rs",
@@ -107,6 +133,19 @@
     {
       "house": "rs",
       "session": 270,
+      "date": "12/03/2026",
+      "date_iso": "2026-03-12",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/1232026/12032026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 12/03/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
       "date": "11/03/2026",
       "date_iso": "2026-03-11",
       "file_versions": [
@@ -116,6 +155,19 @@
         }
       ],
       "title": "Rajya Sabha · Session 270 · 11/03/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
+      "date": "10/03/2026",
+      "date_iso": "2026-03-10",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/1132026/11032026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 10/03/2026"
     },
     {
       "house": "rs",
@@ -332,7 +384,7 @@
       "title": "Rajya Sabha · Session 270 · 28/01/2026"
     }
   ],
-  "count": 23,
+  "count": 27,
   "house": "rs",
   "bucket": "rs-RS270"
 }
