@@ -4,6 +4,175 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 8,
+      "db_slno": 7340,
+      "title": "Message from Rajya Sabha",
+      "debate_date": "12/08/2026",
+      "debate_type": 24,
+      "debate_type_desc": "MESSAGES FROM RAJYA SABHA",
+      "members": [
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7339,
+      "title": "Ruling regarding notices of Adjournment Motion",
+      "debate_date": "12/08/2026",
+      "debate_type": 63,
+      "debate_type_desc": "RULING BY THE SPEAKER",
+      "members": [
+        {
+          "mp_name": "Shri Jagdambika Pal",
+          "mp_code": 4295,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7338,
+      "title": "Observation regarding disruption of the House",
+      "debate_date": "12/08/2026",
+      "debate_type": 33,
+      "debate_type_desc": "OBSERVATION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7337,
+      "title": "Papers Laid on the Table of the House by Ministers/Members",
+      "debate_date": "12/08/2026",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Arjun Ram Meghwal",
+          "mp_code": 4399,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Shri Pankaj Choudhary",
+          "mp_code": 3479,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri V Somanna",
+          "mp_code": 5625,
+          "mp_part_code": 3
+        },
+        {
+          "mp_name": "Dr. Chandra Sekhar Pemmasani",
+          "mp_code": 5636,
+          "mp_part_code": 4
+        },
+        {
+          "mp_name": "Shri Satish Chandra Dubey",
+          "mp_code": 2435,
+          "mp_part_code": 6
+        },
+        {
+          "mp_name": "Dr. Sukanta Majumdar",
+          "mp_code": 5035,
+          "mp_part_code": 7
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7336,
+      "title": "Presentation of 8th and 9th Reports of the Committee on Government Assurances",
+      "debate_date": "12/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Harendra Singh Malik",
+          "mp_code": 5631,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7335,
+      "title": "Presentation of 54th and 55th Reports of Public Account Committee",
+      "debate_date": "12/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Magunta Sreenivasulu Reddy",
+          "mp_code": 3907,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7334,
+      "title": "Presentation of 10th report of the Committee on Estimates",
+      "debate_date": "12/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Dr. Sanjay Jaiswal",
+          "mp_code": 4455,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7333,
+      "title": "Laid the Report and record of evidence of Inquiry Committee under the Judges (Inquiry) Act, 1968",
+      "debate_date": "12/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
       "db_slno": 7332,
       "title": "The National Co-Operative Development Corporation (Amendment) Bill, 2026(passed)",
       "debate_date": "11/08/2026",
@@ -13177,7 +13346,7 @@
       "keywords": []
     }
   ],
-  "count": 603,
+  "count": 611,
   "house": "ls",
   "bucket": "ls-LS18-S8"
 }
