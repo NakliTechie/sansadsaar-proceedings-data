@@ -42,6 +42,19 @@
     {
       "house": "rs",
       "session": 270,
+      "date": "02/04/2026",
+      "date_iso": "2026-04-02",
+      "file_versions": [
+        {
+          "version": "floor",
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Debates/OfficialDebatesDatewise/Floor/270/242026/02042026.pdf"
+        }
+      ],
+      "title": "Rajya Sabha · Session 270 · 02/04/2026"
+    },
+    {
+      "house": "rs",
+      "session": 270,
       "date": "01/04/2026",
       "date_iso": "2026-04-01",
       "file_versions": [
@@ -384,7 +397,7 @@
       "title": "Rajya Sabha · Session 270 · 28/01/2026"
     }
   ],
-  "count": 27,
+  "count": 28,
   "house": "rs",
   "bucket": "rs-RS270"
 }
