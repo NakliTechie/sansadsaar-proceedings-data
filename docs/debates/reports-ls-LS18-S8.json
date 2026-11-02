@@ -4,6 +4,394 @@
       "house": "ls",
       "lok_sabha": 18,
       "session": 8,
+      "db_slno": 7360,
+      "title": "Need to expedite construction of railway line from Hardoi to Gursahaiganj via Sandi in Uttar Pradesh.-laid",
+      "debate_date": "06/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Jai Prakash",
+          "mp_code": 159,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Railway Line",
+        "Railway Connectivity"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7359,
+      "title": "Need to fill-up undergraduate and postgraduate medical seats through comprehensive policy measures.-laid",
+      "debate_date": "06/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Mukeshkumar Chandrakaant Dalal",
+          "mp_code": 5574,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Medical Education"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7358,
+      "title": "Motion regarding 18th Report of the Business Advisory Committee",
+      "debate_date": "06/08/2026",
+      "debate_type": 15,
+      "debate_type_desc": "GOVERNMENT MOTION",
+      "members": [
+        {
+          "mp_name": "Shri Kiren Rijiju",
+          "mp_code": 3972,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Smt. Sandhya Ray",
+          "mp_code": 5058,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7357,
+      "title": "Regarding construction and renovation of roads under Central Road and Infrastructure Fund (CRIF) in Durg Parliamentary Constituency, Madhya Pradesh.-laid",
+      "debate_date": "06/08/2026",
+      "debate_type": 21,
+      "debate_type_desc": "MATTERS UNDER RULE-377",
+      "members": [
+        {
+          "mp_name": "Shri Vijay Baghel",
+          "mp_code": 5007,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": [
+        "Road Construction",
+        "Road Development"
+      ]
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7356,
+      "title": "Motion Regarding Report of the Joint Committee on The Viksit Bharat Shiksha Adhishthan Bill, 2025- Extension of Time",
+      "debate_date": "06/08/2026",
+      "debate_type": 15,
+      "debate_type_desc": "GOVERNMENT MOTION",
+      "members": [
+        {
+          "mp_name": "Dr. D. Purandeswari",
+          "mp_code": 4022,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Smt. Sandhya Ray",
+          "mp_code": 5058,
+          "mp_part_code": 2
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7355,
+      "title": "Statement regarding Status of implementation of recommendations contained in the 15th Report (17th Lok Sabha) of the Standing Committee on Petroleum and Natural Gas on National Gas Grid including PNG and CNG pertaining to the Ministry of Petroleum and Natural Gas.-laid",
+      "debate_date": "06/08/2026",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri Suresh Gopi",
+          "mp_code": 5552,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7354,
+      "title": "Statement regarding Status of implementation of recommendations contained in the 10th Report of the Standing Committee on Water Resources on Demands for Grants (2026-27) pertaining to the Department of Drinking Water and Sanitation, Ministry of Jal Shakti.-laid",
+      "debate_date": "06/08/2026",
+      "debate_type": 47,
+      "debate_type_desc": "STATEMENT BY MINISTER",
+      "members": [
+        {
+          "mp_name": "Shri V Somanna",
+          "mp_code": 5625,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7353,
+      "title": "Laid 334th and 335th Reports of the Standing Committee on Industry",
+      "debate_date": "06/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Konda Vishweshwar Reddy",
+          "mp_code": 4800,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7352,
+      "title": "Laid 198th to 200th Reports of the Standing Committee on Commerce",
+      "debate_date": "06/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Santosh Pandey",
+          "mp_code": 5015,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7351,
+      "title": "Action taken Statements of the Standing Committee on Rural Development and Panchayati Raj.-laid",
+      "debate_date": "06/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Janardan Mishra",
+          "mp_code": 4728,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7350,
+      "title": "Presentation of 28th to 34th Reports of the Standing Committee on Chemicals and Fertilizers",
+      "debate_date": "06/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Smt. Kriti Devi Debbarman",
+          "mp_code": 5575,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7349,
+      "title": "Action taken Statements of the Standing Committee on External Affairs.-laid",
+      "debate_date": "06/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Arun Govil",
+          "mp_code": 5564,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7348,
+      "title": "Presentation of 13th Report of the Standing Committee on Energy",
+      "debate_date": "06/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Shrirang Appa Chandu Barne",
+          "mp_code": 4781,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7347,
+      "title": "Presentation of 28th to 34th Reports of the Standing Committee on Communications and Information Technology",
+      "debate_date": "06/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Shri Rajesh Verma",
+          "mp_code": 5605,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7346,
+      "title": "Presentation of 31st to 36th Reports of the Committee on Public Undertakings",
+      "debate_date": "06/08/2026",
+      "debate_type": 35,
+      "debate_type_desc": "PARLIAMENTARY COMMITTEES",
+      "members": [
+        {
+          "mp_name": "Prof. Sougata Ray",
+          "mp_code": 2554,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7345,
+      "title": "Message from Rajya Sabha",
+      "debate_date": "06/08/2026",
+      "debate_type": 24,
+      "debate_type_desc": "MESSAGES FROM RAJYA SABHA",
+      "members": [
+        {
+          "mp_name": "Secretary General",
+          "mp_code": 10001,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7344,
+      "title": "Papers Laid on the Table of the House by Ministers/Members",
+      "debate_date": "06/08/2026",
+      "debate_type": 34,
+      "debate_type_desc": "PAPERS LAID ON THE TABLE",
+      "members": [
+        {
+          "mp_name": "Shri Ajay Tamta",
+          "mp_code": 4651,
+          "mp_part_code": 1
+        },
+        {
+          "mp_name": "Dr. Raj Bhushan Choudhary",
+          "mp_code": 5568,
+          "mp_part_code": 2
+        },
+        {
+          "mp_name": "Shri Murlidhar Mohol",
+          "mp_code": 5705,
+          "mp_part_code": 3
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7343,
+      "title": "Ruling regarding Notices of Adjournment Motion",
+      "debate_date": "06/08/2026",
+      "debate_type": 63,
+      "debate_type_desc": "RULING BY THE SPEAKER",
+      "members": [
+        {
+          "mp_name": "Smt. Sandhya Ray",
+          "mp_code": 5058,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7342,
+      "title": "The Speaker made an observation regarding disruption of the House",
+      "debate_date": "06/08/2026",
+      "debate_type": 33,
+      "debate_type_desc": "OBSERVATION BY THE CHAIR",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
+      "db_slno": 7341,
+      "title": "The Speaker made reference to the 81stanniversary of the dropping of atom bombs on the Japanese cities of Hiroshima and Nagasaki on 6th and 9th August, 1945, respectively",
+      "debate_date": "06/08/2026",
+      "debate_type": 42,
+      "debate_type_desc": "REFERENCES IN THE HOUSE",
+      "members": [
+        {
+          "mp_name": "Shri Om Birla",
+          "mp_code": 4716,
+          "mp_part_code": 1
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "house": "ls",
+      "lok_sabha": 18,
+      "session": 8,
       "db_slno": 7340,
       "title": "Message from Rajya Sabha",
       "debate_date": "12/08/2026",
@@ -13346,7 +13734,7 @@
       "keywords": []
     }
   ],
-  "count": 611,
+  "count": 631,
   "house": "ls",
   "bucket": "ls-LS18-S8"
 }
