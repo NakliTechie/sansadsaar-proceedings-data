@@ -1,14 +1,14 @@
 {
-  "audited_at": "2026-11-05T23:46:25Z",
+  "audited_at": "2026-11-10T20:58:02Z",
   "totals": {
     "ls_records": 58769,
     "ls_with_text": 58754,
     "ls_empty_upstream": 15,
     "ls_error_retryable": 0,
     "ls_never_attempted": 0,
-    "rs_sitting_days": 1737,
-    "rs_version_units": 2421,
-    "rs_with_text": 2420,
+    "rs_sitting_days": 1740,
+    "rs_version_units": 2424,
+    "rs_with_text": 2423,
     "rs_pypdf_empty_awaiting_ocr": 0,
     "rs_pypdf_error_retryable": 1,
     "rs_ocr_failed_permanent": 0,

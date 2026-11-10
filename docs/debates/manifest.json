@@ -1,16 +1,22 @@
 {
   "texts": {
     "rs": {
-      "RS270_2026-02-06": {
-        "part1": {
-          "size": 2688536,
-          "url": "text/rs/RS270_2026-02-06_part1.txt"
+      "RS270_2026-03-25": {
+        "floor": {
+          "size": 676518,
+          "url": "text/rs/RS270_2026-03-25_floor.txt"
         }
       },
-      "RS270_2026-02-09": {
-        "part1": {
-          "size": 2832940,
-          "url": "text/rs/RS270_2026-02-09_part1.txt"
+      "RS270_2026-03-27": {
+        "floor": {
+          "size": 548670,
+          "url": "text/rs/RS270_2026-03-27_floor.txt"
+        }
+      },
+      "RS270_2026-03-30": {
+        "floor": {
+          "size": 12128,
+          "url": "text/rs/RS270_2026-03-30_floor.txt"
         }
       }
     }
