@@ -1,16 +1,10 @@
 {
   "texts": {
     "rs": {
-      "RS270_2026-01-29": {
-        "part1": {
-          "size": 2630489,
-          "url": "text/rs/RS270_2026-01-29_part1.txt"
-        }
-      },
-      "RS270_2026-03-09": {
-        "part1": {
-          "size": 2337898,
-          "url": "text/rs/RS270_2026-03-09_part1.txt"
+      "RS266_2024-12-05": {
+        "english": {
+          "size": 294605,
+          "url": "text/rs/RS266_2024-12-05_english.txt"
         }
       }
     }
