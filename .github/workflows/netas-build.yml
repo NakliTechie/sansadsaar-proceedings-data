@@ -1,11 +1,11 @@
 name: Netas derive (per-MP tarball)
 
-# Joins this repo's debates + questions corpora with NakliTechie/
+# Joins this repo's debates + questions corpora with indiavotes/
 # parliamentwatch-data's bills corpus and the sansad.in member roster
 # (committed under scripts/recon-netas-out/) + TCPD electoral history
 # (tcpd/derived/history/), and emits docs/netas-data.tar.gz — a single
 # ~15-20 MB compressed archive of the per-mpsno aggregates. CF serves
-# the tarball at sansadsaar-proceedings.naklitechie.com/netas-data.tar.gz;
+# the tarball at proceedings.indiavotes.com/netas-data.tar.gz;
 # indiavotes/netas's deploy workflow curls + extracts it.
 #
 # Single-tarball publish (vs ~16k per-MP files) keeps this repo's CF
@@ -49,7 +49,7 @@ jobs:
         # just those ~10 MB of metadata, not the full 133 MB tree.
         run: |
           mkdir -p /tmp/netas-bills
-          BASE=https://naklitechie.github.io/parliamentwatch-data/bills
+          BASE=https://data.indiavotes.com/bills
           curl -sSL --fail "$BASE/index-meta.json" -o /tmp/netas-bills/index-meta.json
           for shard in $(jq -r '.shards[].file' /tmp/netas-bills/index-meta.json); do
             curl -sSL --fail "$BASE/$shard" -o "/tmp/netas-bills/$shard"

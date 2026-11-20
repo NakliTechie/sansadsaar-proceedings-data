@@ -10,7 +10,7 @@ Per scheduled (or workflow_dispatch) run:
      meta + audit.
 
 Output goes under docs/debates/, served at
-sansadsaar-data.naklitechie.com/debates/.
+proceedings.indiavotes.com/debates/.
 
 PHASE A scope: LS only. Phase B (Rajya Sabha) extends this orchestrator
 with a parallel call into debates/scrapers/rajyasabha.py — the structure

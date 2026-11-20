@@ -4,7 +4,7 @@
 This is the Phase 0b derive that produces the per-MP shards consumed by the
 Netas Astro app. Run by .github/workflows/netas-build.yml; the cron tars the
 output and commits docs/netas-data.tar.gz, which Cloudflare serves from
-sansadsaar-proceedings.naklitechie.com. Netas CI in indiavotes/netas curls
+proceedings.indiavotes.com. Netas CI in indiavotes/netas curls
 that tarball at deploy time. Single tarball (vs. ~16k per-MP files) keeps
 the proceedings deploy comfortably under Workers Static Assets' 20k cap.
 
@@ -13,7 +13,7 @@ Inputs:
   docs/questions/reports-ls-*.json   (~500+ records; members[] are free-text) — in this repo
   $NETAS_BILLS_DIR/index-*.json      (~10k records; billIntroducedBy is free-text)
                                      The workflow fetches these from
-                                     naklitechie.github.io/parliamentwatch-data/bills/
+                                     data.indiavotes.com/bills/
                                      into a temp dir. Local default:
                                      ../parliamentwatch-data/docs/bills/.
   scripts/recon-netas-out/sansad_master.json (4,425-entry roster; produced
@@ -54,8 +54,8 @@ from rapidfuzz import fuzz, process
 REPO = Path(__file__).resolve().parent
 DEBATES_DIR = REPO / "docs" / "debates"
 QUESTIONS_DIR = REPO / "docs" / "questions"
-# Bills live in NakliTechie/parliamentwatch-data and are served at its GH
-# Pages CDN. In CI we fetch the index-*.json shards into a temp directory
+# Bills live in indiavotes/parliamentwatch-data and are served at
+# data.indiavotes.com. In CI we fetch the index-*.json shards into a temp directory
 # and point BILLS_DIR at it. Local runs default to ../parliamentwatch-data/
 # docs/bills/ (which is the convention from when build_netas.py lived in
 # the parliamentwatch-data repo).

@@ -42,6 +42,8 @@ export default {
     headers.set("Access-Control-Allow-Origin", "*");
     headers.set("Access-Control-Allow-Methods", "GET, HEAD, OPTIONS");
     headers.set("Vary", "Origin");
+    // Data host for apps, not for search: the ranked pages live on www.indiavotes.com.
+    headers.set("X-Robots-Tag", "noindex");
 
     return new Response(response.body, {
       status: response.status,

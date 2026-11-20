@@ -13,6 +13,7 @@
 
 name = "sansadsaar-proceedings-data"
 main = "src/index.js"
+routes = [{ pattern = "proceedings.indiavotes.com", custom_domain = true }]
 compatibility_date = "2026-05-14"
 
 [assets]
