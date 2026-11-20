@@ -49,7 +49,7 @@ jobs:
         # just those ~10 MB of metadata, not the full 133 MB tree.
         run: |
           mkdir -p /tmp/netas-bills
-          BASE=https://data.indiavotes.com/bills
+          BASE=https://indiavotes.github.io/parliamentwatch-data/bills  # data.indiavotes.com returns 403 to Actions runners
           curl -sSL --fail "$BASE/index-meta.json" -o /tmp/netas-bills/index-meta.json
           for shard in $(jq -r '.shards[].file' /tmp/netas-bills/index-meta.json); do
             curl -sSL --fail "$BASE/$shard" -o "/tmp/netas-bills/$shard"
