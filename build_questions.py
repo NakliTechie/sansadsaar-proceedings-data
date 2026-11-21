@@ -74,6 +74,7 @@ from questions.scrapers.rajyasabha import (
 ASSETS    = ROOT / "docs"
 DOCS      = ASSETS / "questions"
 TEXT_DIR  = DOCS / "text"
+MAX_RETRY_PER_RUN = int(os.environ.get("MAX_RETRY_PER_RUN", "50"))  # retryable-marker records per run
 PDFS_DIR  = DOCS / "pdfs"   # transient — gitignored
 DOCS.mkdir(parents=True, exist_ok=True)
 
@@ -637,6 +638,7 @@ def extract_missing_bodies(reports: dict[str, list[dict]], *, deadline: float) -
     candidates: list[tuple[int, int, str, int, str]] = []  # +pdf_url
     skipped_marked = 0
     skipped_bundled = 0
+    retry_tier: list[tuple[int, int, str, int, str]] = []
     for r in reports.get("ls", []):
         ls = r.get("lok_sabha"); ses = r.get("session")
         qtype = r.get("type"); qno = r.get("question_no")
@@ -657,14 +659,23 @@ def extract_missing_bodies(reports: dict[str, list[dict]], *, deadline: float) -
             skipped_marked += 1; continue
         if (ls_text_dir / f"{fid}.ocr-failed").exists():
             skipped_marked += 1; continue
-        # NB: .pypdf-error markers are retryable — fall through.
+        # .pypdf-error and .download-failed markers are retryable, but they
+        # go to a retry tier behind never-attempted records (21 Nov 2026):
+        # 457 errors + ~68 failed downloads used to fill the whole
+        # 500-record budget every run, so ls_extracted stayed at 0.
+        if bm in ("pypdf-error", "download-failed"):
+            retry_tier.append((int(ls), int(ses), qtype, int(qno), pdf_url))
+            continue
         candidates.append((int(ls), int(ses), qtype, int(qno), pdf_url))
 
     # Priority: newest LS first, then highest session, STARRED before
     # UNSTARRED (less plentiful, easier to clear), then highest qno.
-    candidates.sort(key=lambda c: (-c[0], -c[1],
-                                    0 if c[2] == "STARRED" else 1,
-                                    -c[3]))
+    _prio = lambda c: (-c[0], -c[1], 0 if c[2] == "STARRED" else 1, -c[3])
+    candidates.sort(key=_prio)
+    retry_tier.sort(key=_prio)
+    print(f"  retry tier: {len(retry_tier)} LS records with a retryable marker "
+          f"(at most {MAX_RETRY_PER_RUN} retried per run, after never-attempted)")
+    candidates = candidates + retry_tier[:MAX_RETRY_PER_RUN]
     print(f"  candidates: {len(candidates)} LS records missing text "
           f"({skipped_marked} skipped — already marked; "
           f"{skipped_bundled} skipped — already in shards)")
@@ -926,6 +937,7 @@ def compute_audit(reports: dict[str, list[dict]]) -> dict:
         "ls_with_text":               0,
         "ls_pypdf_empty_awaiting_ocr": 0,
         "ls_pypdf_error_retryable":   0,
+        "ls_download_failed_retryable": 0,
         "ls_ocr_failed_permanent":    0,
         "ls_never_attempted":         0,
         "rs_records":                 len(reports.get("rs", [])),
@@ -969,6 +981,7 @@ def compute_audit(reports: dict[str, list[dict]]) -> dict:
             if mt == "ocr-failed":   counts["ls_ocr_failed_permanent"] += 1
             elif mt == "pypdf-empty": counts["ls_pypdf_empty_awaiting_ocr"] += 1
             elif mt == "pypdf-error": counts["ls_pypdf_error_retryable"] += 1
+            elif mt == "download-failed": counts["ls_download_failed_retryable"] += 1
             else: counts["ls_never_attempted"] += 1
         elif (ls_dir / f"{fid}.pypdf-empty").exists():
             counts["ls_pypdf_empty_awaiting_ocr"] += 1
@@ -1491,6 +1504,7 @@ def phase_derive() -> int:
         DOCS, TEXT_DIR,
         composite_id_from_path=lambda p: f"{p.parent.name}|{p.stem}",
         drop_record_ids=bundled_ids,
+        marker_suffixes=("pypdf-empty", "pypdf-error", "ocr-failed", "download-failed"),
     )
     print(f"  markers: {marker_stats['totals']} consolidated "
           f"(removed {marker_stats.get('removed_sidecar_count', 0)} sidecars)")

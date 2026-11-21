@@ -235,8 +235,74 @@ def download_pdf(pdf_url: str, *, loksabha: int, session: int, qtype: str,
     except RateLimited:
         raise
     except Exception as e:
-        print(f"    download failed for {fid}: {e}")
+        print(f"    download failed for {fid}: {e} — marking .download-failed")
+        try:
+            os.unlink(pdf_path)
+        except OSError:
+            pass
+        marker_dir = os.path.join(os.path.dirname(os.path.normpath(pdfs_dir)), "text",
+                                  os.path.basename(os.path.normpath(pdfs_dir)))
+        try:
+            os.makedirs(marker_dir, exist_ok=True)
+            with open(os.path.join(marker_dir, f"{fid}.download-failed"), "w", encoding="utf-8") as f:
+                f.write(f"download failed for {fid} from {pdf_url!r}: {e}\n")
+        except OSError:
+            pass
         return None
+
+
+# ── Word answers (sansad.in serves some LS16 answers as .doc / .docx) ──────
+#
+# Their pdf_url ends in .doc or .docx. pypdf fails on them ("EOF marker not
+# found", "invalid pdf header: b'PK...'") and the records used to sit at the
+# head of the queue as retryable errors forever. We sniff the file's magic
+# bytes and read Word files directly: .docx via the stdlib (zip + XML),
+# legacy .doc via the `antiword` CLI when present (the workflow installs it).
+
+def _docx_text(path: str) -> str:
+    import zipfile
+    import xml.etree.ElementTree as ET
+    ns = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+    with zipfile.ZipFile(path) as z:
+        root = ET.fromstring(z.read("word/document.xml"))
+    paras = []
+    for para in root.iter(f"{ns}p"):
+        bits = []
+        for node in para.iter():
+            if node.tag == f"{ns}t" and node.text:
+                bits.append(node.text)
+            elif node.tag == f"{ns}tab":
+                bits.append("\t")
+        line = "".join(bits).strip()
+        if line:
+            paras.append(line)
+    return "\n".join(paras)
+
+
+def _doc_text(path: str) -> str:
+    import shutil, subprocess
+    exe = shutil.which("antiword")
+    if not exe:
+        raise RuntimeError("legacy .doc and antiword is not installed")
+    out = subprocess.run([exe, "-w", "0", path], capture_output=True, timeout=120)
+    if out.returncode != 0:
+        raise RuntimeError(f"antiword exit {out.returncode}: {out.stderr[:200]!r}")
+    return out.stdout.decode("utf-8", errors="replace")
+
+
+def _word_text_or_none(path: str) -> "Optional[str]":
+    """Text of a Word file by magic bytes, or None if the file is not Word."""
+    with open(path, "rb") as f:
+        head = f.read(8)
+    if head.startswith(b"PK\x03\x04"):
+        import zipfile
+        with zipfile.ZipFile(path) as z:
+            if "word/document.xml" not in z.namelist():
+                return None
+        return _docx_text(path)
+    if head == bytes.fromhex("d0cf11e0a1b11ae1"):
+        return _doc_text(path)
+    return None
 
 
 # ── pypdf extraction with per-attempt markers ────────────────────────────
@@ -264,6 +330,16 @@ def extract_pdf_text(pdf_path: str, *, loksabha: int, session: int,
         with open(text_path, "r", encoding="utf-8") as f:
             return f.read()
     try:
+        word = _word_text_or_none(pdf_path)
+        if word is not None:
+            if not word.strip():
+                print(f"    word file empty for {fid} — marking .pypdf-empty")
+                with open(pypdf_empty_path, "w", encoding="utf-8") as f:
+                    f.write(f"word file returned empty for {fid} at {pdf_path}\n")
+                return None
+            with open(text_path, "w", encoding="utf-8") as f:
+                f.write(word)
+            return word
         reader = PdfReader(pdf_path)
         parts = []
         for page in reader.pages:

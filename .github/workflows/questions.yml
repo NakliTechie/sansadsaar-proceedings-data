@@ -26,8 +26,10 @@ on:
     # https://proceedings.indiavotes.com/questions/audit.json shows totals.ls_never_attempted
     # at 0 and ls_pypdf_empty_awaiting_ocr no longer falling, or the run log's
     # "candidates: N LS records missing text" stays flat over a week of runs.
-    # Caveat (21 Nov): N has been stuck at 96,808 with ls_extracted=0 per run because
-    # broken PDFs at the head of the queue are retried every run; see the migration plan.
+    # 21 Nov: N was stuck at 96,808 with ls_extracted=0 because 456 Word (.doc/.docx)
+    # answers and failed downloads filled the 500-record budget every run. Fixed the
+    # same day: Word files are read directly, and retryable records go behind
+    # never-attempted ones (at most MAX_RETRY_PER_RUN=50 per run).
     - cron: '47 * * * *'
   workflow_dispatch:
     inputs:
@@ -68,6 +70,10 @@ jobs:
           cache: 'pip'
 
       - run: pip install -r requirements.txt
+      # Some LS16 answers are legacy .doc files; antiword reads them
+      # (questions/scrapers/loksabha.py _doc_text). .docx needs no tool.
+      - name: Install antiword
+        run: sudo apt-get install -y --no-install-recommends antiword || echo "antiword install failed; .doc answers stay retryable"
 
       - name: Configure git identity for in-flight checkpoint commits
         run: |
