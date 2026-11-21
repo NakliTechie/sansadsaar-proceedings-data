@@ -31,7 +31,9 @@ name: CF deploy (wrangler, 4h cadence)
 
 on:
   schedule:
-    - cron: '5 0,4,8,12,16,20 * * *'
+    # Daily run, then a fallback ~12 h later that skips if today's run succeeded (set 21 Nov 2026).
+    - cron: '31 23 * * *'
+    - cron: '31 11 * * *'
   workflow_dispatch:
 
 permissions:
@@ -42,7 +44,33 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  gate:
+    # Daily schedule plus a fallback cron about 12 h later (both in `on.schedule`).
+    # The fallback run skips the real job when this workflow already succeeded
+    # today (IST), so a missed or failed morning run is retried once, and the
+    # workflow-level concurrency group keeps the two from overlapping.
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          IS_FALLBACK: ${{ github.event_name == 'schedule' && github.event.schedule == '31 11 * * *' }}
+        run: |
+          if [ "$IS_FALLBACK" != "true" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          start=$(date -u -d "$(TZ=Asia/Kolkata date +%F) 00:00 +0530" +%Y-%m-%dT%H:%M:%SZ)
+          n=$(gh run list --workflow cf-sync.yml --status success --created ">=$start" --limit 20 \
+                --json databaseId --jq "[.[] | select(.databaseId != $GITHUB_RUN_ID)] | length")
+          echo "successful runs of cf-sync.yml since $start (IST midnight): $n"
+          if [ "$n" -gt 0 ]; then echo "run=false" >> "$GITHUB_OUTPUT"; else echo "run=true" >> "$GITHUB_OUTPUT"; fi
+
   deploy:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:

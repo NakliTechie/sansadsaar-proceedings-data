@@ -20,6 +20,14 @@ name: Questions extract and derive
 
 on:
   schedule:
+    # Kept hourly on purpose (Chirag, 21 Nov 2026: "Keep backfill faster") while the
+    # Lok Sabha questions text backfill runs; every other scrape here is daily.
+    # Drop to once a day ('31 19 * * *', 01:01 IST) when the backfill is complete:
+    # https://proceedings.indiavotes.com/questions/audit.json shows totals.ls_never_attempted
+    # at 0 and ls_pypdf_empty_awaiting_ocr no longer falling, or the run log's
+    # "candidates: N LS records missing text" stays flat over a week of runs.
+    # Caveat (21 Nov): N has been stuck at 96,808 with ls_extracted=0 per run because
+    # broken PDFs at the head of the queue are retried every run; see the migration plan.
     - cron: '47 * * * *'
   workflow_dispatch:
     inputs:

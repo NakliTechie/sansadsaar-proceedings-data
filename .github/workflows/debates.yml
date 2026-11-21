@@ -19,6 +19,12 @@ name: Debates extract and derive
 
 on:
   schedule:
+    # Kept every 2 h on purpose (Chirag, 21 Nov 2026: "Keep backfill faster");
+    # every other scrape here is daily. Drop to once a day ('46 19 * * *', 01:16 IST)
+    # when the backfill is complete: https://proceedings.indiavotes.com/debates/audit.json
+    # shows totals.ls_never_attempted and rs_never_attempted at 0, or the run log
+    # says "candidates: 0 LS records missing text". On 21 Nov both already hold
+    # (58,754 of 58,769 LS records have text), so the drop can happen now.
     - cron: '23 */2 * * *'
   workflow_dispatch:
     inputs:
