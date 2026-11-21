@@ -756,14 +756,26 @@ def build_manifest() -> dict:
     english: {...}, part1: {...}}. Each (session, date) can have up to 3
     versions; we collapse them under the base_id.
     """
-    out: dict[str, dict] = {}
+    out: dict[str, dict] = {"ls": {}, "rs": {}}
+
+    # Records already bundled into the text shards (21 Nov 2026 fix). Their
+    # .txt files are deleted after bundling, so a disk-only scan dropped every
+    # earlier text and the app tagged all debates "metadata" (manifest had
+    # texts.rs = 1 entry and no texts.ls). Union shard membership with the
+    # disk scan below; the app reads the body from the shards by composite id.
+    for cid in load_bundled_ids(DOCS):
+        parts = cid.split("|")
+        if parts[0] == "ls" and len(parts) == 2:
+            out["ls"][parts[1]] = {"url": f"text/ls/{parts[1]}.txt"}
+        elif parts[0] == "rs" and len(parts) == 3:
+            base, version = parts[1], parts[2]
+            out["rs"].setdefault(base, {})[version] = {"url": f"text/rs/{base}_{version}.txt"}
     if not TEXT_DIR.exists():
         return {"texts": out}
 
     # LS — flat
     ls_dir = TEXT_DIR / "ls"
     if ls_dir.exists():
-        out["ls"] = {}
         for text_file in sorted(ls_dir.glob("*.txt")):
             fid = text_file.stem
             out["ls"][fid] = {
@@ -774,7 +786,7 @@ def build_manifest() -> dict:
     # RS — group versions under base id (RS<session>_<iso>).
     rs_dir = TEXT_DIR / "rs"
     if rs_dir.exists():
-        rs_out: dict[str, dict] = {}
+        rs_out: dict[str, dict] = out["rs"]
         # versioned_file_id is "<base_id>_<version>"; reverse it by
         # finding the trailing _<version> suffix among our known versions.
         for text_file in sorted(rs_dir.glob("*.txt")):
@@ -795,9 +807,7 @@ def build_manifest() -> dict:
                 "size": text_file.stat().st_size,
                 "url":  f"text/rs/{text_file.name}",
             }
-        if rs_out:
-            out["rs"] = rs_out
-    return {"texts": out}
+    return {"texts": {h: v for h, v in out.items() if v}}
 
 
 def compute_audit(reports: dict[str, list[dict]]) -> dict:
@@ -1382,7 +1392,9 @@ def phase_derive() -> None:
     total = sum(len(reports.get(h, [])) for h in HOUSES)
 
     print("\n[Derive 1/4] Building manifest.json...")
-    _preserve = _derive_would_be_destructive()
+    # Shard membership now feeds build_manifest, so a rebuild is complete even
+    # when text/ is empty; keep the old manifest only if no shards exist.
+    _preserve = _derive_would_be_destructive() and not load_bundled_ids(DOCS)
     if _preserve:
         try:
             manifest = json.loads(MANIFEST_JSON.read_text())

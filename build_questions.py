@@ -913,21 +913,28 @@ def build_manifest() -> dict:
     in-flight content between extract and derive. The canonical
     record-to-shard map lives in texts-meta.json.
     """
-    out: dict[str, dict] = {}
+    # 21 Nov 2026 fix: union the disk scan with records already in the text
+    # shards (composite ids "ls|<fid>", "rs|<fid>"). The disk-only scan left
+    # texts.ls with 250 entries while the shards held 138,315 bodies, so the
+    # app tagged most questions "metadata".
+    out: dict[str, dict] = {"ls": {}, "rs": {}}
+    for cid in load_bundled_ids(DOCS):
+        house, _, fid = cid.partition("|")
+        if house in out and fid:
+            out[house][fid] = {"url": f"text/{house}/{fid}.txt"}
     if not TEXT_DIR.exists():
-        return {"texts": out}
+        return {"texts": {h: v for h, v in out.items() if v}}
     for house in ("ls", "rs"):
         hdir = TEXT_DIR / house
         if not hdir.exists():
             continue
-        out[house] = {}
         for text_file in sorted(hdir.glob("*.txt")):
             fid = text_file.stem
             out[house][fid] = {
                 "size": text_file.stat().st_size,
                 "url":  f"text/{house}/{text_file.name}",
             }
-    return {"texts": out}
+    return {"texts": {h: v for h, v in out.items() if v}}
 
 
 def compute_audit(reports: dict[str, list[dict]]) -> dict:
@@ -1469,8 +1476,8 @@ def phase_derive() -> int:
     reports = load_existing_reports()
     print(f"  reports loaded: " + ", ".join(f"{h}={len(reports.get(h, []))}" for h in HOUSES))
 
-    if _derive_would_be_destructive():
-        print("  [skip] manifest.json preserved (empty text/ scan on a bundled corpus)")
+    if _derive_would_be_destructive() and not load_bundled_ids(DOCS):
+        print("  [skip] manifest.json preserved (empty text/ scan and no text shards)")
     else:
         manifest = build_manifest()
         if not write_json_idempotent(MANIFEST_JSON, manifest):
